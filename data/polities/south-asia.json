@@ -1,0 +1,3940 @@
+[
+  {
+    "id": "indus-civilization",
+    "name": {
+      "ja": "インダス文明",
+      "en": "Indus Valley Civilization"
+    },
+    "basemap_names": [
+      "Indus valley civilization"
+    ],
+    "periods": [
+      {
+        "from": -2600,
+        "to": -1800,
+        "government": {
+          "ja": "都市国家群（支配体制不詳）",
+          "en": "Urban centres (political structure unknown)"
+        },
+        "capital": {
+          "ja": "モエンジョ＝ダーロ・ハラッパー",
+          "en": "Mohenjo-daro / Harappa"
+        },
+        "religion": {
+          "ja": "不詳（自然神・動物崇拝）",
+          "en": "Unknown (fertility and animal cults)"
+        },
+        "summary": {
+          "ja": "前2600年頃からインダス川流域に成立した青銅器文明。モエンジョ＝ダーロやハラッパーなど計画的な都市が築かれ、焼煉瓦の建物や排水施設、未解読のインダス文字を刻んだ印章が知られる。前1800年頃に衰退し、その原因は環境変化など諸説ある。",
+          "en": "A Bronze Age civilization that arose along the Indus around 2600 BC. Planned cities such as Mohenjo-daro and Harappa had baked-brick buildings, drainage systems and seals bearing the undeciphered Indus script. It declined around 1800 BC for reasons still debated, including environmental change."
+        },
+        "rulers": []
+      }
+    ],
+    "wiki": {
+      "ja": "インダス文明",
+      "en": "Indus Valley Civilisation"
+    }
+  },
+  {
+    "id": "maurya-empire",
+    "name": {
+      "ja": "マガダ国・マウリヤ朝",
+      "en": "Magadha and the Maurya Empire"
+    },
+    "basemap_names": [
+      "Magadha",
+      "Mauryan Empire"
+    ],
+    "periods": [
+      {
+        "from": -600,
+        "to": -317,
+        "government": {
+          "ja": "王政（十六大国の一）",
+          "en": "Monarchy (one of the sixteen Mahajanapadas)"
+        },
+        "capital": {
+          "ja": "ラージャグリハ→パータリプトラ",
+          "en": "Rajagriha, later Pataliputra"
+        },
+        "religion": {
+          "ja": "バラモン教・仏教・ジャイナ教",
+          "en": "Brahmanism, Buddhism, Jainism"
+        },
+        "summary": {
+          "ja": "ガンジス川中流域に興ったマガダ国は、前6世紀以降コーサラ国などを圧倒して十六大国の中で最強となった。仏教やジャイナ教はこの地で生まれ、都ラージャグリハや後のパータリプトラが栄えた。前4世紀のナンダ朝のもとで広大な領域を支配した。",
+          "en": "Magadha, in the middle Ganges valley, overcame Kosala and other rivals from the 6th century BC to become the strongest of the sixteen great states. Buddhism and Jainism arose in this region; Rajagriha and later Pataliputra flourished as its capitals. Under the Nanda dynasty in the 4th century BC it ruled a wide territory."
+        },
+        "rulers": [
+          {
+            "from": -543,
+            "to": -491,
+            "name": {
+              "ja": "ビンビサーラ",
+              "en": "Bimbisara"
+            }
+          },
+          {
+            "from": -491,
+            "to": -461,
+            "name": {
+              "ja": "アジャータシャトル",
+              "en": "Ajatashatru"
+            }
+          },
+          {
+            "from": -345,
+            "to": -321,
+            "name": {
+              "ja": "マハーパドマ＝ナンダ",
+              "en": "Mahapadma Nanda"
+            }
+          }
+        ]
+      },
+      {
+        "from": -317,
+        "to": -180,
+        "government": {
+          "ja": "専制王政（中央集権的官僚制）",
+          "en": "Centralised monarchy"
+        },
+        "capital": {
+          "ja": "パータリプトラ",
+          "en": "Pataliputra"
+        },
+        "religion": {
+          "ja": "仏教（アショーカ王の保護）・バラモン教",
+          "en": "Buddhism (patronised by Ashoka), Brahmanism"
+        },
+        "summary": {
+          "ja": "アレクサンドロスの侵入後、チャンドラグプタがナンダ朝を倒してインド最初の統一王朝を建てた。第3代アショーカ王はカリンガ征服の後に仏教に帰依し、ダルマ（法）による統治を磨崖碑・石柱碑に刻み、仏典結集やセイロン布教を行った。王の死後、帝国は急速に衰え前180年頃に滅んだ。",
+          "en": "After Alexander's invasion, Chandragupta overthrew the Nandas and founded India's first unified empire. The third ruler, Ashoka, turned to Buddhism after conquering Kalinga, proclaimed rule by dharma in rock and pillar edicts, and sent missions to Ceylon. The empire declined rapidly after his death and fell around 180 BC."
+        },
+        "rulers": [
+          {
+            "from": -317,
+            "to": -296,
+            "name": {
+              "ja": "チャンドラグプタ",
+              "en": "Chandragupta Maurya"
+            }
+          },
+          {
+            "from": -296,
+            "to": -268,
+            "name": {
+              "ja": "ビンドゥサーラ",
+              "en": "Bindusara"
+            }
+          },
+          {
+            "from": -268,
+            "to": -232,
+            "name": {
+              "ja": "アショーカ王",
+              "en": "Ashoka"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "マウリヤ朝",
+      "en": "Maurya Empire"
+    }
+  },
+  {
+    "id": "kushan-empire",
+    "name": {
+      "ja": "クシャーナ朝",
+      "en": "Kushan Empire"
+    },
+    "basemap_names": [
+      "Kushan Empire",
+      "Kushan Principalities"
+    ],
+    "periods": [
+      {
+        "from": 30,
+        "to": 375,
+        "government": {
+          "ja": "王政（イラン系王朝）",
+          "en": "Monarchy (of Iranian-Yuezhi origin)"
+        },
+        "capital": {
+          "ja": "プルシャプラ",
+          "en": "Purushapura (Peshawar)"
+        },
+        "religion": {
+          "ja": "仏教（大乗）・ゾロアスター教など",
+          "en": "Buddhism (Mahayana), Zoroastrianism and others"
+        },
+        "summary": {
+          "ja": "バクトリアから進出したイラン系の王朝で、1世紀にガンダーラ地方を中心に北インドから中央アジアに及ぶ領域を支配した。2世紀のカニシカ王の時代が最盛期で、仏教を保護し、ガンダーラ美術や大乗仏教が栄え、ローマとの交易も盛んだった。3世紀以降ササン朝の圧迫を受けて衰えた。",
+          "en": "An Iranian-Yuezhi dynasty that moved from Bactria into Gandhara and by the 1st century ruled from Central Asia across northern India. Under Kanishka in the 2nd century it reached its height, patronising Buddhism; Gandharan art and Mahayana Buddhism flourished and trade with Rome prospered. From the 3rd century it declined under Sasanian pressure."
+        },
+        "rulers": [
+          {
+            "from": 30,
+            "to": 80,
+            "name": {
+              "ja": "クジュラ＝カドフィセス",
+              "en": "Kujula Kadphises"
+            }
+          },
+          {
+            "from": 127,
+            "to": 150,
+            "name": {
+              "ja": "カニシカ王",
+              "en": "Kanishka"
+            }
+          },
+          {
+            "from": 150,
+            "to": 190,
+            "name": {
+              "ja": "フヴィシュカ",
+              "en": "Huvishka"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "クシャーナ朝",
+      "en": "Kushan Empire"
+    }
+  },
+  {
+    "id": "satavahana",
+    "name": {
+      "ja": "サータヴァーハナ朝",
+      "en": "Satavahana dynasty"
+    },
+    "basemap_names": [
+      "Satavahanihara"
+    ],
+    "periods": [
+      {
+        "from": -100,
+        "to": 225,
+        "government": {
+          "ja": "王政",
+          "en": "Monarchy"
+        },
+        "capital": {
+          "ja": "プラティシュターナ",
+          "en": "Pratishthana (Paithan)"
+        },
+        "religion": {
+          "ja": "バラモン教・仏教",
+          "en": "Brahmanism and Buddhism"
+        },
+        "summary": {
+          "ja": "前1世紀頃からデカン高原を支配したドラヴィダ系の王朝。ローマとの季節風貿易で栄え、西海岸の港市から香辛料や綿布を輸出した。バラモン教を重んじる一方で仏教僧院も保護し、北インドのアーリヤ文化が南インドに広まる経路となった。3世紀に分裂して衰退した。",
+          "en": "A dynasty that ruled the Deccan from around the 1st century BC. It prospered on monsoon trade with Rome, exporting spices and cotton through west-coast ports. While honouring Brahmanism it also patronised Buddhist monasteries, and it served as a channel through which Aryan culture spread to the south. It broke up in the 3rd century."
+        },
+        "rulers": [
+          {
+            "from": -100,
+            "to": -80,
+            "name": {
+              "ja": "シムカ",
+              "en": "Simuka"
+            }
+          },
+          {
+            "from": 106,
+            "to": 130,
+            "name": {
+              "ja": "ガウタミープトラ＝シャータカルニ",
+              "en": "Gautamiputra Satakarni"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "サータヴァーハナ朝",
+      "en": "Satavahana dynasty"
+    }
+  },
+  {
+    "id": "gupta-empire",
+    "name": {
+      "ja": "グプタ朝",
+      "en": "Gupta Empire"
+    },
+    "basemap_names": [
+      "Gupta Empire"
+    ],
+    "periods": [
+      {
+        "from": 320,
+        "to": 550,
+        "government": {
+          "ja": "王政（地方分権的）",
+          "en": "Monarchy with regional feudatories"
+        },
+        "capital": {
+          "ja": "パータリプトラ",
+          "en": "Pataliputra"
+        },
+        "religion": {
+          "ja": "ヒンドゥー教（仏教も共存）",
+          "en": "Hinduism (Buddhism coexisting)"
+        },
+        "summary": {
+          "ja": "4世紀にチャンドラグプタ1世がパータリプトラを都に建て、チャンドラグプタ2世の時代に北インドを統一して最盛期を迎えた。ヒンドゥー教が社会に定着し、サンスクリット文学（カーリダーサ）、ゼロの概念、アジャンター石窟のグプタ様式美術などインド古典文化が完成した。5世紀後半からエフタルの侵入で衰え、6世紀半ばに滅んだ。",
+          "en": "Founded by Chandragupta I in the 4th century with Pataliputra as capital, the empire reached its height under Chandragupta II, who unified northern India. Hinduism took root in society, and classical Indian culture matured: Sanskrit literature (Kalidasa), the concept of zero and Gupta-style art at Ajanta. Hephthalite invasions from the late 5th century weakened it, and it fell in the mid-6th century."
+        },
+        "rulers": [
+          {
+            "from": 320,
+            "to": 335,
+            "name": {
+              "ja": "チャンドラグプタ1世",
+              "en": "Chandragupta I"
+            }
+          },
+          {
+            "from": 335,
+            "to": 375,
+            "name": {
+              "ja": "サムドラグプタ",
+              "en": "Samudragupta"
+            }
+          },
+          {
+            "from": 375,
+            "to": 415,
+            "name": {
+              "ja": "チャンドラグプタ2世",
+              "en": "Chandragupta II"
+            }
+          },
+          {
+            "from": 415,
+            "to": 455,
+            "name": {
+              "ja": "クマーラグプタ1世",
+              "en": "Kumaragupta I"
+            }
+          },
+          {
+            "from": 455,
+            "to": 467,
+            "name": {
+              "ja": "スカンダグプタ",
+              "en": "Skandagupta"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "グプタ朝",
+      "en": "Gupta Empire"
+    }
+  },
+  {
+    "id": "vardhana",
+    "name": {
+      "ja": "ヴァルダナ朝",
+      "en": "Vardhana dynasty"
+    },
+    "basemap_names": [
+      "Kanauj"
+    ],
+    "periods": [
+      {
+        "from": 606,
+        "to": 647,
+        "government": {
+          "ja": "王政",
+          "en": "Monarchy"
+        },
+        "capital": {
+          "ja": "カナウジ",
+          "en": "Kanauj"
+        },
+        "religion": {
+          "ja": "仏教・ヒンドゥー教",
+          "en": "Buddhism and Hinduism"
+        },
+        "summary": {
+          "ja": "7世紀初めにハルシャ王がカナウジを都として北インドの大部分を統一した王朝。王は仏教を厚く保護し、唐の玄奘がナーランダー僧院に学んだのもこの時代である。王の死後まもなく王国は分裂し、北インドはラージプート諸勢力が割拠する時代に入った。",
+          "en": "A dynasty under which Harsha unified most of northern India from Kanauj in the early 7th century. Harsha was a generous patron of Buddhism, and the Chinese monk Xuanzang studied at Nalanda during his reign. Soon after his death the kingdom broke apart, and northern India entered an age of competing Rajput powers."
+        },
+        "rulers": [
+          {
+            "from": 606,
+            "to": 647,
+            "name": {
+              "ja": "ハルシャ王",
+              "en": "Harsha"
+            },
+            "person": "harsha"
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "ヴァルダナ朝",
+      "en": "Pushyabhuti dynasty"
+    }
+  },
+  {
+    "id": "pallava",
+    "name": {
+      "ja": "パッラヴァ朝",
+      "en": "Pallava dynasty"
+    },
+    "basemap_names": [
+      "Pallava",
+      "Pallava state",
+      "Pallavas"
+    ],
+    "periods": [
+      {
+        "from": 300,
+        "to": 897,
+        "government": {
+          "ja": "王政",
+          "en": "Monarchy"
+        },
+        "capital": {
+          "ja": "カーンチープラム",
+          "en": "Kanchipuram"
+        },
+        "religion": {
+          "ja": "ヒンドゥー教（シヴァ・ヴィシュヌ信仰）",
+          "en": "Hinduism (Shaiva and Vaishnava)"
+        },
+        "summary": {
+          "ja": "4世紀頃から南インド東海岸のカーンチープラムを都に栄えたドラヴィダ系の王朝。ヒンドゥー教を保護し、マハーバリプラムの石彫寺院など南インド建築の原型を生み出した。東南アジアとの海上交易でも栄えたが、9世紀末にチョーラ朝に滅ぼされた。",
+          "en": "A Dravidian dynasty that flourished from about the 4th century with its capital at Kanchipuram on the southeast coast. It patronised Hinduism and created prototypes of South Indian architecture such as the rock-cut temples of Mahabalipuram, while prospering through maritime trade with Southeast Asia. It was destroyed by the Cholas at the end of the 9th century."
+        },
+        "rulers": [
+          {
+            "from": 590,
+            "to": 630,
+            "name": {
+              "ja": "マヘーンドラヴァルマン1世",
+              "en": "Mahendravarman I"
+            }
+          },
+          {
+            "from": 630,
+            "to": 668,
+            "name": {
+              "ja": "ナラシンハヴァルマン1世",
+              "en": "Narasimhavarman I"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "パッラヴァ朝",
+      "en": "Pallava dynasty"
+    }
+  },
+  {
+    "id": "chalukya",
+    "name": {
+      "ja": "チャールキヤ朝・ラーシュトラクータ朝",
+      "en": "Chalukya and Rashtrakuta dynasties"
+    },
+    "basemap_names": [
+      "Chalukyas",
+      "Chalukya Empire",
+      "Western Chalukyas",
+      "Rashtrakuta",
+      "Rashtrakuta state"
+    ],
+    "periods": [
+      {
+        "from": 543,
+        "to": 753,
+        "government": {
+          "ja": "王政",
+          "en": "Monarchy"
+        },
+        "capital": {
+          "ja": "ヴァーターピ（バーダーミ）",
+          "en": "Vatapi (Badami)"
+        },
+        "religion": {
+          "ja": "ヒンドゥー教",
+          "en": "Hinduism"
+        },
+        "summary": {
+          "ja": "6世紀半ばにデカン西部のヴァーターピを都として興った王朝。7世紀のプラケーシン2世はハルシャ王の南進を撃退し、デカン一帯に覇を唱えた。パッラヴァ朝と抗争を繰り返し、8世紀半ばに家臣のラーシュトラクータ朝に取って代わられた。",
+          "en": "A dynasty established in the mid-6th century at Vatapi in the western Deccan. Pulakeshin II repelled Harsha's southward advance in the 7th century and dominated the Deccan. After repeated wars with the Pallavas it was supplanted in the mid-8th century by its feudatory, the Rashtrakutas."
+        },
+        "rulers": [
+          {
+            "from": 543,
+            "to": 566,
+            "name": {
+              "ja": "プラケーシン1世",
+              "en": "Pulakeshin I"
+            }
+          },
+          {
+            "from": 610,
+            "to": 642,
+            "name": {
+              "ja": "プラケーシン2世",
+              "en": "Pulakeshin II"
+            }
+          }
+        ]
+      },
+      {
+        "from": 753,
+        "to": 973,
+        "government": {
+          "ja": "王政",
+          "en": "Monarchy"
+        },
+        "capital": {
+          "ja": "マーニヤケータ",
+          "en": "Manyakheta"
+        },
+        "religion": {
+          "ja": "ヒンドゥー教・ジャイナ教",
+          "en": "Hinduism and Jainism"
+        },
+        "summary": {
+          "ja": "チャールキヤ朝を倒したラーシュトラクータ朝はデカンを支配し、北インドのプラティーハーラ朝・パーラ朝とカナウジをめぐって争った。エローラのカイラーサナータ寺院を造営したことで知られる。10世紀後半、後期チャールキヤ朝に倒された。",
+          "en": "The Rashtrakutas, who overthrew the Chalukyas, ruled the Deccan and contested Kanauj with the Pratiharas and Palas of the north. They are famed for the Kailasanatha temple at Ellora. In the late 10th century they were overthrown by the Later Chalukyas."
+        },
+        "rulers": [
+          {
+            "from": 753,
+            "to": 756,
+            "name": {
+              "ja": "ダンティドゥルガ",
+              "en": "Dantidurga"
+            }
+          },
+          {
+            "from": 756,
+            "to": 774,
+            "name": {
+              "ja": "クリシュナ1世",
+              "en": "Krishna I"
+            }
+          },
+          {
+            "from": 814,
+            "to": 878,
+            "name": {
+              "ja": "アモーガヴァルシャ1世",
+              "en": "Amoghavarsha I"
+            }
+          }
+        ]
+      },
+      {
+        "from": 973,
+        "to": 1189,
+        "government": {
+          "ja": "王政",
+          "en": "Monarchy"
+        },
+        "capital": {
+          "ja": "カリヤーニ",
+          "en": "Kalyani"
+        },
+        "religion": {
+          "ja": "ヒンドゥー教",
+          "en": "Hinduism"
+        },
+        "summary": {
+          "ja": "カリヤーニを都とする後期（西）チャールキヤ朝がラーシュトラクータ朝を倒してデカンを回復し、南のチョーラ朝と領土をめぐって長く抗争した。12世紀末に王国は分裂し、ホイサラ朝やヤーダヴァ朝、カーカティーヤ朝などの地方勢力に取って代わられた。",
+          "en": "The Later (Western) Chalukyas, based at Kalyani, regained the Deccan and fought a long contest with the Cholas to the south. At the end of the 12th century their realm fragmented and was replaced by regional powers such as the Hoysalas and Yadavas."
+        },
+        "rulers": [
+          {
+            "from": 973,
+            "to": 997,
+            "name": {
+              "ja": "タイラ2世",
+              "en": "Tailapa II"
+            }
+          },
+          {
+            "from": 1076,
+            "to": 1126,
+            "name": {
+              "ja": "ヴィクラマーディティヤ6世",
+              "en": "Vikramaditya VI"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "チャールキヤ朝",
+      "en": "Chalukya dynasty"
+    }
+  },
+  {
+    "id": "chola",
+    "name": {
+      "ja": "チョーラ朝",
+      "en": "Chola dynasty"
+    },
+    "basemap_names": [
+      "Chola",
+      "Chola Empire",
+      "Cholas"
+    ],
+    "periods": [
+      {
+        "from": -300,
+        "to": 848,
+        "government": {
+          "ja": "王政（タミル三王国の一）",
+          "en": "Monarchy (one of the three Tamil kingdoms)"
+        },
+        "capital": {
+          "ja": "ウライユール",
+          "en": "Uraiyur"
+        },
+        "religion": {
+          "ja": "ヒンドゥー教",
+          "en": "Hinduism"
+        },
+        "summary": {
+          "ja": "前3世紀のアショーカ王碑文にも名が見える、南インドのタミル人の古い王国。チェーラ・パーンディヤとともに三王国として並び立ち、ローマや東南アジアとの海上交易で栄えた。パッラヴァ朝の台頭後は長く従属的立場にあった。",
+          "en": "An ancient Tamil kingdom of South India, already named in Ashoka's edicts of the 3rd century BC. Together with the Cheras and Pandyas it formed the three Tamil kingdoms and prospered on maritime trade with Rome and Southeast Asia. After the rise of the Pallavas it long remained subordinate."
+        },
+        "rulers": [
+          {
+            "from": 100,
+            "to": 130,
+            "name": {
+              "ja": "カリカーラ",
+              "en": "Karikala"
+            }
+          }
+        ]
+      },
+      {
+        "from": 848,
+        "to": 1279,
+        "government": {
+          "ja": "王政（中央集権的、村落自治を伴う）",
+          "en": "Centralised monarchy with village assemblies"
+        },
+        "capital": {
+          "ja": "タンジャーヴール",
+          "en": "Thanjavur"
+        },
+        "religion": {
+          "ja": "ヒンドゥー教（シヴァ信仰）",
+          "en": "Hinduism (Shaivism)"
+        },
+        "summary": {
+          "ja": "9世紀にパッラヴァ朝を倒して再興し、10〜11世紀に南インドを統一した。ラージェンドラ1世はセイロンやガンジス川流域に遠征し、シュリーヴィジャヤにも海軍を派遣して東南アジア交易を支配、宋にも使節を送った。タンジャーヴールの大寺院に見られるヒンドゥー教文化が栄えたが、13世紀にパーンディヤ朝に滅ぼされた。",
+          "en": "Revived in the 9th century after overthrowing the Pallavas, the Cholas unified South India in the 10th–11th centuries. Rajendra I campaigned in Ceylon and the Ganges valley, sent a fleet against Srivijaya to control Southeast Asian trade, and dispatched envoys to Song China. Hindu culture flourished, as in the great temple at Thanjavur, but the dynasty fell to the Pandyas in the 13th century."
+        },
+        "rulers": [
+          {
+            "from": 985,
+            "to": 1014,
+            "name": {
+              "ja": "ラージャラージャ1世",
+              "en": "Rajaraja I"
+            }
+          },
+          {
+            "from": 1014,
+            "to": 1044,
+            "name": {
+              "ja": "ラージェンドラ1世",
+              "en": "Rajendra I"
+            },
+            "person": "rajendra-i"
+          },
+          {
+            "from": 1070,
+            "to": 1122,
+            "name": {
+              "ja": "クロットゥンガ1世",
+              "en": "Kulottunga I"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "チョーラ朝",
+      "en": "Chola dynasty"
+    }
+  },
+  {
+    "id": "pandya",
+    "name": {
+      "ja": "パーンディヤ朝",
+      "en": "Pandya dynasty"
+    },
+    "basemap_names": [
+      "Pandyas",
+      "Pandya state",
+      "Cheras"
+    ],
+    "periods": [
+      {
+        "from": -300,
+        "to": 1345,
+        "government": {
+          "ja": "王政",
+          "en": "Monarchy"
+        },
+        "capital": {
+          "ja": "マドゥライ",
+          "en": "Madurai"
+        },
+        "religion": {
+          "ja": "ヒンドゥー教",
+          "en": "Hinduism"
+        },
+        "summary": {
+          "ja": "南インド最南端のマドゥライを都とするタミル人の王国で、チョーラ・チェーラとともに古代以来の三王国の一つ。真珠や香辛料の交易で知られる。チョーラ朝の支配を経て13世紀に再興し、チョーラ朝を滅ぼして南インドを支配したが、14世紀にデリー＝スルタン朝の侵入を受けて衰えた。",
+          "en": "A Tamil kingdom at the southern tip of India with its capital at Madurai, one of the three ancient Tamil kingdoms alongside the Cholas and Cheras, known for its pearl and spice trade. After a period under Chola rule it revived in the 13th century, destroyed the Cholas and dominated South India, but declined after the Delhi Sultanate's invasion in the 14th century."
+        },
+        "rulers": [
+          {
+            "from": 1216,
+            "to": 1238,
+            "name": {
+              "ja": "マーラヴァルマン＝スンダラ＝パーンディヤ",
+              "en": "Maravarman Sundara Pandya"
+            }
+          },
+          {
+            "from": 1251,
+            "to": 1268,
+            "name": {
+              "ja": "ジャターヴァルマン＝スンダラ＝パーンディヤ",
+              "en": "Jatavarman Sundara Pandya"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "パーンディヤ朝",
+      "en": "Pandya dynasty"
+    }
+  },
+  {
+    "id": "rajputs",
+    "name": {
+      "ja": "ラージプート諸王国",
+      "en": "Rajput kingdoms"
+    },
+    "basemap_names": [
+      "Rajput Clans and Small States",
+      "Rajput kingdoms",
+      "Rajputana",
+      "Rajputs",
+      "Rajastan",
+      "Gurjara Pratihara",
+      "Pratiharas",
+      "Chauhans",
+      "Solankis",
+      "Chandellas",
+      "Paramas"
+    ],
+    "periods": [
+      {
+        "from": 730,
+        "to": 1192,
+        "government": {
+          "ja": "諸王国の分立（戦士身分の王侯）",
+          "en": "Competing monarchies of warrior clans"
+        },
+        "capital": {
+          "ja": "カナウジ・アジュメールなど",
+          "en": "Kanauj, Ajmer and others"
+        },
+        "religion": {
+          "ja": "ヒンドゥー教",
+          "en": "Hinduism"
+        },
+        "summary": {
+          "ja": "ヴァルダナ朝の崩壊後、北インドでは「王の子」を意味するラージプートを称する戦士身分の諸勢力が割拠した。8〜10世紀にはプラティーハーラ朝がカナウジを都にパーラ朝・ラーシュトラクータ朝と争い、11世紀以降チャウハーン朝などが台頭した。1192年にゴール朝のムハンマドがタラーインの戦いでラージプート連合軍を破り、北インドのイスラーム化が始まった。",
+          "en": "After the fall of the Vardhanas, northern India was divided among warrior clans styling themselves Rajputs, 'sons of kings'. In the 8th–10th centuries the Gurjara-Pratiharas at Kanauj contended with the Palas and Rashtrakutas, and from the 11th century the Chauhans and others rose. In 1192 Muhammad of Ghur defeated a Rajput coalition at Tarain, opening the Islamic conquest of the north."
+        },
+        "rulers": [
+          {
+            "from": 836,
+            "to": 885,
+            "name": {
+              "ja": "ミヒラ＝ボージャ",
+              "en": "Mihira Bhoja"
+            }
+          },
+          {
+            "from": 1178,
+            "to": 1192,
+            "name": {
+              "ja": "プリトヴィーラージ3世",
+              "en": "Prithviraj III"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1192,
+        "to": 1818,
+        "government": {
+          "ja": "諸侯国（ムガル帝国・イギリスに従属）",
+          "en": "Princely states under Mughal and later British suzerainty"
+        },
+        "capital": {
+          "ja": "チットール・ジャイプルなど",
+          "en": "Chittor, Jaipur and others"
+        },
+        "religion": {
+          "ja": "ヒンドゥー教",
+          "en": "Hinduism"
+        },
+        "summary": {
+          "ja": "ラージャスターン地方のメーワール（チットール）など諸王国はイスラーム王朝の支配下でも自立を保った。アクバルは婚姻政策で多くのラージプート諸侯をムガル帝国に取り込んだが、アウラングゼーブの反ヒンドゥー政策には反乱で応じた。19世紀初めにイギリスの保護下の藩王国となった。",
+          "en": "Kingdoms of Rajasthan such as Mewar (Chittor) preserved their autonomy under Islamic rule. Akbar drew many Rajput princes into the Mughal Empire through marriage alliances, but Aurangzeb's anti-Hindu policies provoked revolts. In the early 19th century they became princely states under British protection."
+        },
+        "rulers": [
+          {
+            "from": 1509,
+            "to": 1527,
+            "name": {
+              "ja": "ラーナー＝サンガ",
+              "en": "Rana Sanga"
+            }
+          },
+          {
+            "from": 1572,
+            "to": 1597,
+            "name": {
+              "ja": "ラーナー＝プラタープ",
+              "en": "Maharana Pratap"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "ラージプート",
+      "en": "Rajput"
+    }
+  },
+  {
+    "id": "pala-dynasty",
+    "name": {
+      "ja": "パーラ朝",
+      "en": "Pala dynasty"
+    },
+    "basemap_names": [
+      "Palas",
+      "Senas"
+    ],
+    "periods": [
+      {
+        "from": 750,
+        "to": 1206,
+        "government": {
+          "ja": "王政",
+          "en": "Monarchy"
+        },
+        "capital": {
+          "ja": "ガウダ・ヴィクラマシーラ周辺",
+          "en": "Gauda (Bengal)"
+        },
+        "religion": {
+          "ja": "仏教（密教）・ヒンドゥー教",
+          "en": "Buddhism (Tantric) and Hinduism"
+        },
+        "summary": {
+          "ja": "8世紀半ばにベンガル・ビハール地方に成立した王朝で、インドで最後まで仏教を保護した。ナーランダー僧院を支援しヴィクラマシーラ僧院を建て、密教がチベットへ伝わる拠点となった。12世紀にヒンドゥー教のセーナ朝に取って代わられ、13世紀初めにイスラーム勢力に征服されて仏教はインドでほぼ消滅した。",
+          "en": "A dynasty founded in the mid-8th century in Bengal and Bihar, the last major patron of Buddhism in India. It supported Nalanda and founded the Vikramashila monastery, from which Tantric Buddhism spread to Tibet. It was replaced in the 12th century by the Hindu Sena dynasty, and after the Islamic conquest in the early 13th century Buddhism virtually disappeared from India."
+        },
+        "rulers": [
+          {
+            "from": 750,
+            "to": 770,
+            "name": {
+              "ja": "ゴーパーラ",
+              "en": "Gopala"
+            }
+          },
+          {
+            "from": 770,
+            "to": 810,
+            "name": {
+              "ja": "ダルマパーラ",
+              "en": "Dharmapala"
+            }
+          },
+          {
+            "from": 810,
+            "to": 850,
+            "name": {
+              "ja": "デーヴァパーラ",
+              "en": "Devapala"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "パーラ朝",
+      "en": "Pala Empire"
+    }
+  },
+  {
+    "id": "delhi-sultanate",
+    "name": {
+      "ja": "デリー＝スルタン朝",
+      "en": "Delhi Sultanate"
+    },
+    "basemap_names": [
+      "Sultanate of Delhi"
+    ],
+    "periods": [
+      {
+        "from": 1206,
+        "to": 1290,
+        "government": {
+          "ja": "スルタン制（奴隷王朝）",
+          "en": "Sultanate (Mamluk / Slave dynasty)"
+        },
+        "capital": {
+          "ja": "デリー",
+          "en": "Delhi"
+        },
+        "religion": {
+          "ja": "イスラーム（スンナ派）",
+          "en": "Sunni Islam"
+        },
+        "summary": {
+          "ja": "ゴール朝の武将でマムルーク（奴隷軍人）出身のアイバクが1206年にデリーを都として自立し、インド最初のイスラーム王朝を開いた。奴隷出身の君主が続いたため奴隷王朝と呼ばれる。クトゥブ＝ミナールが建てられ、イルトゥトミシュはモンゴルの侵入を防いで支配を固めた。",
+          "en": "Aibak, a general of the Ghurids and a mamluk by origin, made himself independent at Delhi in 1206, founding India's first Islamic dynasty. Because its rulers were of slave origin it is called the Slave dynasty. The Qutb Minar was built, and Iltutmish consolidated the state while holding off the Mongols."
+        },
+        "rulers": [
+          {
+            "from": 1206,
+            "to": 1210,
+            "name": {
+              "ja": "アイバク",
+              "en": "Qutb al-Din Aibak"
+            }
+          },
+          {
+            "from": 1211,
+            "to": 1236,
+            "name": {
+              "ja": "イルトゥトミシュ",
+              "en": "Iltutmish"
+            }
+          },
+          {
+            "from": 1266,
+            "to": 1287,
+            "name": {
+              "ja": "バルバン",
+              "en": "Balban"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1290,
+        "to": 1320,
+        "government": {
+          "ja": "スルタン制（ハルジー朝）",
+          "en": "Sultanate (Khalji dynasty)"
+        },
+        "capital": {
+          "ja": "デリー",
+          "en": "Delhi"
+        },
+        "religion": {
+          "ja": "イスラーム（スンナ派）",
+          "en": "Sunni Islam"
+        },
+        "summary": {
+          "ja": "トルコ系ハルジー族の王朝。アラーウッディーンはモンゴルの侵入をたびたび撃退し、デカンや南インドに遠征して領土を一気に拡大した。市場統制や土地測量にもとづく税制改革を行ってスルタン権力を強化したが、王の死後まもなく内紛で倒れた。",
+          "en": "A dynasty of the Turkic Khalji clan. Ala al-Din repelled Mongol invasions and greatly expanded the sultanate by campaigns into the Deccan and South India. He strengthened royal power through market controls and a land-survey-based tax reform."
+        },
+        "rulers": [
+          {
+            "from": 1290,
+            "to": 1296,
+            "name": {
+              "ja": "ジャラールッディーン",
+              "en": "Jalal al-Din Khalji"
+            }
+          },
+          {
+            "from": 1296,
+            "to": 1316,
+            "name": {
+              "ja": "アラーウッディーン",
+              "en": "Ala al-Din Khalji"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1320,
+        "to": 1414,
+        "government": {
+          "ja": "スルタン制（トゥグルク朝）",
+          "en": "Sultanate (Tughluq dynasty)"
+        },
+        "capital": {
+          "ja": "デリー（一時ダウラターバード）",
+          "en": "Delhi (briefly Daulatabad)"
+        },
+        "religion": {
+          "ja": "イスラーム（スンナ派）",
+          "en": "Sunni Islam"
+        },
+        "summary": {
+          "ja": "ムハンマド＝ビン＝トゥグルクの時代に領土は最大となり、イブン＝バットゥータが訪れた。しかし遷都や貨幣改革の失敗で混乱し、南のヴィジャヤナガル王国やバフマニー朝が独立した。1398年のティムールのデリー侵入で決定的に衰退した。",
+          "en": "Under Muhammad bin Tughluq the sultanate reached its greatest extent and was visited by Ibn Battuta, but his failed transfer of the capital and currency reforms caused turmoil, and Vijayanagar and the Bahmani kingdom broke away in the south. Timur's sack of Delhi in 1398 left it fatally weakened."
+        },
+        "rulers": [
+          {
+            "from": 1320,
+            "to": 1325,
+            "name": {
+              "ja": "ギヤースッディーン＝トゥグルク",
+              "en": "Ghiyath al-Din Tughluq"
+            }
+          },
+          {
+            "from": 1325,
+            "to": 1351,
+            "name": {
+              "ja": "ムハンマド＝ビン＝トゥグルク",
+              "en": "Muhammad bin Tughluq"
+            }
+          },
+          {
+            "from": 1351,
+            "to": 1388,
+            "name": {
+              "ja": "フィールーズ＝シャー",
+              "en": "Firuz Shah Tughluq"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1414,
+        "to": 1451,
+        "government": {
+          "ja": "スルタン制（サイイド朝）",
+          "en": "Sultanate (Sayyid dynasty)"
+        },
+        "capital": {
+          "ja": "デリー",
+          "en": "Delhi"
+        },
+        "religion": {
+          "ja": "イスラーム（スンナ派）",
+          "en": "Sunni Islam"
+        },
+        "summary": {
+          "ja": "ティムールの代官として自立したヒズル＝ハーンが開いた王朝で、預言者ムハンマドの子孫（サイイド）を称した。支配はデリー周辺に限られ、ベンガルやグジャラートなど各地の地方政権が自立するなかで、弱体のまま約40年で終わった。",
+          "en": "Founded by Khizr Khan, who had governed as Timur's deputy and claimed descent from the Prophet (sayyid). Its authority was confined to the Delhi region while provincial states asserted independence, and it remained weak throughout."
+        },
+        "rulers": [
+          {
+            "from": 1414,
+            "to": 1421,
+            "name": {
+              "ja": "ヒズル＝ハーン",
+              "en": "Khizr Khan"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1451,
+        "to": 1526,
+        "government": {
+          "ja": "スルタン制（ロディー朝）",
+          "en": "Sultanate (Lodi dynasty)"
+        },
+        "capital": {
+          "ja": "デリー→アーグラ",
+          "en": "Delhi, later Agra"
+        },
+        "religion": {
+          "ja": "イスラーム（スンナ派）",
+          "en": "Sunni Islam"
+        },
+        "summary": {
+          "ja": "デリー＝スルタン朝で唯一のアフガン系王朝。シカンダル＝ロディーはアーグラを建設し北インドで勢力を回復したが、イブラーヒーム＝ロディーが1526年のパーニーパットの戦いでバーブルに敗れ、デリー＝スルタン朝は終わった。",
+          "en": "The only Afghan dynasty of the Delhi Sultanate. Sikandar Lodi founded Agra and restored its power in northern India, but Ibrahim Lodi was defeated by Babur at Panipat in 1526, ending the Delhi Sultanate."
+        },
+        "rulers": [
+          {
+            "from": 1451,
+            "to": 1489,
+            "name": {
+              "ja": "バフルール＝ロディー",
+              "en": "Bahlul Lodi"
+            }
+          },
+          {
+            "from": 1489,
+            "to": 1517,
+            "name": {
+              "ja": "シカンダル＝ロディー",
+              "en": "Sikandar Lodi"
+            }
+          },
+          {
+            "from": 1517,
+            "to": 1526,
+            "name": {
+              "ja": "イブラーヒーム＝ロディー",
+              "en": "Ibrahim Lodi"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "デリー・スルターン朝",
+      "en": "Delhi Sultanate"
+    }
+  },
+  {
+    "id": "vijayanagar",
+    "name": {
+      "ja": "ヴィジャヤナガル王国",
+      "en": "Vijayanagara Empire"
+    },
+    "basemap_names": [
+      "Vijayanagara"
+    ],
+    "periods": [
+      {
+        "from": 1336,
+        "to": 1649,
+        "government": {
+          "ja": "王政（ヒンドゥー王国）",
+          "en": "Hindu monarchy"
+        },
+        "capital": {
+          "ja": "ヴィジャヤナガル",
+          "en": "Vijayanagara (Hampi)"
+        },
+        "religion": {
+          "ja": "ヒンドゥー教",
+          "en": "Hinduism"
+        },
+        "summary": {
+          "ja": "14世紀半ば、デリー＝スルタン朝の支配が弱まった南インドに成立したヒンドゥー王国。北のバフマニー朝などイスラーム勢力に対抗し、ポルトガルとの馬の交易や綿布・香辛料の輸出で繁栄した。クリシュナデーヴァ＝ラーヤの時代が最盛期で、1565年タリコータの戦いでデカン諸王国連合に大敗し衰えた。",
+          "en": "A Hindu kingdom established in South India in the mid-14th century as Delhi's hold weakened. It resisted the Bahmani and other Islamic states to the north and prospered on the horse trade with the Portuguese and exports of cotton and spices. It peaked under Krishnadevaraya, then was crushed by the allied Deccan sultanates at Talikota in 1565 and declined."
+        },
+        "rulers": [
+          {
+            "from": 1336,
+            "to": 1356,
+            "name": {
+              "ja": "ハリハラ1世",
+              "en": "Harihara I"
+            }
+          },
+          {
+            "from": 1509,
+            "to": 1529,
+            "name": {
+              "ja": "クリシュナデーヴァ＝ラーヤ",
+              "en": "Krishnadevaraya"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "ヴィジャヤナガル王国",
+      "en": "Vijayanagara Empire"
+    }
+  },
+  {
+    "id": "bahmani",
+    "name": {
+      "ja": "バフマニー朝・デカン諸王国",
+      "en": "Bahmani Sultanate and the Deccan sultanates"
+    },
+    "basemap_names": [
+      "Bahmani Kingdom",
+      "Ahmadnagar",
+      "Bijapur",
+      "Golkonda",
+      "Golconda",
+      "Bidar",
+      "Berar"
+    ],
+    "periods": [
+      {
+        "from": 1347,
+        "to": 1527,
+        "government": {
+          "ja": "スルタン制",
+          "en": "Sultanate"
+        },
+        "capital": {
+          "ja": "グルバルガ→ビーダル",
+          "en": "Gulbarga, later Bidar"
+        },
+        "religion": {
+          "ja": "イスラーム（シーア派の影響も）",
+          "en": "Islam (with Shia influence)"
+        },
+        "summary": {
+          "ja": "トゥグルク朝のデカン総督が1347年に自立して建てたイスラーム王国。ヴィジャヤナガル王国と対立しつつデカン高原を支配し、イラン系の移住者を多く登用した。15世紀末から各地の総督が独立し、16世紀前半に5つのデカン諸王国に分裂した。",
+          "en": "An Islamic kingdom founded in 1347 when the Tughluq governor of the Deccan declared independence. It ruled the Deccan in rivalry with Vijayanagar and employed many Persian immigrants. From the late 15th century provincial governors broke away, and in the early 16th century it split into five Deccan sultanates."
+        },
+        "rulers": [
+          {
+            "from": 1347,
+            "to": 1358,
+            "name": {
+              "ja": "アラーウッディーン＝バフマン＝シャー",
+              "en": "Ala al-Din Bahman Shah"
+            }
+          },
+          {
+            "from": 1422,
+            "to": 1436,
+            "name": {
+              "ja": "アフマド＝シャー1世",
+              "en": "Ahmad Shah I"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1527,
+        "to": 1687,
+        "government": {
+          "ja": "スルタン制（5王国分立）",
+          "en": "Five independent sultanates"
+        },
+        "capital": {
+          "ja": "ビジャープル・ゴールコンダなど",
+          "en": "Bijapur, Golconda and others"
+        },
+        "religion": {
+          "ja": "イスラーム（シーア派・スンナ派）",
+          "en": "Islam (Shia and Sunni)"
+        },
+        "summary": {
+          "ja": "バフマニー朝の分裂で生まれたアフマドナガル・ビジャープル・ゴールコンダ・ビーダル・ベラールの5王国。1565年に連合してヴィジャヤナガル王国を破った。17世紀にムガル帝国の南進を受け、アウラングゼーブが1686年ビジャープル、1687年ゴールコンダを併合して消滅した。",
+          "en": "The five sultanates of Ahmadnagar, Bijapur, Golconda, Bidar and Berar that emerged from the Bahmani breakup. In 1565 they allied to defeat Vijayanagar at Talikota. In the 17th century they faced Mughal expansion, and Aurangzeb annexed Bijapur in 1686 and Golconda in 1687."
+        },
+        "rulers": [
+          {
+            "from": 1580,
+            "to": 1627,
+            "name": {
+              "ja": "イブラーヒーム＝アーディル＝シャー2世",
+              "en": "Ibrahim Adil Shah II"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "バフマニー朝",
+      "en": "Bahmani Sultanate"
+    }
+  },
+  {
+    "id": "mughal-empire",
+    "name": {
+      "ja": "ムガル帝国",
+      "en": "Mughal Empire"
+    },
+    "basemap_names": [
+      "Mughal Empire"
+    ],
+    "periods": [
+      {
+        "from": 1526,
+        "to": 1605,
+        "government": {
+          "ja": "専制君主政（皇帝、マンサブダール制）",
+          "en": "Imperial monarchy (mansabdari system)"
+        },
+        "capital": {
+          "ja": "アーグラ（一時ファテープル＝シークリー）",
+          "en": "Agra (briefly Fatehpur Sikri)"
+        },
+        "religion": {
+          "ja": "イスラーム（宗教融和政策）",
+          "en": "Islam (policy of religious tolerance)"
+        },
+        "summary": {
+          "ja": "ティムールの子孫バーブルが1526年パーニーパットの戦いでロディー朝を破り建国した。第3代アクバルはアーグラを都に北インドを統一し、マンサブダール制で官僚・軍を組織し、ジズヤを廃止してヒンドゥー教徒との融和を図った。ラージプートとの婚姻や新宗教の試みなど、多民族帝国の基礎を築いた。",
+          "en": "Founded in 1526 when Babur, a descendant of Timur, defeated the Lodis at Panipat. The third emperor Akbar unified northern India from Agra, organised the bureaucracy and army through the mansabdari system, abolished the jizya and sought accommodation with Hindus. Through Rajput marriages and religious experiments he laid the foundations of a multi-ethnic empire."
+        },
+        "rulers": [
+          {
+            "from": 1526,
+            "to": 1530,
+            "name": {
+              "ja": "バーブル",
+              "en": "Babur"
+            }
+          },
+          {
+            "from": 1530,
+            "to": 1556,
+            "name": {
+              "ja": "フマーユーン",
+              "en": "Humayun"
+            }
+          },
+          {
+            "from": 1556,
+            "to": 1605,
+            "name": {
+              "ja": "アクバル",
+              "en": "Akbar"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1605,
+        "to": 1707,
+        "government": {
+          "ja": "専制君主政（皇帝）",
+          "en": "Imperial monarchy"
+        },
+        "capital": {
+          "ja": "アーグラ→デリー",
+          "en": "Agra, later Delhi"
+        },
+        "religion": {
+          "ja": "イスラーム（スンナ派、アウラングゼーブ期に厳格化）",
+          "en": "Sunni Islam (enforced strictly under Aurangzeb)"
+        },
+        "summary": {
+          "ja": "ジャハーンギール、シャー＝ジャハーンの時代に帝国は繁栄し、タージ＝マハルに代表されるインド＝イスラーム文化が花開いた。アウラングゼーブはデカン諸王国を併合して領土を最大にしたが、ジズヤを復活しヒンドゥー教徒を抑圧したため、マラーターやシク教徒、ラージプートの反乱を招いた。",
+          "en": "Under Jahangir and Shah Jahan the empire prospered and Indo-Islamic culture flowered, epitomised by the Taj Mahal. Aurangzeb annexed the Deccan sultanates and brought the empire to its greatest extent, but his restoration of the jizya and repression of Hindus provoked revolts by the Marathas, Sikhs and Rajputs."
+        },
+        "rulers": [
+          {
+            "from": 1605,
+            "to": 1627,
+            "name": {
+              "ja": "ジャハーンギール",
+              "en": "Jahangir"
+            }
+          },
+          {
+            "from": 1628,
+            "to": 1658,
+            "name": {
+              "ja": "シャー＝ジャハーン",
+              "en": "Shah Jahan"
+            }
+          },
+          {
+            "from": 1658,
+            "to": 1707,
+            "name": {
+              "ja": "アウラングゼーブ",
+              "en": "Aurangzeb"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1707,
+        "to": 1858,
+        "government": {
+          "ja": "名目的な帝政（地方勢力・イギリスの台頭）",
+          "en": "Nominal empire overshadowed by regional powers and Britain"
+        },
+        "capital": {
+          "ja": "デリー",
+          "en": "Delhi"
+        },
+        "religion": {
+          "ja": "イスラーム",
+          "en": "Islam"
+        },
+        "summary": {
+          "ja": "アウラングゼーブの死後、帝位継承争いとマラーター同盟の進出、1739年のナーディル＝シャーによるデリー略奪で帝国は急速に衰えた。ベンガルやアワドなどの地方政権が自立し、皇帝の支配はデリー周辺に限られた。1857年のインド大反乱で皇帝が担がれたが、翌年イギリスに廃位され滅亡した。",
+          "en": "After Aurangzeb's death, succession wars, Maratha expansion and Nadir Shah's sack of Delhi in 1739 brought rapid decline. Regional states such as Bengal and Awadh became autonomous and the emperor's authority shrank to the Delhi area. The last emperor was made figurehead of the 1857 Indian Rebellion and deposed by the British the following year."
+        },
+        "rulers": [
+          {
+            "from": 1719,
+            "to": 1748,
+            "name": {
+              "ja": "ムハンマド＝シャー",
+              "en": "Muhammad Shah"
+            }
+          },
+          {
+            "from": 1837,
+            "to": 1858,
+            "name": {
+              "ja": "バハードゥル＝シャー2世",
+              "en": "Bahadur Shah II"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "ムガル帝国",
+      "en": "Mughal Empire"
+    }
+  },
+  {
+    "id": "maratha",
+    "name": {
+      "ja": "マラーター王国（マラーター同盟）",
+      "en": "Maratha Kingdom and Confederacy"
+    },
+    "basemap_names": [
+      "Maratha",
+      "Maratha Confederacy",
+      "Mahratta states"
+    ],
+    "periods": [
+      {
+        "from": 1674,
+        "to": 1720,
+        "government": {
+          "ja": "王政（ヒンドゥー王国）",
+          "en": "Hindu monarchy"
+        },
+        "capital": {
+          "ja": "ラーイガド→サーターラー",
+          "en": "Raigad, later Satara"
+        },
+        "religion": {
+          "ja": "ヒンドゥー教",
+          "en": "Hinduism"
+        },
+        "summary": {
+          "ja": "デカン西部のマラーター人の指導者シヴァージーが、アウラングゼーブの帝国に抵抗して1674年に王として即位し、ヒンドゥー王国を建てた。ゲリラ戦と山城を活用してムガル軍を悩ませ、王の死後も抗戦を続けて帝国衰退の一因となった。",
+          "en": "Shivaji, leader of the Marathas of the western Deccan, resisted Aurangzeb's empire and was crowned king in 1674, founding a Hindu kingdom. Using guerrilla warfare and hill forts he harassed the Mughal armies, and the struggle continued after his death, contributing to the empire's decline."
+        },
+        "rulers": [
+          {
+            "from": 1674,
+            "to": 1680,
+            "name": {
+              "ja": "シヴァージー",
+              "en": "Shivaji"
+            }
+          },
+          {
+            "from": 1680,
+            "to": 1689,
+            "name": {
+              "ja": "サンバージー",
+              "en": "Sambhaji"
+            }
+          },
+          {
+            "from": 1707,
+            "to": 1749,
+            "name": {
+              "ja": "シャーフー",
+              "en": "Shahu"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1720,
+        "to": 1818,
+        "government": {
+          "ja": "宰相（ペーシュワー）主導の諸侯連合",
+          "en": "Confederacy of chiefs led by the Peshwa"
+        },
+        "capital": {
+          "ja": "プネー",
+          "en": "Pune"
+        },
+        "religion": {
+          "ja": "ヒンドゥー教",
+          "en": "Hinduism"
+        },
+        "summary": {
+          "ja": "18世紀には世襲の宰相ペーシュワーが実権を握り、各地の武将が割拠するマラーター同盟として北インドにまで勢力を広げた。1761年の第3次パーニーパットの戦いでアフガン軍に大敗したのち、イギリス東インド会社と3次にわたるマラーター戦争を戦い、1818年に敗れて解体された。",
+          "en": "In the 18th century the hereditary Peshwa held real power and the Marathas, as a confederacy of regional chiefs, extended their reach into northern India. After a crushing defeat by the Afghans at the Third Battle of Panipat in 1761 they fought three wars against the British East India Company and were finally broken up in 1818."
+        },
+        "rulers": [
+          {
+            "from": 1720,
+            "to": 1740,
+            "name": {
+              "ja": "バージー＝ラーオ1世",
+              "en": "Baji Rao I"
+            }
+          },
+          {
+            "from": 1740,
+            "to": 1761,
+            "name": {
+              "ja": "バーラージー＝バージー＝ラーオ",
+              "en": "Balaji Baji Rao"
+            }
+          },
+          {
+            "from": 1796,
+            "to": 1818,
+            "name": {
+              "ja": "バージー＝ラーオ2世",
+              "en": "Baji Rao II"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "マラーター王国",
+      "en": "Maratha Empire"
+    }
+  },
+  {
+    "id": "sikh-kingdom",
+    "name": {
+      "ja": "シク王国",
+      "en": "Sikh Empire"
+    },
+    "basemap_names": [
+      "Sikhs",
+      "Lahore"
+    ],
+    "periods": [
+      {
+        "from": 1799,
+        "to": 1849,
+        "government": {
+          "ja": "王政（マハーラージャ）",
+          "en": "Monarchy (Maharaja)"
+        },
+        "capital": {
+          "ja": "ラホール",
+          "en": "Lahore"
+        },
+        "religion": {
+          "ja": "シク教",
+          "en": "Sikhism"
+        },
+        "summary": {
+          "ja": "16世紀にナーナクが創始したシク教は、ムガル帝国の弾圧のなかで武装教団化した。18世紀末にランジット＝シングがパンジャーブの諸勢力を統一してラホールを都とする王国を建て、カシミールやペシャーワルまで領土を広げた。王の死後は内紛が続き、2度のシク戦争に敗れて1849年イギリスに併合された。",
+          "en": "Sikhism, founded by Nanak in the 16th century, became a militarised community under Mughal persecution. In the late 18th century Ranjit Singh united the Punjab into a kingdom with its capital at Lahore, extending it to Kashmir and Peshawar. After his death internal strife followed, and defeat in two Anglo-Sikh wars led to British annexation in 1849."
+        },
+        "rulers": [
+          {
+            "from": 1799,
+            "to": 1839,
+            "name": {
+              "ja": "ランジット＝シング",
+              "en": "Ranjit Singh"
+            }
+          },
+          {
+            "from": 1843,
+            "to": 1849,
+            "name": {
+              "ja": "ダリープ＝シング",
+              "en": "Duleep Singh"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "シク王国",
+      "en": "Sikh Empire"
+    }
+  },
+  {
+    "id": "british-india",
+    "name": {
+      "ja": "イギリス領インド",
+      "en": "British India"
+    },
+    "basemap_names": [
+      "British East India Company",
+      "British Raj",
+      "Madras",
+      "Circars",
+      "Malabar",
+      "Kanara"
+    ],
+    "periods": [
+      {
+        "from": 1757,
+        "to": 1858,
+        "government": {
+          "ja": "東インド会社による統治",
+          "en": "Rule by the East India Company"
+        },
+        "capital": {
+          "ja": "カルカッタ",
+          "en": "Calcutta"
+        },
+        "religion": {
+          "ja": "ヒンドゥー教・イスラームなど（支配層はキリスト教）",
+          "en": "Hinduism, Islam and others (Christian rulers)"
+        },
+        "summary": {
+          "ja": "1757年プラッシーの戦いでフランス・ベンガル太守軍を破ったイギリス東インド会社は、1765年ベンガルの徴税権を獲得し、マイソール戦争・マラーター戦争・シク戦争を経てインド全域を支配した。ザミンダーリー制などの地税制度や自由貿易によりインド経済は変質し、1857年のインド大反乱の鎮圧後、会社は解散され本国の直接統治に移った。",
+          "en": "After defeating the Nawab of Bengal and the French at Plassey in 1757, the East India Company obtained the right to collect Bengal's revenue in 1765 and, through the Mysore, Maratha and Sikh wars, came to rule all of India. Land-revenue systems such as the zamindari settlement and free trade transformed the Indian economy. After the Indian Rebellion of 1857 was crushed, the Company was dissolved and the Crown took direct control."
+        },
+        "rulers": [
+          {
+            "from": 1757,
+            "to": 1767,
+            "name": {
+              "ja": "クライヴ",
+              "en": "Robert Clive"
+            }
+          },
+          {
+            "from": 1773,
+            "to": 1785,
+            "name": {
+              "ja": "ヘースティングズ",
+              "en": "Warren Hastings"
+            }
+          },
+          {
+            "from": 1848,
+            "to": 1856,
+            "name": {
+              "ja": "ダルハウジー",
+              "en": "Lord Dalhousie"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1858,
+        "to": 1947,
+        "government": {
+          "ja": "イギリス本国の直接統治（インド帝国）",
+          "en": "Direct Crown rule (the British Raj)"
+        },
+        "capital": {
+          "ja": "カルカッタ→デリー（1911年〜）",
+          "en": "Calcutta, then Delhi (from 1911)"
+        },
+        "religion": {
+          "ja": "ヒンドゥー教・イスラームなど",
+          "en": "Hinduism, Islam and others"
+        },
+        "summary": {
+          "ja": "1877年ヴィクトリア女王がインド皇帝に即位しインド帝国が成立した。1885年に発足したインド国民会議は、1905年のベンガル分割令を機に反英運動に転じ、ガンディーの非暴力・不服従運動や全インド＝ムスリム連盟の活動が展開された。第二次世界大戦後の1947年、インドとパキスタンに分離して独立した。",
+          "en": "In 1877 Queen Victoria became Empress of India. The Indian National Congress, founded in 1885, turned to anti-British agitation after the 1905 partition of Bengal, and Gandhi's non-violent non-cooperation movement and the All-India Muslim League followed. After the Second World War, in 1947, British India was partitioned into independent India and Pakistan."
+        },
+        "rulers": [
+          {
+            "from": 1899,
+            "to": 1905,
+            "name": {
+              "ja": "カーゾン",
+              "en": "Lord Curzon"
+            }
+          },
+          {
+            "from": 1947,
+            "to": 1947,
+            "name": {
+              "ja": "マウントバッテン",
+              "en": "Lord Mountbatten"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "イギリス領インド帝国",
+      "en": "British Raj"
+    }
+  },
+  {
+    "id": "india",
+    "name": {
+      "ja": "インド",
+      "en": "India"
+    },
+    "basemap_names": [
+      "India"
+    ],
+    "periods": [
+      {
+        "from": 1947,
+        "to": 2026,
+        "government": {
+          "ja": "連邦共和制（議院内閣制）",
+          "en": "Federal parliamentary republic"
+        },
+        "capital": {
+          "ja": "ニューデリー",
+          "en": "New Delhi"
+        },
+        "religion": {
+          "ja": "ヒンドゥー教（世俗国家、イスラームなど多宗教）",
+          "en": "Hinduism (secular state with Muslim and other minorities)"
+        },
+        "summary": {
+          "ja": "1947年にイギリスから独立し、1950年に共和国憲法を制定した。初代首相ネルーは非同盟外交と計画経済を進め、パキスタンとはカシミール問題をめぐって対立を続けた。1990年代の経済自由化以後は高成長を遂げ、世界最大の人口を持つ民主主義国となっている。",
+          "en": "Independent from Britain in 1947, India adopted a republican constitution in 1950. Its first prime minister Nehru pursued non-alignment and a planned economy, while conflict with Pakistan over Kashmir persisted. Since economic liberalisation in the 1990s it has grown rapidly and is the world's most populous democracy."
+        },
+        "rulers": [
+          {
+            "from": 1947,
+            "to": 1964,
+            "name": {
+              "ja": "ネルー",
+              "en": "Jawaharlal Nehru"
+            }
+          },
+          {
+            "from": 1966,
+            "to": 1977,
+            "name": {
+              "ja": "インディラ＝ガンディー",
+              "en": "Indira Gandhi"
+            }
+          },
+          {
+            "from": 1984,
+            "to": 1989,
+            "name": {
+              "ja": "ラジブ＝ガンディー",
+              "en": "Rajiv Gandhi"
+            }
+          },
+          {
+            "from": 2014,
+            "to": 2026,
+            "name": {
+              "ja": "モディ",
+              "en": "Narendra Modi"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "インド",
+      "en": "India"
+    }
+  },
+  {
+    "id": "pakistan",
+    "name": {
+      "ja": "パキスタン",
+      "en": "Pakistan"
+    },
+    "basemap_names": [
+      "Pakistan"
+    ],
+    "periods": [
+      {
+        "from": 1947,
+        "to": 2026,
+        "government": {
+          "ja": "イスラーム共和制（軍政期を含む）",
+          "en": "Islamic republic (with periods of military rule)"
+        },
+        "capital": {
+          "ja": "カラチ→イスラマバード",
+          "en": "Karachi, later Islamabad"
+        },
+        "religion": {
+          "ja": "イスラーム（スンナ派多数）",
+          "en": "Islam (predominantly Sunni)"
+        },
+        "summary": {
+          "ja": "全インド＝ムスリム連盟のジンナーの指導で、1947年イギリス領インドからムスリムの国家として分離独立した。東西に分かれた国土のうち東パキスタンは1971年にバングラデシュとして独立。インドとカシミールをめぐって対立を続け、たびたび軍事政権を経験し、1998年に核実験を行った。",
+          "en": "Founded in 1947 as a Muslim state partitioned from British India under the leadership of Jinnah and the Muslim League. Its eastern wing seceded as Bangladesh in 1971. It has remained in conflict with India over Kashmir, experienced repeated military governments and tested nuclear weapons in 1998."
+        },
+        "rulers": [
+          {
+            "from": 1947,
+            "to": 1948,
+            "name": {
+              "ja": "ジンナー",
+              "en": "Muhammad Ali Jinnah"
+            }
+          },
+          {
+            "from": 1958,
+            "to": 1969,
+            "name": {
+              "ja": "アユーブ＝ハーン",
+              "en": "Ayub Khan"
+            }
+          },
+          {
+            "from": 1971,
+            "to": 1977,
+            "name": {
+              "ja": "ブットー",
+              "en": "Zulfikar Ali Bhutto"
+            }
+          },
+          {
+            "from": 1977,
+            "to": 1988,
+            "name": {
+              "ja": "ジア＝ウル＝ハク",
+              "en": "Zia-ul-Haq"
+            }
+          },
+          {
+            "from": 1999,
+            "to": 2008,
+            "name": {
+              "ja": "ムシャラフ",
+              "en": "Pervez Musharraf"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "パキスタン",
+      "en": "Pakistan"
+    }
+  },
+  {
+    "id": "bangladesh",
+    "name": {
+      "ja": "バングラデシュ",
+      "en": "Bangladesh"
+    },
+    "basemap_names": [
+      "Bangladesh"
+    ],
+    "periods": [
+      {
+        "from": 1971,
+        "to": 2026,
+        "government": {
+          "ja": "共和制（議院内閣制）",
+          "en": "Parliamentary republic"
+        },
+        "capital": {
+          "ja": "ダッカ",
+          "en": "Dhaka"
+        },
+        "religion": {
+          "ja": "イスラーム（スンナ派多数）",
+          "en": "Islam (predominantly Sunni)"
+        },
+        "summary": {
+          "ja": "東パキスタンはベンガル語とベンガル人の自治を求めて西パキスタンと対立し、1971年のインド＝パキスタン戦争を経てバングラデシュとして独立した。独立後はクーデタや政治的混乱が続いたが、近年は縫製業などによる経済成長が著しい。",
+          "en": "East Pakistan, demanding recognition of the Bengali language and autonomy, clashed with West Pakistan and became independent as Bangladesh after the 1971 Indo-Pakistani War. Coups and political turmoil followed independence, but in recent decades the economy has grown rapidly on industries such as garment manufacturing."
+        },
+        "rulers": [
+          {
+            "from": 1971,
+            "to": 1975,
+            "name": {
+              "ja": "ムジブル＝ラフマン",
+              "en": "Sheikh Mujibur Rahman"
+            }
+          },
+          {
+            "from": 2009,
+            "to": 2024,
+            "name": {
+              "ja": "シェイク＝ハシナ",
+              "en": "Sheikh Hasina"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "バングラデシュ",
+      "en": "Bangladesh"
+    }
+  },
+  {
+    "id": "sri-lanka",
+    "name": {
+      "ja": "スリランカ（セイロン）",
+      "en": "Sri Lanka (Ceylon)"
+    },
+    "basemap_names": [
+      "Simhala",
+      "Sinhalese kingdoms",
+      "Sinhalese kingdom",
+      "Lambakannas",
+      "Kandy",
+      "Saylan",
+      "Ceylon",
+      "Ceylon (Dutch)",
+      "Sri Lanka"
+    ],
+    "periods": [
+      {
+        "from": -377,
+        "to": 1017,
+        "government": {
+          "ja": "王政（シンハラ王国）",
+          "en": "Sinhalese monarchy"
+        },
+        "capital": {
+          "ja": "アヌラーダプラ",
+          "en": "Anuradhapura"
+        },
+        "religion": {
+          "ja": "上座部仏教",
+          "en": "Theravada Buddhism"
+        },
+        "summary": {
+          "ja": "北インドから渡来したシンハラ人がアヌラーダプラを都に王国を築いた。前3世紀にアショーカ王の王子マヒンダが仏教を伝え、以後セイロンは上座部仏教の中心として東南アジアへの布教拠点となった。南インドのタミル勢力の侵入をたびたび受け、11世紀初めにチョーラ朝に征服された。",
+          "en": "The Sinhalese, who came from northern India, built a kingdom centred on Anuradhapura. In the 3rd century BC Ashoka's son Mahinda brought Buddhism, and Ceylon became the centre of Theravada Buddhism and a base for its spread to Southeast Asia. Repeatedly invaded by Tamil powers from South India, it was conquered by the Cholas in the early 11th century."
+        },
+        "rulers": [
+          {
+            "from": -247,
+            "to": -207,
+            "name": {
+              "ja": "デーヴァーナンピヤ＝ティッサ",
+              "en": "Devanampiya Tissa"
+            }
+          },
+          {
+            "from": -161,
+            "to": -137,
+            "name": {
+              "ja": "ドゥッタガーマニー",
+              "en": "Dutugamunu"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1017,
+        "to": 1597,
+        "government": {
+          "ja": "王政（分立期を含む）",
+          "en": "Monarchy (with periods of division)"
+        },
+        "capital": {
+          "ja": "ポロンナルワ→コーッテ",
+          "en": "Polonnaruwa, later Kotte"
+        },
+        "religion": {
+          "ja": "上座部仏教",
+          "en": "Theravada Buddhism"
+        },
+        "summary": {
+          "ja": "チョーラ朝の支配を脱した後、ポロンナルワを都に王国が再建され、12世紀のパラークラマバーフ1世のもとで最盛期を迎えた。その後王権は分裂し、南西部のコーッテ王国と内陸のキャンディ王国などに分かれた。16世紀初めにポルトガルが来航し、沿岸部を支配下に置いた。",
+          "en": "After throwing off Chola rule the kingdom was rebuilt at Polonnaruwa and reached its height under Parakramabahu I in the 12th century. Royal power later fragmented into the Kotte kingdom in the southwest, the Kandyan kingdom in the interior and others. The Portuguese arrived in the early 16th century and took control of the coasts."
+        },
+        "rulers": [
+          {
+            "from": 1055,
+            "to": 1110,
+            "name": {
+              "ja": "ヴィジャヤバーフ1世",
+              "en": "Vijayabahu I"
+            }
+          },
+          {
+            "from": 1153,
+            "to": 1186,
+            "name": {
+              "ja": "パラークラマバーフ1世",
+              "en": "Parakramabahu I"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1597,
+        "to": 1948,
+        "government": {
+          "ja": "キャンディ王国とヨーロッパ植民地支配→イギリス直轄植民地",
+          "en": "Kandyan kingdom beside European rule, then British crown colony"
+        },
+        "capital": {
+          "ja": "キャンディ／コロンボ",
+          "en": "Kandy / Colombo"
+        },
+        "religion": {
+          "ja": "上座部仏教・キリスト教",
+          "en": "Theravada Buddhism and Christianity"
+        },
+        "summary": {
+          "ja": "沿岸部はポルトガル、1658年以降はオランダ、1796年以降はイギリスが支配し、内陸のキャンディ王国は独立を保った。1815年イギリスがキャンディ王国を滅ぼして全島を植民地化し、紅茶プランテーションを開いてインドからタミル人労働者を導入した。1948年にイギリス連邦内の自治領として独立した。",
+          "en": "The coasts were ruled by the Portuguese, then the Dutch from 1658 and the British from 1796, while the Kandyan kingdom in the interior remained independent. In 1815 Britain destroyed Kandy and colonised the whole island, establishing tea plantations worked by Tamil labourers brought from India. Ceylon became an independent dominion in 1948."
+        },
+        "rulers": [
+          {
+            "from": 1687,
+            "to": 1707,
+            "name": {
+              "ja": "ヴィマラダルマスーリヤ2世",
+              "en": "Vimaladharmasuriya II"
+            }
+          },
+          {
+            "from": 1798,
+            "to": 1815,
+            "name": {
+              "ja": "シュリー＝ヴィクラマ＝ラージャシンハ",
+              "en": "Sri Vikrama Rajasinha"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1948,
+        "to": 2026,
+        "government": {
+          "ja": "共和制（1972年〜）",
+          "en": "Republic (since 1972)"
+        },
+        "capital": {
+          "ja": "コロンボ（スリ＝ジャヤワルダナプラ＝コッテ）",
+          "en": "Colombo (Sri Jayawardenepura Kotte)"
+        },
+        "religion": {
+          "ja": "上座部仏教（ヒンドゥー教・イスラーム・キリスト教も）",
+          "en": "Theravada Buddhism (with Hindu, Muslim and Christian minorities)"
+        },
+        "summary": {
+          "ja": "1948年セイロンとして独立し、1972年に国名をスリランカと改め共和制に移行した。バンダラナイケ夫人は世界初の女性首相となった。シンハラ人優遇政策に反発したタミル人のLTTEとの内戦が1983年から2009年まで続いた。",
+          "en": "Independent as Ceylon in 1948, the country became the Republic of Sri Lanka in 1972. Sirimavo Bandaranaike was the world's first woman prime minister. Resentment at pro-Sinhalese policies among Tamils led to a civil war with the LTTE that lasted from 1983 to 2009."
+        },
+        "rulers": [
+          {
+            "from": 1960,
+            "to": 1965,
+            "name": {
+              "ja": "バンダラナイケ（シリマヴォ）",
+              "en": "Sirimavo Bandaranaike"
+            }
+          },
+          {
+            "from": 1978,
+            "to": 1989,
+            "name": {
+              "ja": "ジャヤワルダナ",
+              "en": "J. R. Jayewardene"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "スリランカ",
+      "en": "Sri Lanka"
+    }
+  },
+  {
+    "id": "funan",
+    "name": {
+      "ja": "扶南",
+      "en": "Funan"
+    },
+    "basemap_names": [
+      "Funan"
+    ],
+    "periods": [
+      {
+        "from": 50,
+        "to": 627,
+        "government": {
+          "ja": "王政（港市国家）",
+          "en": "Monarchy (port state)"
+        },
+        "capital": {
+          "ja": "ヴィヤーダプラ（外港オケオ）",
+          "en": "Vyadhapura (port of Oc Eo)"
+        },
+        "religion": {
+          "ja": "ヒンドゥー教・仏教",
+          "en": "Hinduism and Buddhism"
+        },
+        "summary": {
+          "ja": "1世紀頃メコン川下流域に成立した東南アジア最古の国家の一つ。外港オケオからはローマの金貨や漢の鏡、インドの神像が出土し、インド洋と南シナ海を結ぶ中継貿易で栄えたことを示す。インド文化を受容してヒンドゥー教や仏教が広まり、中国にも朝貢した。7世紀に真臘に併合された。",
+          "en": "One of the earliest states of Southeast Asia, formed around the 1st century in the lower Mekong. Roman coins, Han mirrors and Indian images excavated at its port of Oc Eo show that it prospered on transit trade between the Indian Ocean and the South China Sea. It adopted Indian culture, including Hinduism and Buddhism, and sent tribute to China. It was absorbed by Chenla in the 7th century."
+        },
+        "rulers": [
+          {
+            "from": 205,
+            "to": 225,
+            "name": {
+              "ja": "范師蔓",
+              "en": "Fan Shiman"
+            }
+          },
+          {
+            "from": 484,
+            "to": 514,
+            "name": {
+              "ja": "ジャヤヴァルマン（闍耶跋摩）",
+              "en": "Jayavarman of Funan"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "扶南",
+      "en": "Funan"
+    }
+  },
+  {
+    "id": "khmer-empire",
+    "name": {
+      "ja": "真臘・アンコール朝（カンボジア）",
+      "en": "Chenla and the Khmer (Angkor) Empire"
+    },
+    "basemap_names": [
+      "Chen-La",
+      "Khmer Empire",
+      "Cambodia"
+    ],
+    "periods": [
+      {
+        "from": 550,
+        "to": 802,
+        "government": {
+          "ja": "王政",
+          "en": "Monarchy"
+        },
+        "capital": {
+          "ja": "イーシャーナプラ（サンボール＝プレイ＝クック）",
+          "en": "Ishanapura (Sambor Prei Kuk)"
+        },
+        "religion": {
+          "ja": "ヒンドゥー教",
+          "en": "Hinduism"
+        },
+        "summary": {
+          "ja": "6世紀にメコン川中流域に興ったクメール人の国家で、中国史料では真臘と呼ばれる。7世紀に扶南を併合してインドシナ半島の中心勢力となったが、8世紀には陸真臘と水真臘に分裂し、水真臘はジャワのシャイレンドラ朝の勢力下に置かれた。",
+          "en": "A Khmer state that arose in the middle Mekong in the 6th century, known in Chinese sources as Chenla. It absorbed Funan in the 7th century, but in the 8th century it split into Land Chenla and Water Chenla, the latter falling under the influence of the Sailendras of Java."
+        },
+        "rulers": [
+          {
+            "from": 616,
+            "to": 635,
+            "name": {
+              "ja": "イーシャーナヴァルマン1世",
+              "en": "Ishanavarman I"
+            }
+          }
+        ]
+      },
+      {
+        "from": 802,
+        "to": 1431,
+        "government": {
+          "ja": "王政（神王思想）",
+          "en": "Monarchy (devaraja kingship)"
+        },
+        "capital": {
+          "ja": "アンコール",
+          "en": "Angkor"
+        },
+        "religion": {
+          "ja": "ヒンドゥー教→大乗仏教→上座部仏教",
+          "en": "Hinduism, then Mahayana and finally Theravada Buddhism"
+        },
+        "summary": {
+          "ja": "802年ジャヤヴァルマン2世が自立してアンコール朝を開き、クメール人の王国はインドシナ半島の大部分を支配した。12世紀のスールヤヴァルマン2世はヒンドゥー教寺院アンコール＝ワットを、ジャヤヴァルマン7世は仏教寺院アンコール＝トムを建設した。14世紀以降タイのアユタヤ朝の攻撃を受け、1431年にアンコールを放棄した。",
+          "en": "Jayavarman II declared independence in 802 and founded the Angkor dynasty, whose Khmer kingdom came to dominate most of mainland Southeast Asia. In the 12th century Suryavarman II built the Hindu temple of Angkor Wat and Jayavarman VII the Buddhist complex of Angkor Thom. From the 14th century it suffered attacks by Ayutthaya and abandoned Angkor in 1431."
+        },
+        "rulers": [
+          {
+            "from": 802,
+            "to": 835,
+            "name": {
+              "ja": "ジャヤヴァルマン2世",
+              "en": "Jayavarman II"
+            }
+          },
+          {
+            "from": 889,
+            "to": 910,
+            "name": {
+              "ja": "ヤショーヴァルマン1世",
+              "en": "Yasovarman I"
+            }
+          },
+          {
+            "from": 1113,
+            "to": 1150,
+            "name": {
+              "ja": "スールヤヴァルマン2世",
+              "en": "Suryavarman II"
+            },
+            "person": "suryavarman-ii"
+          },
+          {
+            "from": 1181,
+            "to": 1218,
+            "name": {
+              "ja": "ジャヤヴァルマン7世",
+              "en": "Jayavarman VII"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1431,
+        "to": 1863,
+        "government": {
+          "ja": "王政（タイ・ベトナムに従属）",
+          "en": "Monarchy under Siamese and Vietnamese pressure"
+        },
+        "capital": {
+          "ja": "プノンペン・ウドン",
+          "en": "Phnom Penh / Oudong"
+        },
+        "religion": {
+          "ja": "上座部仏教",
+          "en": "Theravada Buddhism"
+        },
+        "summary": {
+          "ja": "アンコール放棄後、クメール王国はプノンペン周辺に都を移して縮小した。東のアユタヤ朝と西の阮朝（ベトナム）に挟まれて圧迫を受け、両国に二重に朝貢する従属的な立場に置かれた。1863年、ノロドム王はフランスの保護国となることを受け入れた。",
+          "en": "After abandoning Angkor the Khmer kingdom shrank and moved its capital to the Phnom Penh region. Squeezed between Ayutthaya and the Nguyen of Vietnam, it paid tribute to both. In 1863 it became a French protectorate."
+        },
+        "rulers": [
+          {
+            "from": 1841,
+            "to": 1860,
+            "name": {
+              "ja": "アン＝ドゥオン",
+              "en": "Ang Duong"
+            }
+          },
+          {
+            "from": 1860,
+            "to": 1904,
+            "name": {
+              "ja": "ノロドム",
+              "en": "Norodom"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1953,
+        "to": 2026,
+        "government": {
+          "ja": "王政→共和制・民主カンプチア→立憲王政（1993年〜）",
+          "en": "Monarchy, republic and Democratic Kampuchea, then constitutional monarchy (since 1993)"
+        },
+        "capital": {
+          "ja": "プノンペン",
+          "en": "Phnom Penh"
+        },
+        "religion": {
+          "ja": "上座部仏教",
+          "en": "Theravada Buddhism"
+        },
+        "summary": {
+          "ja": "1953年シハヌークのもとでフランスから独立したが、ベトナム戦争の波及で1970年にクーデタが起き内戦に突入した。1975年に政権を握ったポル＝ポト派は極端な共産主義政策で大量の犠牲者を出し、1979年ベトナム軍の侵攻で倒れた。1991年のパリ和平協定を経て1993年に王政が復活した。",
+          "en": "Independent from France in 1953 under Sihanouk, Cambodia was drawn into the Vietnam War; a coup in 1970 led to civil war. The Pol Pot regime that took power in 1975 caused mass deaths through radical communist policies and was overthrown by a Vietnamese invasion in 1979. After the 1991 Paris accords the monarchy was restored in 1993."
+        },
+        "rulers": [
+          {
+            "from": 1953,
+            "to": 1970,
+            "name": {
+              "ja": "シハヌーク",
+              "en": "Norodom Sihanouk"
+            }
+          },
+          {
+            "from": 1975,
+            "to": 1979,
+            "name": {
+              "ja": "ポル＝ポト",
+              "en": "Pol Pot"
+            }
+          },
+          {
+            "from": 1985,
+            "to": 2023,
+            "name": {
+              "ja": "フン＝セン",
+              "en": "Hun Sen"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "クメール王朝",
+      "en": "Khmer Empire"
+    }
+  },
+  {
+    "id": "champa",
+    "name": {
+      "ja": "チャンパー",
+      "en": "Champa"
+    },
+    "basemap_names": [
+      "Champa",
+      "Champa City States"
+    ],
+    "periods": [
+      {
+        "from": 192,
+        "to": 1471,
+        "government": {
+          "ja": "王政（港市国家連合）",
+          "en": "Monarchy (confederation of port polities)"
+        },
+        "capital": {
+          "ja": "インドラプラ→ヴィジャヤ",
+          "en": "Indrapura, later Vijaya"
+        },
+        "religion": {
+          "ja": "ヒンドゥー教（後にイスラームも）",
+          "en": "Hinduism (later also Islam)"
+        },
+        "summary": {
+          "ja": "2世紀末、後漢の支配から自立したチャム人がベトナム中部に建てた国で、中国史料では林邑・環王・占城と呼ばれた。インド文化を受容しヒンドゥー教を信仰、ミーソン遺跡の寺院群が知られる。海上交易で栄えたが、北の大越と抗争を繰り返し、1471年黎朝に都ヴィジャヤを奪われて衰退した。",
+          "en": "A state founded in central Vietnam by the Cham people, who broke free of Later Han rule at the end of the 2nd century; Chinese sources call it Linyi, Huanwang and Zhancheng. It adopted Indian culture and Hinduism, as seen in the temples of My Son. It prospered on maritime trade but fought repeatedly with Dai Viet to the north, and declined after the Le dynasty took its capital Vijaya in 1471."
+        },
+        "rulers": [
+          {
+            "from": 875,
+            "to": 898,
+            "name": {
+              "ja": "インドラヴァルマン2世",
+              "en": "Indravarman II"
+            }
+          },
+          {
+            "from": 1360,
+            "to": 1390,
+            "name": {
+              "ja": "制蓬峨（チェー＝ボン＝ガー）",
+              "en": "Che Bong Nga"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "チャンパ王国",
+      "en": "Champa"
+    }
+  },
+  {
+    "id": "pagan",
+    "name": {
+      "ja": "パガン朝",
+      "en": "Pagan Kingdom"
+    },
+    "basemap_names": [
+      "Pagan",
+      "Kingdom of Pagan",
+      "Bagan",
+      "Pyu state"
+    ],
+    "periods": [
+      {
+        "from": 849,
+        "to": 1299,
+        "government": {
+          "ja": "王政",
+          "en": "Monarchy"
+        },
+        "capital": {
+          "ja": "パガン",
+          "en": "Pagan (Bagan)"
+        },
+        "religion": {
+          "ja": "上座部仏教",
+          "en": "Theravada Buddhism"
+        },
+        "summary": {
+          "ja": "ビルマ人がイラワディ川中流域のパガンを都に建てた最初の統一王朝。11世紀のアノーヤター王が南部のモン人の国を征服して全土を統一し、スリランカから上座部仏教を受容して無数の仏塔・寺院を建立した。13世紀末、元の侵攻を受けて衰退し滅亡した。",
+          "en": "The first unified Burmese kingdom, with its capital at Pagan on the middle Irrawaddy. In the 11th century King Anawrahta conquered the Mon kingdom in the south, unified the country and adopted Theravada Buddhism from Sri Lanka, building countless stupas and temples. Mongol (Yuan) invasions at the end of the 13th century brought its collapse."
+        },
+        "rulers": [
+          {
+            "from": 1044,
+            "to": 1077,
+            "name": {
+              "ja": "アノーヤター",
+              "en": "Anawrahta"
+            }
+          },
+          {
+            "from": 1084,
+            "to": 1112,
+            "name": {
+              "ja": "チャンシッター",
+              "en": "Kyansittha"
+            }
+          },
+          {
+            "from": 1256,
+            "to": 1287,
+            "name": {
+              "ja": "ナラティーハパテ",
+              "en": "Narathihapate"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "パガン王朝",
+      "en": "Pagan Kingdom"
+    }
+  },
+  {
+    "id": "toungoo",
+    "name": {
+      "ja": "タウングー朝",
+      "en": "Toungoo dynasty"
+    },
+    "basemap_names": [
+      "Burmese kingdoms",
+      "Pegu",
+      "Ava"
+    ],
+    "periods": [
+      {
+        "from": 1531,
+        "to": 1752,
+        "government": {
+          "ja": "王政",
+          "en": "Monarchy"
+        },
+        "capital": {
+          "ja": "タウングー→ペグー→アヴァ",
+          "en": "Toungoo, then Pegu, then Ava"
+        },
+        "religion": {
+          "ja": "上座部仏教",
+          "en": "Theravada Buddhism"
+        },
+        "summary": {
+          "ja": "パガン朝滅亡後の分裂を経て、16世紀にビルマ人がタウングーを拠点に再統一した王朝。バインナウン王はモン人の都ペグーを都とし、シャン諸国やアユタヤを征服して東南アジア最大の勢力となった。17世紀に都をアヴァに移し、1752年モン人の反乱で滅びた。",
+          "en": "After the fragmentation that followed Pagan, the Burmese reunified the country in the 16th century from Toungoo. King Bayinnaung made the Mon city of Pegu his capital and conquered the Shan states and Ayutthaya, building the largest power in Southeast Asia. The capital moved to Ava in the 17th century, and the dynasty fell to a Mon revolt in 1752."
+        },
+        "rulers": [
+          {
+            "from": 1531,
+            "to": 1550,
+            "name": {
+              "ja": "タビンシュエーティー",
+              "en": "Tabinshwehti"
+            }
+          },
+          {
+            "from": 1551,
+            "to": 1581,
+            "name": {
+              "ja": "バインナウン",
+              "en": "Bayinnaung"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "タウングー王朝",
+      "en": "Toungoo dynasty"
+    }
+  },
+  {
+    "id": "burma",
+    "name": {
+      "ja": "コンバウン朝・ビルマ（ミャンマー）",
+      "en": "Konbaung dynasty and Burma (Myanmar)"
+    },
+    "basemap_names": [
+      "Burma"
+    ],
+    "periods": [
+      {
+        "from": 1752,
+        "to": 1885,
+        "government": {
+          "ja": "王政",
+          "en": "Monarchy"
+        },
+        "capital": {
+          "ja": "アヴァ→アマラプラ→マンダレー",
+          "en": "Ava, Amarapura, then Mandalay"
+        },
+        "religion": {
+          "ja": "上座部仏教",
+          "en": "Theravada Buddhism"
+        },
+        "summary": {
+          "ja": "1752年アラウンパヤーがモン人を破って建てたビルマ最後の王朝。1767年にアユタヤを滅ぼし、清とも戦ってインドシナ西部に覇を唱えた。しかし3次にわたるイギリス＝ビルマ戦争に敗れ、1885年に滅亡してビルマはインド帝国の一州に編入された。",
+          "en": "The last Burmese dynasty, founded in 1752 when Alaungpaya defeated the Mons. It destroyed Ayutthaya in 1767 and fought the Qing, dominating western mainland Southeast Asia. Defeated in three Anglo-Burmese wars, it fell in 1885 and Burma was annexed as a province of British India."
+        },
+        "rulers": [
+          {
+            "from": 1752,
+            "to": 1760,
+            "name": {
+              "ja": "アラウンパヤー",
+              "en": "Alaungpaya"
+            }
+          },
+          {
+            "from": 1782,
+            "to": 1819,
+            "name": {
+              "ja": "ボードーパヤー",
+              "en": "Bodawpaya"
+            }
+          },
+          {
+            "from": 1853,
+            "to": 1878,
+            "name": {
+              "ja": "ミンドン",
+              "en": "Mindon"
+            }
+          },
+          {
+            "from": 1878,
+            "to": 1885,
+            "name": {
+              "ja": "ティーボー",
+              "en": "Thibaw"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1886,
+        "to": 1948,
+        "government": {
+          "ja": "イギリス植民地（インド帝国の一州→1937年分離）",
+          "en": "British colony (province of India, separated in 1937)"
+        },
+        "capital": {
+          "ja": "ラングーン",
+          "en": "Rangoon"
+        },
+        "religion": {
+          "ja": "上座部仏教",
+          "en": "Theravada Buddhism"
+        },
+        "summary": {
+          "ja": "イギリス支配下で米の輸出経済が発展する一方、1930年代にはタキン党などの民族運動が高まった。日本軍占領期にアウン＝サンらがビルマ独立義勇軍を組織し、のち反ファシスト人民自由連盟を率いて独立交渉を進めた。1948年イギリス連邦を離脱して独立した。",
+          "en": "Under British rule a rice-export economy developed, while nationalist movements such as the Thakin party grew in the 1930s. During the Japanese occupation Aung San organised the Burma Independence Army and later led the Anti-Fascist People's Freedom League in independence negotiations. Burma became independent outside the Commonwealth in 1948."
+        },
+        "rulers": [
+          {
+            "from": 1945,
+            "to": 1947,
+            "name": {
+              "ja": "アウン＝サン",
+              "en": "Aung San"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1948,
+        "to": 2026,
+        "government": {
+          "ja": "共和制（1962年〜軍事政権、2011年民政移管、2021年再クーデタ）",
+          "en": "Republic (military rule from 1962, civilian transition 2011, coup 2021)"
+        },
+        "capital": {
+          "ja": "ラングーン→ネピドー（2006年〜）",
+          "en": "Rangoon, then Naypyidaw (from 2006)"
+        },
+        "religion": {
+          "ja": "上座部仏教",
+          "en": "Theravada Buddhism"
+        },
+        "summary": {
+          "ja": "独立後ウー＝ヌ政権は非同盟中立を掲げたが、1962年ネ＝ウィンのクーデタで軍事政権となり「ビルマ式社会主義」で孤立した。1988年の民主化運動の後も軍政が続き、1989年に国名をミャンマーと改めた。2011年に民政移管しアウン＝サン＝スー＝チーが実権を握ったが、2021年の軍事クーデタで再び軍政に戻った。",
+          "en": "After independence U Nu's government pursued non-alignment, but Ne Win's coup in 1962 brought military rule and isolation under the 'Burmese Way to Socialism'. Military rule continued after the 1988 democracy movement, and the country was renamed Myanmar in 1989. A civilian transition in 2011 brought Aung San Suu Kyi to power, but a military coup in 2021 restored army rule."
+        },
+        "rulers": [
+          {
+            "from": 1948,
+            "to": 1962,
+            "name": {
+              "ja": "ウー＝ヌ",
+              "en": "U Nu"
+            }
+          },
+          {
+            "from": 1962,
+            "to": 1988,
+            "name": {
+              "ja": "ネ＝ウィン",
+              "en": "Ne Win"
+            }
+          },
+          {
+            "from": 2016,
+            "to": 2021,
+            "name": {
+              "ja": "アウン＝サン＝スー＝チー",
+              "en": "Aung San Suu Kyi"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "ミャンマー",
+      "en": "Myanmar"
+    }
+  },
+  {
+    "id": "sukhothai",
+    "name": {
+      "ja": "スコータイ朝",
+      "en": "Sukhothai Kingdom"
+    },
+    "basemap_names": [
+      "Sukhothai",
+      "Kingdom of Sukhotai"
+    ],
+    "periods": [
+      {
+        "from": 1238,
+        "to": 1438,
+        "government": {
+          "ja": "王政（父権的王権）",
+          "en": "Monarchy (paternalistic kingship)"
+        },
+        "capital": {
+          "ja": "スコータイ",
+          "en": "Sukhothai"
+        },
+        "religion": {
+          "ja": "上座部仏教",
+          "en": "Theravada Buddhism"
+        },
+        "summary": {
+          "ja": "13世紀半ば、アンコール朝の支配を脱したタイ人がチャオプラヤ川上流域に建てた最初のタイ人国家。3代ラームカムヘーン王はタイ文字を創始し、スリランカ系上座部仏教を受容して王国の基礎を固め、元にも使節を送った。15世紀にアユタヤ朝に併合された。",
+          "en": "The first Thai state, founded in the mid-13th century in the upper Chao Phraya basin by Thais who broke free of Angkor. The third king, Ramkhamhaeng, created the Thai script, adopted Sri Lankan Theravada Buddhism and sent envoys to Yuan China. The kingdom was absorbed by Ayutthaya in the 15th century."
+        },
+        "rulers": [
+          {
+            "from": 1238,
+            "to": 1270,
+            "name": {
+              "ja": "シー＝インタラーティット",
+              "en": "Si Inthrathit"
+            }
+          },
+          {
+            "from": 1279,
+            "to": 1298,
+            "name": {
+              "ja": "ラームカムヘーン",
+              "en": "Ramkhamhaeng"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "スコータイ王朝",
+      "en": "Sukhothai Kingdom"
+    }
+  },
+  {
+    "id": "ayutthaya",
+    "name": {
+      "ja": "アユタヤ朝",
+      "en": "Ayutthaya Kingdom"
+    },
+    "basemap_names": [
+      "Ayutthaya"
+    ],
+    "periods": [
+      {
+        "from": 1351,
+        "to": 1767,
+        "government": {
+          "ja": "王政（神王思想・サクディナー制）",
+          "en": "Monarchy (devaraja kingship, sakdina system)"
+        },
+        "capital": {
+          "ja": "アユタヤ",
+          "en": "Ayutthaya"
+        },
+        "religion": {
+          "ja": "上座部仏教",
+          "en": "Theravada Buddhism"
+        },
+        "summary": {
+          "ja": "1351年チャオプラヤ川下流のアユタヤに成立したタイ人の王朝。スコータイを併合し、1431年にアンコールを攻略してクメール文化を取り入れた。米の輸出と中継貿易で栄え、明への朝貢や日本町の形成など国際的な港市として発展した。16世紀にタウングー朝に一時服属したがナレースワン王が独立を回復し、1767年コンバウン朝の攻撃で滅亡した。",
+          "en": "A Thai kingdom established in 1351 at Ayutthaya on the lower Chao Phraya. It absorbed Sukhothai, sacked Angkor in 1431 and adopted much Khmer culture. It prospered on rice exports and entrepot trade as a cosmopolitan port with tribute missions to Ming China and a Japanese quarter. Briefly subjected by the Toungoo dynasty in the 16th century, it regained independence under Naresuan and was destroyed by the Konbaung Burmese in 1767."
+        },
+        "rulers": [
+          {
+            "from": 1351,
+            "to": 1369,
+            "name": {
+              "ja": "ラーマーティボディ1世（ウートーン）",
+              "en": "Ramathibodi I (U Thong)"
+            }
+          },
+          {
+            "from": 1448,
+            "to": 1488,
+            "name": {
+              "ja": "トライローカナート",
+              "en": "Trailokanat"
+            }
+          },
+          {
+            "from": 1590,
+            "to": 1605,
+            "name": {
+              "ja": "ナレースワン",
+              "en": "Naresuan"
+            }
+          },
+          {
+            "from": 1656,
+            "to": 1688,
+            "name": {
+              "ja": "ナーラーイ",
+              "en": "Narai"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "アユタヤ王朝",
+      "en": "Ayutthaya Kingdom"
+    }
+  },
+  {
+    "id": "thailand",
+    "name": {
+      "ja": "ラタナコーシン朝（タイ）",
+      "en": "Rattanakosin Kingdom (Thailand)"
+    },
+    "basemap_names": [
+      "Rattanakosin Kingdom",
+      "Siam",
+      "Thailand"
+    ],
+    "periods": [
+      {
+        "from": 1767,
+        "to": 1782,
+        "government": {
+          "ja": "王政",
+          "en": "Monarchy"
+        },
+        "capital": {
+          "ja": "トンブリー",
+          "en": "Thonburi"
+        },
+        "religion": {
+          "ja": "上座部仏教",
+          "en": "Theravada Buddhism"
+        },
+        "summary": {
+          "ja": "アユタヤ滅亡後、華人系の武将タークシンがビルマ軍を撃退し、トンブリーを都にタイを再統一した。王朝は短命に終わったが、クメールやラオスへの進出でタイの勢力圏を回復し、次のチャクリ朝の基礎を築いた。",
+          "en": "After the fall of Ayutthaya, the general Taksin, of Chinese descent, drove out the Burmese and reunified the Thai lands from his capital at Thonburi. Though short-lived, his reign restored Thai influence over Cambodia and Laos."
+        },
+        "rulers": [
+          {
+            "from": 1767,
+            "to": 1782,
+            "name": {
+              "ja": "タークシン",
+              "en": "Taksin"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1782,
+        "to": 1932,
+        "government": {
+          "ja": "絶対王政（チャクリ改革で近代化）",
+          "en": "Absolute monarchy (modernised by the Chakri reforms)"
+        },
+        "capital": {
+          "ja": "バンコク",
+          "en": "Bangkok"
+        },
+        "religion": {
+          "ja": "上座部仏教",
+          "en": "Theravada Buddhism"
+        },
+        "summary": {
+          "ja": "1782年ラーマ1世がバンコクを都に開いたチャクリ朝。ラーマ4世は1855年イギリスとボーリング条約を結んで開国し、ラーマ5世（チュラロンコン）は奴隷制廃止や行政改革など近代化を進めた。イギリス領ビルマとフランス領インドシナの緩衝国として、東南アジアで唯一独立を維持した。",
+          "en": "The Chakri dynasty, founded in 1782 by Rama I with Bangkok as capital. Rama IV opened the country through the Bowring Treaty with Britain in 1855, and Rama V (Chulalongkorn) modernised it with the abolition of slavery and administrative reforms. As a buffer between British Burma and French Indochina, Siam was the only Southeast Asian state to keep its independence."
+        },
+        "rulers": [
+          {
+            "from": 1782,
+            "to": 1809,
+            "name": {
+              "ja": "ラーマ1世",
+              "en": "Rama I"
+            }
+          },
+          {
+            "from": 1851,
+            "to": 1868,
+            "name": {
+              "ja": "ラーマ4世",
+              "en": "Rama IV (Mongkut)"
+            }
+          },
+          {
+            "from": 1868,
+            "to": 1910,
+            "name": {
+              "ja": "ラーマ5世（チュラロンコン）",
+              "en": "Rama V (Chulalongkorn)"
+            }
+          },
+          {
+            "from": 1910,
+            "to": 1925,
+            "name": {
+              "ja": "ラーマ6世",
+              "en": "Rama VI (Vajiravudh)"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1932,
+        "to": 2026,
+        "government": {
+          "ja": "立憲君主政（軍事政権期を含む）",
+          "en": "Constitutional monarchy (with periods of military rule)"
+        },
+        "capital": {
+          "ja": "バンコク",
+          "en": "Bangkok"
+        },
+        "religion": {
+          "ja": "上座部仏教",
+          "en": "Theravada Buddhism"
+        },
+        "summary": {
+          "ja": "1932年の立憲革命で絶対王政が廃され、1939年に国名をシャムからタイに改めた。第二次世界大戦では日本と同盟し、戦後は親米路線をとって反共の拠点となり、ASEAN設立に加わった。軍事クーデタが繰り返される一方、ラーマ9世（プミポン）の長い治世のもとで経済発展を遂げた。",
+          "en": "The 1932 revolution ended absolute monarchy, and in 1939 Siam was renamed Thailand. Allied with Japan in the Second World War, it became a pro-American anti-communist bastion afterwards and a founder of ASEAN. Despite repeated military coups, it achieved rapid economic development during the long reign of Rama IX (Bhumibol)."
+        },
+        "rulers": [
+          {
+            "from": 1938,
+            "to": 1944,
+            "name": {
+              "ja": "ピブン",
+              "en": "Plaek Phibunsongkhram"
+            }
+          },
+          {
+            "from": 1946,
+            "to": 2016,
+            "name": {
+              "ja": "ラーマ9世（プミポン）",
+              "en": "Rama IX (Bhumibol Adulyadej)"
+            }
+          },
+          {
+            "from": 2001,
+            "to": 2006,
+            "name": {
+              "ja": "タクシン",
+              "en": "Thaksin Shinawatra"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "タイ王国",
+      "en": "Thailand"
+    }
+  },
+  {
+    "id": "laos",
+    "name": {
+      "ja": "ラオス（ランサン王国）",
+      "en": "Laos (Lan Xang)"
+    },
+    "basemap_names": [
+      "Laos",
+      "Laotian states"
+    ],
+    "periods": [
+      {
+        "from": 1353,
+        "to": 1707,
+        "government": {
+          "ja": "王政",
+          "en": "Monarchy"
+        },
+        "capital": {
+          "ja": "ルアンプラバン→ヴィエンチャン",
+          "en": "Luang Prabang, later Vientiane"
+        },
+        "religion": {
+          "ja": "上座部仏教",
+          "en": "Theravada Buddhism"
+        },
+        "summary": {
+          "ja": "1353年ファーグムがアンコール朝の後援を得てメコン川中流域のラオ人を統一し、「百万の象」を意味するランサン王国を建てた。上座部仏教を受容し、16世紀にヴィエンチャンに遷都してビルマやアユタヤと対抗した。18世紀初めに3王国に分裂した。",
+          "en": "In 1353 Fa Ngum, backed by Angkor, united the Lao of the middle Mekong and founded Lan Xang, the 'kingdom of a million elephants'. It adopted Theravada Buddhism and moved its capital to Vientiane in the 16th century, contending with Burma and Ayutthaya. In the early 18th century it split into three kingdoms."
+        },
+        "rulers": [
+          {
+            "from": 1353,
+            "to": 1372,
+            "name": {
+              "ja": "ファーグム",
+              "en": "Fa Ngum"
+            }
+          },
+          {
+            "from": 1548,
+            "to": 1571,
+            "name": {
+              "ja": "セーターティラート",
+              "en": "Setthathirath"
+            }
+          },
+          {
+            "from": 1637,
+            "to": 1694,
+            "name": {
+              "ja": "スリニャウォンサー",
+              "en": "Sourigna Vongsa"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1707,
+        "to": 1893,
+        "government": {
+          "ja": "分立王国（シャムに従属）",
+          "en": "Divided kingdoms under Siamese suzerainty"
+        },
+        "capital": {
+          "ja": "ルアンプラバン・ヴィエンチャン・チャンパーサック",
+          "en": "Luang Prabang, Vientiane and Champasak"
+        },
+        "religion": {
+          "ja": "上座部仏教",
+          "en": "Theravada Buddhism"
+        },
+        "summary": {
+          "ja": "ルアンプラバン・ヴィエンチャン・チャンパーサックの3王国に分裂したラオスは18世紀後半にシャムの属国となった。1828年ヴィエンチャンのアヌ王の反乱はシャムに鎮圧され、ヴィエンチャンは破壊された。1893年フランスがシャムからメコン川左岸を奪い、ラオスを保護国とした。",
+          "en": "Divided into the kingdoms of Luang Prabang, Vientiane and Champasak, Laos became a vassal of Siam in the late 18th century. King Anouvong's revolt at Vientiane in 1828 was crushed by Siam and the city destroyed. In 1893 France forced Siam to cede the left bank of the Mekong and made Laos a protectorate."
+        },
+        "rulers": [
+          {
+            "from": 1804,
+            "to": 1828,
+            "name": {
+              "ja": "アヌ王",
+              "en": "Anouvong"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1953,
+        "to": 2026,
+        "government": {
+          "ja": "立憲王政→人民民主共和国（1975年〜、一党制）",
+          "en": "Constitutional monarchy, then one-party people's democratic republic (since 1975)"
+        },
+        "capital": {
+          "ja": "ヴィエンチャン",
+          "en": "Vientiane"
+        },
+        "religion": {
+          "ja": "上座部仏教",
+          "en": "Theravada Buddhism"
+        },
+        "summary": {
+          "ja": "1953年フランスから王国として独立したが、右派・中立派・左派（パテト＝ラオ）の内戦がベトナム戦争と連動して続いた。1975年パテト＝ラオが王政を廃止してラオス人民民主共和国を樹立し、社会主義体制をとった。1986年以降は市場経済化を進め、1997年ASEANに加盟した。",
+          "en": "Independent from France as a kingdom in 1953, Laos was torn by civil war among rightists, neutralists and the communist Pathet Lao, intertwined with the Vietnam War. In 1975 the Pathet Lao abolished the monarchy and founded the Lao People's Democratic Republic. Market reforms began in 1986 and Laos joined ASEAN in 1997."
+        },
+        "rulers": [
+          {
+            "from": 1959,
+            "to": 1975,
+            "name": {
+              "ja": "サワーンワッタナー",
+              "en": "Sisavang Vatthana"
+            }
+          },
+          {
+            "from": 1975,
+            "to": 1992,
+            "name": {
+              "ja": "カイソーン＝ポムウィハーン",
+              "en": "Kaysone Phomvihane"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "ラオス",
+      "en": "Laos"
+    }
+  },
+  {
+    "id": "dai-viet",
+    "name": {
+      "ja": "大越・阮朝（ベトナム諸王朝）",
+      "en": "Dai Viet and the Nguyen dynasty"
+    },
+    "basemap_names": [
+      "Đại Việt",
+      "Annam"
+    ],
+    "periods": [
+      {
+        "from": 1009,
+        "to": 1225,
+        "government": {
+          "ja": "王政（李朝）",
+          "en": "Monarchy (Ly dynasty)"
+        },
+        "capital": {
+          "ja": "昇竜（ハノイ）",
+          "en": "Thang Long (Hanoi)"
+        },
+        "religion": {
+          "ja": "仏教（儒教も導入）",
+          "en": "Buddhism (with Confucianism introduced)"
+        },
+        "summary": {
+          "ja": "10世紀に中国支配から独立したベトナムで、1009年李公蘊が昇竜（ハノイ）を都に李朝を開き、国号を大越と定めた。仏教を保護する一方、科挙や文廟を設けて中国的な官僚制度を導入し、宋やチャンパーと戦って独立を固めた。",
+          "en": "After Vietnam won independence from Chinese rule in the 10th century, Ly Cong Uan founded the Ly dynasty in 1009 with its capital at Thang Long (Hanoi), naming the state Dai Viet. It patronised Buddhism while introducing Chinese-style institutions such as civil-service examinations and a Temple of Literature, and secured its independence in wars with the Song and Champa."
+        },
+        "rulers": [
+          {
+            "from": 1009,
+            "to": 1028,
+            "name": {
+              "ja": "李公蘊（李太祖）",
+              "en": "Ly Thai To"
+            }
+          },
+          {
+            "from": 1054,
+            "to": 1072,
+            "name": {
+              "ja": "李聖宗",
+              "en": "Ly Thanh Tong"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1225,
+        "to": 1400,
+        "government": {
+          "ja": "王政（陳朝）",
+          "en": "Monarchy (Tran dynasty)"
+        },
+        "capital": {
+          "ja": "昇竜",
+          "en": "Thang Long"
+        },
+        "religion": {
+          "ja": "仏教・儒教",
+          "en": "Buddhism and Confucianism"
+        },
+        "summary": {
+          "ja": "1225年に李朝から帝位を奪って成立した陳朝は、13世紀後半に3度にわたる元軍の侵攻を陳興道らの活躍で撃退した。民族意識の高まりのなかで漢字をもとにした字喃（チュノム）が作られ、『大越史記』が編纂された。14世紀末にチャンパーの侵入と内紛で衰え、胡氏に簒奪された。",
+          "en": "The Tran dynasty, which took the throne from the Ly in 1225, repelled three Mongol (Yuan) invasions in the late 13th century under commanders such as Tran Hung Dao. Amid rising national consciousness the chu nom script was developed from Chinese characters and the history Dai Viet su ky compiled. Weakened by Cham invasions and internal strife, it was usurped by the Ho at the end of the 14th century."
+        },
+        "rulers": [
+          {
+            "from": 1225,
+            "to": 1258,
+            "name": {
+              "ja": "陳太宗",
+              "en": "Tran Thai Tong"
+            }
+          },
+          {
+            "from": 1278,
+            "to": 1293,
+            "name": {
+              "ja": "陳仁宗",
+              "en": "Tran Nhan Tong"
+            }
+          },
+          {
+            "from": 1258,
+            "to": 1300,
+            "name": {
+              "ja": "陳興道（チャン＝フンダオ）",
+              "en": "Tran Hung Dao"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1428,
+        "to": 1789,
+        "government": {
+          "ja": "王政（黎朝、後期は鄭氏・阮氏の分裂）",
+          "en": "Monarchy (Le dynasty; later divided between the Trinh and Nguyen lords)"
+        },
+        "capital": {
+          "ja": "昇竜（東京）",
+          "en": "Thang Long (Dong Kinh)"
+        },
+        "religion": {
+          "ja": "儒教（朱子学）・仏教",
+          "en": "Confucianism (Neo-Confucian) and Buddhism"
+        },
+        "summary": {
+          "ja": "明の支配に対する黎利の抗戦が成功し、1428年黎朝が成立した。聖宗の時代に朱子学と科挙を整え、1471年チャンパーの都を攻略して南進を本格化した。16世紀以降、黎朝の皇帝は名目化し、北の鄭氏と南の阮氏が分裂して争う時代が続き、18世紀末の西山（タイソン）の反乱で滅んだ。",
+          "en": "Le Loi's successful resistance to Ming occupation led to the founding of the Le dynasty in 1428. Under Le Thanh Tong Neo-Confucianism and the examination system were institutionalised, and the capture of Champa's capital in 1471 launched the southward advance. From the 16th century the Le emperors became figureheads while the Trinh lords in the north and the Nguyen lords in the south fought each other; the dynasty was ended by the Tay Son rebellion in the late 18th century."
+        },
+        "rulers": [
+          {
+            "from": 1428,
+            "to": 1433,
+            "name": {
+              "ja": "黎利（黎太祖）",
+              "en": "Le Loi (Le Thai To)"
+            }
+          },
+          {
+            "from": 1460,
+            "to": 1497,
+            "name": {
+              "ja": "黎聖宗",
+              "en": "Le Thanh Tong"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1802,
+        "to": 1945,
+        "government": {
+          "ja": "王政（阮朝、1883年以降フランス保護国）",
+          "en": "Monarchy (Nguyen dynasty; French protectorate from 1883)"
+        },
+        "capital": {
+          "ja": "フエ",
+          "en": "Hue"
+        },
+        "religion": {
+          "ja": "儒教・仏教",
+          "en": "Confucianism and Buddhism"
+        },
+        "summary": {
+          "ja": "西山朝を倒した阮福暎がフランス人宣教師ピニョーの援助を得て1802年にフエを都に阮朝を開き、清から越南国王に封じられた。清を模範とする儒教的統治を行ったが、キリスト教弾圧を口実にフランスの侵略を受け、1883年のユエ条約で保護国とされた。1945年バオ＝ダイ帝の退位で終わった。",
+          "en": "Nguyen Phuc Anh, having overthrown the Tay Son with help from the French missionary Pigneau, founded the Nguyen dynasty at Hue in 1802 and was invested by the Qing as king of Vietnam. It ruled on a Confucian model after the Qing, but persecution of Christians gave France a pretext for invasion, and the Treaty of Hue in 1883 made it a protectorate. The dynasty ended with Bao Dai's abdication in 1945."
+        },
+        "rulers": [
+          {
+            "from": 1802,
+            "to": 1820,
+            "name": {
+              "ja": "阮福暎（嘉隆帝）",
+              "en": "Gia Long"
+            }
+          },
+          {
+            "from": 1820,
+            "to": 1841,
+            "name": {
+              "ja": "明命帝",
+              "en": "Minh Mang"
+            }
+          },
+          {
+            "from": 1847,
+            "to": 1883,
+            "name": {
+              "ja": "嗣徳帝",
+              "en": "Tu Duc"
+            }
+          },
+          {
+            "from": 1926,
+            "to": 1945,
+            "name": {
+              "ja": "バオ＝ダイ",
+              "en": "Bao Dai"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "大越",
+      "en": "Đại Việt"
+    }
+  },
+  {
+    "id": "vietnam",
+    "name": {
+      "ja": "フランス領インドシナ・ベトナム",
+      "en": "French Indochina and Vietnam"
+    },
+    "basemap_names": [
+      "French Indochina",
+      "French Indo-China",
+      "Cochin China",
+      "Tonkin",
+      "Vietnam"
+    ],
+    "periods": [
+      {
+        "from": 1887,
+        "to": 1954,
+        "government": {
+          "ja": "フランス植民地（インドシナ連邦）",
+          "en": "French colonial federation (Indochinese Union)"
+        },
+        "capital": {
+          "ja": "ハノイ",
+          "en": "Hanoi"
+        },
+        "religion": {
+          "ja": "仏教・儒教・カトリック",
+          "en": "Buddhism, Confucianism and Catholicism"
+        },
+        "summary": {
+          "ja": "フランスはコーチシナ直轄領とアンナン・トンキン・カンボジアの保護国を1887年にインドシナ連邦としてまとめ、1899年ラオスを加えた。ファン＝ボイ＝チャウの東遊運動やホー＝チ＝ミンのインドシナ共産党など民族運動が展開された。日本軍の進駐を経て1945年ベトナム民主共和国が独立を宣言し、インドシナ戦争の末1954年ジュネーヴ休戦協定でフランスは撤退した。",
+          "en": "France united the colony of Cochinchina with the protectorates of Annam, Tonkin and Cambodia as the Indochinese Union in 1887, adding Laos in 1899. Nationalist movements arose, from Phan Boi Chau's Dong Du movement to Ho Chi Minh's Indochinese Communist Party. After the Japanese occupation the Democratic Republic of Vietnam declared independence in 1945, and after the Indochina War France withdrew under the 1954 Geneva Accords."
+        },
+        "rulers": [
+          {
+            "from": 1897,
+            "to": 1902,
+            "name": {
+              "ja": "ドゥメール",
+              "en": "Paul Doumer"
+            }
+          },
+          {
+            "from": 1940,
+            "to": 1945,
+            "name": {
+              "ja": "ドクー",
+              "en": "Jean Decoux"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1945,
+        "to": 1976,
+        "government": {
+          "ja": "南北分断（北：ベトナム民主共和国、南：ベトナム共和国）",
+          "en": "Divided: Democratic Republic of Vietnam (north) and Republic of Vietnam (south)"
+        },
+        "capital": {
+          "ja": "ハノイ／サイゴン",
+          "en": "Hanoi / Saigon"
+        },
+        "religion": {
+          "ja": "仏教・カトリック",
+          "en": "Buddhism and Catholicism"
+        },
+        "summary": {
+          "ja": "ジュネーヴ協定で北緯17度線を境に南北に分断され、北のホー＝チ＝ミン政権に対し、南ではアメリカの支援でゴ＝ディン＝ジエムがベトナム共和国を建てた。南ベトナム解放民族戦線の闘争に対しアメリカは1965年北爆を開始して本格介入したが、1973年パリ和平協定で撤退し、1975年サイゴンが陥落した。",
+          "en": "The Geneva Accords divided the country at the 17th parallel: Ho Chi Minh's government in the north faced the Republic of Vietnam founded in the south by Ngo Dinh Diem with US backing. Against the National Liberation Front insurgency the United States intervened in force, beginning the bombing of the north in 1965, but withdrew under the 1973 Paris agreement, and Saigon fell in 1975."
+        },
+        "rulers": [
+          {
+            "from": 1945,
+            "to": 1969,
+            "name": {
+              "ja": "ホー＝チ＝ミン",
+              "en": "Ho Chi Minh"
+            }
+          },
+          {
+            "from": 1955,
+            "to": 1963,
+            "name": {
+              "ja": "ゴ＝ディン＝ジエム",
+              "en": "Ngo Dinh Diem"
+            }
+          },
+          {
+            "from": 1967,
+            "to": 1975,
+            "name": {
+              "ja": "グエン＝ヴァン＝チュー",
+              "en": "Nguyen Van Thieu"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1976,
+        "to": 2026,
+        "government": {
+          "ja": "社会主義共和制（共産党一党制）",
+          "en": "Socialist republic (one-party communist state)"
+        },
+        "capital": {
+          "ja": "ハノイ",
+          "en": "Hanoi"
+        },
+        "religion": {
+          "ja": "仏教・カトリック（公式には無宗教）",
+          "en": "Buddhism and Catholicism (officially secular)"
+        },
+        "summary": {
+          "ja": "1976年南北を統一してベトナム社会主義共和国が成立した。カンボジア侵攻（1978年）と中越戦争（1979年）で国際的に孤立し経済も停滞したが、1986年からドイモイ（刷新）政策で市場経済を導入した。1995年にアメリカと国交を正常化しASEANに加盟、急速な経済成長を遂げている。",
+          "en": "North and south were unified as the Socialist Republic of Vietnam in 1976. The invasion of Cambodia in 1978 and the war with China in 1979 left it isolated and economically stagnant, but from 1986 the Doi Moi reforms introduced a market economy. Vietnam normalised relations with the United States and joined ASEAN in 1995, and has since grown rapidly."
+        },
+        "rulers": [
+          {
+            "from": 1960,
+            "to": 1986,
+            "name": {
+              "ja": "レ＝ズアン",
+              "en": "Le Duan"
+            }
+          },
+          {
+            "from": 1986,
+            "to": 1991,
+            "name": {
+              "ja": "グエン＝ヴァン＝リン",
+              "en": "Nguyen Van Linh"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "ベトナム",
+      "en": "Vietnam"
+    }
+  },
+  {
+    "id": "srivijaya",
+    "name": {
+      "ja": "シュリーヴィジャヤ",
+      "en": "Srivijaya"
+    },
+    "basemap_names": [
+      "Srivijaya Empire",
+      "Malay"
+    ],
+    "periods": [
+      {
+        "from": 650,
+        "to": 1377,
+        "government": {
+          "ja": "王政（港市国家の連合）",
+          "en": "Monarchy (network of port polities)"
+        },
+        "capital": {
+          "ja": "パレンバン",
+          "en": "Palembang"
+        },
+        "religion": {
+          "ja": "大乗仏教",
+          "en": "Mahayana Buddhism"
+        },
+        "summary": {
+          "ja": "7世紀にスマトラ島のパレンバンを中心に成立し、マラッカ海峡の海上交易を支配した港市国家。唐僧義浄が滞在して大乗仏教の繁栄を伝え、中国史料に室利仏逝・三仏斉として現れる。11世紀にチョーラ朝の遠征を受けて衰え、14世紀末にジャワのマジャパヒト王国に圧倒された。",
+          "en": "A maritime state centred on Palembang in Sumatra from the 7th century, controlling trade through the Strait of Malacca. The Tang monk Yijing stayed there and described its flourishing Mahayana Buddhism; Chinese sources call it Shilifoshi and Sanfoqi. It declined after a Chola expedition in the 11th century and was overshadowed by Majapahit at the end of the 14th."
+        },
+        "rulers": [
+          {
+            "from": 683,
+            "to": 702,
+            "name": {
+              "ja": "ジャヤナーシャ",
+              "en": "Dapunta Hyang Sri Jayanasa"
+            }
+          },
+          {
+            "from": 775,
+            "to": 800,
+            "name": {
+              "ja": "ダルマセートゥ",
+              "en": "Dharmasetu"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "シュリーヴィジャヤ王国",
+      "en": "Srivijaya"
+    }
+  },
+  {
+    "id": "java-kingdoms",
+    "name": {
+      "ja": "ジャワの諸王国（シャイレンドラ朝〜マジャパヒト王国）",
+      "en": "Kingdoms of Java (Sailendra to Majapahit)"
+    },
+    "basemap_names": [
+      "Mataram",
+      "East Java",
+      "Kediri"
+    ],
+    "periods": [
+      {
+        "from": 732,
+        "to": 929,
+        "government": {
+          "ja": "王政（シャイレンドラ朝・古マタラム）",
+          "en": "Monarchy (Sailendra and early Mataram)"
+        },
+        "capital": {
+          "ja": "中部ジャワ",
+          "en": "Central Java"
+        },
+        "religion": {
+          "ja": "大乗仏教・ヒンドゥー教",
+          "en": "Mahayana Buddhism and Hinduism"
+        },
+        "summary": {
+          "ja": "8世紀中部ジャワに仏教を奉じるシャイレンドラ朝が栄え、大乗仏教の大寺院ボロブドゥールを建立した。並立したヒンドゥー教の古マタラム王国はプランバナン寺院群を築いた。10世紀に政治の中心は東部ジャワへ移った。",
+          "en": "In the 8th century the Buddhist Sailendra dynasty flourished in central Java and built the great Mahayana monument of Borobudur, while the coexisting Hindu kingdom of Mataram built the Prambanan temples. In the 10th century the political centre shifted to eastern Java."
+        },
+        "rulers": [
+          {
+            "from": 775,
+            "to": 800,
+            "name": {
+              "ja": "パナンカラン",
+              "en": "Panangkaran"
+            }
+          },
+          {
+            "from": 856,
+            "to": 890,
+            "name": {
+              "ja": "ピカタン",
+              "en": "Rakai Pikatan"
+            }
+          }
+        ]
+      },
+      {
+        "from": 929,
+        "to": 1292,
+        "government": {
+          "ja": "王政（クディリ朝・シンガサリ朝）",
+          "en": "Monarchy (Kediri and Singhasari)"
+        },
+        "capital": {
+          "ja": "クディリ→シンガサリ",
+          "en": "Kediri, later Singhasari"
+        },
+        "religion": {
+          "ja": "ヒンドゥー教・仏教（融合）",
+          "en": "Hinduism and Buddhism (syncretic)"
+        },
+        "summary": {
+          "ja": "東部ジャワのクディリ朝では『マハーバーラタ』など古代インド叙事詩のジャワ語化が進み、ワヤン（影絵芝居）の原型が生まれた。13世紀にこれを倒したシンガサリ朝のクルタナガラ王は元への服属を拒み、1292年元軍の遠征を招いた。",
+          "en": "Under the Kediri dynasty of eastern Java the Indian epics such as the Mahabharata were rendered into Javanese and the prototypes of wayang shadow theatre emerged. King Kertanegara of the Singhasari dynasty, which overthrew Kediri in the 13th century, refused submission to the Yuan and provoked a Mongol expedition in 1292."
+        },
+        "rulers": [
+          {
+            "from": 1135,
+            "to": 1157,
+            "name": {
+              "ja": "ジャヤバヤ",
+              "en": "Jayabaya"
+            }
+          },
+          {
+            "from": 1268,
+            "to": 1292,
+            "name": {
+              "ja": "クルタナガラ",
+              "en": "Kertanegara"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1293,
+        "to": 1527,
+        "government": {
+          "ja": "王政（マジャパヒト王国）",
+          "en": "Monarchy (Majapahit)"
+        },
+        "capital": {
+          "ja": "マジャパヒト（トロウラン）",
+          "en": "Majapahit (Trowulan)"
+        },
+        "religion": {
+          "ja": "ヒンドゥー教・仏教",
+          "en": "Hinduism and Buddhism"
+        },
+        "summary": {
+          "ja": "元軍を利用してシンガサリ朝の後継を奪ったラーデン＝ヴィジャヤが1293年に建てたヒンドゥー王国。14世紀のハヤム＝ウルクと宰相ガジャ＝マダの時代にジャワ・スマトラなど諸島部の広範囲を勢力下に置き、香辛料交易で栄えた。15世紀以降、マラッカ王国の台頭と沿岸部のイスラーム化で衰え、16世紀初めに滅んだ。",
+          "en": "A Hindu kingdom founded in 1293 by Raden Wijaya, who used the Mongol expedition to seize the Singhasari succession. Under Hayam Wuruk and his minister Gajah Mada in the 14th century it extended its influence over much of Java, Sumatra and the archipelago and prospered on the spice trade. It declined from the 15th century with the rise of Malacca and the Islamisation of the coasts, and fell in the early 16th century."
+        },
+        "rulers": [
+          {
+            "from": 1293,
+            "to": 1309,
+            "name": {
+              "ja": "ラーデン＝ヴィジャヤ",
+              "en": "Raden Wijaya"
+            }
+          },
+          {
+            "from": 1350,
+            "to": 1389,
+            "name": {
+              "ja": "ハヤム＝ウルク",
+              "en": "Hayam Wuruk"
+            }
+          },
+          {
+            "from": 1331,
+            "to": 1364,
+            "name": {
+              "ja": "ガジャ＝マダ（宰相）",
+              "en": "Gajah Mada (prime minister)"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "マジャパヒト王国",
+      "en": "Majapahit"
+    }
+  },
+  {
+    "id": "malacca-malaysia",
+    "name": {
+      "ja": "マラッカ王国・マレーシア",
+      "en": "Malacca and Malaysia"
+    },
+    "basemap_names": [
+      "Malacca",
+      "Malaysian Islamic states",
+      "Malaya",
+      "Malaysia"
+    ],
+    "periods": [
+      {
+        "from": 1400,
+        "to": 1511,
+        "government": {
+          "ja": "スルタン制（港市国家）",
+          "en": "Sultanate (port state)"
+        },
+        "capital": {
+          "ja": "マラッカ",
+          "en": "Malacca"
+        },
+        "religion": {
+          "ja": "イスラーム",
+          "en": "Islam"
+        },
+        "summary": {
+          "ja": "14世紀末マジャパヒトを逃れたパラメスワラがマレー半島のマラッカに建てた港市国家。鄭和の遠征の拠点となり明の保護を受けて発展し、15世紀半ばに王がイスラームに改宗して東南アジアのイスラーム化の中心となった。インド洋と南シナ海を結ぶ香辛料貿易の要として栄えたが、1511年ポルトガルに占領された。",
+          "en": "A port state founded at Malacca on the Malay peninsula by Parameswara, a prince who fled Majapahit at the end of the 14th century. It grew under Ming protection as a base for Zheng He's voyages, and after its ruler converted in the mid-15th century it became the centre of Islamisation in Southeast Asia. A hub of the spice trade linking the Indian Ocean and South China Sea, it was seized by the Portuguese in 1511."
+        },
+        "rulers": [
+          {
+            "from": 1400,
+            "to": 1414,
+            "name": {
+              "ja": "パラメスワラ",
+              "en": "Parameswara"
+            }
+          },
+          {
+            "from": 1459,
+            "to": 1477,
+            "name": {
+              "ja": "マンスール＝シャー",
+              "en": "Mansur Shah"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1511,
+        "to": 1957,
+        "government": {
+          "ja": "マレー諸スルタン国→イギリス海峡植民地・マレー連合州",
+          "en": "Malay sultanates, then British Straits Settlements and Malay States"
+        },
+        "capital": {
+          "ja": "ジョホール／シンガポール・クアラルンプール",
+          "en": "Johor / Singapore and Kuala Lumpur"
+        },
+        "religion": {
+          "ja": "イスラーム",
+          "en": "Islam"
+        },
+        "summary": {
+          "ja": "マラッカ陥落後、王族はジョホールに移り、マレー半島には諸スルタン国が分立した。19世紀にイギリスはペナン・マラッカ・シンガポールを海峡植民地とし、1895年にマレー連合州を結成して錫鉱山とゴム園を開発、中国人・インド人労働者を導入した。日本占領を経て1957年マラヤ連邦として独立した。",
+          "en": "After the fall of Malacca the royal house moved to Johor and the peninsula was divided among Malay sultanates. In the 19th century Britain formed the Straits Settlements of Penang, Malacca and Singapore, created the Federated Malay States in 1895 and developed tin mines and rubber plantations with Chinese and Indian labour. After the Japanese occupation the Federation of Malaya became independent in 1957."
+        },
+        "rulers": [
+          {
+            "from": 1819,
+            "to": 1826,
+            "name": {
+              "ja": "ラッフルズ",
+              "en": "Stamford Raffles"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1957,
+        "to": 2026,
+        "government": {
+          "ja": "連邦立憲君主政",
+          "en": "Federal constitutional monarchy"
+        },
+        "capital": {
+          "ja": "クアラルンプール",
+          "en": "Kuala Lumpur"
+        },
+        "religion": {
+          "ja": "イスラーム（国教、仏教・ヒンドゥー教も）",
+          "en": "Islam (official; Buddhist and Hindu minorities)"
+        },
+        "summary": {
+          "ja": "1957年独立したマラヤ連邦は、1963年シンガポール・サバ・サラワクを加えてマレーシアとなったが、1965年にシンガポールが分離独立した。マレー人優遇のブミプトラ政策をとり、マハティール首相のルックイースト政策のもとで工業化を進めた。1967年にASEANの原加盟国となった。",
+          "en": "The Federation of Malaya, independent in 1957, became Malaysia in 1963 with the addition of Singapore, Sabah and Sarawak, though Singapore separated in 1965. It adopted the pro-Malay bumiputra policy and industrialised under Prime Minister Mahathir's Look East policy. It was a founding member of ASEAN in 1967."
+        },
+        "rulers": [
+          {
+            "from": 1957,
+            "to": 1970,
+            "name": {
+              "ja": "ラーマン",
+              "en": "Tunku Abdul Rahman"
+            }
+          },
+          {
+            "from": 1981,
+            "to": 2003,
+            "name": {
+              "ja": "マハティール",
+              "en": "Mahathir Mohamad"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "マラッカ王国",
+      "en": "Malacca Sultanate"
+    }
+  },
+  {
+    "id": "indonesia",
+    "name": {
+      "ja": "オランダ領東インド・インドネシア",
+      "en": "Dutch East Indies and Indonesia"
+    },
+    "basemap_names": [
+      "Dutch East Indies",
+      "Netherlands Indies",
+      "Indonesia"
+    ],
+    "periods": [
+      {
+        "from": 1602,
+        "to": 1799,
+        "government": {
+          "ja": "オランダ東インド会社による支配",
+          "en": "Rule by the Dutch East India Company (VOC)"
+        },
+        "capital": {
+          "ja": "バタヴィア",
+          "en": "Batavia"
+        },
+        "religion": {
+          "ja": "イスラーム（支配層はプロテスタント）",
+          "en": "Islam (Protestant rulers)"
+        },
+        "summary": {
+          "ja": "1602年設立のオランダ東インド会社は1619年にバタヴィアを建設し、1623年のアンボイナ事件でイギリスを排除してモルッカ諸島の香辛料貿易を独占した。ジャワのマタラム王国やバンテン王国を従え、18世紀には会社がジャワの大部分を支配した。会社は1799年に解散し、領土は本国政府に引き継がれた。",
+          "en": "The Dutch East India Company, founded in 1602, built Batavia in 1619 and, after the Amboina massacre of 1623 drove out the English, monopolised the spice trade of the Moluccas. It subjugated the Javanese kingdoms of Mataram and Banten, and by the 18th century controlled most of Java. The Company was dissolved in 1799 and its territories passed to the Dutch state."
+        },
+        "rulers": [
+          {
+            "from": 1619,
+            "to": 1623,
+            "name": {
+              "ja": "クーン",
+              "en": "Jan Pieterszoon Coen"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1800,
+        "to": 1949,
+        "government": {
+          "ja": "オランダ植民地",
+          "en": "Dutch colony"
+        },
+        "capital": {
+          "ja": "バタヴィア",
+          "en": "Batavia"
+        },
+        "religion": {
+          "ja": "イスラーム",
+          "en": "Islam"
+        },
+        "summary": {
+          "ja": "ジャワ戦争（1825〜30年）の後、オランダは1830年から強制栽培制度を導入してコーヒー・サトウキビなどを栽培させ、巨利を得た。20世紀初めの倫理政策を経て、イスラーム同盟やインドネシア国民党（スカルノ）など民族運動が高まった。日本占領後の1945年にスカルノが独立を宣言し、独立戦争を経て1949年にオランダが主権を譲渡した。",
+          "en": "After the Java War (1825–30) the Dutch introduced the Cultivation System in 1830, forcing the growing of coffee and sugar for large profits. Following the Ethical Policy of the early 20th century, nationalist movements such as Sarekat Islam and Sukarno's Indonesian National Party grew. After the Japanese occupation Sukarno proclaimed independence in 1945, and after a war of independence the Dutch transferred sovereignty in 1949."
+        },
+        "rulers": [
+          {
+            "from": 1830,
+            "to": 1833,
+            "name": {
+              "ja": "ファン＝デン＝ボス",
+              "en": "Johannes van den Bosch"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1949,
+        "to": 2026,
+        "government": {
+          "ja": "共和制（大統領制）",
+          "en": "Presidential republic"
+        },
+        "capital": {
+          "ja": "ジャカルタ",
+          "en": "Jakarta"
+        },
+        "religion": {
+          "ja": "イスラーム（世界最大のムスリム人口）",
+          "en": "Islam (largest Muslim population in the world)"
+        },
+        "summary": {
+          "ja": "初代大統領スカルノは1955年バンドンでアジア＝アフリカ会議を主催し、非同盟運動を主導した。1965年の九・三〇事件で共産党が壊滅し、スハルトが開発独裁体制を築いて経済成長を進めたが、1998年アジア通貨危機のなかで退陣し民主化が進んだ。ASEANの中心国として地域で大きな役割を果たしている。",
+          "en": "The first president, Sukarno, hosted the Asian-African Conference at Bandung in 1955 and led the non-aligned movement. After the 30 September incident of 1965 crushed the communists, Suharto built a developmental authoritarian regime that delivered growth until his fall during the 1998 Asian financial crisis opened the way to democratisation. Indonesia plays a leading role in ASEAN."
+        },
+        "rulers": [
+          {
+            "from": 1945,
+            "to": 1967,
+            "name": {
+              "ja": "スカルノ",
+              "en": "Sukarno"
+            }
+          },
+          {
+            "from": 1968,
+            "to": 1998,
+            "name": {
+              "ja": "スハルト",
+              "en": "Suharto"
+            }
+          },
+          {
+            "from": 2014,
+            "to": 2024,
+            "name": {
+              "ja": "ジョコ＝ウィドド",
+              "en": "Joko Widodo"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "インドネシア",
+      "en": "Indonesia"
+    }
+  },
+  {
+    "id": "philippines",
+    "name": {
+      "ja": "フィリピン",
+      "en": "Philippines"
+    },
+    "basemap_names": [
+      "Philippines"
+    ],
+    "periods": [
+      {
+        "from": 1571,
+        "to": 1898,
+        "government": {
+          "ja": "スペイン植民地（総督統治）",
+          "en": "Spanish colony under a governor-general"
+        },
+        "capital": {
+          "ja": "マニラ",
+          "en": "Manila"
+        },
+        "religion": {
+          "ja": "カトリック（南部はイスラーム）",
+          "en": "Catholicism (Islam in the south)"
+        },
+        "summary": {
+          "ja": "1521年マゼランが到達し、1571年レガスピがマニラを建設してスペインの支配が始まった。メキシコのアカプルコと結ぶガレオン貿易で中国の絹とアメリカの銀が交換され、カトリックの布教が進んだ。19世紀末ホセ＝リサールの啓蒙運動を経て1896年に独立革命が起こり、アメリカ＝スペイン戦争の結果1898年アメリカに割譲された。",
+          "en": "Magellan reached the islands in 1521, and Spanish rule began when Legazpi founded Manila in 1571. The galleon trade with Acapulco exchanged Chinese silk for American silver, and Catholic missions spread widely. After José Rizal's reform movement, a revolution broke out in 1896, and the islands were ceded to the United States in 1898 following the Spanish-American War."
+        },
+        "rulers": [
+          {
+            "from": 1565,
+            "to": 1572,
+            "name": {
+              "ja": "レガスピ",
+              "en": "Miguel López de Legazpi"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1898,
+        "to": 1946,
+        "government": {
+          "ja": "アメリカ植民地（1935年〜自治領）",
+          "en": "American colony (Commonwealth from 1935)"
+        },
+        "capital": {
+          "ja": "マニラ",
+          "en": "Manila"
+        },
+        "religion": {
+          "ja": "カトリック",
+          "en": "Catholicism"
+        },
+        "summary": {
+          "ja": "アギナルドが1899年フィリピン共和国の独立を宣言したが、フィリピン＝アメリカ戦争に敗れてアメリカの植民地となった。1934年に10年後の独立が約束され、1935年に独立準備政府（コモンウェルス）が発足した。日本占領を経て1946年に独立した。",
+          "en": "Aguinaldo proclaimed the Philippine Republic in 1899, but defeat in the Philippine-American War made the islands an American colony. Independence after ten years was promised in 1934 and a Commonwealth government was set up in 1935. After the Japanese occupation the Philippines became independent in 1946."
+        },
+        "rulers": [
+          {
+            "from": 1899,
+            "to": 1901,
+            "name": {
+              "ja": "アギナルド",
+              "en": "Emilio Aguinaldo"
+            }
+          },
+          {
+            "from": 1935,
+            "to": 1944,
+            "name": {
+              "ja": "ケソン",
+              "en": "Manuel Quezon"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1946,
+        "to": 2026,
+        "government": {
+          "ja": "共和制（大統領制）",
+          "en": "Presidential republic"
+        },
+        "capital": {
+          "ja": "マニラ",
+          "en": "Manila"
+        },
+        "religion": {
+          "ja": "カトリック",
+          "en": "Catholicism"
+        },
+        "summary": {
+          "ja": "独立後は親米路線をとり、1967年ASEANの原加盟国となった。マルコス大統領は1972年に戒厳令を布いて独裁体制を築いたが、1986年のピープルパワー革命で追放され、コラソン＝アキノが大統領となり民主化が進んだ。南部ミンダナオのイスラーム勢力との対立が続いている。",
+          "en": "After independence the Philippines followed a pro-American line and was a founding member of ASEAN in 1967. President Marcos imposed martial law in 1972 and ruled as a dictator until the People Power revolution of 1986 drove him out and brought Corazon Aquino to the presidency, restoring democracy. Conflict with Muslim groups in Mindanao continues."
+        },
+        "rulers": [
+          {
+            "from": 1965,
+            "to": 1986,
+            "name": {
+              "ja": "マルコス",
+              "en": "Ferdinand Marcos"
+            }
+          },
+          {
+            "from": 1986,
+            "to": 1992,
+            "name": {
+              "ja": "コラソン＝アキノ",
+              "en": "Corazon Aquino"
+            }
+          },
+          {
+            "from": 2016,
+            "to": 2022,
+            "name": {
+              "ja": "ドゥテルテ",
+              "en": "Rodrigo Duterte"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "フィリピン",
+      "en": "Philippines"
+    }
+  }
+]
