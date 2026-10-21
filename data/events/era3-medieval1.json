@@ -6,11 +6,11 @@
     "year_end": null,
     "lat": 27.05,
     "lon": 79.92,
-    "name": {"ja": "ヴァルダナ朝の成立", "en": "Rise of the Vardhana dynasty"},
-    "desc": {"ja": "ハルシャ＝ヴァルダナがカナウジを都として北インドをほぼ統一した。仏教を保護し、玄奘の訪問を受けたが、王の死後に帝国は分裂した。", "en": "Harsha Vardhana united most of northern India from his capital at Kanauj. He patronized Buddhism and received Xuanzang, but his empire broke up after his death."},
+    "name": {"ja":"ヴァルダナ朝の成立","en":"Rise of the Vardhana dynasty"},
+    "desc": {"ja":"ハルシャ＝ヴァルダナがカナウジを都として北インドをほぼ統一した。仏教を保護し、玄奘の訪問を受けたが、王の死後に帝国は分裂した。","en":"Harsha Vardhana united most of northern India from his capital at Kanauj. He patronized Buddhism and received Xuanzang, but his empire broke up after his death."},
     "importance": 2,
     "persons": ["harsha"],
-    "wiki": {"ja": "ヴァルダナ朝", "en": "Pushyabhuti dynasty"}
+    "wiki": {"ja":"ヴァルダナ朝","en":"Pushyabhuti dynasty"}
   },
   {
     "id": "muhammad-revelation",
@@ -19,11 +19,11 @@
     "year_end": null,
     "lat": 21.42,
     "lon": 39.83,
-    "name": {"ja": "イスラーム教の成立", "en": "Muhammad begins preaching Islam"},
-    "desc": {"ja": "メッカの商人ムハンマドが唯一神アッラーの啓示を受けたと自覚し、預言者として布教を始めた。偶像崇拝を否定したためメッカの有力者に迫害された。", "en": "Muhammad, a merchant of Mecca, believed he received revelations from the one God Allah and began preaching as a prophet. His rejection of idolatry drew persecution from Mecca's elite."},
+    "name": {"ja":"イスラーム教の成立","en":"Muhammad begins preaching Islam"},
+    "desc": {"ja":"メッカの商人ムハンマドが唯一神アッラーの啓示を受けたと自覚し、預言者として布教を始めた。偶像崇拝を否定したためメッカの有力者に迫害された。","en":"Muhammad, a merchant of Mecca, believed he received revelations from the one God Allah and began preaching as a prophet. His rejection of idolatry drew persecution from Mecca's elite."},
     "importance": 3,
     "persons": ["muhammad"],
-    "wiki": {"ja": "ムハンマド", "en": "Muhammad"}
+    "wiki": {"ja":"ムハンマド","en":"Muhammad"}
   },
   {
     "id": "hijra",
@@ -32,11 +32,11 @@
     "year_end": null,
     "lat": 24.47,
     "lon": 39.61,
-    "name": {"ja": "ヒジュラ", "en": "Hijra"},
-    "desc": {"ja": "ムハンマドが迫害を逃れてメッカからメディナへ移住し、信徒の共同体ウンマを築いた。この年はイスラーム暦の元年とされる。", "en": "Muhammad fled persecution in Mecca and migrated to Medina, where he founded the community of believers (umma). The year marks the start of the Islamic calendar."},
+    "name": {"ja":"ヒジュラ","en":"Hijra"},
+    "desc": {"ja":"ムハンマドが迫害を逃れてメッカからメディナへ移住し、信徒の共同体ウンマを築いた。この年はイスラーム暦の元年とされ、イスラーム国家の出発点となった。","en":"Muhammad fled persecution in Mecca and migrated to Medina, where he founded the community of believers (umma). The year marks the start of the Islamic calendar."},
     "importance": 3,
     "persons": ["muhammad"],
-    "wiki": {"ja": "ヒジュラ", "en": "Hijrah"}
+    "wiki": {"ja":"ヒジュラ","en":"Hijrah"}
   },
   {
     "id": "zhenguan-era",
@@ -45,11 +45,11 @@
     "year_end": 649,
     "lat": 34.27,
     "lon": 108.94,
-    "name": {"ja": "貞観の治", "en": "Zhenguan era of Emperor Taizong"},
-    "desc": {"ja": "唐の第2代太宗が律令制度を整え、東突厥を服属させて内政・外征ともに成功した安定期。律令国家の模範として後世に称えられた。", "en": "Under Emperor Taizong, the Tang perfected its legal and administrative codes and subdued the Eastern Turks, a period of stability later idealized as a model of good government."},
+    "name": {"ja":"貞観の治","en":"Zhenguan era of Emperor Taizong"},
+    "desc": {"ja":"唐の第2代太宗が律令制度を整え、東突厥を服属させて内政・外征ともに成功した安定期。律令国家の模範として後世に称えられた。","en":"Under Emperor Taizong, the Tang perfected its legal and administrative codes and subdued the Eastern Turks, a period of stability later idealized as a model of good government."},
     "importance": 3,
     "persons": ["tang-taizong"],
-    "wiki": {"ja": "貞観の治", "en": "Reign of Emperor Taizong of Tang"}
+    "wiki": {"ja":"貞観の治","en":"Reign of Emperor Taizong of Tang"}
   },
   {
     "id": "xuanzang-journey",
@@ -58,11 +58,11 @@
     "year_end": 645,
     "lat": 25.14,
     "lon": 85.44,
-    "name": {"ja": "玄奘のインド求法", "en": "Xuanzang's journey to India"},
-    "desc": {"ja": "唐僧玄奘が陸路でインドへ赴き、ナーランダー僧院で学んで多数の経典を長安へ持ち帰った。旅の記録『大唐西域記』は貴重な史料である。", "en": "The Tang monk Xuanzang traveled overland to India, studied at Nalanda, and brought many scriptures back to Chang'an. His Record of the Western Regions is an invaluable source."},
+    "name": {"ja":"玄奘のインド求法","en":"Xuanzang's journey to India"},
+    "desc": {"ja":"唐僧玄奘が陸路でインドへ赴き、ナーランダー僧院で学んで多数の経典を長安へ持ち帰った。旅の記録『大唐西域記』は貴重な史料である。","en":"The Tang monk Xuanzang traveled overland to India, studied at Nalanda, and brought many scriptures back to Chang'an. His Record of the Western Regions is an invaluable source."},
     "importance": 2,
     "persons": ["xuanzang"],
-    "wiki": {"ja": "玄奘", "en": "Xuanzang"}
+    "wiki": {"ja":"玄奘","en":"Xuanzang"}
   },
   {
     "id": "rashidun-caliphate",
@@ -71,11 +71,11 @@
     "year_end": null,
     "lat": 24.47,
     "lon": 39.61,
-    "name": {"ja": "正統カリフ時代の開始", "en": "Beginning of the Rashidun Caliphate"},
-    "desc": {"ja": "ムハンマドの死後、信徒の選挙でアブー＝バクルが後継者(カリフ)に選ばれた。以後4代のカリフのもとでアラブ軍の大征服が始まった。", "en": "After Muhammad's death, the believers elected Abu Bakr as his successor (caliph). Under the four 'rightly guided' caliphs the great Arab conquests began."},
+    "name": {"ja":"正統カリフ時代の開始","en":"Beginning of the Rashidun Caliphate"},
+    "desc": {"ja":"ムハンマドの死後、信徒の選挙でアブー＝バクルが後継者(カリフ)に選ばれた。以後4代のカリフのもとでアラブ軍の大征服が始まった。","en":"After Muhammad's death, the believers elected Abu Bakr as his successor (caliph). Under the four 'rightly guided' caliphs the great Arab conquests began."},
     "importance": 2,
     "persons": ["muhammad"],
-    "wiki": {"ja": "正統カリフ", "en": "Rashidun Caliphate"}
+    "wiki": {"ja":"正統カリフ","en":"Rashidun Caliphate"}
   },
   {
     "id": "tibetan-empire",
@@ -84,11 +84,11 @@
     "year_end": null,
     "lat": 29.65,
     "lon": 91.13,
-    "name": {"ja": "吐蕃の統一", "en": "Unification of Tibet under Songtsen Gampo"},
-    "desc": {"ja": "ソンツェン＝ガンポがチベット高原を統一し、ラサを都とする吐蕃を建てた。インド系文字をもとにチベット文字がつくられ、仏教が受容された。", "en": "Songtsen Gampo united the Tibetan plateau and founded the Tibetan Empire with its capital at Lhasa. A Tibetan script based on Indian models was devised and Buddhism was adopted."},
+    "name": {"ja":"吐蕃の統一","en":"Unification of Tibet under Songtsen Gampo"},
+    "desc": {"ja":"ソンツェン＝ガンポがチベット高原を統一し、ラサを都とする吐蕃を建てた。インド系文字をもとにチベット文字がつくられ、仏教が受容された。","en":"Songtsen Gampo united the Tibetan plateau and founded the Tibetan Empire with its capital at Lhasa. A Tibetan script based on Indian models was devised and Buddhism was adopted."},
     "importance": 2,
     "persons": ["songtsen-gampo"],
-    "wiki": {"ja": "吐蕃", "en": "Tibetan Empire"}
+    "wiki": {"ja":"吐蕃","en":"Tibetan Empire"}
   },
   {
     "id": "battle-of-nihawand",
@@ -97,11 +97,11 @@
     "year_end": null,
     "lat": 34.19,
     "lon": 48.37,
-    "name": {"ja": "ニハーヴァンドの戦い", "en": "Battle of Nahavand"},
-    "desc": {"ja": "正統カリフ軍がササン朝ペルシアの軍を決定的に破った。ササン朝は事実上崩壊し、651年に滅亡してイランはイスラーム世界に組み込まれた。", "en": "The Rashidun army decisively defeated the forces of Sasanian Persia. The Sasanian state effectively collapsed, fell in 651, and Iran was absorbed into the Islamic world."},
+    "name": {"ja":"ニハーヴァンドの戦い","en":"Battle of Nahavand"},
+    "desc": {"ja":"正統カリフ軍がササン朝ペルシアの軍を決定的に破った。ササン朝は事実上崩壊し、651年に滅亡してイランはイスラーム世界に組み込まれた。","en":"The Rashidun army decisively defeated the forces of Sasanian Persia. The Sasanian state effectively collapsed, fell in 651, and Iran was absorbed into the Islamic world."},
     "importance": 3,
     "persons": [],
-    "wiki": {"ja": "ニハーヴァンドの戦い", "en": "Battle of Nahavand"}
+    "wiki": {"ja":"ニハーヴァンドの戦い","en":"Battle of Nahavand"}
   },
   {
     "id": "taika-reform",
@@ -110,11 +110,11 @@
     "year_end": null,
     "lat": 34.47,
     "lon": 135.82,
-    "name": {"ja": "大化の改新", "en": "Taika Reform"},
-    "desc": {"ja": "中大兄皇子と中臣鎌足が蘇我氏を倒し、唐にならった中央集権的な律令国家の建設を始めた。公地公民制が原則とされた。", "en": "Prince Naka no Oe and Nakatomi no Kamatari overthrew the Soga clan and began building a centralized state on the Tang model, with land and people in principle belonging to the ruler."},
+    "name": {"ja":"大化の改新","en":"Taika Reform"},
+    "desc": {"ja":"中大兄皇子と中臣鎌足が蘇我氏を倒し、唐にならった中央集権的な律令国家の建設を始めた。公地公民制を原則とし、年号も初めて定められた。","en":"Prince Naka no Oe and Nakatomi no Kamatari overthrew the Soga clan and began building a centralized state on the Tang model, with land and people in principle belonging to the ruler."},
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "大化の改新", "en": "Taika Reform"}
+    "wiki": {"ja":"大化の改新","en":"Taika Reform"}
   },
   {
     "id": "umayyad-caliphate",
@@ -123,24 +123,24 @@
     "year_end": null,
     "lat": 33.51,
     "lon": 36.29,
-    "name": {"ja": "ウマイヤ朝の成立", "en": "Founding of the Umayyad Caliphate"},
-    "desc": {"ja": "第4代カリフのアリーが暗殺されると、シリア総督ムアーウィヤがカリフとなりダマスクスを都とした。カリフ位は世襲化され、アラブ人優位の体制が続いた。", "en": "After the assassination of the fourth caliph Ali, the governor of Syria Mu'awiya became caliph with Damascus as capital. The caliphate became hereditary and Arabs held a privileged position."},
+    "name": {"ja":"ウマイヤ朝の成立","en":"Founding of the Umayyad Caliphate"},
+    "desc": {"ja":"第4代カリフのアリーが暗殺されると、シリア総督ムアーウィヤがカリフとなりダマスクスを都とした。カリフ位は世襲化され、アラブ人優位の体制が続いた。","en":"After the assassination of the fourth caliph Ali, the governor of Syria Mu'awiya became caliph with Damascus as capital. The caliphate became hereditary and Arabs held a privileged position."},
     "importance": 3,
     "persons": ["muawiya"],
-    "wiki": {"ja": "ウマイヤ朝", "en": "Umayyad Caliphate"}
+    "wiki": {"ja":"ウマイヤ朝","en":"Umayyad Caliphate"}
   },
   {
     "id": "battle-of-baekgang",
     "type": "battle",
     "year": 663,
     "year_end": null,
-    "lat": 36.0,
+    "lat": 36,
     "lon": 126.7,
-    "name": {"ja": "白村江の戦い", "en": "Battle of Baekgang"},
-    "desc": {"ja": "660年に滅んだ百済の復興を支援した倭(日本)の水軍が、唐・新羅の連合軍に大敗した。日本は朝鮮半島から撤退し、国防と律令整備を急いだ。", "en": "A Japanese fleet sent to restore Baekje, which had fallen in 660, was crushed by the allied Tang and Silla forces. Japan withdrew from Korea and hastened its defenses and legal reforms."},
+    "name": {"ja":"白村江の戦い","en":"Battle of Baekgang"},
+    "desc": {"ja":"660年に滅んだ百済の復興を支援した倭(日本)の水軍が、唐・新羅の連合軍に大敗した。日本は朝鮮半島から撤退し、国防と律令整備を急いだ。","en":"A Japanese fleet sent to restore Baekje, which had fallen in 660, was crushed by the allied Tang and Silla forces. Japan withdrew from Korea and hastened its defenses and legal reforms."},
     "importance": 1,
     "persons": [],
-    "wiki": {"ja": "白村江の戦い", "en": "Battle of Baekgang"}
+    "wiki": {"ja":"白村江の戦い","en":"Battle of Baekgang"}
   },
   {
     "id": "srivijaya-rise",
@@ -149,11 +149,11 @@
     "year_end": null,
     "lat": -2.99,
     "lon": 104.76,
-    "name": {"ja": "シュリーヴィジャヤの繁栄", "en": "Rise of Srivijaya"},
-    "desc": {"ja": "スマトラ島パレンバンを中心とするシュリーヴィジャヤがマラッカ海峡の交易を掌握した。唐僧義浄が滞在し、大乗仏教の盛んな様子を記した。", "en": "Srivijaya, centered on Palembang in Sumatra, came to control trade through the Strait of Malacca. The Tang pilgrim Yijing stayed there and described its flourishing Mahayana Buddhism."},
+    "name": {"ja":"シュリーヴィジャヤの繁栄","en":"Rise of Srivijaya"},
+    "desc": {"ja":"スマトラ島パレンバンを中心とするシュリーヴィジャヤがマラッカ海峡の交易を掌握した。唐僧義浄が滞在し、大乗仏教の盛んな様子を記した。","en":"Srivijaya, centered on Palembang in Sumatra, came to control trade through the Strait of Malacca. The Tang pilgrim Yijing stayed there and described its flourishing Mahayana Buddhism."},
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "シュリーヴィジャヤ王国", "en": "Srivijaya"}
+    "wiki": {"ja":"シュリーヴィジャヤ王国","en":"Srivijaya"}
   },
   {
     "id": "silla-unification",
@@ -162,11 +162,11 @@
     "year_end": null,
     "lat": 35.84,
     "lon": 129.21,
-    "name": {"ja": "新羅の朝鮮半島統一", "en": "Silla unifies the Korean peninsula"},
-    "desc": {"ja": "新羅は唐と結んで百済・高句麗を滅ぼしたのち、唐の勢力を半島から追い出して大同江以南を統一した。慶州を都に骨品制による貴族政治を行った。", "en": "Allied with Tang, Silla destroyed Baekje and Goguryeo, then expelled Tang forces and unified the peninsula south of the Taedong River, ruling from Gyeongju through the bone-rank aristocracy."},
+    "name": {"ja":"新羅の朝鮮半島統一","en":"Silla unifies the Korean peninsula"},
+    "desc": {"ja":"新羅は唐と結んで百済・高句麗を滅ぼしたのち、唐の勢力を半島から追い出して大同江以南を統一した。慶州を都に骨品制による貴族政治を行った。","en":"Allied with Tang, Silla destroyed Baekje and Goguryeo, then expelled Tang forces and unified the peninsula south of the Taedong River, ruling from Gyeongju through the bone-rank aristocracy."},
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "統一新羅", "en": "Unified Silla"}
+    "wiki": {"ja":"統一新羅","en":"Unified Silla"}
   },
   {
     "id": "battle-of-karbala",
@@ -175,11 +175,11 @@
     "year_end": null,
     "lat": 32.61,
     "lon": 44.02,
-    "name": {"ja": "カルバラーの戦い", "en": "Battle of Karbala"},
-    "desc": {"ja": "アリーの子フサインがウマイヤ朝軍に包囲されて殺害された。アリーとその子孫のみを指導者と認めるシーア派は、この事件を殉教として記憶した。", "en": "Husayn, son of Ali, was surrounded and killed by Umayyad forces. The Shi'a, who recognize only Ali and his descendants as rightful leaders, remember the event as a martyrdom."},
+    "name": {"ja":"カルバラーの戦い","en":"Battle of Karbala"},
+    "desc": {"ja":"アリーの子フサインがウマイヤ朝軍に包囲されて殺害された。アリーとその子孫のみを指導者と認めるシーア派は、この事件を殉教として記憶した。","en":"Husayn, son of Ali, was surrounded and killed by Umayyad forces. The Shi'a, who recognize only Ali and his descendants as rightful leaders, remember the event as a martyrdom."},
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "カルバラーの戦い", "en": "Battle of Karbala"}
+    "wiki": {"ja":"カルバラーの戦い","en":"Battle of Karbala"}
   },
   {
     "id": "wu-zetian-zhou",
@@ -188,11 +188,11 @@
     "year_end": null,
     "lat": 34.68,
     "lon": 112.45,
-    "name": {"ja": "則天武后の即位", "en": "Wu Zetian proclaims the Zhou dynasty"},
-    "desc": {"ja": "高宗の皇后であった武后が自ら帝位につき国号を周と改めた。中国史上唯一の女帝で、科挙官僚を登用して貴族勢力を抑えた。", "en": "Empress Wu, consort of Emperor Gaozong, took the throne herself and renamed the dynasty Zhou. China's only female emperor, she promoted examination graduates to curb the aristocracy."},
+    "name": {"ja":"則天武后の即位","en":"Wu Zetian proclaims the Zhou dynasty"},
+    "desc": {"ja":"高宗の皇后であった武后が自ら帝位につき国号を周と改めた。中国史上唯一の女帝で、科挙出身の官僚を登用して旧来の貴族勢力を抑えた。","en":"Empress Wu, consort of Emperor Gaozong, took the throne herself and renamed the dynasty Zhou. China's only female emperor, she promoted examination graduates to curb the aristocracy."},
     "importance": 2,
     "persons": ["wu-zetian"],
-    "wiki": {"ja": "武周", "en": "Wu Zhou"}
+    "wiki": {"ja":"武周","en":"Wu Zhou"}
   },
   {
     "id": "balhae-founding",
@@ -201,11 +201,11 @@
     "year_end": null,
     "lat": 43.37,
     "lon": 128.24,
-    "name": {"ja": "渤海の建国", "en": "Founding of Balhae"},
-    "desc": {"ja": "高句麗の遺民大祚栄が靺鞨人を率いて中国東北地方に渤海を建てた。唐の制度と文化を取り入れ「海東の盛国」と呼ばれ、日本とも交流した。", "en": "Dae Joyeong, a Goguryeo survivor, led the Mohe peoples in founding Balhae in Manchuria. Adopting Tang institutions and culture, it was called the 'flourishing land of the east' and traded with Japan."},
+    "name": {"ja":"渤海の建国","en":"Founding of Balhae"},
+    "desc": {"ja":"高句麗の遺民大祚栄が靺鞨人を率いて中国東北地方に渤海を建てた。唐の制度と文化を取り入れ「海東の盛国」と呼ばれ、日本とも交流した。","en":"Dae Joyeong, a Goguryeo survivor, led the Mohe peoples in founding Balhae in Manchuria. Adopting Tang institutions and culture, it was called the 'flourishing land of the east' and traded with Japan."},
     "importance": 1,
     "persons": [],
-    "wiki": {"ja": "渤海 (国)", "en": "Balhae"}
+    "wiki": {"ja":"渤海 (国)","en":"Balhae"}
   },
   {
     "id": "tiwanaku-peak",
@@ -214,11 +214,11 @@
     "year_end": null,
     "lat": -16.55,
     "lon": -68.67,
-    "name": {"ja": "ティワナク文化の最盛期", "en": "Height of Tiwanaku"},
-    "desc": {"ja": "ティティカカ湖南岸のティワナクが巨石建築を持つ祭祀都市として栄え、アンデス高地に広く影響を及ぼした。", "en": "Tiwanaku on the southern shore of Lake Titicaca flourished as a ceremonial city with monumental stone architecture, exerting wide influence over the Andean highlands."},
+    "name": {"ja":"ティワナク文化の最盛期","en":"Height of Tiwanaku"},
+    "desc": {"ja":"ティティカカ湖南岸のティワナクが巨石建築を持つ祭祀都市として栄え、アンデス高地に広く影響を及ぼした。のちのインカ帝国の文化の源流の一つとされる。","en":"Tiwanaku on the southern shore of Lake Titicaca flourished as a ceremonial city with monumental stone architecture, exerting wide influence over the Andean highlands."},
     "importance": 1,
     "persons": [],
-    "wiki": {"ja": "ティワナク", "en": "Tiwanaku"}
+    "wiki": {"ja":"ティワナク","en":"Tiwanaku"}
   },
   {
     "id": "heijo-kyo",
@@ -226,12 +226,12 @@
     "year": 710,
     "year_end": null,
     "lat": 34.69,
-    "lon": 135.80,
-    "name": {"ja": "平城京遷都", "en": "Capital moved to Heijo-kyo (Nara)"},
-    "desc": {"ja": "唐の長安を模した平城京に遷都し、奈良時代が始まった。大宝律令による律令国家のもとで、唐風の天平文化が栄えた。", "en": "The capital was moved to Heijo-kyo, modeled on Tang Chang'an, beginning the Nara period. Under the Taiho Code the state flourished and Tang-style Tenpyo culture bloomed."},
+    "lon": 135.8,
+    "name": {"ja":"平城京遷都","en":"Capital moved to Heijo-kyo (Nara)"},
+    "desc": {"ja":"唐の長安を模した平城京に遷都し、奈良時代が始まった。大宝律令による律令国家のもとで、遣唐使がもたらした唐風の天平文化が栄えた。","en":"The capital was moved to Heijo-kyo, modeled on Tang Chang'an, beginning the Nara period. Under the Taiho Code the state flourished and Tang-style Tenpyo culture bloomed."},
     "importance": 1,
     "persons": [],
-    "wiki": {"ja": "平城京", "en": "Heijō-kyō"}
+    "wiki": {"ja":"平城京","en":"Heijō-kyō"}
   },
   {
     "id": "conquest-of-iberia",
@@ -239,12 +239,12 @@
     "year": 711,
     "year_end": null,
     "lat": 36.6,
-    "lon": -6.0,
-    "name": {"ja": "西ゴート王国の滅亡", "en": "Muslim conquest of the Visigothic kingdom"},
-    "desc": {"ja": "ウマイヤ朝の軍がジブラルタル海峡を渡ってイベリア半島に侵入し、西ゴート王国を滅ぼした。半島の大部分がイスラーム支配下に入った。", "en": "An Umayyad army crossed the Strait of Gibraltar and destroyed the Visigothic kingdom. Most of the Iberian peninsula came under Muslim rule."},
+    "lon": -6,
+    "name": {"ja":"西ゴート王国の滅亡","en":"Muslim conquest of the Visigothic kingdom"},
+    "desc": {"ja":"ウマイヤ朝の軍がジブラルタル海峡を渡ってイベリア半島に侵入し、西ゴート王国を滅ぼした。半島の大部分がイスラーム支配下に入った。","en":"An Umayyad army crossed the Strait of Gibraltar and destroyed the Visigothic kingdom. Most of the Iberian peninsula came under Muslim rule."},
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "西ゴート王国", "en": "Umayyad conquest of Hispania"}
+    "wiki": {"ja":"西ゴート王国","en":"Umayyad conquest of Hispania"}
   },
   {
     "id": "iconoclasm",
@@ -253,11 +253,11 @@
     "year_end": null,
     "lat": 41.01,
     "lon": 28.98,
-    "name": {"ja": "聖像禁止令", "en": "Byzantine iconoclasm begins"},
-    "desc": {"ja": "ビザンツ皇帝レオン3世が聖像崇拝を禁止した。ゲルマン人布教に聖像を用いていたローマ教会は反発し、東西教会の対立が深まった。", "en": "Emperor Leo III banned the veneration of icons. The Roman church, which used images to convert the Germanic peoples, objected, deepening the rift between the eastern and western churches."},
+    "name": {"ja":"聖像禁止令","en":"Byzantine iconoclasm begins"},
+    "desc": {"ja":"ビザンツ皇帝レオン3世が聖像崇拝を禁止した。ゲルマン人布教に聖像を用いていたローマ教会は反発し、東西教会の対立が深まった。","en":"Emperor Leo III banned the veneration of icons. The Roman church, which used images to convert the Germanic peoples, objected, deepening the rift between the eastern and western churches."},
     "importance": 3,
     "persons": ["leo-iii"],
-    "wiki": {"ja": "聖像破壊運動", "en": "Byzantine Iconoclasm"}
+    "wiki": {"ja":"聖像破壊運動","en":"Byzantine Iconoclasm"}
   },
   {
     "id": "battle-of-tours",
@@ -266,11 +266,11 @@
     "year_end": null,
     "lat": 46.8,
     "lon": 0.5,
-    "name": {"ja": "トゥール＝ポワティエ間の戦い", "en": "Battle of Tours"},
-    "desc": {"ja": "フランク王国の宮宰カール＝マルテルが、イベリア半島から北上したウマイヤ朝軍を撃退した。西欧へのイスラーム勢力の進出はここで止まった。", "en": "Charles Martel, mayor of the palace of the Franks, repelled an Umayyad army advancing from Iberia. Muslim expansion into western Europe was halted here."},
+    "name": {"ja":"トゥール＝ポワティエ間の戦い","en":"Battle of Tours"},
+    "desc": {"ja":"フランク王国の宮宰カール＝マルテルが、イベリア半島から北上したウマイヤ朝軍を撃退した。西欧へのイスラーム勢力の進出はここで止まった。","en":"Charles Martel, mayor of the palace of the Franks, repelled an Umayyad army advancing from Iberia. Muslim expansion into western Europe was halted here."},
     "importance": 3,
     "persons": ["charles-martel"],
-    "wiki": {"ja": "トゥール・ポワティエ間の戦い", "en": "Battle of Tours"}
+    "wiki": {"ja":"トゥール・ポワティエ間の戦い","en":"Battle of Tours"}
   },
   {
     "id": "nanzhao-founding",
@@ -279,11 +279,11 @@
     "year_end": null,
     "lat": 25.61,
     "lon": 100.27,
-    "name": {"ja": "南詔の統一", "en": "Unification of Nanzhao"},
-    "desc": {"ja": "雲南の六詔を統一した南詔が唐から冊封を受け、大理盆地を中心に勢力を広げた。唐と吐蕃の間で巧みに立ち回り、仏教文化が栄えた。", "en": "Nanzhao, having united the six chiefdoms of Yunnan, was recognized by the Tang and expanded from the Dali basin. It maneuvered between Tang and Tibet while Buddhist culture flourished."},
+    "name": {"ja":"南詔の統一","en":"Unification of Nanzhao"},
+    "desc": {"ja":"雲南の六詔を統一した南詔が唐から冊封を受け、大理盆地を中心に勢力を広げた。唐と吐蕃の間で巧みに立ち回り、仏教文化が栄えた。","en":"Nanzhao, having united the six chiefdoms of Yunnan, was recognized by the Tang and expanded from the Dali basin. It maneuvered between Tang and Tibet while Buddhist culture flourished."},
     "importance": 1,
     "persons": [],
-    "wiki": {"ja": "南詔", "en": "Nanzhao"}
+    "wiki": {"ja":"南詔","en":"Nanzhao"}
   },
   {
     "id": "uyghur-khaganate",
@@ -292,11 +292,11 @@
     "year_end": null,
     "lat": 47.43,
     "lon": 102.65,
-    "name": {"ja": "ウイグルの建国", "en": "Founding of the Uyghur Khaganate"},
-    "desc": {"ja": "トルコ系のウイグルが東突厥を倒してモンゴル高原を支配した。安史の乱では唐を援助し、マニ教を受容して遊牧国家として栄えた。", "en": "The Turkic Uyghurs overthrew the Eastern Turks and took control of the Mongolian steppe. They aided the Tang during the An Lushan rebellion and adopted Manichaeism."},
+    "name": {"ja":"ウイグルの建国","en":"Founding of the Uyghur Khaganate"},
+    "desc": {"ja":"トルコ系のウイグルが東突厥を倒してモンゴル高原を支配した。安史の乱では唐を援助し、マニ教を受容して遊牧国家として栄えた。","en":"The Turkic Uyghurs overthrew the Eastern Turks and took control of the Mongolian steppe. They aided the Tang during the An Lushan rebellion and adopted Manichaeism."},
     "importance": 1,
     "persons": [],
-    "wiki": {"ja": "回鶻", "en": "Uyghur Khaganate"}
+    "wiki": {"ja":"回鶻","en":"Uyghur Khaganate"}
   },
   {
     "id": "abbasid-revolution",
@@ -304,12 +304,12 @@
     "year": 750,
     "year_end": null,
     "lat": 32.03,
-    "lon": 44.40,
-    "name": {"ja": "アッバース朝の成立", "en": "Abbasid Revolution"},
-    "desc": {"ja": "ムハンマドの叔父の子孫アッバース家が、アラブ人優遇に不満を持つ改宗者やシーア派を味方につけてウマイヤ朝を倒した。ムスリムの平等が原則となった。", "en": "The Abbasids, descendants of Muhammad's uncle, won the support of discontented converts and Shi'a and overthrew the Umayyads. Equality among Muslims became the principle of rule."},
+    "lon": 44.4,
+    "name": {"ja":"アッバース朝の成立","en":"Abbasid Revolution"},
+    "desc": {"ja":"ムハンマドの叔父の子孫アッバース家が、アラブ人優遇に不満を持つ改宗者やシーア派を味方につけてウマイヤ朝を倒した。ムスリムの平等が原則となった。","en":"The Abbasids, descendants of Muhammad's uncle, won the support of discontented converts and Shi'a and overthrew the Umayyads. Equality among Muslims became the principle of rule."},
     "importance": 3,
     "persons": ["al-mansur"],
-    "wiki": {"ja": "アッバース革命", "en": "Abbasid Revolution"}
+    "wiki": {"ja":"アッバース革命","en":"Abbasid Revolution"}
   },
   {
     "id": "pepin-carolingian",
@@ -318,11 +318,11 @@
     "year_end": null,
     "lat": 49.38,
     "lon": 3.32,
-    "name": {"ja": "カロリング朝の成立", "en": "Pepin founds the Carolingian dynasty"},
-    "desc": {"ja": "宮宰ピピンが教皇の承認を得てメロヴィング朝の王を廃し、自らフランク王となった。返礼にランゴバルドから奪ったラヴェンナ地方を教皇に寄進し、教皇領の起源となった。", "en": "With papal approval, the mayor Pepin deposed the last Merovingian king and became king of the Franks. In return he donated Ravenna, taken from the Lombards, to the pope, the origin of the Papal States."},
+    "name": {"ja":"カロリング朝の成立","en":"Pepin founds the Carolingian dynasty"},
+    "desc": {"ja":"宮宰ピピンが教皇の承認を得てメロヴィング朝の王を廃し、自らフランク王となった。返礼にランゴバルドから奪ったラヴェンナ地方を教皇に寄進し、教皇領の起源となった。","en":"With papal approval, the mayor Pepin deposed the last Merovingian king and became king of the Franks. In return he donated Ravenna, taken from the Lombards, to the pope, the origin of the Papal States."},
     "importance": 2,
     "persons": ["pepin"],
-    "wiki": {"ja": "カロリング朝", "en": "Carolingian dynasty"}
+    "wiki": {"ja":"カロリング朝","en":"Carolingian dynasty"}
   },
   {
     "id": "battle-of-talas",
@@ -331,24 +331,24 @@
     "year_end": null,
     "lat": 42.52,
     "lon": 72.24,
-    "name": {"ja": "タラス河畔の戦い", "en": "Battle of Talas"},
-    "desc": {"ja": "中央アジアに進出した唐軍がアッバース朝軍に敗れた。唐の西域支配は後退し、捕虜を通じて製紙法がイスラーム世界に伝わったとされる。", "en": "A Tang army advancing into Central Asia was defeated by Abbasid forces. Tang influence in the region receded, and papermaking is said to have reached the Islamic world through captives."},
+    "name": {"ja":"タラス河畔の戦い","en":"Battle of Talas"},
+    "desc": {"ja":"中央アジアに進出した唐軍がアッバース朝軍に敗れた。唐の西域支配は後退し、捕虜を通じて製紙法がイスラーム世界に伝わったとされる。","en":"A Tang army advancing into Central Asia was defeated by Abbasid forces. Tang influence in the region receded, and papermaking is said to have reached the Islamic world through captives."},
     "importance": 3,
     "persons": [],
-    "wiki": {"ja": "タラス河畔の戦い", "en": "Battle of Talas"}
+    "wiki": {"ja":"タラス河畔の戦い","en":"Battle of Talas"}
   },
   {
     "id": "an-lushan-rebellion",
     "type": "revolution",
     "year": 755,
     "year_end": 763,
-    "lat": 39.90,
-    "lon": 116.40,
-    "name": {"ja": "安史の乱", "en": "An Lushan Rebellion"},
-    "desc": {"ja": "節度使の安禄山と部下の史思明が挙兵し、長安・洛陽を占領した。ウイグルの援軍で鎮圧されたが、唐は節度使の自立を許し律令体制は崩れた。", "en": "The military governor An Lushan and his subordinate Shi Siming revolted and seized Chang'an and Luoyang. Though suppressed with Uyghur help, the Tang lost control over its governors and the ritsuryo order collapsed."},
+    "lat": 39.9,
+    "lon": 116.4,
+    "name": {"ja":"安史の乱","en":"An Lushan Rebellion"},
+    "desc": {"ja":"節度使の安禄山と部下の史思明が挙兵し、長安・洛陽を占領した。ウイグルの援軍で鎮圧されたが、唐は節度使の自立を許し律令体制は崩れた。","en":"The military governor An Lushan and his subordinate Shi Siming revolted and seized Chang'an and Luoyang. Though suppressed with Uyghur help, the Tang lost control over its governors and the ritsuryo order collapsed."},
     "importance": 3,
-    "persons": ["an-lushan", "tang-xuanzong"],
-    "wiki": {"ja": "安史の乱", "en": "An Lushan rebellion"}
+    "persons": ["an-lushan","tang-xuanzong"],
+    "wiki": {"ja":"安史の乱","en":"An Lushan rebellion"}
   },
   {
     "id": "umayyad-emirate-cordoba",
@@ -357,11 +357,11 @@
     "year_end": null,
     "lat": 37.88,
     "lon": -4.78,
-    "name": {"ja": "後ウマイヤ朝の成立", "en": "Founding of the Umayyad emirate of Córdoba"},
-    "desc": {"ja": "アッバース朝に滅ぼされたウマイヤ家の生き残りがイベリア半島に逃れ、コルドバを都に後ウマイヤ朝を建てた。10世紀にはカリフを称して繁栄した。", "en": "A survivor of the Umayyad house fled to Iberia and founded a new Umayyad state at Córdoba. In the tenth century its rulers claimed the caliphate and the city flourished."},
+    "name": {"ja":"後ウマイヤ朝の成立","en":"Founding of the Umayyad emirate of Córdoba"},
+    "desc": {"ja":"アッバース朝に滅ぼされたウマイヤ家の生き残りがイベリア半島に逃れ、コルドバを都に後ウマイヤ朝を建てた。10世紀にはカリフを称して繁栄した。","en":"A survivor of the Umayyad house fled to Iberia and founded a new Umayyad state at Córdoba. In the tenth century its rulers claimed the caliphate and the city flourished."},
     "importance": 2,
     "persons": ["abd-al-rahman-iii"],
-    "wiki": {"ja": "後ウマイヤ朝", "en": "Emirate of Córdoba"}
+    "wiki": {"ja":"後ウマイヤ朝","en":"Emirate of Córdoba"}
   },
   {
     "id": "founding-of-baghdad",
@@ -369,12 +369,12 @@
     "year": 762,
     "year_end": null,
     "lat": 33.34,
-    "lon": 44.40,
-    "name": {"ja": "バグダードの建設", "en": "Founding of Baghdad"},
-    "desc": {"ja": "アッバース朝第2代カリフのマンスールがティグリス川のほとりに円形の新都バグダードを建設した。イスラーム世界の政治・経済・文化の中心として繁栄した。", "en": "The second Abbasid caliph al-Mansur built the circular new capital of Baghdad on the Tigris. It became the political, economic and cultural center of the Islamic world."},
+    "lon": 44.4,
+    "name": {"ja":"バグダードの建設","en":"Founding of Baghdad"},
+    "desc": {"ja":"アッバース朝第2代カリフのマンスールがティグリス川のほとりに円形の新都バグダードを建設した。イスラーム世界の政治・経済・文化の中心として繁栄した。","en":"The second Abbasid caliph al-Mansur built the circular new capital of Baghdad on the Tigris. It became the political, economic and cultural center of the Islamic world."},
     "importance": 3,
     "persons": ["al-mansur"],
-    "wiki": {"ja": "バグダード", "en": "Round City of Baghdad"}
+    "wiki": {"ja":"バグダード","en":"Round City of Baghdad"}
   },
   {
     "id": "two-tax-law",
@@ -383,11 +383,11 @@
     "year_end": null,
     "lat": 34.27,
     "lon": 108.94,
-    "name": {"ja": "両税法の施行", "en": "Introduction of the Two-Tax System"},
-    "desc": {"ja": "均田制の崩壊を受け、宰相楊炎の建議で所有する土地や資産に応じて夏と秋の2回に課税する両税法が始まった。以後の中国税制の基本となった。", "en": "As the equal-field system collapsed, the chancellor Yang Yan introduced a tax levied twice a year, in summer and autumn, according to land and property owned. It became the basis of later Chinese taxation."},
+    "name": {"ja":"両税法の施行","en":"Introduction of the Two-Tax System"},
+    "desc": {"ja":"均田制の崩壊を受け、宰相楊炎の建議で所有する土地や資産に応じて夏と秋の2回に課税する両税法が始まった。以後の中国税制の基本となった。","en":"As the equal-field system collapsed, the chancellor Yang Yan introduced a tax levied twice a year, in summer and autumn, according to land and property owned. It became the basis of later Chinese taxation."},
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "両税法", "en": "Two-tax system"}
+    "wiki": {"ja":"両税法","en":"Two-tax system"}
   },
   {
     "id": "harun-al-rashid-accession",
@@ -395,12 +395,12 @@
     "year": 786,
     "year_end": null,
     "lat": 33.34,
-    "lon": 44.40,
-    "name": {"ja": "ハールーン＝アッラシードの即位", "en": "Accession of Harun al-Rashid"},
-    "desc": {"ja": "アッバース朝第5代カリフのハールーン＝アッラシードが即位し、バグダードは最盛期を迎えた。『千夜一夜物語』にも登場し、カール大帝とも使節を交換した。", "en": "Harun al-Rashid became the fifth Abbasid caliph, and Baghdad reached its zenith. He figures in the Arabian Nights and exchanged envoys with Charlemagne."},
+    "lon": 44.4,
+    "name": {"ja":"ハールーン＝アッラシードの即位","en":"Accession of Harun al-Rashid"},
+    "desc": {"ja":"アッバース朝第5代カリフのハールーン＝アッラシードが即位し、バグダードは最盛期を迎えた。『千夜一夜物語』にも登場し、カール大帝とも使節を交換した。","en":"Harun al-Rashid became the fifth Abbasid caliph, and Baghdad reached its zenith. He figures in the Arabian Nights and exchanged envoys with Charlemagne."},
     "importance": 2,
     "persons": ["harun-al-rashid"],
-    "wiki": {"ja": "ハールーン・アッラシード", "en": "Harun al-Rashid"}
+    "wiki": {"ja":"ハールーン・アッラシード","en":"Harun al-Rashid"}
   },
   {
     "id": "heian-kyo",
@@ -409,24 +409,24 @@
     "year_end": null,
     "lat": 35.01,
     "lon": 135.77,
-    "name": {"ja": "平安京遷都", "en": "Capital moved to Heian-kyo (Kyoto)"},
-    "desc": {"ja": "桓武天皇が平安京に都を移し、平安時代が始まった。以後、藤原氏の摂関政治と仮名文字による国風文化が発展した。", "en": "Emperor Kanmu moved the capital to Heian-kyo, beginning the Heian period. The Fujiwara regency and a native culture using kana script developed thereafter."},
+    "name": {"ja":"平安京遷都","en":"Capital moved to Heian-kyo (Kyoto)"},
+    "desc": {"ja":"桓武天皇が長岡京に続いて平安京に都を移し、平安時代が始まった。以後、藤原氏の摂関政治のもとで、仮名文字による国風文化が発展した。","en":"Emperor Kanmu moved the capital to Heian-kyo, beginning the Heian period. The Fujiwara regency and a native culture using kana script developed thereafter."},
     "importance": 1,
     "persons": [],
-    "wiki": {"ja": "平安京", "en": "Heian-kyō"}
+    "wiki": {"ja":"平安京","en":"Heian-kyō"}
   },
   {
     "id": "charlemagne-coronation",
     "type": "politics",
     "year": 800,
     "year_end": null,
-    "lat": 41.90,
+    "lat": 41.9,
     "lon": 12.45,
-    "name": {"ja": "カールの戴冠", "en": "Coronation of Charlemagne"},
-    "desc": {"ja": "教皇レオ3世がローマでフランク王カールにローマ皇帝の帝冠を授けた。西ローマ帝国の復活とされ、ローマ教会はビザンツ帝国から独立した西欧世界の中心となった。", "en": "Pope Leo III crowned the Frankish king Charles as Roman emperor in Rome. Seen as a revival of the Western Empire, it made the Roman church the center of a western world independent of Byzantium."},
+    "name": {"ja":"カールの戴冠","en":"Coronation of Charlemagne"},
+    "desc": {"ja":"教皇レオ3世がローマでフランク王カールにローマ皇帝の帝冠を授けた。西ローマ帝国の復活とされ、ローマ教会はビザンツ帝国から独立した西欧世界の中心となった。","en":"Pope Leo III crowned the Frankish king Charles as Roman emperor in Rome. Seen as a revival of the Western Empire, it made the Roman church the center of a western world independent of Byzantium."},
     "importance": 3,
     "persons": ["charlemagne"],
-    "wiki": {"ja": "カール大帝", "en": "Coronation of Charlemagne"}
+    "wiki": {"ja":"カール大帝","en":"Coronation of Charlemagne"}
   },
   {
     "id": "ghana-empire",
@@ -435,11 +435,11 @@
     "year_end": null,
     "lat": 15.77,
     "lon": -7.97,
-    "name": {"ja": "ガーナ王国の繁栄", "en": "Flourishing of the Ghana Empire"},
-    "desc": {"ja": "西アフリカのニジェール川上流域にガーナ王国が栄え、サハラを越えてくるムスリム商人の岩塩と自国の金を交換した。11世紀にムラービト朝の攻撃で衰えた。", "en": "The Ghana Empire flourished on the upper Niger, exchanging its gold for salt brought by Muslim merchants across the Sahara. It declined after Almoravid attacks in the eleventh century."},
+    "name": {"ja":"ガーナ王国の繁栄","en":"Flourishing of the Ghana Empire"},
+    "desc": {"ja":"西アフリカのニジェール川上流域にガーナ王国が栄え、サハラを越えてくるムスリム商人の岩塩と自国の金を交換した。11世紀にムラービト朝の攻撃で衰えた。","en":"The Ghana Empire flourished on the upper Niger, exchanging its gold for salt brought by Muslim merchants across the Sahara. It declined after Almoravid attacks in the eleventh century."},
     "importance": 3,
     "persons": [],
-    "wiki": {"ja": "ガーナ王国", "en": "Ghana Empire"}
+    "wiki": {"ja":"ガーナ王国","en":"Ghana Empire"}
   },
   {
     "id": "borobudur",
@@ -447,12 +447,12 @@
     "year": 800,
     "year_end": null,
     "lat": -7.61,
-    "lon": 110.20,
-    "name": {"ja": "ボロブドゥールの建立", "en": "Construction of Borobudur"},
-    "desc": {"ja": "ジャワ島中部のシャイレンドラ朝が大乗仏教の大石造遺跡ボロブドゥールを建立した。方形と円形の基壇を重ねた世界最大級の仏教建築である。", "en": "The Shailendra dynasty of central Java built Borobudur, a vast stone monument of Mahayana Buddhism. Its tiers of square and circular terraces form one of the largest Buddhist structures in the world."},
+    "lon": 110.2,
+    "name": {"ja":"ボロブドゥールの建立","en":"Construction of Borobudur"},
+    "desc": {"ja":"ジャワ島中部のシャイレンドラ朝が大乗仏教の大石造遺跡ボロブドゥールを建立した。方形と円形の基壇を重ねた世界最大級の仏教建築である。","en":"The Shailendra dynasty of central Java built Borobudur, a vast stone monument of Mahayana Buddhism. Its tiers of square and circular terraces form one of the largest Buddhist structures in the world."},
     "importance": 1,
     "persons": [],
-    "wiki": {"ja": "ボロブドゥール遺跡", "en": "Borobudur"}
+    "wiki": {"ja":"ボロブドゥール遺跡","en":"Borobudur"}
   },
   {
     "id": "angkor-founding",
@@ -461,11 +461,11 @@
     "year_end": null,
     "lat": 13.58,
     "lon": 104.09,
-    "name": {"ja": "アンコール朝の成立", "en": "Founding of the Angkor dynasty"},
-    "desc": {"ja": "ジャヤヴァルマン2世がジャワの支配から自立してカンボジア(真臘)を再統一し、アンコール朝が始まった。王は神王として崇められた。", "en": "Jayavarman II threw off Javanese overlordship, reunified Cambodia and founded the Angkor dynasty. The king was revered as a god-king."},
+    "name": {"ja":"アンコール朝の成立","en":"Founding of the Angkor dynasty"},
+    "desc": {"ja":"ジャヤヴァルマン2世がジャワの支配から自立してカンボジア(真臘)を再統一し、アンコール朝が始まった。王は神王として崇められた。","en":"Jayavarman II threw off Javanese overlordship, reunified Cambodia and founded the Angkor dynasty. The king was revered as a god-king."},
     "importance": 1,
     "persons": [],
-    "wiki": {"ja": "クメール王朝", "en": "Khmer Empire"}
+    "wiki": {"ja":"クメール王朝","en":"Khmer Empire"}
   },
   {
     "id": "house-of-wisdom",
@@ -473,12 +473,12 @@
     "year": 830,
     "year_end": null,
     "lat": 33.34,
-    "lon": 44.40,
-    "name": {"ja": "知恵の館の設立", "en": "House of Wisdom in Baghdad"},
-    "desc": {"ja": "カリフのマームーンがバグダードに「知恵の館」を設け、ギリシア語の哲学・医学・天文学の文献を組織的にアラビア語へ翻訳させた。イスラーム科学の基礎となった。", "en": "Caliph al-Ma'mun established the House of Wisdom in Baghdad, where Greek works of philosophy, medicine and astronomy were systematically translated into Arabic, laying the foundation of Islamic science."},
+    "lon": 44.4,
+    "name": {"ja":"知恵の館の設立","en":"House of Wisdom in Baghdad"},
+    "desc": {"ja":"カリフのマームーンがバグダードに「知恵の館」を設け、ギリシア語の哲学・医学・天文学の文献を組織的にアラビア語へ翻訳させた。イスラーム科学の基礎となった。","en":"Caliph al-Ma'mun established the House of Wisdom in Baghdad, where Greek works of philosophy, medicine and astronomy were systematically translated into Arabic, laying the foundation of Islamic science."},
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "知恵の館", "en": "House of Wisdom"}
+    "wiki": {"ja":"知恵の館","en":"House of Wisdom"}
   },
   {
     "id": "treaty-of-verdun",
@@ -487,11 +487,11 @@
     "year_end": null,
     "lat": 49.16,
     "lon": 5.38,
-    "name": {"ja": "ヴェルダン条約", "en": "Treaty of Verdun"},
-    "desc": {"ja": "カール大帝の孫3人がフランク王国を東フランク・西フランク・中部フランク(イタリア)に分割した。のちのドイツ・フランス・イタリアの原型となった。", "en": "Charlemagne's three grandsons divided the Frankish kingdom into East Francia, West Francia and a middle kingdom with Italy, the prototype of Germany, France and Italy."},
+    "name": {"ja":"ヴェルダン条約","en":"Treaty of Verdun"},
+    "desc": {"ja":"カール大帝の孫3人がフランク王国を東フランク・西フランク・中部フランク(イタリア)に分割した。のちのドイツ・フランス・イタリアの原型となった。","en":"Charlemagne's three grandsons divided the Frankish kingdom into East Francia, West Francia and a middle kingdom with Italy, the prototype of Germany, France and Italy."},
     "importance": 3,
     "persons": [],
-    "wiki": {"ja": "ヴェルダン条約", "en": "Treaty of Verdun"}
+    "wiki": {"ja":"ヴェルダン条約","en":"Treaty of Verdun"}
   },
   {
     "id": "novgorod-rurik",
@@ -500,11 +500,11 @@
     "year_end": null,
     "lat": 58.52,
     "lon": 31.27,
-    "name": {"ja": "ノヴゴロド国の建国", "en": "Rurik founds Novgorod"},
-    "desc": {"ja": "ノルマン人(ルーシ)の首長リューリクがスラヴ人の地にノヴゴロド国を建てた。882年に一族のオレーグがキエフを占領し、キエフ公国の基礎を築いた。", "en": "Rurik, a Norse (Rus) chieftain, founded the principality of Novgorod among the Slavs. In 882 his kinsman Oleg seized Kiev, laying the foundations of Kievan Rus."},
+    "name": {"ja":"ノヴゴロド国の建国","en":"Rurik founds Novgorod"},
+    "desc": {"ja":"ノルマン人(ルーシ)の首長リューリクがスラヴ人の地にノヴゴロド国を建てた。882年に一族のオレーグがキエフを占領し、キエフ公国の基礎を築いた。","en":"Rurik, a Norse (Rus) chieftain, founded the principality of Novgorod among the Slavs. In 882 his kinsman Oleg seized Kiev, laying the foundations of Kievan Rus."},
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "ノヴゴロド公国", "en": "Rurik"}
+    "wiki": {"ja":"ノヴゴロド公国","en":"Rurik"}
   },
   {
     "id": "treaty-of-mersen",
@@ -513,11 +513,11 @@
     "year_end": null,
     "lat": 50.89,
     "lon": 5.75,
-    "name": {"ja": "メルセン条約", "en": "Treaty of Meerssen"},
-    "desc": {"ja": "中部フランクの王家が断絶したため、東西フランクがロタリンギアを分け合った。これにより現在のドイツ・フランス・イタリアの境界がほぼ定まった。", "en": "After the middle kingdom's line died out, East and West Francia divided Lotharingia between them, fixing roughly the boundaries of modern Germany, France and Italy."},
+    "name": {"ja":"メルセン条約","en":"Treaty of Meerssen"},
+    "desc": {"ja":"中部フランクの王家が断絶したため、東西フランクがロタリンギアを分け合った。これにより現在のドイツ・フランス・イタリアの境界がほぼ定まった。","en":"After the middle kingdom's line died out, East and West Francia divided Lotharingia between them, fixing roughly the boundaries of modern Germany, France and Italy."},
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "メルセン条約", "en": "Treaty of Meerssen"}
+    "wiki": {"ja":"メルセン条約","en":"Treaty of Meerssen"}
   },
   {
     "id": "samanid-dynasty",
@@ -526,11 +526,11 @@
     "year_end": null,
     "lat": 39.77,
     "lon": 64.42,
-    "name": {"ja": "サーマーン朝の自立", "en": "Rise of the Samanid dynasty"},
-    "desc": {"ja": "イラン系のサーマーン朝が中央アジアでアッバース朝から事実上独立し、ブハラを都とした。イラン＝イスラーム文化が栄え、トルコ人奴隷兵(マムルーク)を多用した。", "en": "The Iranian Samanid dynasty became effectively independent of the Abbasids in Central Asia, ruling from Bukhara. Persian-Islamic culture flourished and Turkish slave soldiers (mamluks) were widely employed."},
+    "name": {"ja":"サーマーン朝の自立","en":"Rise of the Samanid dynasty"},
+    "desc": {"ja":"イラン系のサーマーン朝が中央アジアでアッバース朝から事実上独立し、ブハラを都とした。イラン＝イスラーム文化が栄え、トルコ人奴隷兵(マムルーク)を多用した。","en":"The Iranian Samanid dynasty became effectively independent of the Abbasids in Central Asia, ruling from Bukhara. Persian-Islamic culture flourished and Turkish slave soldiers (mamluks) were widely employed."},
     "importance": 1,
     "persons": [],
-    "wiki": {"ja": "サーマーン朝", "en": "Samanid Empire"}
+    "wiki": {"ja":"サーマーン朝","en":"Samanid Empire"}
   },
   {
     "id": "huang-chao-rebellion",
@@ -539,11 +539,11 @@
     "year_end": 884,
     "lat": 35.23,
     "lon": 115.48,
-    "name": {"ja": "黄巣の乱", "en": "Huang Chao Rebellion"},
-    "desc": {"ja": "塩の密売商人の王仙芝・黄巣が率いた農民反乱が華北から華南まで広がり、長安も占領された。唐の支配は決定的に弱まり、滅亡の引き金となった。", "en": "A peasant revolt led by the salt smugglers Wang Xianzhi and Huang Chao spread from north to south China and seized Chang'an. Tang authority was fatally weakened, triggering the dynasty's fall."},
+    "name": {"ja":"黄巣の乱","en":"Huang Chao Rebellion"},
+    "desc": {"ja":"塩の密売商人の王仙芝・黄巣が率いた農民反乱が華北から華南まで広がり、長安も占領された。唐の支配は決定的に弱まり、滅亡の引き金となった。","en":"A peasant revolt led by the salt smugglers Wang Xianzhi and Huang Chao spread from north to south China and seized Chang'an. Tang authority was fatally weakened, triggering the dynasty's fall."},
     "importance": 3,
     "persons": [],
-    "wiki": {"ja": "黄巣の乱", "en": "Huang Chao"}
+    "wiki": {"ja":"黄巣の乱","en":"Huang Chao"}
   },
   {
     "id": "kentoshi-abolition",
@@ -552,11 +552,11 @@
     "year_end": null,
     "lat": 35.01,
     "lon": 135.77,
-    "name": {"ja": "遣唐使の停止", "en": "Suspension of missions to Tang"},
-    "desc": {"ja": "菅原道真の建議により、唐の衰退と航海の危険を理由に遣唐使の派遣が停止された。以後、日本では唐文化を消化した国風文化が発達した。", "en": "On the advice of Sugawara no Michizane, Japan suspended its embassies to Tang because of the dynasty's decline and the dangers of the voyage. A distinctly Japanese culture then developed."},
+    "name": {"ja":"遣唐使の停止","en":"Suspension of missions to Tang"},
+    "desc": {"ja":"菅原道真の建議により、唐の衰退と航海の危険を理由に遣唐使の派遣が停止された。以後、日本では唐文化を消化した国風文化が発達した。","en":"On the advice of Sugawara no Michizane, Japan suspended its embassies to Tang because of the dynasty's decline and the dangers of the voyage. A distinctly Japanese culture then developed."},
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "遣唐使", "en": "Japanese missions to Tang China"}
+    "wiki": {"ja":"遣唐使","en":"Japanese missions to Tang China"}
   },
   {
     "id": "maya-collapse",
@@ -565,24 +565,24 @@
     "year_end": null,
     "lat": 17.22,
     "lon": -89.62,
-    "name": {"ja": "古典期マヤ都市の衰退", "en": "Collapse of the Classic Maya cities"},
-    "desc": {"ja": "ティカルなど低地南部のマヤ諸都市が放棄され、古典期が終わった。マヤ文明の中心はユカタン半島北部のチチェン＝イツァなどへ移った。", "en": "Tikal and other Maya cities of the southern lowlands were abandoned, ending the Classic period. The center of Maya civilization shifted north to Yucatán sites such as Chichén Itzá."},
+    "name": {"ja":"古典期マヤ都市の衰退","en":"Collapse of the Classic Maya cities"},
+    "desc": {"ja":"ティカルなど低地南部のマヤ諸都市が放棄され、古典期が終わった。マヤ文明の中心はユカタン半島北部のチチェン＝イツァなどへ移った。","en":"Tikal and other Maya cities of the southern lowlands were abandoned, ending the Classic period. The center of Maya civilization shifted north to Yucatán sites such as Chichén Itzá."},
     "importance": 1,
     "persons": [],
-    "wiki": {"ja": "マヤ文明", "en": "Classic Maya collapse"}
+    "wiki": {"ja":"マヤ文明","en":"Classic Maya collapse"}
   },
   {
     "id": "fall-of-tang",
     "type": "fall",
     "year": 907,
     "year_end": null,
-    "lat": 34.80,
+    "lat": 34.8,
     "lon": 114.31,
-    "name": {"ja": "唐の滅亡", "en": "Fall of the Tang dynasty"},
-    "desc": {"ja": "黄巣の部将から節度使となった朱全忠が唐を滅ぼし、開封を都に後梁を建てた。以後、五代十国の分裂時代が続き、各地で武人が割拠した。", "en": "Zhu Quanzhong, a former Huang Chao commander turned military governor, ended the Tang and founded the Later Liang at Kaifeng. The Five Dynasties and Ten Kingdoms period of division followed."},
+    "name": {"ja":"唐の滅亡","en":"Fall of the Tang dynasty"},
+    "desc": {"ja":"黄巣の部将から節度使となった朱全忠が唐を滅ぼし、開封を都に後梁を建てた。以後、五代十国の分裂時代が続き、各地で武人が割拠した。","en":"Zhu Quanzhong, a former Huang Chao commander turned military governor, ended the Tang and founded the Later Liang at Kaifeng. The Five Dynasties and Ten Kingdoms period of division followed."},
     "importance": 3,
     "persons": [],
-    "wiki": {"ja": "五代十国時代", "en": "Five Dynasties and Ten Kingdoms period"}
+    "wiki": {"ja":"五代十国時代","en":"Five Dynasties and Ten Kingdoms period"}
   },
   {
     "id": "fatimid-caliphate",
@@ -590,12 +590,12 @@
     "year": 909,
     "year_end": null,
     "lat": 35.68,
-    "lon": 10.10,
-    "name": {"ja": "ファーティマ朝の成立", "en": "Founding of the Fatimid Caliphate"},
-    "desc": {"ja": "シーア派(イスマーイール派)がチュニジアで建国し、アッバース朝に対抗してカリフを称した。969年にエジプトを征服してカイロを建設した。", "en": "Shi'a Ismailis founded a state in Tunisia and claimed the caliphate in rivalry with the Abbasids. In 969 they conquered Egypt and founded Cairo."},
+    "lon": 10.1,
+    "name": {"ja":"ファーティマ朝の成立","en":"Founding of the Fatimid Caliphate"},
+    "desc": {"ja":"シーア派(イスマーイール派)がチュニジアで建国し、アッバース朝に対抗してカリフを称した。969年にエジプトを征服してカイロを建設した。","en":"Shi'a Ismailis founded a state in Tunisia and claimed the caliphate in rivalry with the Abbasids. In 969 they conquered Egypt and founded Cairo."},
     "importance": 3,
     "persons": [],
-    "wiki": {"ja": "ファーティマ朝", "en": "Fatimid Caliphate"}
+    "wiki": {"ja":"ファーティマ朝","en":"Fatimid Caliphate"}
   },
   {
     "id": "cluny-abbey",
@@ -604,11 +604,11 @@
     "year_end": null,
     "lat": 46.43,
     "lon": 4.66,
-    "name": {"ja": "クリュニー修道院の創設", "en": "Foundation of Cluny Abbey"},
-    "desc": {"ja": "フランス東部に創設されたクリュニー修道院は、ベネディクト戒律の厳守を掲げて教会の世俗化を批判した。その改革運動は教皇グレゴリウス7世にも影響を与えた。", "en": "Founded in eastern France, Cluny Abbey called for strict observance of the Benedictine rule and criticized the worldliness of the church. Its reform movement influenced Pope Gregory VII."},
+    "name": {"ja":"クリュニー修道院の創設","en":"Foundation of Cluny Abbey"},
+    "desc": {"ja":"フランス東部に創設されたクリュニー修道院は、ベネディクト戒律の厳守を掲げて教会の世俗化を批判した。その改革運動は教皇グレゴリウス7世にも影響を与えた。","en":"Founded in eastern France, Cluny Abbey called for strict observance of the Benedictine rule and criticized the worldliness of the church. Its reform movement influenced Pope Gregory VII."},
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "クリュニー修道院", "en": "Cluny Abbey"}
+    "wiki": {"ja":"クリュニー修道院","en":"Cluny Abbey"}
   },
   {
     "id": "duchy-of-normandy",
@@ -617,11 +617,11 @@
     "year_end": null,
     "lat": 49.21,
     "lon": 1.68,
-    "name": {"ja": "ノルマンディー公国の成立", "en": "Founding of the Duchy of Normandy"},
-    "desc": {"ja": "ノルマン人の首長ロロが西フランク王からセーヌ川下流域を封土として与えられ、ノルマンディー公となった。ノルマン人はキリスト教化し、のちイングランドを征服した。", "en": "The Norse chieftain Rollo received the lower Seine valley as a fief from the king of West Francia and became duke of Normandy. The Normans adopted Christianity and later conquered England."},
+    "name": {"ja":"ノルマンディー公国の成立","en":"Founding of the Duchy of Normandy"},
+    "desc": {"ja":"ノルマン人の首長ロロが西フランク王からセーヌ川下流域を封土として与えられ、ノルマンディー公となった。ノルマン人はキリスト教化し、のちイングランドを征服した。","en":"The Norse chieftain Rollo received the lower Seine valley as a fief from the king of West Francia and became duke of Normandy. The Normans adopted Christianity and later conquered England."},
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "ノルマンディー公国", "en": "Duchy of Normandy"}
+    "wiki": {"ja":"ノルマンディー公国","en":"Duchy of Normandy"}
   },
   {
     "id": "liao-founding",
@@ -630,11 +630,11 @@
     "year_end": null,
     "lat": 43.98,
     "lon": 119.38,
-    "name": {"ja": "遼(契丹)の建国", "en": "Founding of the Liao (Khitan) dynasty"},
-    "desc": {"ja": "契丹の耶律阿保機が諸部族を統一して皇帝を称した。渤海を滅ぼし、936年には燕雲十六州を獲得して、遊牧民と農耕民を分けて治める二重統治を行った。", "en": "Yelü Abaoji united the Khitan tribes and proclaimed himself emperor. The Liao destroyed Balhae, gained the Sixteen Prefectures in 936, and ruled nomads and farmers through a dual administration."},
+    "name": {"ja":"遼(契丹)の建国","en":"Founding of the Liao (Khitan) dynasty"},
+    "desc": {"ja":"契丹の耶律阿保機が諸部族を統一して皇帝を称した。渤海を滅ぼし、936年には燕雲十六州を獲得して、遊牧民と農耕民を分けて治める二重統治を行った。","en":"Yelü Abaoji united the Khitan tribes and proclaimed himself emperor. The Liao destroyed Balhae, gained the Sixteen Prefectures in 936, and ruled nomads and farmers through a dual administration."},
     "importance": 3,
     "persons": ["yelu-abaoji"],
-    "wiki": {"ja": "遼", "en": "Liao dynasty"}
+    "wiki": {"ja":"遼","en":"Liao dynasty"}
   },
   {
     "id": "goryeo-founding",
@@ -643,11 +643,11 @@
     "year_end": null,
     "lat": 37.97,
     "lon": 126.55,
-    "name": {"ja": "高麗の建国", "en": "Founding of Goryeo"},
-    "desc": {"ja": "王建が高麗を建て、開城を都とした。936年に新羅を併合して半島を統一し、仏教を保護して高麗版大蔵経を刊行し、青磁の生産でも知られた。", "en": "Wang Geon founded Goryeo with its capital at Kaesong. He absorbed Silla in 936 to unify the peninsula; the state patronized Buddhism, printed the Tripitaka Koreana and was famed for celadon."},
+    "name": {"ja":"高麗の建国","en":"Founding of Goryeo"},
+    "desc": {"ja":"王建が高麗を建て、開城を都とした。936年に新羅を併合して半島を統一し、仏教を保護して高麗版大蔵経を刊行し、青磁の生産でも知られた。","en":"Wang Geon founded Goryeo with its capital at Kaesong. He absorbed Silla in 936 to unify the peninsula; the state patronized Buddhism, printed the Tripitaka Koreana and was famed for celadon."},
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "高麗", "en": "Goryeo"}
+    "wiki": {"ja":"高麗","en":"Goryeo"}
   },
   {
     "id": "buyid-baghdad",
@@ -655,12 +655,12 @@
     "year": 946,
     "year_end": null,
     "lat": 33.34,
-    "lon": 44.40,
-    "name": {"ja": "ブワイフ朝のバグダード入城", "en": "Buyids enter Baghdad"},
-    "desc": {"ja": "イラン系シーア派のブワイフ朝がバグダードを占領し、アッバース朝カリフから大アミールの称号を得て実権を握った。カリフは宗教的権威のみの存在となった。", "en": "The Iranian Shi'a Buyids occupied Baghdad and received the title of grand amir from the Abbasid caliph, taking real power. The caliph was reduced to a religious figurehead."},
+    "lon": 44.4,
+    "name": {"ja":"ブワイフ朝のバグダード入城","en":"Buyids enter Baghdad"},
+    "desc": {"ja":"イラン系シーア派のブワイフ朝がバグダードを占領し、アッバース朝カリフから大アミールの称号を得て実権を握った。カリフは宗教的権威のみの存在となった。","en":"The Iranian Shi'a Buyids occupied Baghdad and received the title of grand amir from the Abbasid caliph, taking real power. The caliph was reduced to a religious figurehead."},
     "importance": 1,
     "persons": [],
-    "wiki": {"ja": "ブワイフ朝", "en": "Buyid dynasty"}
+    "wiki": {"ja":"ブワイフ朝","en":"Buyid dynasty"}
   },
   {
     "id": "toltec-tula",
@@ -669,11 +669,11 @@
     "year_end": null,
     "lat": 20.06,
     "lon": -99.34,
-    "name": {"ja": "トルテカ文明の成立", "en": "Rise of the Toltecs at Tula"},
-    "desc": {"ja": "テオティワカン衰退後のメキシコ高原でトルテカ人がトゥーラを都に勢力を築いた。戦士像の石柱で知られ、のちのアステカはその文化を継承した。", "en": "After the fall of Teotihuacan, the Toltecs built a power centered on Tula in the Mexican highlands. Known for their warrior columns, their culture was later inherited by the Aztecs."},
+    "name": {"ja":"トルテカ文明の成立","en":"Rise of the Toltecs at Tula"},
+    "desc": {"ja":"テオティワカン衰退後のメキシコ高原でトルテカ人がトゥーラを都に勢力を築いた。戦士像の石柱で知られ、のちのアステカはその文化を継承した。","en":"After the fall of Teotihuacan, the Toltecs built a power centered on Tula in the Mexican highlands. Known for their warrior columns, their culture was later inherited by the Aztecs."},
     "importance": 1,
     "persons": [],
-    "wiki": {"ja": "トルテカ", "en": "Toltec Empire"}
+    "wiki": {"ja":"トルテカ","en":"Toltec Empire"}
   },
   {
     "id": "battle-of-lechfeld",
@@ -681,25 +681,25 @@
     "year": 955,
     "year_end": null,
     "lat": 48.37,
-    "lon": 10.90,
-    "name": {"ja": "レヒフェルトの戦い", "en": "Battle of Lechfeld"},
-    "desc": {"ja": "東フランク王オットー1世がアウクスブルク近郊でマジャール人を撃破した。西欧への侵入は終わり、マジャール人はパンノニアに定住してハンガリー王国を建てた。", "en": "Otto I of East Francia crushed the Magyars near Augsburg. Their raids into western Europe ended, and the Magyars settled in Pannonia to found the kingdom of Hungary."},
+    "lon": 10.9,
+    "name": {"ja":"レヒフェルトの戦い","en":"Battle of Lechfeld"},
+    "desc": {"ja":"東フランク王オットー1世がアウクスブルク近郊でマジャール人を撃破した。西欧への侵入は終わり、マジャール人はパンノニアに定住してハンガリー王国を建てた。","en":"Otto I of East Francia crushed the Magyars near Augsburg. Their raids into western Europe ended, and the Magyars settled in Pannonia to found the kingdom of Hungary."},
     "importance": 1,
     "persons": ["otto-i"],
-    "wiki": {"ja": "レヒフェルトの戦い", "en": "Battle of Lechfeld"}
+    "wiki": {"ja":"レヒフェルトの戦い","en":"Battle of Lechfeld"}
   },
   {
     "id": "song-founding",
     "type": "founding",
     "year": 960,
     "year_end": null,
-    "lat": 34.80,
+    "lat": 34.8,
     "lon": 114.31,
-    "name": {"ja": "宋(北宋)の建国", "en": "Founding of the Song dynasty"},
-    "desc": {"ja": "後周の武将趙匡胤が帝位について宋を建て、開封を都とした。節度使の力を削いで文治主義をとり、科挙を整備して皇帝独裁体制を築いた。", "en": "Zhao Kuangyin, a general of the Later Zhou, took the throne and founded the Song at Kaifeng. He curbed the military governors, favored civil rule and expanded the examinations to build an autocratic state."},
+    "name": {"ja":"宋(北宋)の建国","en":"Founding of the Song dynasty"},
+    "desc": {"ja":"後周の武将趙匡胤が帝位について宋を建て、開封を都とした。節度使の力を削いで文治主義をとり、科挙を整備して皇帝独裁体制を築いた。","en":"Zhao Kuangyin, a general of the Later Zhou, took the throne and founded the Song at Kaifeng. He curbed the military governors, favored civil rule and expanded the examinations to build an autocratic state."},
     "importance": 3,
     "persons": ["zhao-kuangyin"],
-    "wiki": {"ja": "北宋", "en": "Song dynasty"}
+    "wiki": {"ja":"北宋","en":"Song dynasty"}
   },
   {
     "id": "karakhanid-islam",
@@ -708,24 +708,24 @@
     "year_end": null,
     "lat": 39.47,
     "lon": 75.99,
-    "name": {"ja": "カラハン朝のイスラーム化", "en": "Conversion of the Karakhanids to Islam"},
-    "desc": {"ja": "中央アジアのトルコ系カラハン朝が集団でイスラーム教に改宗した。最初のトルコ系イスラーム王朝となり、やがてサーマーン朝を滅ぼして中央アジアのトルコ化を進めた。", "en": "The Turkic Karakhanids of Central Asia converted to Islam en masse, becoming the first Turkic Muslim dynasty. They later destroyed the Samanids and advanced the Turkification of Central Asia."},
+    "name": {"ja":"カラハン朝のイスラーム化","en":"Conversion of the Karakhanids to Islam"},
+    "desc": {"ja":"中央アジアのトルコ系カラハン朝が集団でイスラーム教に改宗した。最初のトルコ系イスラーム王朝となり、やがてサーマーン朝を滅ぼして中央アジアのトルコ化を進めた。","en":"The Turkic Karakhanids of Central Asia converted to Islam en masse, becoming the first Turkic Muslim dynasty. They later destroyed the Samanids and advanced the Turkification of Central Asia."},
     "importance": 1,
     "persons": [],
-    "wiki": {"ja": "カラハン朝", "en": "Kara-Khanid Khanate"}
+    "wiki": {"ja":"カラハン朝","en":"Kara-Khanid Khanate"}
   },
   {
     "id": "otto-coronation",
     "type": "politics",
     "year": 962,
     "year_end": null,
-    "lat": 41.90,
+    "lat": 41.9,
     "lon": 12.45,
-    "name": {"ja": "オットー1世の戴冠", "en": "Coronation of Otto I"},
-    "desc": {"ja": "マジャール人を破った東フランク王オットー1世が教皇からローマ皇帝の帝冠を受けた。これが神聖ローマ帝国の起源とされる。", "en": "Otto I of East Francia, victor over the Magyars, received the imperial crown from the pope in Rome. This is regarded as the origin of the Holy Roman Empire."},
+    "name": {"ja":"オットー1世の戴冠","en":"Coronation of Otto I"},
+    "desc": {"ja":"マジャール人を破った東フランク王オットー1世が教皇からローマ皇帝の帝冠を受けた。これが神聖ローマ帝国の起源とされ、皇帝は教会への支配を強めた。","en":"Otto I of East Francia, victor over the Magyars, received the imperial crown from the pope in Rome. This is regarded as the origin of the Holy Roman Empire."},
     "importance": 3,
     "persons": ["otto-i"],
-    "wiki": {"ja": "神聖ローマ帝国", "en": "Holy Roman Empire"}
+    "wiki": {"ja":"神聖ローマ帝国","en":"Holy Roman Empire"}
   },
   {
     "id": "founding-of-cairo",
@@ -734,11 +734,11 @@
     "year_end": null,
     "lat": 30.04,
     "lon": 31.24,
-    "name": {"ja": "カイロの建設", "en": "Fatimids found Cairo"},
-    "desc": {"ja": "エジプトを征服したファーティマ朝が新都カイロを建設した。翌年創設されたアズハル学院はシーア派の教育機関として始まり、のちスンナ派学問の中心となった。", "en": "Having conquered Egypt, the Fatimids built the new capital Cairo. Al-Azhar, founded the following year as a Shi'a school, later became a leading center of Sunni learning."},
+    "name": {"ja":"カイロの建設","en":"Fatimids found Cairo"},
+    "desc": {"ja":"エジプトを征服したファーティマ朝が新都カイロを建設した。翌年創設されたアズハル学院はシーア派の教育機関として始まり、のちスンナ派学問の中心となった。","en":"Having conquered Egypt, the Fatimids built the new capital Cairo. Al-Azhar, founded the following year as a Shi'a school, later became a leading center of Sunni learning."},
     "importance": 1,
     "persons": [],
-    "wiki": {"ja": "カイロ", "en": "Cairo"}
+    "wiki": {"ja":"カイロ","en":"Cairo"}
   },
   {
     "id": "ghaznavid-dynasty",
@@ -747,11 +747,11 @@
     "year_end": null,
     "lat": 33.55,
     "lon": 68.42,
-    "name": {"ja": "ガズナ朝の成立", "en": "Founding of the Ghaznavid dynasty"},
-    "desc": {"ja": "サーマーン朝のトルコ系マムルークがアフガニスタンのガズナで自立した。マフムードのもとでたびたび北インドに侵入し、インドのイスラーム化の端緒を開いた。", "en": "A Turkish mamluk of the Samanids established an independent state at Ghazni in Afghanistan. Under Mahmud it repeatedly raided northern India, opening the way for Islam's spread there."},
+    "name": {"ja":"ガズナ朝の成立","en":"Founding of the Ghaznavid dynasty"},
+    "desc": {"ja":"サーマーン朝のトルコ系マムルークがアフガニスタンのガズナで自立した。マフムードのもとでたびたび北インドに侵入し、インドのイスラーム化の端緒を開いた。","en":"A Turkish mamluk of the Samanids established an independent state at Ghazni in Afghanistan. Under Mahmud it repeatedly raided northern India, opening the way for Islam's spread there."},
     "importance": 2,
     "persons": ["mahmud-of-ghazni"],
-    "wiki": {"ja": "ガズナ朝", "en": "Ghaznavids"}
+    "wiki": {"ja":"ガズナ朝","en":"Ghaznavids"}
   },
   {
     "id": "capetian-dynasty",
@@ -760,11 +760,11 @@
     "year_end": null,
     "lat": 48.86,
     "lon": 2.35,
-    "name": {"ja": "カペー朝の成立", "en": "Founding of the Capetian dynasty"},
-    "desc": {"ja": "西フランクでカロリング家が断絶し、パリ伯ユーグ＝カペーが諸侯に選ばれて王となった。王権は当初弱く、パリ周辺の直轄地を治めるにすぎなかった。", "en": "When the Carolingian line in West Francia died out, Hugh Capet, count of Paris, was elected king by the nobles. Royal power was at first weak, limited to the domain around Paris."},
+    "name": {"ja":"カペー朝の成立","en":"Founding of the Capetian dynasty"},
+    "desc": {"ja":"西フランクでカロリング家が断絶し、パリ伯ユーグ＝カペーが諸侯に選ばれて王となった。王権は当初弱く、パリ周辺の直轄地を治めるにすぎなかった。","en":"When the Carolingian line in West Francia died out, Hugh Capet, count of Paris, was elected king by the nobles. Royal power was at first weak, limited to the domain around Paris."},
     "importance": 2,
     "persons": ["hugh-capet"],
-    "wiki": {"ja": "カペー朝", "en": "Capetian dynasty"}
+    "wiki": {"ja":"カペー朝","en":"Capetian dynasty"}
   },
   {
     "id": "vladimir-conversion",
@@ -773,11 +773,11 @@
     "year_end": null,
     "lat": 50.45,
     "lon": 30.52,
-    "name": {"ja": "ウラディミル1世の改宗", "en": "Conversion of Vladimir I"},
-    "desc": {"ja": "キエフ公ウラディミル1世がビザンツ皇帝の妹と結婚し、ギリシア正教に改宗して国教とした。ロシアはビザンツ文化圏に組み込まれた。", "en": "Vladimir I of Kiev married the Byzantine emperor's sister and adopted Greek Orthodox Christianity as the state religion, bringing Rus into the Byzantine cultural sphere."},
+    "name": {"ja":"ウラディミル1世の改宗","en":"Conversion of Vladimir I"},
+    "desc": {"ja":"キエフ公ウラディミル1世がビザンツ皇帝の妹と結婚し、ギリシア正教に改宗して国教とした。ロシアはビザンツ文化圏に組み込まれた。","en":"Vladimir I of Kiev married the Byzantine emperor's sister and adopted Greek Orthodox Christianity as the state religion, bringing Rus into the Byzantine cultural sphere."},
     "importance": 2,
     "persons": ["vladimir-i"],
-    "wiki": {"ja": "ルーシの洗礼", "en": "Christianization of Kievan Rus'"}
+    "wiki": {"ja":"ルーシの洗礼","en":"Christianization of Kievan Rus'"}
   },
   {
     "id": "chichen-itza",
@@ -786,11 +786,11 @@
     "year_end": null,
     "lat": 20.68,
     "lon": -88.57,
-    "name": {"ja": "チチェン＝イツァの繁栄", "en": "Flourishing of Chichén Itzá"},
-    "desc": {"ja": "ユカタン半島北部のチチェン＝イツァが後古典期マヤの中心として栄えた。トルテカ文化の影響を受け、羽毛の蛇神ククルカンのピラミッドが建てられた。", "en": "Chichén Itzá in northern Yucatán flourished as the center of Postclassic Maya civilization. Under Toltec influence, the pyramid of the feathered serpent Kukulkan was built."},
+    "name": {"ja":"チチェン＝イツァの繁栄","en":"Flourishing of Chichén Itzá"},
+    "desc": {"ja":"ユカタン半島北部のチチェン＝イツァが後古典期マヤの中心として栄えた。トルテカ文化の影響を受け、羽毛の蛇神ククルカンのピラミッドが建てられた。","en":"Chichén Itzá in northern Yucatán flourished as the center of Postclassic Maya civilization. Under Toltec influence, the pyramid of the feathered serpent Kukulkan was built."},
     "importance": 1,
     "persons": [],
-    "wiki": {"ja": "チチェン・イッツァ", "en": "Chichen Itza"}
+    "wiki": {"ja":"チチェン・イッツァ","en":"Chichen Itza"}
   },
   {
     "id": "chanyuan-treaty",
@@ -799,11 +799,11 @@
     "year_end": null,
     "lat": 35.71,
     "lon": 115.03,
-    "name": {"ja": "澶淵の盟", "en": "Chanyuan Treaty"},
-    "desc": {"ja": "遼の南下に対し、宋は遼を兄として毎年銀と絹を贈る条件で和議を結んだ。以後約百年間、両国の平和が保たれたが、宋の財政負担は重かった。", "en": "Facing a Liao invasion, the Song agreed to treat Liao as elder brother and pay annual tribute of silver and silk. Peace held for about a century, but the burden on Song finances was heavy."},
+    "name": {"ja":"澶淵の盟","en":"Chanyuan Treaty"},
+    "desc": {"ja":"遼の南下に対し、宋は遼を兄として毎年銀と絹を贈る条件で和議を結んだ。以後約百年間、両国の平和が保たれたが、宋の財政負担は重かった。","en":"Facing a Liao invasion, the Song agreed to treat Liao as elder brother and pay annual tribute of silver and silk. Peace held for about a century, but the burden on Song finances was heavy."},
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "澶淵の盟", "en": "Chanyuan Treaty"}
+    "wiki": {"ja":"澶淵の盟","en":"Chanyuan Treaty"}
   },
   {
     "id": "tale-of-genji",
@@ -812,11 +812,11 @@
     "year_end": null,
     "lat": 35.01,
     "lon": 135.77,
-    "name": {"ja": "『源氏物語』の成立", "en": "The Tale of Genji"},
-    "desc": {"ja": "紫式部が仮名文字を用いた長編物語『源氏物語』を著した。摂関政治期の宮廷文化を背景とする国風文化の代表作である。", "en": "Murasaki Shikibu wrote the Tale of Genji, a long narrative in kana script. It is the masterpiece of the native court culture of the Fujiwara regency period."},
+    "name": {"ja":"『源氏物語』の成立","en":"The Tale of Genji"},
+    "desc": {"ja":"紫式部が仮名文字を用いた長編物語『源氏物語』を著した。摂関政治期の宮廷生活を背景とする国風文化の代表作で、世界最古の長編小説の一つとされる。","en":"Murasaki Shikibu wrote the Tale of Genji, a long narrative in kana script. It is the masterpiece of the native court culture of the Fujiwara regency period."},
     "importance": 1,
     "persons": [],
-    "wiki": {"ja": "源氏物語", "en": "The Tale of Genji"}
+    "wiki": {"ja":"源氏物語","en":"The Tale of Genji"}
   },
   {
     "id": "ly-dynasty",
@@ -825,24 +825,24 @@
     "year_end": null,
     "lat": 21.03,
     "lon": 105.85,
-    "name": {"ja": "李朝(大越)の成立", "en": "Founding of the Ly dynasty of Dai Viet"},
-    "desc": {"ja": "10世紀に中国支配から独立したベトナムで李公蘊が李朝を建て、昇竜(ハノイ)を都とした。国号を大越と称し、仏教を保護し科挙を導入した。", "en": "In Vietnam, independent of China since the tenth century, Ly Cong Uan founded the Ly dynasty at Thang Long (Hanoi). The state took the name Dai Viet, patronized Buddhism and adopted examinations."},
+    "name": {"ja":"李朝(大越)の成立","en":"Founding of the Ly dynasty of Dai Viet"},
+    "desc": {"ja":"10世紀に中国支配から独立したベトナムで李公蘊が李朝を建て、昇竜(ハノイ)を都とした。国号を大越と称し、仏教を保護し科挙を導入した。","en":"In Vietnam, independent of China since the tenth century, Ly Cong Uan founded the Ly dynasty at Thang Long (Hanoi). The state took the name Dai Viet, patronized Buddhism and adopted examinations."},
     "importance": 1,
     "persons": [],
-    "wiki": {"ja": "李朝 (ベトナム)", "en": "Lý dynasty"}
+    "wiki": {"ja":"李朝 (ベトナム)","en":"Lý dynasty"}
   },
   {
     "id": "canon-of-medicine",
     "type": "culture",
     "year": 1020,
     "year_end": null,
-    "lat": 34.80,
+    "lat": 34.8,
     "lon": 48.52,
-    "name": {"ja": "イブン＝シーナー『医学典範』", "en": "Ibn Sina's Canon of Medicine"},
-    "desc": {"ja": "イラン出身の哲学者・医学者イブン＝シーナーがギリシア・アラビアの医学を集大成した『医学典範』を著した。ラテン語訳され、ヨーロッパの医学教育で長く用いられた。", "en": "The Persian philosopher-physician Ibn Sina compiled the Canon of Medicine, synthesizing Greek and Arabic medicine. Translated into Latin, it was used in European medical schools for centuries."},
+    "name": {"ja":"イブン＝シーナー『医学典範』","en":"Ibn Sina's Canon of Medicine"},
+    "desc": {"ja":"イラン出身の哲学者・医学者イブン＝シーナーがギリシア・アラビアの医学を集大成した『医学典範』を著した。ラテン語訳され、ヨーロッパの医学教育で長く用いられた。","en":"The Persian philosopher-physician Ibn Sina compiled the Canon of Medicine, synthesizing Greek and Arabic medicine. Translated into Latin, it was used in European medical schools for centuries."},
     "importance": 2,
     "persons": ["ibn-sina"],
-    "wiki": {"ja": "医学典範", "en": "The Canon of Medicine"}
+    "wiki": {"ja":"医学典範","en":"The Canon of Medicine"}
   },
   {
     "id": "chola-expedition",
@@ -851,11 +851,11 @@
     "year_end": null,
     "lat": -2.99,
     "lon": 104.76,
-    "name": {"ja": "チョーラ朝のシュリーヴィジャヤ遠征", "en": "Chola naval expedition against Srivijaya"},
-    "desc": {"ja": "南インドのチョーラ朝のラージェンドラ1世が艦隊を送ってシュリーヴィジャヤを攻撃した。チョーラ朝はベンガル湾の海上交易を支配し、宋にも使節を送った。", "en": "Rajendra I of the Chola dynasty of south India sent a fleet against Srivijaya. The Cholas dominated maritime trade in the Bay of Bengal and sent envoys to Song China."},
+    "name": {"ja":"チョーラ朝のシュリーヴィジャヤ遠征","en":"Chola naval expedition against Srivijaya"},
+    "desc": {"ja":"南インドのチョーラ朝のラージェンドラ1世が艦隊を送ってシュリーヴィジャヤを攻撃した。チョーラ朝はベンガル湾の海上交易を支配し、宋にも使節を送った。","en":"Rajendra I of the Chola dynasty of south India sent a fleet against Srivijaya. The Cholas dominated maritime trade in the Bay of Bengal and sent envoys to Song China."},
     "importance": 2,
     "persons": ["rajendra-i"],
-    "wiki": {"ja": "チョーラ朝", "en": "Chola invasion of Srivijaya"}
+    "wiki": {"ja":"チョーラ朝","en":"Chola invasion of Srivijaya"}
   },
   {
     "id": "xi-xia-founding",
@@ -864,11 +864,11 @@
     "year_end": null,
     "lat": 38.48,
     "lon": 106.23,
-    "name": {"ja": "西夏の建国", "en": "Founding of the Western Xia"},
-    "desc": {"ja": "チベット系タングートの李元昊が皇帝を称し、興慶(銀川)を都に西夏を建てた。西夏文字を制定し、東西交易路を押さえて宋を圧迫した。", "en": "Li Yuanhao of the Tibetan-related Tangut people proclaimed himself emperor and founded the Western Xia at Xingqing (Yinchuan). It created its own script and controlled the trade routes, pressing the Song."},
+    "name": {"ja":"西夏の建国","en":"Founding of the Western Xia"},
+    "desc": {"ja":"チベット系タングートの李元昊が皇帝を称し、興慶(銀川)を都に西夏を建てた。西夏文字を制定し、東西交易路を押さえて宋を圧迫した。","en":"Li Yuanhao of the Tibetan-related Tangut people proclaimed himself emperor and founded the Western Xia at Xingqing (Yinchuan). It created its own script and controlled the trade routes, pressing the Song."},
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "西夏", "en": "Western Xia"}
+    "wiki": {"ja":"西夏","en":"Western Xia"}
   },
   {
     "id": "pagan-kingdom",
@@ -877,24 +877,24 @@
     "year_end": null,
     "lat": 21.17,
     "lon": 94.86,
-    "name": {"ja": "パガン朝の成立", "en": "Founding of the Pagan kingdom"},
-    "desc": {"ja": "ビルマ人のアノーヤターがパガンを都としてイラワディ川流域を統一した。上座部仏教を受容し、多数の仏塔が建てられてビルマ最初の統一王朝となった。", "en": "The Burmese king Anawrahta unified the Irrawaddy valley from his capital at Pagan. The kingdom embraced Theravada Buddhism and built thousands of pagodas, becoming Burma's first unified state."},
+    "name": {"ja":"パガン朝の成立","en":"Founding of the Pagan kingdom"},
+    "desc": {"ja":"ビルマ人のアノーヤターがパガンを都としてイラワディ川流域を統一した。上座部仏教を受容し、多数の仏塔が建てられてビルマ最初の統一王朝となった。","en":"The Burmese king Anawrahta unified the Irrawaddy valley from his capital at Pagan. The kingdom embraced Theravada Buddhism and built thousands of pagodas, becoming Burma's first unified state."},
     "importance": 1,
     "persons": [],
-    "wiki": {"ja": "パガン王朝", "en": "Pagan kingdom"}
+    "wiki": {"ja":"パガン王朝","en":"Pagan kingdom"}
   },
   {
     "id": "movable-type",
     "type": "culture",
     "year": 1045,
     "year_end": null,
-    "lat": 34.80,
+    "lat": 34.8,
     "lon": 114.31,
-    "name": {"ja": "活字印刷の発明", "en": "Invention of movable-type printing"},
-    "desc": {"ja": "北宋の畢昇が膠泥製の活字による印刷術を発明した。木版印刷の普及とともに書物の出版が盛んになり、火薬・羅針盤と並ぶ宋代の三大発明とされる。", "en": "Bi Sheng of the Northern Song invented printing with movable clay type. With the spread of woodblock printing, publishing boomed; it ranks with gunpowder and the compass among the Song's great inventions."},
+    "name": {"ja":"活字印刷の発明","en":"Invention of movable-type printing"},
+    "desc": {"ja":"北宋の畢昇が膠泥製の活字による印刷術を発明した。木版印刷の普及とともに書物の出版が盛んになり、火薬・羅針盤と並ぶ宋代の三大発明とされる。","en":"Bi Sheng of the Northern Song invented printing with movable clay type. With the spread of woodblock printing, publishing boomed; it ranks with gunpowder and the compass among the Song's great inventions."},
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "畢昇", "en": "Bi Sheng"}
+    "wiki": {"ja":"畢昇","en":"Bi Sheng"}
   },
   {
     "id": "east-west-schism",
@@ -903,11 +903,11 @@
     "year_end": null,
     "lat": 41.01,
     "lon": 28.98,
-    "name": {"ja": "東西教会の分裂", "en": "East–West Schism"},
-    "desc": {"ja": "ローマ教皇とコンスタンティノープル総主教が互いに破門し、ローマ＝カトリック教会とギリシア正教会が正式に分裂した。", "en": "The pope and the patriarch of Constantinople excommunicated each other, formally dividing the Roman Catholic Church from the Greek Orthodox Church."},
+    "name": {"ja":"東西教会の分裂","en":"East–West Schism"},
+    "desc": {"ja":"ローマ教皇とコンスタンティノープル総主教が互いに破門し、ローマ＝カトリック教会とギリシア正教会が正式に分裂した。両教会の対立は現在まで続いている。","en":"The pope and the patriarch of Constantinople excommunicated each other, formally dividing the Roman Catholic Church from the Greek Orthodox Church."},
     "importance": 3,
     "persons": [],
-    "wiki": {"ja": "東西教会の分裂", "en": "East–West Schism"}
+    "wiki": {"ja":"東西教会の分裂","en":"East–West Schism"}
   },
   {
     "id": "seljuk-baghdad",
@@ -915,12 +915,12 @@
     "year": 1055,
     "year_end": null,
     "lat": 33.34,
-    "lon": 44.40,
-    "name": {"ja": "セルジューク朝のバグダード入城", "en": "Seljuks enter Baghdad"},
-    "desc": {"ja": "トルコ系のトゥグリル＝ベクがブワイフ朝を追ってバグダードに入り、アッバース朝カリフからスルタンの称号を授けられた。スンナ派の擁護者として勢力を広げた。", "en": "The Turkic leader Tughril Beg drove out the Buyids and entered Baghdad, receiving the title of sultan from the Abbasid caliph. The Seljuks expanded as champions of Sunni Islam."},
+    "lon": 44.4,
+    "name": {"ja":"セルジューク朝のバグダード入城","en":"Seljuks enter Baghdad"},
+    "desc": {"ja":"トルコ系のトゥグリル＝ベクがブワイフ朝を追ってバグダードに入り、アッバース朝カリフからスルタンの称号を授けられた。スンナ派の擁護者として勢力を広げた。","en":"The Turkic leader Tughril Beg drove out the Buyids and entered Baghdad, receiving the title of sultan from the Abbasid caliph. The Seljuks expanded as champions of Sunni Islam."},
     "importance": 3,
     "persons": ["tughril-beg"],
-    "wiki": {"ja": "セルジューク朝", "en": "Seljuk Empire"}
+    "wiki": {"ja":"セルジューク朝","en":"Seljuk Empire"}
   },
   {
     "id": "almoravid-dynasty",
@@ -928,12 +928,12 @@
     "year": 1056,
     "year_end": null,
     "lat": 31.63,
-    "lon": -8.00,
-    "name": {"ja": "ムラービト朝の成立", "en": "Rise of the Almoravid dynasty"},
-    "desc": {"ja": "ベルベル人の宗教運動からおこったムラービト朝がモロッコを征服し、マラケシュを都とした。南はガーナ王国を攻め、北はイベリア半島に渡ってキリスト教徒の進出を阻んだ。", "en": "The Almoravids, born of a Berber religious movement, conquered Morocco and made Marrakesh their capital. They attacked Ghana to the south and crossed to Iberia to check Christian advances."},
+    "lon": -8,
+    "name": {"ja":"ムラービト朝の成立","en":"Rise of the Almoravid dynasty"},
+    "desc": {"ja":"ベルベル人の宗教運動からおこったムラービト朝がモロッコを征服し、マラケシュを都とした。南はガーナ王国を攻め、北はイベリア半島に渡ってキリスト教徒の進出を阻んだ。","en":"The Almoravids, born of a Berber religious movement, conquered Morocco and made Marrakesh their capital. They attacked Ghana to the south and crossed to Iberia to check Christian advances."},
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "ムラービト朝", "en": "Almoravid dynasty"}
+    "wiki": {"ja":"ムラービト朝","en":"Almoravid dynasty"}
   },
   {
     "id": "battle-of-hastings",
@@ -942,24 +942,24 @@
     "year_end": null,
     "lat": 50.91,
     "lon": 0.49,
-    "name": {"ja": "ヘースティングズの戦い", "en": "Battle of Hastings"},
-    "desc": {"ja": "ノルマンディー公ウィリアムがイングランド王ハロルドを破り、ウィリアム1世として即位した(ノルマン＝コンクェスト)。大陸の封建制が持ち込まれ、強力な王権が成立した。", "en": "Duke William of Normandy defeated King Harold of England and was crowned William I (the Norman Conquest). Continental feudalism was introduced and a strong monarchy established."},
+    "name": {"ja":"ヘースティングズの戦い","en":"Battle of Hastings"},
+    "desc": {"ja":"ノルマンディー公ウィリアムがイングランド王ハロルドを破り、ウィリアム1世として即位した(ノルマン＝コンクェスト)。大陸の封建制が持ち込まれ、強力な王権が成立した。","en":"Duke William of Normandy defeated King Harold of England and was crowned William I (the Norman Conquest). Continental feudalism was introduced and a strong monarchy established."},
     "importance": 3,
     "persons": ["william-i"],
-    "wiki": {"ja": "ヘイスティングズの戦い", "en": "Battle of Hastings"}
+    "wiki": {"ja":"ヘイスティングズの戦い","en":"Battle of Hastings"}
   },
   {
     "id": "wang-anshi-reforms",
     "type": "politics",
     "year": 1069,
     "year_end": null,
-    "lat": 34.80,
+    "lat": 34.8,
     "lon": 114.31,
-    "name": {"ja": "王安石の新法", "en": "Wang Anshi's New Policies"},
-    "desc": {"ja": "神宗に登用された王安石が青苗法・募役法・市易法・保甲法などの新法を実施し、財政再建と富国強兵をめざした。司馬光ら旧法党との党争を招いた。", "en": "Appointed by Emperor Shenzong, Wang Anshi enacted the New Policies, including farm loans, hired service, state trading and militia laws, to restore finances and strengthen the state. They provoked bitter factional strife with Sima Guang's conservatives."},
+    "name": {"ja":"王安石の新法","en":"Wang Anshi's New Policies"},
+    "desc": {"ja":"神宗に登用された王安石が青苗法・募役法・市易法・保甲法などの新法を実施し、財政再建と富国強兵をめざした。司馬光ら旧法党との党争を招いた。","en":"Appointed by Emperor Shenzong, Wang Anshi enacted the New Policies, including farm loans, hired service, state trading and militia laws, to restore finances and strengthen the state. They provoked bitter factional strife with Sima Guang's conservatives."},
     "importance": 3,
     "persons": ["wang-anshi"],
-    "wiki": {"ja": "王安石", "en": "Wang Anshi"}
+    "wiki": {"ja":"王安石","en":"Wang Anshi"}
   },
   {
     "id": "battle-of-manzikert",
@@ -968,11 +968,11 @@
     "year_end": null,
     "lat": 39.14,
     "lon": 42.54,
-    "name": {"ja": "マンジケルトの戦い", "en": "Battle of Manzikert"},
-    "desc": {"ja": "セルジューク朝がビザンツ軍を破り皇帝を捕虜とした。トルコ人がアナトリアに進出してルーム＝セルジューク朝が成立し、ビザンツ帝国は教皇に救援を求めた。", "en": "The Seljuks routed the Byzantine army and captured the emperor. Turks poured into Anatolia, the Sultanate of Rum arose, and Byzantium appealed to the pope for help."},
+    "name": {"ja":"マンジケルトの戦い","en":"Battle of Manzikert"},
+    "desc": {"ja":"セルジューク朝がビザンツ軍を破り皇帝を捕虜とした。トルコ人がアナトリアに進出してルーム＝セルジューク朝が成立し、ビザンツ帝国は教皇に救援を求めた。","en":"The Seljuks routed the Byzantine army and captured the emperor. Turks poured into Anatolia, the Sultanate of Rum arose, and Byzantium appealed to the pope for help."},
     "importance": 3,
     "persons": [],
-    "wiki": {"ja": "マラズギルトの戦い", "en": "Battle of Manzikert"}
+    "wiki": {"ja":"マラズギルトの戦い","en":"Battle of Manzikert"}
   },
   {
     "id": "canossa",
@@ -981,11 +981,11 @@
     "year_end": null,
     "lat": 44.43,
     "lon": 10.46,
-    "name": {"ja": "カノッサの屈辱", "en": "Walk to Canossa"},
-    "desc": {"ja": "聖職叙任権をめぐり教皇グレゴリウス7世に破門された皇帝ハインリヒ4世が、カノッサ城で雪中に3日間立って許しを請うた。教皇権の優位を示す事件となった。", "en": "Excommunicated by Pope Gregory VII in the dispute over lay investiture, Emperor Henry IV stood three days in the snow at Canossa to beg forgiveness, a dramatic display of papal supremacy."},
+    "name": {"ja":"カノッサの屈辱","en":"Walk to Canossa"},
+    "desc": {"ja":"聖職叙任権をめぐり教皇グレゴリウス7世に破門された皇帝ハインリヒ4世が、カノッサ城で雪中に3日間立って許しを請うた。教皇権の優位を示す事件となった。","en":"Excommunicated by Pope Gregory VII in the dispute over lay investiture, Emperor Henry IV stood three days in the snow at Canossa to beg forgiveness, a dramatic display of papal supremacy."},
     "importance": 3,
-    "persons": ["gregory-vii", "henry-iv"],
-    "wiki": {"ja": "カノッサの屈辱", "en": "Road to Canossa"}
+    "persons": ["gregory-vii","henry-iv"],
+    "wiki": {"ja":"カノッサの屈辱","en":"Road to Canossa"}
   },
   {
     "id": "toledo-reconquest",
@@ -994,11 +994,11 @@
     "year_end": null,
     "lat": 39.86,
     "lon": -4.03,
-    "name": {"ja": "トレドの奪回", "en": "Christian capture of Toledo"},
-    "desc": {"ja": "カスティリャ王アルフォンソ6世が旧西ゴートの都トレドをイスラーム勢力から奪回した。レコンキスタの画期となり、トレドはアラビア語文献のラテン語翻訳の中心となった。", "en": "Alfonso VI of Castile recaptured Toledo, the old Visigothic capital, from the Muslims. A milestone of the Reconquista, the city became a center for translating Arabic works into Latin."},
+    "name": {"ja":"トレドの奪回","en":"Christian capture of Toledo"},
+    "desc": {"ja":"カスティリャ王アルフォンソ6世が旧西ゴートの都トレドをイスラーム勢力から奪回した。レコンキスタの画期となり、トレドはアラビア語文献のラテン語翻訳の中心となった。","en":"Alfonso VI of Castile recaptured Toledo, the old Visigothic capital, from the Muslims. A milestone of the Reconquista, the city became a center for translating Arabic works into Latin."},
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "トレド", "en": "Siege of Toledo (1085)"}
+    "wiki": {"ja":"トレド","en":"Siege of Toledo (1085)"}
   },
   {
     "id": "university-of-bologna",
@@ -1007,11 +1007,11 @@
     "year_end": null,
     "lat": 44.49,
     "lon": 11.34,
-    "name": {"ja": "ボローニャ大学の成立", "en": "Rise of the University of Bologna"},
-    "desc": {"ja": "北イタリアのボローニャで法学を学ぶ学生の組合から大学が生まれた。ローマ法研究の中心として栄え、ヨーロッパ最古の大学とされる。", "en": "A university grew out of the guild of students studying law at Bologna in northern Italy. It flourished as the center of Roman law studies and is regarded as Europe's oldest university."},
+    "name": {"ja":"ボローニャ大学の成立","en":"Rise of the University of Bologna"},
+    "desc": {"ja":"北イタリアのボローニャで法学を学ぶ学生の組合から大学が生まれた。ローマ法研究の中心として栄え、ヨーロッパ最古の大学とされる。","en":"A university grew out of the guild of students studying law at Bologna in northern Italy. It flourished as the center of Roman law studies and is regarded as Europe's oldest university."},
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "ボローニャ大学", "en": "University of Bologna"}
+    "wiki": {"ja":"ボローニャ大学","en":"University of Bologna"}
   },
   {
     "id": "council-of-clermont",
@@ -1020,11 +1020,11 @@
     "year_end": null,
     "lat": 45.78,
     "lon": 3.08,
-    "name": {"ja": "クレルモン宗教会議", "en": "Council of Clermont"},
-    "desc": {"ja": "ビザンツ皇帝の救援要請を受けた教皇ウルバヌス2世がクレルモンで聖地イェルサレムの奪回を訴え、十字軍の派遣が決定された。", "en": "Responding to the Byzantine emperor's appeal, Pope Urban II called at Clermont for the recovery of the Holy City of Jerusalem, and the First Crusade was launched."},
+    "name": {"ja":"クレルモン宗教会議","en":"Council of Clermont"},
+    "desc": {"ja":"ビザンツ皇帝の救援要請を受けた教皇ウルバヌス2世がクレルモンで聖地イェルサレムの奪回を訴え、十字軍の派遣が決定された。翌年、第1回十字軍が出発した。","en":"Responding to the Byzantine emperor's appeal, Pope Urban II called at Clermont for the recovery of the Holy City of Jerusalem, and the First Crusade was launched."},
     "importance": 2,
     "persons": ["urban-ii"],
-    "wiki": {"ja": "クレルモン教会会議", "en": "Council of Clermont"}
+    "wiki": {"ja":"クレルモン教会会議","en":"Council of Clermont"}
   },
   {
     "id": "citeaux-abbey",
@@ -1033,11 +1033,11 @@
     "year_end": null,
     "lat": 47.13,
     "lon": 5.09,
-    "name": {"ja": "シトー修道会の創設", "en": "Foundation of the Cistercian order"},
-    "desc": {"ja": "ブルゴーニュのシトーに厳格な戒律と労働を重んじる修道院が創設された。シトー修道会は森林の開墾を進め、12世紀の大開墾時代を担った。", "en": "A monastery stressing strict observance and manual labor was founded at Cîteaux in Burgundy. The Cistercian order cleared forests and led the great land reclamation of the twelfth century."},
+    "name": {"ja":"シトー修道会の創設","en":"Foundation of the Cistercian order"},
+    "desc": {"ja":"ブルゴーニュのシトーに厳格な戒律と労働を重んじる修道院が創設された。シトー修道会は森林の開墾を進め、12世紀の大開墾時代を担った。","en":"A monastery stressing strict observance and manual labor was founded at Cîteaux in Burgundy. The Cistercian order cleared forests and led the great land reclamation of the twelfth century."},
     "importance": 1,
     "persons": [],
-    "wiki": {"ja": "シトー会", "en": "Cistercians"}
+    "wiki": {"ja":"シトー会","en":"Cistercians"}
   },
   {
     "id": "capture-of-jerusalem-1099",
@@ -1046,11 +1046,11 @@
     "year_end": null,
     "lat": 31.78,
     "lon": 35.23,
-    "name": {"ja": "第1回十字軍のイェルサレム占領", "en": "First Crusade captures Jerusalem"},
-    "desc": {"ja": "フランスの諸侯を中心とする第1回十字軍がイェルサレムを占領し、住民を虐殺してイェルサレム王国を建てた。シリア沿岸に十字軍国家が成立した。", "en": "The First Crusade, led mainly by French lords, stormed Jerusalem, massacred its inhabitants and founded the Kingdom of Jerusalem. Crusader states were established along the Syrian coast."},
+    "name": {"ja":"第1回十字軍のイェルサレム占領","en":"First Crusade captures Jerusalem"},
+    "desc": {"ja":"フランスの諸侯を中心とする第1回十字軍がイェルサレムを占領し、住民を虐殺してイェルサレム王国を建てた。シリア沿岸に十字軍国家が成立した。","en":"The First Crusade, led mainly by French lords, stormed Jerusalem, massacred its inhabitants and founded the Kingdom of Jerusalem. Crusader states were established along the Syrian coast."},
     "importance": 3,
     "persons": ["urban-ii"],
-    "wiki": {"ja": "第1回十字軍", "en": "Siege of Jerusalem (1099)"}
+    "wiki": {"ja":"第1回十字軍","en":"Siege of Jerusalem (1099)"}
   },
   {
     "id": "great-zimbabwe",
@@ -1059,11 +1059,11 @@
     "year_end": null,
     "lat": -20.27,
     "lon": 30.93,
-    "name": {"ja": "大ジンバブエの形成", "en": "Beginnings of Great Zimbabwe"},
-    "desc": {"ja": "アフリカ南部のザンベジ川南方で石造建築を持つ大ジンバブエの建設が始まった。内陸の金をインド洋沿岸のムスリム商人との交易に供し、繁栄した。", "en": "Construction of the stone-built city of Great Zimbabwe began south of the Zambezi. It prospered by supplying inland gold to Muslim traders on the Indian Ocean coast."},
+    "name": {"ja":"大ジンバブエの形成","en":"Beginnings of Great Zimbabwe"},
+    "desc": {"ja":"アフリカ南部のザンベジ川南方で石造建築を持つ大ジンバブエの建設が始まった。内陸の金をインド洋沿岸のムスリム商人との交易に供し、繁栄した。","en":"Construction of the stone-built city of Great Zimbabwe began south of the Zambezi. It prospered by supplying inland gold to Muslim traders on the Indian Ocean coast."},
     "importance": 1,
     "persons": [],
-    "wiki": {"ja": "グレート・ジンバブエ遺跡", "en": "Great Zimbabwe"}
+    "wiki": {"ja":"グレート・ジンバブエ遺跡","en":"Great Zimbabwe"}
   },
   {
     "id": "angkor-wat",
@@ -1072,11 +1072,11 @@
     "year_end": 1150,
     "lat": 13.41,
     "lon": 103.87,
-    "name": {"ja": "アンコール＝ワットの建立", "en": "Construction of Angkor Wat"},
-    "desc": {"ja": "アンコール朝のスールヤヴァルマン2世がヒンドゥー教のヴィシュヌ神に捧げる巨大な寺院アンコール＝ワットを建立した。のちに仏教寺院として用いられた。", "en": "Suryavarman II of the Angkor dynasty built the vast temple of Angkor Wat, dedicated to the Hindu god Vishnu. It was later used as a Buddhist temple."},
+    "name": {"ja":"アンコール＝ワットの建立","en":"Construction of Angkor Wat"},
+    "desc": {"ja":"アンコール朝のスールヤヴァルマン2世がヒンドゥー教のヴィシュヌ神に捧げる巨大な寺院アンコール＝ワットを建立した。のちに仏教寺院として用いられた。","en":"Suryavarman II of the Angkor dynasty built the vast temple of Angkor Wat, dedicated to the Hindu god Vishnu. It was later used as a Buddhist temple."},
     "importance": 3,
     "persons": ["suryavarman-ii"],
-    "wiki": {"ja": "アンコール・ワット", "en": "Angkor Wat"}
+    "wiki": {"ja":"アンコール・ワット","en":"Angkor Wat"}
   },
   {
     "id": "jin-founding",
@@ -1085,11 +1085,11 @@
     "year_end": null,
     "lat": 45.54,
     "lon": 126.97,
-    "name": {"ja": "金の建国", "en": "Founding of the Jin dynasty"},
-    "desc": {"ja": "女真の完顔阿骨打が諸部族を統一して皇帝を称し、金を建てた。宋と結んで1125年に遼を滅ぼし、女真文字を制定して猛安・謀克制で部族を統率した。", "en": "Wanyan Aguda united the Jurchen tribes and proclaimed himself emperor of the Jin. Allied with Song, the Jin destroyed Liao in 1125, created a Jurchen script and organized the tribes under the meng-an mou-ke system."},
+    "name": {"ja":"金の建国","en":"Founding of the Jin dynasty"},
+    "desc": {"ja":"女真の完顔阿骨打が諸部族を統一して皇帝を称し、金を建てた。宋と結んで1125年に遼を滅ぼし、女真文字を制定して猛安・謀克制で部族を統率した。","en":"Wanyan Aguda united the Jurchen tribes and proclaimed himself emperor of the Jin. Allied with Song, the Jin destroyed Liao in 1125, created a Jurchen script and organized the tribes under the meng-an mou-ke system."},
     "importance": 2,
     "persons": ["wanyan-aguda"],
-    "wiki": {"ja": "金 (王朝)", "en": "Jin dynasty (1115–1234)"}
+    "wiki": {"ja":"金 (王朝)","en":"Jin dynasty (1115–1234)"}
   },
   {
     "id": "concordat-of-worms",
@@ -1098,24 +1098,24 @@
     "year_end": null,
     "lat": 49.63,
     "lon": 8.36,
-    "name": {"ja": "ヴォルムス協約", "en": "Concordat of Worms"},
-    "desc": {"ja": "教皇と皇帝ハインリヒ5世が叙任権闘争を妥協によって終結させた。聖職者の宗教的権限は教皇が、世俗的権限は皇帝が授けると定めた。", "en": "The pope and Emperor Henry V ended the Investiture Controversy by compromise: the pope would confer spiritual authority on clerics and the emperor their temporal rights."},
+    "name": {"ja":"ヴォルムス協約","en":"Concordat of Worms"},
+    "desc": {"ja":"教皇と皇帝ハインリヒ5世が叙任権闘争を妥協によって終結させた。聖職者の宗教的権限は教皇が、世俗的権限は皇帝が授けると定めた。","en":"The pope and Emperor Henry V ended the Investiture Controversy by compromise: the pope would confer spiritual authority on clerics and the emperor their temporal rights."},
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "ヴォルムス協約", "en": "Concordat of Worms"}
+    "wiki": {"ja":"ヴォルムス協約","en":"Concordat of Worms"}
   },
   {
     "id": "jingkang-incident",
     "type": "fall",
     "year": 1127,
     "year_end": null,
-    "lat": 34.80,
+    "lat": 34.8,
     "lon": 114.31,
-    "name": {"ja": "靖康の変", "en": "Jingkang Incident"},
-    "desc": {"ja": "金軍が宋の都開封を占領し、上皇徽宗と皇帝欽宗を北方へ連れ去った。北宋は滅亡し、華北は金の支配下に入った。", "en": "Jin forces captured the Song capital Kaifeng and carried off the retired emperor Huizong and Emperor Qinzong to the north. The Northern Song fell and north China passed to the Jin."},
+    "name": {"ja":"靖康の変","en":"Jingkang Incident"},
+    "desc": {"ja":"金軍が宋の都開封を占領し、上皇徽宗と皇帝欽宗ら皇族3000余人を北方へ連れ去った。北宋はここに滅亡し、華北は金の支配下に入った。","en":"Jin forces captured the Song capital Kaifeng and carried off the retired emperor Huizong and Emperor Qinzong to the north. The Northern Song fell and north China passed to the Jin."},
     "importance": 3,
     "persons": [],
-    "wiki": {"ja": "靖康の変", "en": "Jingkang incident"}
+    "wiki": {"ja":"靖康の変","en":"Jingkang incident"}
   },
   {
     "id": "southern-song",
@@ -1124,11 +1124,11 @@
     "year_end": null,
     "lat": 30.25,
     "lon": 120.17,
-    "name": {"ja": "南宋の成立", "en": "Founding of the Southern Song"},
-    "desc": {"ja": "欽宗の弟高宗が江南に逃れて帝位につき、臨安(杭州)を都とした。主戦派の岳飛を退けた秦檜が1142年に金と和議を結び、淮河を国境とした。", "en": "Gaozong, brother of Qinzong, fled south and took the throne at Lin'an (Hangzhou). The peace faction under Qin Hui, overriding the general Yue Fei, concluded a treaty with Jin in 1142 fixing the border at the Huai River."},
+    "name": {"ja":"南宋の成立","en":"Founding of the Southern Song"},
+    "desc": {"ja":"欽宗の弟高宗が江南に逃れて帝位につき、臨安(杭州)を都とした。主戦派の岳飛を退けた秦檜が1142年に金と和議を結び、淮河を国境とした。","en":"Gaozong, brother of Qinzong, fled south and took the throne at Lin'an (Hangzhou). The peace faction under Qin Hui, overriding the general Yue Fei, concluded a treaty with Jin in 1142 fixing the border at the Huai River."},
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "南宋", "en": "Southern Song"}
+    "wiki": {"ja":"南宋","en":"Southern Song"}
   },
   {
     "id": "kingdom-of-sicily",
@@ -1137,24 +1137,24 @@
     "year_end": null,
     "lat": 38.12,
     "lon": 13.36,
-    "name": {"ja": "両シチリア王国の成立", "en": "Founding of the Norman Kingdom of Sicily"},
-    "desc": {"ja": "南イタリアとシチリアを征服したノルマン人のルッジェーロ2世が王位につき、パレルモを都とした。イスラーム・ビザンツ・ラテンの文化が融合した。", "en": "Roger II, leader of the Normans who had conquered southern Italy and Sicily, was crowned king at Palermo. Islamic, Byzantine and Latin cultures mingled in his kingdom."},
+    "name": {"ja":"両シチリア王国の成立","en":"Founding of the Norman Kingdom of Sicily"},
+    "desc": {"ja":"南イタリアとシチリアを征服したノルマン人のルッジェーロ2世が王位につき、パレルモを都とした。イスラーム・ビザンツ・ラテンの文化が融合した。","en":"Roger II, leader of the Normans who had conquered southern Italy and Sicily, was crowned king at Palermo. Islamic, Byzantine and Latin cultures mingled in his kingdom."},
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "シチリア王国", "en": "Kingdom of Sicily"}
+    "wiki": {"ja":"シチリア王国","en":"Kingdom of Sicily"}
   },
   {
     "id": "almohad-dynasty",
     "type": "founding",
     "year": 1130,
     "year_end": null,
-    "lat": 31.00,
+    "lat": 31,
     "lon": -8.22,
-    "name": {"ja": "ムワッヒド朝の成立", "en": "Rise of the Almohad dynasty"},
-    "desc": {"ja": "ベルベル人の厳格な宗教改革運動からムワッヒド朝がおこり、1147年にムラービト朝を滅ぼしてマグリブとイベリア南部を支配した。イブン＝ルシュドらの学問が栄えた。", "en": "The Almohads arose from a puritanical Berber reform movement, destroyed the Almoravids in 1147 and ruled the Maghreb and southern Iberia. Scholarship flourished under them, notably Ibn Rushd."},
+    "name": {"ja":"ムワッヒド朝の成立","en":"Rise of the Almohad dynasty"},
+    "desc": {"ja":"ベルベル人の厳格な宗教改革運動からムワッヒド朝がおこり、1147年にムラービト朝を滅ぼしてマグリブとイベリア南部を支配した。イブン＝ルシュドらの学問が栄えた。","en":"The Almohads arose from a puritanical Berber reform movement, destroyed the Almoravids in 1147 and ruled the Maghreb and southern Iberia. Scholarship flourished under them, notably Ibn Rushd."},
     "importance": 2,
     "persons": ["ibn-rushd"],
-    "wiki": {"ja": "ムワッヒド朝", "en": "Almohad Caliphate"}
+    "wiki": {"ja":"ムワッヒド朝","en":"Almohad Caliphate"}
   },
   {
     "id": "kara-khitai",
@@ -1163,11 +1163,11 @@
     "year_end": null,
     "lat": 42.74,
     "lon": 75.25,
-    "name": {"ja": "西遼(カラキタイ)の成立", "en": "Founding of the Kara-Khitai (Western Liao)"},
-    "desc": {"ja": "金に滅ぼされた遼の皇族耶律大石が中央アジアに逃れ、カラハン朝を従えて西遼を建てた。1141年にはセルジューク朝軍を破った。", "en": "Yelü Dashi, a Liao prince, fled west after the Jin destroyed Liao and founded the Kara-Khitai in Central Asia over the Karakhanids. In 1141 he defeated a Seljuk army."},
+    "name": {"ja":"西遼(カラキタイ)の成立","en":"Founding of the Kara-Khitai (Western Liao)"},
+    "desc": {"ja":"金に滅ぼされた遼の皇族耶律大石が中央アジアに逃れ、カラハン朝を従えて西遼を建てた。1141年にはセルジューク朝軍を破った。","en":"Yelü Dashi, a Liao prince, fled west after the Jin destroyed Liao and founded the Kara-Khitai in Central Asia over the Karakhanids. In 1141 he defeated a Seljuk army."},
     "importance": 1,
     "persons": [],
-    "wiki": {"ja": "西遼", "en": "Qara Khitai"}
+    "wiki": {"ja":"西遼","en":"Qara Khitai"}
   },
   {
     "id": "kingdom-of-portugal",
@@ -1176,11 +1176,11 @@
     "year_end": null,
     "lat": 40.21,
     "lon": -8.43,
-    "name": {"ja": "ポルトガル王国の成立", "en": "Founding of the Kingdom of Portugal"},
-    "desc": {"ja": "レコンキスタの過程でカスティリャから自立したアフォンソ1世が王を称し、ポルトガル王国が成立した。1147年には十字軍の助けでリスボンを奪回した。", "en": "In the course of the Reconquista, Afonso I broke away from Castile and took the title of king, founding Portugal. In 1147 he captured Lisbon with crusader help."},
+    "name": {"ja":"ポルトガル王国の成立","en":"Founding of the Kingdom of Portugal"},
+    "desc": {"ja":"レコンキスタの過程でカスティリャから自立したアフォンソ1世が王を称し、ポルトガル王国が成立した。1147年には十字軍の助けでリスボンを奪回した。","en":"In the course of the Reconquista, Afonso I broke away from Castile and took the title of king, founding Portugal. In 1147 he captured Lisbon with crusader help."},
     "importance": 1,
     "persons": [],
-    "wiki": {"ja": "ポルトガル王国", "en": "Kingdom of Portugal"}
+    "wiki": {"ja":"ポルトガル王国","en":"Kingdom of Portugal"}
   },
   {
     "id": "saint-denis-gothic",
@@ -1189,11 +1189,11 @@
     "year_end": null,
     "lat": 48.94,
     "lon": 2.36,
-    "name": {"ja": "ゴシック様式の誕生", "en": "Birth of Gothic architecture at Saint-Denis"},
-    "desc": {"ja": "パリ北郊のサン＝ドニ修道院長シュジェールが尖頭アーチとステンドグラスを用いた新しい内陣を献堂した。ゴシック様式の始まりで、以後シャルトルなど各地に広がった。", "en": "Abbot Suger of Saint-Denis near Paris dedicated a new choir using pointed arches and stained glass. It marked the birth of the Gothic style, which spread to Chartres and beyond."},
+    "name": {"ja":"ゴシック様式の誕生","en":"Birth of Gothic architecture at Saint-Denis"},
+    "desc": {"ja":"パリ北郊のサン＝ドニ修道院長シュジェールが尖頭アーチとステンドグラスを用いた新しい内陣を献堂した。ゴシック様式の始まりで、以後シャルトルなど各地に広がった。","en":"Abbot Suger of Saint-Denis near Paris dedicated a new choir using pointed arches and stained glass. It marked the birth of the Gothic style, which spread to Chartres and beyond."},
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "ゴシック建築", "en": "Basilica of Saint-Denis"}
+    "wiki": {"ja":"ゴシック建築","en":"Basilica of Saint-Denis"}
   },
   {
     "id": "lubeck-founding",
@@ -1202,11 +1202,11 @@
     "year_end": null,
     "lat": 53.87,
     "lon": 10.69,
-    "name": {"ja": "リューベックの建設", "en": "Founding of Lübeck"},
-    "desc": {"ja": "ザクセン公ハインリヒ獅子公がバルト海沿岸に都市リューベックを建設した。北海・バルト海交易の拠点として発展し、のちハンザ同盟の盟主となった。", "en": "Henry the Lion, duke of Saxony, founded the city of Lübeck on the Baltic coast. It grew into the hub of North Sea and Baltic trade and later led the Hanseatic League."},
+    "name": {"ja":"リューベックの建設","en":"Founding of Lübeck"},
+    "desc": {"ja":"ザクセン公ハインリヒ獅子公がバルト海沿岸に都市リューベックを建設した。北海・バルト海交易の拠点として発展し、のちハンザ同盟の盟主となった。","en":"Henry the Lion, duke of Saxony, founded the city of Lübeck on the Baltic coast. It grew into the hub of North Sea and Baltic trade and later led the Hanseatic League."},
     "importance": 1,
     "persons": [],
-    "wiki": {"ja": "リューベック", "en": "Lübeck"}
+    "wiki": {"ja":"リューベック","en":"Lübeck"}
   },
   {
     "id": "ayyubid-dynasty",
@@ -1215,24 +1215,24 @@
     "year_end": null,
     "lat": 30.04,
     "lon": 31.24,
-    "name": {"ja": "アイユーブ朝の成立", "en": "Founding of the Ayyubid dynasty"},
-    "desc": {"ja": "クルド人の武将サラディンがエジプトの実権を握り、1171年にファーティマ朝を廃してスンナ派のアイユーブ朝を建てた。シリアも併せてイスラーム勢力を結集した。", "en": "The Kurdish commander Saladin took power in Egypt and in 1171 abolished the Fatimid caliphate, founding the Sunni Ayyubid dynasty. He also united Syria, rallying Muslim forces."},
+    "name": {"ja":"アイユーブ朝の成立","en":"Founding of the Ayyubid dynasty"},
+    "desc": {"ja":"クルド人の武将サラディンがエジプトの実権を握り、1171年にファーティマ朝を廃してスンナ派のアイユーブ朝を建てた。シリアも併せてイスラーム勢力を結集した。","en":"The Kurdish commander Saladin took power in Egypt and in 1171 abolished the Fatimid caliphate, founding the Sunni Ayyubid dynasty. He also united Syria, rallying Muslim forces."},
     "importance": 2,
     "persons": ["saladin"],
-    "wiki": {"ja": "アイユーブ朝", "en": "Ayyubid dynasty"}
+    "wiki": {"ja":"アイユーブ朝","en":"Ayyubid dynasty"}
   },
   {
     "id": "battle-of-hattin",
     "type": "battle",
     "year": 1187,
     "year_end": null,
-    "lat": 32.80,
+    "lat": 32.8,
     "lon": 35.44,
-    "name": {"ja": "ヒッティーンの戦い", "en": "Battle of Hattin"},
-    "desc": {"ja": "サラディンがイェルサレム王国軍を壊滅させ、同年イェルサレムを奪回した。これを受けて西欧では第3回十字軍が組織された。", "en": "Saladin annihilated the army of the Kingdom of Jerusalem and recovered the city the same year. The loss prompted the organization of the Third Crusade in western Europe."},
+    "name": {"ja":"ヒッティーンの戦い","en":"Battle of Hattin"},
+    "desc": {"ja":"サラディンがイェルサレム王国軍を壊滅させ、同年イェルサレムを奪回した。約90年ぶりの聖地喪失を受けて、西欧では第3回十字軍が組織された。","en":"Saladin annihilated the army of the Kingdom of Jerusalem and recovered the city the same year. The loss prompted the organization of the Third Crusade in western Europe."},
     "importance": 3,
     "persons": ["saladin"],
-    "wiki": {"ja": "ヒッティーンの戦い", "en": "Battle of Hattin"}
+    "wiki": {"ja":"ヒッティーンの戦い","en":"Battle of Hattin"}
   },
   {
     "id": "third-crusade",
@@ -1241,11 +1241,11 @@
     "year_end": 1192,
     "lat": 32.92,
     "lon": 35.07,
-    "name": {"ja": "第3回十字軍", "en": "Third Crusade"},
-    "desc": {"ja": "皇帝フリードリヒ1世・仏王フィリップ2世・英王リチャード1世が参加した。リチャードはアッコンを奪回してサラディンと戦ったが、イェルサレムは回復できず休戦した。", "en": "Emperor Frederick I, Philip II of France and Richard I of England took part. Richard retook Acre and fought Saladin but could not recover Jerusalem, and concluded a truce."},
+    "name": {"ja":"第3回十字軍","en":"Third Crusade"},
+    "desc": {"ja":"皇帝フリードリヒ1世・仏王フィリップ2世・英王リチャード1世が参加した。リチャードはアッコンを奪回してサラディンと戦ったが、イェルサレムは回復できず休戦した。","en":"Emperor Frederick I, Philip II of France and Richard I of England took part. Richard retook Acre and fought Saladin but could not recover Jerusalem, and concluded a truce."},
     "importance": 3,
-    "persons": ["richard-i", "saladin"],
-    "wiki": {"ja": "第3回十字軍", "en": "Third Crusade"}
+    "persons": ["richard-i","saladin"],
+    "wiki": {"ja":"第3回十字軍","en":"Third Crusade"}
   },
   {
     "id": "zhu-xi-neo-confucianism",
@@ -1254,11 +1254,11 @@
     "year_end": null,
     "lat": 27.33,
     "lon": 118.12,
-    "name": {"ja": "朱子学の大成", "en": "Zhu Xi completes Neo-Confucianism"},
-    "desc": {"ja": "南宋の朱熹が『四書集注』を刊行し、周敦頤・程頤らの学説を体系化して朱子学を大成した。理気二元論と大義名分論は東アジアの思想に大きな影響を与えた。", "en": "Zhu Xi of the Southern Song published his commentaries on the Four Books, systematizing the teachings of Zhou Dunyi and Cheng Yi into Neo-Confucianism. His metaphysics of principle and material force deeply influenced East Asian thought."},
+    "name": {"ja":"朱子学の大成","en":"Zhu Xi completes Neo-Confucianism"},
+    "desc": {"ja":"南宋の朱熹が『四書集注』を刊行し、周敦頤・程頤らの学説を体系化して朱子学を大成した。理気二元論と大義名分論は東アジアの思想に大きな影響を与えた。","en":"Zhu Xi of the Southern Song published his commentaries on the Four Books, systematizing the teachings of Zhou Dunyi and Cheng Yi into Neo-Confucianism. His metaphysics of principle and material force deeply influenced East Asian thought."},
     "importance": 3,
     "persons": ["zhu-xi"],
-    "wiki": {"ja": "朱子学", "en": "Zhu Xi"}
+    "wiki": {"ja":"朱子学","en":"Zhu Xi"}
   },
   {
     "id": "battle-of-tarain",
@@ -1267,11 +1267,11 @@
     "year_end": null,
     "lat": 29.56,
     "lon": 76.33,
-    "name": {"ja": "タラーインの戦い", "en": "Second Battle of Tarain"},
-    "desc": {"ja": "アフガニスタンのゴール朝のムハンマドがラージプート諸侯の連合軍を破り、北インドの支配を固めた。ここからインドにおける本格的なイスラーム王朝の時代が始まる。", "en": "Muhammad of Ghor, from Afghanistan, defeated the confederation of Rajput princes and secured control of northern India. The era of Muslim dynasties in India began from this victory."},
+    "name": {"ja":"タラーインの戦い","en":"Second Battle of Tarain"},
+    "desc": {"ja":"アフガニスタンのゴール朝のムハンマドがラージプート諸侯の連合軍を破り、北インドの支配を固めた。ここからインドにおける本格的なイスラーム王朝の時代が始まる。","en":"Muhammad of Ghor, from Afghanistan, defeated the confederation of Rajput princes and secured control of northern India. The era of Muslim dynasties in India began from this victory."},
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "ゴール朝", "en": "Second Battle of Tarain"}
+    "wiki": {"ja":"ゴール朝","en":"Second Battle of Tarain"}
   },
   {
     "id": "kamakura-shogunate",
@@ -1280,10 +1280,10 @@
     "year_end": null,
     "lat": 35.32,
     "lon": 139.55,
-    "name": {"ja": "鎌倉幕府の成立", "en": "Establishment of the Kamakura shogunate"},
-    "desc": {"ja": "平氏を滅ぼした源頼朝が征夷大将軍に任じられ、鎌倉に武家政権を確立した。日本で武士が政治の実権を握る時代が始まった。", "en": "Minamoto no Yoritomo, having destroyed the Taira, was appointed shogun and established a warrior government at Kamakura. The age of samurai rule in Japan began."},
+    "name": {"ja":"鎌倉幕府の成立","en":"Establishment of the Kamakura shogunate"},
+    "desc": {"ja":"平氏を滅ぼした源頼朝が征夷大将軍に任じられ、鎌倉に武家政権を確立した。日本で武士が政治の実権を握る時代がここに始まった。","en":"Minamoto no Yoritomo, having destroyed the Taira, was appointed shogun and established a warrior government at Kamakura. The age of samurai rule in Japan began."},
     "importance": 2,
     "persons": ["minamoto-yoritomo"],
-    "wiki": {"ja": "鎌倉幕府", "en": "Kamakura shogunate"}
+    "wiki": {"ja":"鎌倉幕府","en":"Kamakura shogunate"}
   }
 ]

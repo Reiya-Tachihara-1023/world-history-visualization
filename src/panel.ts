@@ -1,5 +1,5 @@
 import type { Dataset } from './data';
-import { nameOf } from './data';
+import { nameOf, eventsInside, personsInside } from './data';
 import { state, type Selection } from './state';
 import { formatRange, formatYear, lt, lt2, ui, getLangMode } from './i18n';
 import { portraitFor } from './portrait';
@@ -38,7 +38,7 @@ function periodAt(p: Polity, year: number): PolityPeriod | undefined {
   return p.periods.find((q) => q.from <= year && year <= q.to) ?? p.periods.reduce((a, b) => (Math.abs(b.from - year) < Math.abs(a.from - year) ? b : a));
 }
 
-function renderPolity(ds: Dataset, p: Polity, year: number, extraHead = ''): string {
+function renderPolity(p: Polity, year: number, extraHead = ''): string {
   const per = periodAt(p, year);
   let html = `<h2>${esc(lt(p.name))}</h2>${extraHead}`;
   if (!per) return html + `<p>${ui('panel.nodata')}</p>` + wikiLinks(p.wiki);
@@ -51,13 +51,11 @@ function renderPolity(ds: Dataset, p: Polity, year: number, extraHead = ''): str
       return `<li class="${now ? 'now' : ''}" ${r.person ? `data-person="${r.person}"` : ''}><span class="y">${esc(formatRange(r.from, r.to))}</span>${esc(lt(r.name))}</li>`;
     }).join('') + '</ul>';
   }
-  const related = ds.events.filter((e) => (e as HistEvent & { polities?: string[] }).polities?.includes(p.id));
-  html += eventList(related, ui('panel.events'));
   html += wikiLinks(p.wiki);
   return html;
 }
 
-export function initPanel(ds: Dataset, onJump: (lon: number, lat: number) => void) {
+export function initPanel(ds: Dataset, onJump: (lon: number, lat: number) => void, geomsFor: (name: string | null, subject: string | null) => GeoJSON.Geometry[]) {
   const panel = document.getElementById('panel')!;
   const body = document.getElementById('panel-body')!;
   document.getElementById('panel-close')!.addEventListener('click', () => state.select(null));
@@ -85,11 +83,16 @@ export function initPanel(ds: Dataset, onJump: (lon: number, lat: number) => voi
       if (subj && subj.en !== name?.en) head += ` <span class="tag">${ui('panel.sovereign')}: ${esc(lt(subj))}</span>`;
       if (partof && partof.en !== name?.en) head += ` <span class="tag">${ui('panel.partof')}: ${esc(lt(partof))}</span>`;
       head += '</div>';
+      const geoms = geomsFor(s.name, s.subject);
+      const span = year < -1000 ? 500 : year < 1000 ? 150 : year < 1800 ? 80 : 40;
+      const local = eventList(eventsInside(ds.events, geoms, year, span), ui('panel.localEvents'));
+      const people = personsInside(ds.persons, geoms, year, span).sort((a, b) => b.importance - a.importance).slice(0, 12);
+      const peopleHtml = personList(ds, people.map((p) => p.id), ui('panel.localPersons'));
       if (polity) {
         const alias = name && lt(polity.name) !== lt(name) ? `<div class="sub">${esc(lt(name))}</div>` : '';
-        body.innerHTML = renderPolity(ds, polity, year, alias + head);
+        body.innerHTML = renderPolity(polity, year, alias + head) + peopleHtml + local;
       } else {
-        body.innerHTML = `<h2>${esc(lt(name) || '—')}</h2>${head}<p>${ui('panel.nodata')}</p>`;
+        body.innerHTML = `<h2>${esc(lt(name) || '—')}</h2>${head}<p>${ui('panel.nodata')}</p>` + peopleHtml + local;
       }
     } else if (s.kind === 'event') {
       const e = s.event;
@@ -106,7 +109,7 @@ export function initPanel(ds: Dataset, onJump: (lon: number, lat: number) => voi
         }
       });
     } else if (s.kind === 'polity') {
-      body.innerHTML = renderPolity(ds, s.polity, year);
+      body.innerHTML = renderPolity(s.polity, year);
     }
     panel.scrollTop = 0;
   };
@@ -129,9 +132,8 @@ export function initTicker(getInView: () => HistEvent[]) {
   const reset = () => { list.innerHTML = ''; seen.clear(); };
   const update = () => {
     if (!state.focus) return;
+    // Events stay listed once they have appeared (it is a log of what happened in view).
     const inView = getInView().sort((a, b) => a.year - b.year);
-    const ids = new Set(inView.map((e) => e.id));
-    for (const [id, el] of seen) if (!ids.has(id)) { el.remove(); seen.delete(id); }
     for (const e of inView) {
       if (seen.has(e.id)) continue;
       const li = document.createElement('li');

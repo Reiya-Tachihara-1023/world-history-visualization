@@ -1,475 +1,1069 @@
 [
   {
     "id": "sargon-of-akkad",
-    "name": {"ja": "サルゴン1世", "en": "Sargon of Akkad"},
-    "active": [-2334, -2279],
-    "role": {"ja": "アッカド王", "en": "King of Akkad"},
+    "name": {
+      "ja": "サルゴン1世",
+      "en": "Sargon of Akkad"
+    },
+    "active": [
+      -2334,
+      -2279
+    ],
+    "role": {
+      "ja": "アッカド王",
+      "en": "King of Akkad"
+    },
     "lat": 33.1,
     "lon": 44.1,
-    "desc": {"ja": "セム語系アッカド人の王。シュメール人の都市国家を征服してメソポタミアを初めて統一し、アッカド王国を建てた。", "en": "King of the Semitic Akkadians who conquered the Sumerian city-states and created the first unified kingdom in Mesopotamia."},
+    "desc": {
+      "ja": "セム語系アッカド人の王。シュメール人の都市国家を征服してメソポタミアを初めて統一し、アッカド王国を建てた。",
+      "en": "King of the Semitic Akkadians who conquered the Sumerian city-states and created the first unified kingdom in Mesopotamia."
+    },
     "importance": 2,
-    "wiki": {"ja": "サルゴン (アッカド王)", "en": "Sargon of Akkad"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "サルゴン (アッカド王)",
+      "en": "Sargon of Akkad"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "khufu",
-    "name": {"ja": "クフ", "en": "Khufu"},
-    "active": [-2589, -2566],
-    "role": {"ja": "エジプト古王国第4王朝のファラオ", "en": "Pharaoh of the Fourth Dynasty of Egypt"},
+    "name": {
+      "ja": "クフ",
+      "en": "Khufu"
+    },
+    "active": [
+      -2589,
+      -2566
+    ],
+    "role": {
+      "ja": "エジプト古王国第4王朝のファラオ",
+      "en": "Pharaoh of the Fourth Dynasty of Egypt"
+    },
     "lat": 29.85,
     "lon": 31.25,
-    "desc": {"ja": "古王国第4王朝のファラオ。ギザに最大のピラミッドを築いたことで知られ、古王国の王権の強大さを象徴する。", "en": "Pharaoh of the Fourth Dynasty, builder of the Great Pyramid at Giza, the largest of all, symbolizing the power of Old Kingdom kingship."},
+    "desc": {
+      "ja": "古王国第4王朝のファラオ。ギザに最大のピラミッドを築いたことで知られ、古王国の王権の強大さを象徴する。",
+      "en": "Pharaoh of the Fourth Dynasty, builder of the Great Pyramid at Giza, the largest of all, symbolizing the power of Old Kingdom kingship."
+    },
     "importance": 2,
-    "wiki": {"ja": "クフ", "en": "Khufu"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "クフ",
+      "en": "Khufu"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "hammurabi",
-    "name": {"ja": "ハンムラビ", "en": "Hammurabi"},
-    "active": [-1792, -1750],
-    "role": {"ja": "バビロン第1王朝の王", "en": "King of the First Dynasty of Babylon"},
+    "name": {
+      "ja": "ハンムラビ",
+      "en": "Hammurabi"
+    },
+    "active": [
+      -1792,
+      -1750
+    ],
+    "role": {
+      "ja": "バビロン第1王朝の王",
+      "en": "King of the First Dynasty of Babylon"
+    },
     "lat": 32.54,
     "lon": 44.42,
-    "desc": {"ja": "バビロン第1王朝第6代の王。全メソポタミアを統一し、復讐法と身分差を特色とするハンムラビ法典を発布して中央集権的統治をおこなった。", "en": "Sixth king of the First Dynasty of Babylon who unified Mesopotamia and issued the Code of Hammurabi, known for retaliatory justice graded by social status."},
+    "desc": {
+      "ja": "バビロン第1王朝第6代の王。全メソポタミアを統一し、復讐法と身分差を特色とするハンムラビ法典を発布して中央集権的統治をおこなった。",
+      "en": "Sixth king of the First Dynasty of Babylon who unified Mesopotamia and issued the Code of Hammurabi, known for retaliatory justice graded by social status."
+    },
     "importance": 3,
-    "wiki": {"ja": "ハンムラビ", "en": "Hammurabi"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ハンムラビ",
+      "en": "Hammurabi"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "akhenaten",
-    "name": {"ja": "アメンホテプ4世", "en": "Akhenaten (Amenhotep IV)"},
-    "active": [-1353, -1336],
-    "role": {"ja": "エジプト新王国第18王朝のファラオ", "en": "Pharaoh of the Eighteenth Dynasty of Egypt"},
+    "name": {
+      "ja": "アメンホテプ4世",
+      "en": "Akhenaten (Amenhotep IV)"
+    },
+    "active": [
+      -1353,
+      -1336
+    ],
+    "role": {
+      "ja": "エジプト新王国第18王朝のファラオ",
+      "en": "Pharaoh of the Eighteenth Dynasty of Egypt"
+    },
     "lat": 27.65,
     "lon": 30.9,
-    "desc": {"ja": "新王国第18王朝のファラオ。アモン神官団を抑えるため唯一神アトンの信仰を強制し、自らイクナートンと改名してテル＝エル＝アマルナに遷都した。", "en": "Pharaoh of the Eighteenth Dynasty who imposed worship of the single god Aten against the Amun priesthood, renamed himself Akhenaten and moved the capital to Amarna."},
+    "desc": {
+      "ja": "新王国第18王朝のファラオ。アモン神官団を抑えるため唯一神アトンの信仰を強制し、自らイクナートンと改名してテル＝エル＝アマルナに遷都した。",
+      "en": "Pharaoh of the Eighteenth Dynasty who imposed worship of the single god Aten against the Amun priesthood, renamed himself Akhenaten and moved the capital to Amarna."
+    },
     "importance": 2,
-    "wiki": {"ja": "アクエンアテン", "en": "Akhenaten"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "アクエンアテン",
+      "en": "Akhenaten"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "ramesses-ii",
-    "name": {"ja": "ラメス2世", "en": "Ramesses II"},
+    "name": {
+      "ja": "ラメス2世",
+      "en": "Ramesses II"
+    },
     "born": -1303,
     "died": -1213,
-    "active": [-1279, -1213],
-    "role": {"ja": "エジプト新王国第19王朝のファラオ", "en": "Pharaoh of the Nineteenth Dynasty of Egypt"},
+    "active": [
+      -1279,
+      -1213
+    ],
+    "role": {
+      "ja": "エジプト新王国第19王朝のファラオ",
+      "en": "Pharaoh of the Nineteenth Dynasty of Egypt"
+    },
     "lat": 25.72,
     "lon": 32.61,
-    "desc": {"ja": "新王国第19王朝のファラオ。ヒッタイトとカデシュで戦って和約を結び、アブ＝シンベル神殿など多くの大建築を残した。新王国最盛期の王。", "en": "Pharaoh of the Nineteenth Dynasty who fought the Hittites at Kadesh and made peace with them, and left great monuments such as Abu Simbel; the height of the New Kingdom."},
+    "desc": {
+      "ja": "新王国第19王朝のファラオ。ヒッタイトとカデシュで戦って和約を結び、アブ＝シンベル神殿など多くの大建築を残した。新王国最盛期の王。",
+      "en": "Pharaoh of the Nineteenth Dynasty who fought the Hittites at Kadesh and made peace with them, and left great monuments such as Abu Simbel; the height of the New Kingdom."
+    },
     "importance": 3,
-    "wiki": {"ja": "ラムセス2世", "en": "Ramesses II"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ラムセス2世",
+      "en": "Ramesses II"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "david",
-    "name": {"ja": "ダヴィデ", "en": "David"},
-    "active": [-1000, -962],
-    "role": {"ja": "ヘブライ王国の王", "en": "King of Israel"},
+    "name": {
+      "ja": "ダヴィデ",
+      "en": "David"
+    },
+    "active": [
+      -1000,
+      -962
+    ],
+    "role": {
+      "ja": "ヘブライ王国の王",
+      "en": "King of Israel"
+    },
     "lat": 31.78,
     "lon": 35.23,
-    "desc": {"ja": "ヘブライ王国第2代の王。ペリシテ人を破り、イェルサレムを都として王国の基礎を固めた。子のソロモンの時代に王国は最盛期を迎えた。", "en": "Second king of the Hebrews who defeated the Philistines and made Jerusalem his capital, laying the foundations of a kingdom that peaked under his son Solomon."},
+    "desc": {
+      "ja": "ヘブライ王国第2代の王。ペリシテ人を破り、イェルサレムを都として王国の基礎を固めた。子のソロモンの時代に王国は最盛期を迎えた。",
+      "en": "Second king of the Hebrews who defeated the Philistines and made Jerusalem his capital, laying the foundations of a kingdom that peaked under his son Solomon."
+    },
     "importance": 2,
-    "wiki": {"ja": "ダビデ", "en": "David"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ダビデ",
+      "en": "David"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "ashurbanipal",
-    "name": {"ja": "アッシュルバニパル", "en": "Ashurbanipal"},
-    "active": [-668, -627],
-    "role": {"ja": "アッシリア王", "en": "King of Assyria"},
+    "name": {
+      "ja": "アッシュルバニパル",
+      "en": "Ashurbanipal"
+    },
+    "active": [
+      -668,
+      -627
+    ],
+    "role": {
+      "ja": "アッシリア王",
+      "en": "King of Assyria"
+    },
     "lat": 36.36,
     "lon": 43.15,
-    "desc": {"ja": "アッシリア最盛期の王。エジプトからエラムまでを支配し、都ニネヴェに粘土板文書を集めた大図書館を設けた。その死後まもなくアッシリアは滅亡した。", "en": "King of Assyria at its height, ruling from Egypt to Elam; he assembled a great library of clay tablets at Nineveh. The empire collapsed soon after his death."},
+    "desc": {
+      "ja": "アッシリア最盛期の王。エジプトからエラムまでを支配し、都ニネヴェに粘土板文書を集めた大図書館を設けた。その死後まもなくアッシリアは滅亡した。",
+      "en": "King of Assyria at its height, ruling from Egypt to Elam; he assembled a great library of clay tablets at Nineveh. The empire collapsed soon after his death."
+    },
     "importance": 2,
-    "wiki": {"ja": "アッシュルバニパル", "en": "Ashurbanipal"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "アッシュルバニパル",
+      "en": "Ashurbanipal"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "nebuchadnezzar-ii",
-    "name": {"ja": "ネブカドネザル2世", "en": "Nebuchadnezzar II"},
-    "active": [-605, -562],
-    "role": {"ja": "新バビロニア王", "en": "King of Neo-Babylonia"},
+    "name": {
+      "ja": "ネブカドネザル2世",
+      "en": "Nebuchadnezzar II"
+    },
+    "active": [
+      -605,
+      -562
+    ],
+    "role": {
+      "ja": "新バビロニア王",
+      "en": "King of Neo-Babylonia"
+    },
     "lat": 32.54,
     "lon": 44.42,
-    "desc": {"ja": "新バビロニア(カルデア)最盛期の王。ユダ王国を滅ぼしてバビロン捕囚をおこない、バビロンに城壁やイシュタル門、空中庭園を築いたと伝えられる。", "en": "Greatest king of Neo-Babylonia, who destroyed Judah and carried its people into the Babylonian captivity, and adorned Babylon with walls, the Ishtar Gate and the Hanging Gardens."},
+    "desc": {
+      "ja": "新バビロニア(カルデア)最盛期の王。ユダ王国を滅ぼしてバビロン捕囚をおこない、バビロンに城壁やイシュタル門、空中庭園を築いたと伝えられる。",
+      "en": "Greatest king of Neo-Babylonia, who destroyed Judah and carried its people into the Babylonian captivity, and adorned Babylon with walls, the Ishtar Gate and the Hanging Gardens."
+    },
     "importance": 2,
-    "wiki": {"ja": "ネブカドネザル2世", "en": "Nebuchadnezzar II"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ネブカドネザル2世",
+      "en": "Nebuchadnezzar II"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "thales",
-    "name": {"ja": "タレス", "en": "Thales of Miletus"},
+    "name": {
+      "ja": "タレス",
+      "en": "Thales of Miletus"
+    },
     "born": -624,
     "died": -546,
-    "active": [-600, -546],
-    "role": {"ja": "イオニアの自然哲学者", "en": "Ionian natural philosopher"},
+    "active": [
+      -600,
+      -546
+    ],
+    "role": {
+      "ja": "イオニアの自然哲学者",
+      "en": "Ionian natural philosopher"
+    },
     "lat": 37.53,
     "lon": 27.28,
-    "desc": {"ja": "ミレトスの自然哲学者で「哲学の父」。万物の根源を水と考え、神話によらず合理的に自然を説明しようとした。日食を予言したと伝えられる。", "en": "Natural philosopher of Miletus, the 'father of philosophy', who held water to be the origin of all things and sought rational rather than mythical explanations of nature."},
+    "desc": {
+      "ja": "ミレトスの自然哲学者で「哲学の父」。万物の根源を水と考え、神話によらず合理的に自然を説明しようとした。日食を予言したと伝えられる。",
+      "en": "Natural philosopher of Miletus, the 'father of philosophy', who held water to be the origin of all things and sought rational rather than mythical explanations of nature."
+    },
     "importance": 2,
-    "wiki": {"ja": "タレス", "en": "Thales of Miletus"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "タレス",
+      "en": "Thales of Miletus"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "solon",
-    "name": {"ja": "ソロン", "en": "Solon"},
+    "name": {
+      "ja": "ソロン",
+      "en": "Solon"
+    },
     "born": -640,
     "died": -560,
-    "active": [-594, -560],
-    "role": {"ja": "アテネの政治家・立法者", "en": "Athenian statesman and lawgiver"},
+    "active": [
+      -594,
+      -560
+    ],
+    "role": {
+      "ja": "アテネの政治家・立法者",
+      "en": "Athenian statesman and lawgiver"
+    },
     "lat": 37.98,
     "lon": 23.73,
-    "desc": {"ja": "アテネの政治家。前594年に調停者として負債の帳消しと債務奴隷の禁止を実施し、財産額に応じて参政権を定める財産政治をおこなった。", "en": "Athenian statesman who as mediator in 594 BC cancelled debts, banned debt slavery and instituted a timocracy that graded political rights by wealth."},
+    "desc": {
+      "ja": "アテネの政治家。前594年に調停者として負債の帳消しと債務奴隷の禁止を実施し、財産額に応じて参政権を定める財産政治をおこなった。",
+      "en": "Athenian statesman who as mediator in 594 BC cancelled debts, banned debt slavery and instituted a timocracy that graded political rights by wealth."
+    },
     "importance": 3,
-    "wiki": {"ja": "ソロン", "en": "Solon"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ソロン",
+      "en": "Solon"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "cyrus-ii",
-    "name": {"ja": "キュロス2世", "en": "Cyrus II the Great"},
+    "name": {
+      "ja": "キュロス2世",
+      "en": "Cyrus II the Great"
+    },
     "born": -600,
     "died": -530,
-    "active": [-559, -530],
-    "role": {"ja": "アケメネス朝ペルシアの建国者", "en": "Founder of the Achaemenid Persian Empire"},
+    "active": [
+      -559,
+      -530
+    ],
+    "role": {
+      "ja": "アケメネス朝ペルシアの建国者",
+      "en": "Founder of the Achaemenid Persian Empire"
+    },
     "lat": 30.19,
     "lon": 53.17,
-    "desc": {"ja": "アケメネス朝の建国者。メディア・リディア・新バビロニアを征服し、バビロン捕囚のユダヤ人を解放した。征服地の宗教や慣習を尊重する寛容な統治で知られる。", "en": "Founder of the Achaemenid Empire who conquered Media, Lydia and Neo-Babylonia and freed the Jews from captivity, known for tolerance of the religions and customs of his subjects."},
+    "desc": {
+      "ja": "アケメネス朝の建国者。メディア・リディア・新バビロニアを征服し、バビロン捕囚のユダヤ人を解放した。征服地の宗教や慣習を尊重する寛容な統治で知られる。",
+      "en": "Founder of the Achaemenid Empire who conquered Media, Lydia and Neo-Babylonia and freed the Jews from captivity, known for tolerance of the religions and customs of his subjects."
+    },
     "importance": 3,
-    "wiki": {"ja": "キュロス2世", "en": "Cyrus the Great"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "キュロス2世",
+      "en": "Cyrus the Great"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "peisistratos",
-    "name": {"ja": "ペイシストラトス", "en": "Peisistratos"},
+    "name": {
+      "ja": "ペイシストラトス",
+      "en": "Peisistratos"
+    },
     "born": -600,
     "died": -527,
-    "active": [-561, -527],
-    "role": {"ja": "アテネの僭主", "en": "Tyrant of Athens"},
+    "active": [
+      -561,
+      -527
+    ],
+    "role": {
+      "ja": "アテネの僭主",
+      "en": "Tyrant of Athens"
+    },
     "lat": 37.98,
     "lon": 23.73,
-    "desc": {"ja": "アテネの僭主。平民の支持を得て非合法に権力を握り、中小農民の保護や商工業の振興、文化事業によってアテネの発展に貢献した。", "en": "Tyrant of Athens who seized power with popular backing and promoted small farmers, commerce and the arts, contributing to the growth of the city."},
+    "desc": {
+      "ja": "アテネの僭主。平民の支持を得て非合法に権力を握り、中小農民の保護や商工業の振興、文化事業によってアテネの発展に貢献した。",
+      "en": "Tyrant of Athens who seized power with popular backing and promoted small farmers, commerce and the arts, contributing to the growth of the city."
+    },
     "importance": 2,
-    "wiki": {"ja": "ペイシストラトス", "en": "Peisistratos"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ペイシストラトス",
+      "en": "Peisistratos"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "gautama-buddha",
-    "name": {"ja": "ガウタマ＝シッダールタ", "en": "Gautama Buddha"},
+    "name": {
+      "ja": "ガウタマ＝シッダールタ",
+      "en": "Gautama Buddha"
+    },
     "born": -563,
     "died": -483,
-    "active": [-528, -483],
-    "role": {"ja": "仏教の開祖", "en": "Founder of Buddhism"},
+    "active": [
+      -528,
+      -483
+    ],
+    "role": {
+      "ja": "仏教の開祖",
+      "en": "Founder of Buddhism"
+    },
     "lat": 25.38,
     "lon": 83.02,
-    "desc": {"ja": "シャカ族の王子として生まれ、出家して悟りを開き、ブッダ(悟った者)とよばれた。ヴァルナ制を否定し、八正道による苦からの解脱を説いて仏教を開いた。", "en": "Born a prince of the Shakya clan, he renounced the world, attained enlightenment and was called the Buddha; rejecting the varna order, he taught release from suffering through the Eightfold Path."},
+    "desc": {
+      "ja": "シャカ族の王子として生まれ、出家して悟りを開き、ブッダ(悟った者)とよばれた。ヴァルナ制を否定し、八正道による苦からの解脱を説いて仏教を開いた。",
+      "en": "Born a prince of the Shakya clan, he renounced the world, attained enlightenment and was called the Buddha; rejecting the varna order, he taught release from suffering through the Eightfold Path."
+    },
     "importance": 3,
-    "wiki": {"ja": "釈迦", "en": "The Buddha"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "釈迦",
+      "en": "The Buddha"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "mahavira",
-    "name": {"ja": "ヴァルダマーナ", "en": "Mahavira (Vardhamana)"},
+    "name": {
+      "ja": "ヴァルダマーナ",
+      "en": "Mahavira (Vardhamana)"
+    },
     "born": -549,
     "died": -477,
-    "active": [-520, -477],
-    "role": {"ja": "ジャイナ教の開祖", "en": "Founder of Jainism"},
+    "active": [
+      -520,
+      -477
+    ],
+    "role": {
+      "ja": "ジャイナ教の開祖",
+      "en": "Founder of Jainism"
+    },
     "lat": 25.03,
     "lon": 85.42,
-    "desc": {"ja": "ジャイナ教の開祖。尊称はマハーヴィーラ(偉大な勇者)。徹底した不殺生と苦行による解脱を説き、バラモンの権威を否定した。", "en": "Founder of Jainism, honoured as Mahavira ('great hero'); he taught liberation through strict non-violence and asceticism and rejected Brahmin authority."},
+    "desc": {
+      "ja": "ジャイナ教の開祖。尊称はマハーヴィーラ(偉大な勇者)。徹底した不殺生と苦行による解脱を説き、バラモンの権威を否定した。",
+      "en": "Founder of Jainism, honoured as Mahavira ('great hero'); he taught liberation through strict non-violence and asceticism and rejected Brahmin authority."
+    },
     "importance": 2,
-    "wiki": {"ja": "マハーヴィーラ", "en": "Mahavira"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "マハーヴィーラ",
+      "en": "Mahavira"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "confucius",
-    "name": {"ja": "孔子", "en": "Confucius"},
+    "name": {
+      "ja": "孔子",
+      "en": "Confucius"
+    },
     "born": -551,
     "died": -479,
-    "active": [-520, -479],
-    "role": {"ja": "儒家の祖", "en": "Founder of Confucianism"},
+    "active": [
+      -520,
+      -479
+    ],
+    "role": {
+      "ja": "儒家の祖",
+      "en": "Founder of Confucianism"
+    },
     "lat": 35.6,
     "lon": 116.99,
-    "desc": {"ja": "春秋時代末期の魯の思想家で儒家の祖。仁と礼にもとづく道徳政治を説き、周初の秩序を理想とした。弟子たちがその言行を『論語』にまとめた。", "en": "Thinker of the state of Lu in the late Spring and Autumn period and founder of Confucianism; he taught government by benevolence and ritual, and his sayings were compiled in the Analects."},
+    "desc": {
+      "ja": "春秋時代末期の魯の思想家で儒家の祖。仁と礼にもとづく道徳政治を説き、周初の秩序を理想とした。弟子たちがその言行を『論語』にまとめた。",
+      "en": "Thinker of the state of Lu in the late Spring and Autumn period and founder of Confucianism; he taught government by benevolence and ritual, and his sayings were compiled in the Analects."
+    },
     "importance": 3,
-    "wiki": {"ja": "孔子", "en": "Confucius"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "孔子",
+      "en": "Confucius"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "laozi",
-    "name": {"ja": "老子", "en": "Laozi"},
-    "active": [-500, -400],
-    "role": {"ja": "道家の祖", "en": "Founder of Daoism"},
+    "name": {
+      "ja": "老子",
+      "en": "Laozi"
+    },
+    "active": [
+      -500,
+      -400
+    ],
+    "role": {
+      "ja": "道家の祖",
+      "en": "Founder of Daoism"
+    },
     "lat": 34.68,
     "lon": 112.45,
-    "desc": {"ja": "道家の祖とされる思想家。実在や年代は不明な点が多い。人為を捨てて「道」に従う無為自然を説き、『老子(道徳経)』の著者とされる。", "en": "Thinker regarded as the founder of Daoism, whose historicity and dates are uncertain; he taught effortless action in accord with the Dao and is credited with the Daodejing."},
+    "desc": {
+      "ja": "道家の祖とされる思想家。実在や年代は不明な点が多い。人為を捨てて「道」に従う無為自然を説き、『老子(道徳経)』の著者とされる。",
+      "en": "Thinker regarded as the founder of Daoism, whose historicity and dates are uncertain; he taught effortless action in accord with the Dao and is credited with the Daodejing."
+    },
     "importance": 2,
-    "wiki": {"ja": "老子", "en": "Laozi"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "老子",
+      "en": "Laozi"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "darius-i",
-    "name": {"ja": "ダレイオス1世", "en": "Darius I"},
+    "name": {
+      "ja": "ダレイオス1世",
+      "en": "Darius I"
+    },
     "born": -550,
     "died": -486,
-    "active": [-522, -486],
-    "role": {"ja": "アケメネス朝ペルシア王", "en": "King of Achaemenid Persia"},
+    "active": [
+      -522,
+      -486
+    ],
+    "role": {
+      "ja": "アケメネス朝ペルシア王",
+      "en": "King of Achaemenid Persia"
+    },
     "lat": 32.19,
     "lon": 48.25,
-    "desc": {"ja": "アケメネス朝第3代の王。全国を州に分けてサトラップをおき、「王の目」「王の耳」で監察し、「王の道」と駅伝制を整えて帝国の最盛期を築いた。ギリシア遠征はマラトンで失敗した。", "en": "Third Achaemenid king who organized the empire into satrapies supervised by the 'King's Eyes and Ears', built the Royal Road and postal system, and whose Greek expedition failed at Marathon."},
+    "desc": {
+      "ja": "アケメネス朝第3代の王。全国を州に分けてサトラップをおき、「王の目」「王の耳」で監察し、「王の道」と駅伝制を整えて帝国の最盛期を築いた。ギリシア遠征はマラトンで失敗した。",
+      "en": "Third Achaemenid king who organized the empire into satrapies supervised by the 'King's Eyes and Ears', built the Royal Road and postal system, and whose Greek expedition failed at Marathon."
+    },
     "importance": 3,
-    "wiki": {"ja": "ダレイオス1世", "en": "Darius the Great"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ダレイオス1世",
+      "en": "Darius the Great"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "cleisthenes",
-    "name": {"ja": "クレイステネス", "en": "Cleisthenes"},
+    "name": {
+      "ja": "クレイステネス",
+      "en": "Cleisthenes"
+    },
     "born": -570,
-    "died": -508,
-    "active": [-510, -500],
-    "role": {"ja": "アテネの政治家", "en": "Athenian statesman"},
+    "active": [
+      -510,
+      -500
+    ],
+    "role": {
+      "ja": "アテネの政治家",
+      "en": "Athenian statesman"
+    },
     "lat": 37.98,
     "lon": 23.73,
-    "desc": {"ja": "アテネの政治家。前508年に血縁的な4部族制を地縁的な10部族制に改め、五百人評議会を設け、陶片追放の制度を創始して民主政の基礎を築いた。", "en": "Athenian statesman who in 508 BC replaced the four kin-based tribes with ten territorial ones, created the Council of Five Hundred and introduced ostracism, founding democracy."},
+    "desc": {
+      "ja": "アテネの政治家。前508年に血縁的な4部族制を地縁的な10部族制に改め、五百人評議会を設け、陶片追放の制度を創始して民主政の基礎を築いた。",
+      "en": "Athenian statesman who in 508 BC replaced the four kin-based tribes with ten territorial ones, created the Council of Five Hundred and introduced ostracism, founding democracy."
+    },
     "importance": 3,
-    "wiki": {"ja": "クレイステネス", "en": "Cleisthenes"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "クレイステネス",
+      "en": "Cleisthenes"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "miltiades",
-    "name": {"ja": "ミルティアデス", "en": "Miltiades"},
+    "name": {
+      "ja": "ミルティアデス",
+      "en": "Miltiades"
+    },
     "born": -550,
     "died": -489,
-    "active": [-493, -489],
-    "role": {"ja": "アテネの将軍", "en": "Athenian general"},
+    "active": [
+      -493,
+      -489
+    ],
+    "role": {
+      "ja": "アテネの将軍",
+      "en": "Athenian general"
+    },
     "lat": 37.98,
     "lon": 23.73,
-    "desc": {"ja": "アテネの将軍。前490年のマラトンの戦いで重装歩兵の密集隊を指揮してペルシア軍を撃退した。", "en": "Athenian general who commanded the hoplite phalanx at the Battle of Marathon in 490 BC and drove the Persians back to their ships."},
+    "desc": {
+      "ja": "アテネの将軍。前490年のマラトンの戦いで重装歩兵の密集隊を指揮してペルシア軍を撃退した。",
+      "en": "Athenian general who commanded the hoplite phalanx at the Battle of Marathon in 490 BC and drove the Persians back to their ships."
+    },
     "importance": 2,
-    "wiki": {"ja": "ミルティアデス", "en": "Miltiades"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ミルティアデス",
+      "en": "Miltiades"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "xerxes-i",
-    "name": {"ja": "クセルクセス1世", "en": "Xerxes I"},
+    "name": {
+      "ja": "クセルクセス1世",
+      "en": "Xerxes I"
+    },
     "born": -518,
     "died": -465,
-    "active": [-486, -465],
-    "role": {"ja": "アケメネス朝ペルシア王", "en": "King of Achaemenid Persia"},
+    "active": [
+      -486,
+      -465
+    ],
+    "role": {
+      "ja": "アケメネス朝ペルシア王",
+      "en": "King of Achaemenid Persia"
+    },
     "lat": 29.93,
     "lon": 52.89,
-    "desc": {"ja": "ダレイオス1世の子。前480年に大軍を率いてギリシアに侵攻し、テルモピレーを突破してアテネを占領したが、サラミスの海戦で艦隊が敗れて撤退した。", "en": "Son of Darius I who invaded Greece in 480 BC with a vast army, broke through Thermopylae and occupied Athens, but withdrew after his fleet was destroyed at Salamis."},
+    "desc": {
+      "ja": "ダレイオス1世の子。前480年に大軍を率いてギリシアに侵攻し、テルモピレーを突破してアテネを占領したが、サラミスの海戦で艦隊が敗れて撤退した。",
+      "en": "Son of Darius I who invaded Greece in 480 BC with a vast army, broke through Thermopylae and occupied Athens, but withdrew after his fleet was destroyed at Salamis."
+    },
     "importance": 2,
-    "wiki": {"ja": "クセルクセス1世", "en": "Xerxes I"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "クセルクセス1世",
+      "en": "Xerxes I"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "leonidas-i",
-    "name": {"ja": "レオニダス", "en": "Leonidas I"},
+    "name": {
+      "ja": "レオニダス",
+      "en": "Leonidas I"
+    },
     "died": -480,
-    "active": [-489, -480],
-    "role": {"ja": "スパルタ王", "en": "King of Sparta"},
+    "active": [
+      -489,
+      -480
+    ],
+    "role": {
+      "ja": "スパルタ王",
+      "en": "King of Sparta"
+    },
     "lat": 37.08,
     "lon": 22.43,
-    "desc": {"ja": "スパルタ王。前480年、テルモピレーの隘路でペルシアの大軍を迎え撃ち、300人のスパルタ兵とともに戦死した。", "en": "King of Sparta who held the pass of Thermopylae against the Persian host in 480 BC and died there with his 300 Spartans."},
+    "desc": {
+      "ja": "スパルタ王。前480年、テルモピレーの隘路でペルシアの大軍を迎え撃ち、300人のスパルタ兵とともに戦死した。",
+      "en": "King of Sparta who held the pass of Thermopylae against the Persian host in 480 BC and died there with his 300 Spartans."
+    },
     "importance": 2,
-    "wiki": {"ja": "レオニダス1世", "en": "Leonidas I"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "レオニダス1世",
+      "en": "Leonidas I"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "themistocles",
-    "name": {"ja": "テミストクレス", "en": "Themistocles"},
+    "name": {
+      "ja": "テミストクレス",
+      "en": "Themistocles"
+    },
     "born": -524,
     "died": -459,
-    "active": [-493, -470],
-    "role": {"ja": "アテネの政治家・将軍", "en": "Athenian statesman and general"},
+    "active": [
+      -493,
+      -470
+    ],
+    "role": {
+      "ja": "アテネの政治家・将軍",
+      "en": "Athenian statesman and general"
+    },
     "lat": 37.98,
     "lon": 23.73,
-    "desc": {"ja": "アテネの政治家。ラウレイオン銀山の収益で三段櫂船の艦隊を建造させ、前480年のサラミスの海戦でペルシア艦隊を撃破した。のち陶片追放された。", "en": "Athenian statesman who used the Laurion silver mines to build a fleet of triremes and destroyed the Persian navy at Salamis in 480 BC; he was later ostracized."},
+    "desc": {
+      "ja": "アテネの政治家。ラウレイオン銀山の収益で三段櫂船の艦隊を建造させ、前480年のサラミスの海戦でペルシア艦隊を撃破した。のち陶片追放された。",
+      "en": "Athenian statesman who used the Laurion silver mines to build a fleet of triremes and destroyed the Persian navy at Salamis in 480 BC; he was later ostracized."
+    },
     "importance": 3,
-    "wiki": {"ja": "テミストクレス", "en": "Themistocles"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "テミストクレス",
+      "en": "Themistocles"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "pericles",
-    "name": {"ja": "ペリクレス", "en": "Pericles"},
+    "name": {
+      "ja": "ペリクレス",
+      "en": "Pericles"
+    },
     "born": -495,
     "died": -429,
-    "active": [-461, -429],
-    "role": {"ja": "アテネの政治家", "en": "Athenian statesman"},
+    "active": [
+      -461,
+      -429
+    ],
+    "role": {
+      "ja": "アテネの政治家",
+      "en": "Athenian statesman"
+    },
     "lat": 37.98,
     "lon": 23.73,
-    "desc": {"ja": "アテネ民主政の完成者。将軍として約15年間指導的地位にあり、民会中心の政治と役人への手当を実現した。パルテノン神殿を再建し、ペロポネソス戦争中に病死した。", "en": "Athenian statesman who perfected democracy, leading the city as general for some fifteen years; he rebuilt the Parthenon and died of plague early in the Peloponnesian War."},
+    "desc": {
+      "ja": "アテネ民主政の完成者。将軍として約15年間指導的地位にあり、民会中心の政治と役人への手当を実現した。パルテノン神殿を再建し、ペロポネソス戦争中に病死した。",
+      "en": "Athenian statesman who perfected democracy, leading the city as general for some fifteen years; he rebuilt the Parthenon and died of plague early in the Peloponnesian War."
+    },
     "importance": 3,
-    "wiki": {"ja": "ペリクレス", "en": "Pericles"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ペリクレス",
+      "en": "Pericles"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "herodotus",
-    "name": {"ja": "ヘロドトス", "en": "Herodotus"},
+    "name": {
+      "ja": "ヘロドトス",
+      "en": "Herodotus"
+    },
     "born": -484,
     "died": -425,
-    "active": [-450, -425],
-    "role": {"ja": "ギリシアの歴史家", "en": "Greek historian"},
+    "active": [
+      -450,
+      -425
+    ],
+    "role": {
+      "ja": "ギリシアの歴史家",
+      "en": "Greek historian"
+    },
     "lat": 37.04,
     "lon": 27.42,
-    "desc": {"ja": "ハリカルナッソス出身の歴史家で「歴史の父」。ペルシア戦争を主題に、各地を旅して集めた見聞を物語風に記した『歴史』を著した。", "en": "Historian from Halicarnassus, the 'father of history', whose Histories narrate the Persian Wars and the customs of the peoples he visited on his travels."},
+    "desc": {
+      "ja": "ハリカルナッソス出身の歴史家で「歴史の父」。ペルシア戦争を主題に、各地を旅して集めた見聞を物語風に記した『歴史』を著した。",
+      "en": "Historian from Halicarnassus, the 'father of history', whose Histories narrate the Persian Wars and the customs of the peoples he visited on his travels."
+    },
     "importance": 2,
-    "wiki": {"ja": "ヘロドトス", "en": "Herodotus"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ヘロドトス",
+      "en": "Herodotus"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "socrates",
-    "name": {"ja": "ソクラテス", "en": "Socrates"},
+    "name": {
+      "ja": "ソクラテス",
+      "en": "Socrates"
+    },
     "born": -470,
     "died": -399,
-    "active": [-440, -399],
-    "role": {"ja": "アテネの哲学者", "en": "Athenian philosopher"},
+    "active": [
+      -440,
+      -399
+    ],
+    "role": {
+      "ja": "アテネの哲学者",
+      "en": "Athenian philosopher"
+    },
     "lat": 37.98,
     "lon": 23.73,
-    "desc": {"ja": "アテネの哲学者。ソフィストの相対主義に対し、「無知の知」を自覚して問答により普遍的な真理を探究することを説いた。青年を惑わしたとして告発され、刑死した。", "en": "Athenian philosopher who, against the relativism of the Sophists, sought universal truth through dialogue and awareness of one's own ignorance; he was condemned and executed."},
+    "desc": {
+      "ja": "アテネの哲学者。ソフィストの相対主義に対し、「無知の知」を自覚して問答により普遍的な真理を探究することを説いた。青年を惑わしたとして告発され、刑死した。",
+      "en": "Athenian philosopher who, against the relativism of the Sophists, sought universal truth through dialogue and awareness of one's own ignorance; he was condemned and executed."
+    },
     "importance": 3,
-    "wiki": {"ja": "ソクラテス", "en": "Socrates"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ソクラテス",
+      "en": "Socrates"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "thucydides",
-    "name": {"ja": "トゥキディデス", "en": "Thucydides"},
+    "name": {
+      "ja": "トゥキディデス",
+      "en": "Thucydides"
+    },
     "born": -460,
     "died": -400,
-    "active": [-431, -400],
-    "role": {"ja": "ギリシアの歴史家", "en": "Greek historian"},
+    "active": [
+      -431,
+      -400
+    ],
+    "role": {
+      "ja": "ギリシアの歴史家",
+      "en": "Greek historian"
+    },
     "lat": 37.98,
     "lon": 23.73,
-    "desc": {"ja": "アテネの歴史家。自ら将軍として参加したペロポネソス戦争を、厳密な史料批判にもとづいて記述した『歴史』を著し、科学的歴史記述の祖とされる。", "en": "Athenian historian who served as a general in the Peloponnesian War and wrote its history with rigorous criticism of evidence, founding scientific historiography."},
+    "desc": {
+      "ja": "アテネの歴史家。自ら将軍として参加したペロポネソス戦争を、厳密な史料批判にもとづいて記述した『歴史』を著し、科学的歴史記述の祖とされる。",
+      "en": "Athenian historian who served as a general in the Peloponnesian War and wrote its history with rigorous criticism of evidence, founding scientific historiography."
+    },
     "importance": 2,
-    "wiki": {"ja": "トゥキディデス", "en": "Thucydides"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "トゥキディデス",
+      "en": "Thucydides"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "hippocrates",
-    "name": {"ja": "ヒッポクラテス", "en": "Hippocrates"},
+    "name": {
+      "ja": "ヒッポクラテス",
+      "en": "Hippocrates"
+    },
     "born": -460,
     "died": -370,
-    "active": [-430, -370],
-    "role": {"ja": "ギリシアの医学者", "en": "Greek physician"},
+    "active": [
+      -430,
+      -370
+    ],
+    "role": {
+      "ja": "ギリシアの医学者",
+      "en": "Greek physician"
+    },
     "lat": 36.89,
     "lon": 27.29,
-    "desc": {"ja": "コス島出身の医学者で「医学の父」。病気を神の罰ではなく自然の原因から説明し、観察にもとづく経験的医学を確立した。", "en": "Physician from Kos, the 'father of medicine', who explained disease by natural causes rather than divine punishment and founded medicine on observation."},
+    "desc": {
+      "ja": "コス島出身の医学者で「医学の父」。病気を神の罰ではなく自然の原因から説明し、観察にもとづく経験的医学を確立した。",
+      "en": "Physician from Kos, the 'father of medicine', who explained disease by natural causes rather than divine punishment and founded medicine on observation."
+    },
     "importance": 2,
-    "wiki": {"ja": "ヒポクラテス", "en": "Hippocrates"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ヒポクラテス",
+      "en": "Hippocrates"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "mozi",
-    "name": {"ja": "墨子", "en": "Mozi"},
+    "name": {
+      "ja": "墨子",
+      "en": "Mozi"
+    },
     "born": -470,
     "died": -390,
-    "active": [-440, -390],
-    "role": {"ja": "墨家の祖", "en": "Founder of Mohism"},
+    "active": [
+      -440,
+      -390
+    ],
+    "role": {
+      "ja": "墨家の祖",
+      "en": "Founder of Mohism"
+    },
     "lat": 35.6,
     "lon": 116.99,
-    "desc": {"ja": "戦国時代初期の思想家で墨家の祖。儒家の仁を差別的な愛と批判し、無差別の愛(兼愛)と侵略戦争の否定(非攻)を説いた。", "en": "Thinker of the early Warring States period and founder of Mohism, who criticized Confucian benevolence as partial and taught universal love and opposition to aggressive war."},
+    "desc": {
+      "ja": "戦国時代初期の思想家で墨家の祖。儒家の仁を差別的な愛と批判し、無差別の愛(兼愛)と侵略戦争の否定(非攻)を説いた。",
+      "en": "Thinker of the early Warring States period and founder of Mohism, who criticized Confucian benevolence as partial and taught universal love and opposition to aggressive war."
+    },
     "importance": 2,
-    "wiki": {"ja": "墨子", "en": "Mozi"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "墨子",
+      "en": "Mozi"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "plato",
-    "name": {"ja": "プラトン", "en": "Plato"},
+    "name": {
+      "ja": "プラトン",
+      "en": "Plato"
+    },
     "born": -427,
     "died": -347,
-    "active": [-399, -347],
-    "role": {"ja": "アテネの哲学者", "en": "Athenian philosopher"},
+    "active": [
+      -399,
+      -347
+    ],
+    "role": {
+      "ja": "アテネの哲学者",
+      "en": "Athenian philosopher"
+    },
     "lat": 37.98,
     "lon": 23.73,
-    "desc": {"ja": "ソクラテスの弟子。永遠不変のイデアこそ真の実在と説くイデア論を唱え、『国家』で哲人政治を理想とした。アテネ郊外に学園アカデメイアを開いた。", "en": "Pupil of Socrates who taught that eternal Forms are true reality, envisioned rule by philosopher-kings in the Republic, and founded the Academy outside Athens."},
+    "desc": {
+      "ja": "ソクラテスの弟子。永遠不変のイデアこそ真の実在と説くイデア論を唱え、『国家』で哲人政治を理想とした。アテネ郊外に学園アカデメイアを開いた。",
+      "en": "Pupil of Socrates who taught that eternal Forms are true reality, envisioned rule by philosopher-kings in the Republic, and founded the Academy outside Athens."
+    },
     "importance": 3,
-    "wiki": {"ja": "プラトン", "en": "Plato"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "プラトン",
+      "en": "Plato"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "aristotle",
-    "name": {"ja": "アリストテレス", "en": "Aristotle"},
+    "name": {
+      "ja": "アリストテレス",
+      "en": "Aristotle"
+    },
     "born": -384,
     "died": -322,
-    "active": [-347, -322],
-    "role": {"ja": "ギリシアの哲学者", "en": "Greek philosopher"},
+    "active": [
+      -347,
+      -322
+    ],
+    "role": {
+      "ja": "ギリシアの哲学者",
+      "en": "Greek philosopher"
+    },
     "lat": 37.98,
     "lon": 23.73,
-    "desc": {"ja": "プラトンの弟子でアレクサンドロス大王の師。論理学・自然学・倫理学・政治学など諸学を体系化し「万学の祖」とよばれる。アテネに学園リュケイオンを開いた。", "en": "Pupil of Plato and tutor of Alexander the Great who systematized logic, natural science, ethics and politics, earning the name 'father of all learning'; he founded the Lyceum in Athens."},
+    "desc": {
+      "ja": "プラトンの弟子でアレクサンドロス大王の師。論理学・自然学・倫理学・政治学など諸学を体系化し「万学の祖」とよばれる。アテネに学園リュケイオンを開いた。",
+      "en": "Pupil of Plato and tutor of Alexander the Great who systematized logic, natural science, ethics and politics, earning the name 'father of all learning'; he founded the Lyceum in Athens."
+    },
     "importance": 3,
-    "wiki": {"ja": "アリストテレス", "en": "Aristotle"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "アリストテレス",
+      "en": "Aristotle"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "philip-ii-of-macedon",
-    "name": {"ja": "フィリッポス2世", "en": "Philip II of Macedon"},
+    "name": {
+      "ja": "フィリッポス2世",
+      "en": "Philip II of Macedon"
+    },
     "born": -382,
     "died": -336,
-    "active": [-359, -336],
-    "role": {"ja": "マケドニア王", "en": "King of Macedon"},
+    "active": [
+      -359,
+      -336
+    ],
+    "role": {
+      "ja": "マケドニア王",
+      "en": "King of Macedon"
+    },
     "lat": 40.78,
     "lon": 22.52,
-    "desc": {"ja": "マケドニア王。軍制を改革して国力を高め、前338年カイロネイアの戦いでアテネ・テーベ連合軍を破り、コリントス同盟を結成してギリシアを支配した。ペルシア遠征を前に暗殺された。", "en": "King of Macedon who reformed the army, defeated Athens and Thebes at Chaeronea in 338 BC and dominated Greece through the League of Corinth; he was assassinated before his Persian campaign."},
+    "desc": {
+      "ja": "マケドニア王。軍制を改革して国力を高め、前338年カイロネイアの戦いでアテネ・テーベ連合軍を破り、コリントス同盟を結成してギリシアを支配した。ペルシア遠征を前に暗殺された。",
+      "en": "King of Macedon who reformed the army, defeated Athens and Thebes at Chaeronea in 338 BC and dominated Greece through the League of Corinth; he was assassinated before his Persian campaign."
+    },
     "importance": 3,
-    "wiki": {"ja": "ピリッポス2世", "en": "Philip II of Macedon"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ピリッポス2世",
+      "en": "Philip II of Macedon"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "demosthenes",
-    "name": {"ja": "デモステネス", "en": "Demosthenes"},
+    "name": {
+      "ja": "デモステネス",
+      "en": "Demosthenes"
+    },
     "born": -384,
     "died": -322,
-    "active": [-351, -322],
-    "role": {"ja": "アテネの弁論家・政治家", "en": "Athenian orator and statesman"},
+    "active": [
+      -351,
+      -322
+    ],
+    "role": {
+      "ja": "アテネの弁論家・政治家",
+      "en": "Athenian orator and statesman"
+    },
     "lat": 37.98,
     "lon": 23.73,
-    "desc": {"ja": "アテネの弁論家・政治家。マケドニアの脅威を訴える演説でフィリッポス2世への抵抗をよびかけたが、カイロネイアの戦いで敗れた。", "en": "Athenian orator and statesman whose speeches warned of the Macedonian threat and rallied resistance to Philip II, which ended in defeat at Chaeronea."},
+    "desc": {
+      "ja": "アテネの弁論家・政治家。マケドニアの脅威を訴える演説でフィリッポス2世への抵抗をよびかけたが、カイロネイアの戦いで敗れた。",
+      "en": "Athenian orator and statesman whose speeches warned of the Macedonian threat and rallied resistance to Philip II, which ended in defeat at Chaeronea."
+    },
     "importance": 2,
-    "wiki": {"ja": "デモステネス", "en": "Demosthenes"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "デモステネス",
+      "en": "Demosthenes"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "mencius",
-    "name": {"ja": "孟子", "en": "Mencius"},
+    "name": {
+      "ja": "孟子",
+      "en": "Mencius"
+    },
     "born": -372,
     "died": -289,
-    "active": [-340, -289],
-    "role": {"ja": "儒家の思想家", "en": "Confucian philosopher"},
+    "active": [
+      -340,
+      -289
+    ],
+    "role": {
+      "ja": "儒家の思想家",
+      "en": "Confucian philosopher"
+    },
     "lat": 35.5,
     "lon": 116.97,
-    "desc": {"ja": "戦国時代の儒家の思想家。人の本性は善であるとする性善説を唱え、徳による王道政治を説き、民意を失った君主の交代を認める易姓革命を説いた。", "en": "Warring States Confucian who held that human nature is good, advocated benevolent kingly government, and justified the replacement of rulers who lost the Mandate of Heaven."},
+    "desc": {
+      "ja": "戦国時代の儒家の思想家。人の本性は善であるとする性善説を唱え、徳による王道政治を説き、民意を失った君主の交代を認める易姓革命を説いた。",
+      "en": "Warring States Confucian who held that human nature is good, advocated benevolent kingly government, and justified the replacement of rulers who lost the Mandate of Heaven."
+    },
     "importance": 2,
-    "wiki": {"ja": "孟子", "en": "Mencius"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "孟子",
+      "en": "Mencius"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "shang-yang",
-    "name": {"ja": "商鞅", "en": "Shang Yang"},
+    "name": {
+      "ja": "商鞅",
+      "en": "Shang Yang"
+    },
     "born": -390,
     "died": -338,
-    "active": [-356, -338],
-    "role": {"ja": "秦の宰相(法家)", "en": "Legalist minister of Qin"},
+    "active": [
+      -356,
+      -338
+    ],
+    "role": {
+      "ja": "秦の宰相(法家)",
+      "en": "Legalist minister of Qin"
+    },
     "lat": 34.33,
     "lon": 108.7,
-    "desc": {"ja": "法家の思想家・政治家。秦の孝公に仕えて什伍の制や県制など法にもとづく改革(変法)をおこない、秦を強国にしたが、孝公の死後に処刑された。", "en": "Legalist thinker and statesman who served Duke Xiao of Qin, enacting law-based reforms that made Qin a great power; he was executed after the duke's death."},
+    "desc": {
+      "ja": "法家の思想家・政治家。秦の孝公に仕えて什伍の制や県制など法にもとづく改革(変法)をおこない、秦を強国にしたが、孝公の死後に処刑された。",
+      "en": "Legalist thinker and statesman who served Duke Xiao of Qin, enacting law-based reforms that made Qin a great power; he was executed after the duke's death."
+    },
     "importance": 2,
-    "wiki": {"ja": "商鞅", "en": "Shang Yang"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "商鞅",
+      "en": "Shang Yang"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "alexander-the-great",
-    "name": {"ja": "アレクサンドロス大王", "en": "Alexander the Great"},
+    "name": {
+      "ja": "アレクサンドロス大王",
+      "en": "Alexander the Great"
+    },
     "born": -356,
     "died": -323,
-    "active": [-336, -323],
-    "role": {"ja": "マケドニア王", "en": "King of Macedon"},
+    "active": [
+      -336,
+      -323
+    ],
+    "role": {
+      "ja": "マケドニア王",
+      "en": "King of Macedon"
+    },
     "lat": 40.78,
     "lon": 22.52,
-    "desc": {"ja": "マケドニア王。前334年に東方遠征を開始し、イッソス・ガウガメラの戦いでペルシア軍を破ってアケメネス朝を滅ぼし、インダス川に至る大帝国を築いた。バビロンで急死した。", "en": "King of Macedon who set out in 334 BC on his eastern campaign, defeated Persia at Issus and Gaugamela, destroyed the Achaemenid Empire and reached the Indus; he died suddenly at Babylon."},
+    "desc": {
+      "ja": "マケドニア王。前334年に東方遠征を開始し、イッソス・ガウガメラの戦いでペルシア軍を破ってアケメネス朝を滅ぼし、インダス川に至る大帝国を築いた。バビロンで急死した。",
+      "en": "King of Macedon who set out in 334 BC on his eastern campaign, defeated Persia at Issus and Gaugamela, destroyed the Achaemenid Empire and reached the Indus; he died suddenly at Babylon."
+    },
     "importance": 3,
-    "wiki": {"ja": "アレクサンドロス3世", "en": "Alexander the Great"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "アレクサンドロス3世",
+      "en": "Alexander the Great"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   }
 ]

@@ -6,7 +6,8 @@ import { state } from './state';
 import { getLangMode, lt } from './i18n';
 import { rgba, EVENT_COLORS } from './palette';
 import { portraitFor } from './portrait';
-import type { HistEvent, Person } from './types';
+import type { HistEvent, Person, TerritoryProps } from './types';
+import type { TerritoryFC } from './data';
 
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const FONT = ['Noto Sans Regular'];
@@ -18,7 +19,7 @@ type Slot = (typeof SLOTS)[number];
 function fillColorExpr(): ExpressionSpecification {
   const m: unknown[] = ['match', ['get', 'c']];
   for (let i = 0; i < 20; i++) {
-    m.push(i, ['match', ['get', 'p'], 1, rgba(i, 0.42), 2, rgba(i, 0.52), rgba(i, 0.62)]);
+    m.push(i, ['match', ['get', 'p'], 1, rgba(i, 0.55), 2, rgba(i, 0.65), rgba(i, 0.72)]);
   }
   m.push('rgba(150,150,150,0.3)');
   return m as ExpressionSpecification;
@@ -38,7 +39,7 @@ function labelTextExpr(): ExpressionSpecification {
   return ['case', ['has', 'nj'], ['format', ja, {}, '\n', {}, ['get', 'n'], { 'font-scale': 0.75 }], ['get', 'n']] as ExpressionSpecification;
 }
 
-function territoryLayers(slot: Slot): LayerSpecification[] {
+function territoryFillLayers(slot: Slot): LayerSpecification[] {
   const src = `terr-${slot}`;
   const poly: ExpressionSpecification = ['==', ['geometry-type'], 'Polygon'];
   const polyFilter: ExpressionSpecification = ['any', poly, ['==', ['geometry-type'], 'MultiPolygon']];
@@ -52,17 +53,21 @@ function territoryLayers(slot: Slot): LayerSpecification[] {
       paint: { 'line-color': 'rgba(40,30,20,0.7)', 'line-width': 0.9, 'line-dasharray': [3, 2], 'line-opacity': 0, 'line-opacity-transition': { duration: 450 } } },
     { id: `terr-line3-${slot}`, type: 'line', source: src, filter: ['all', polyFilter, ['==', ['get', 'p'], 3]],
       paint: { 'line-color': 'rgba(40,30,20,0.85)', 'line-width': ['interpolate', ['linear'], ['zoom'], 1, 0.6, 5, 1.4], 'line-opacity': 0, 'line-opacity-transition': { duration: 450 } } },
-    { id: `terr-label-${slot}`, type: 'symbol', source: src, filter: ['==', ['geometry-type'], 'Point'],
+  ];
+}
+
+function territoryLabelLayer(slot: Slot): LayerSpecification {
+  const src = `terr-${slot}`;
+  return { id: `terr-label-${slot}`, type: 'symbol', source: src, filter: ['==', ['geometry-type'], 'Point'],
       layout: {
         'text-field': labelTextExpr(), 'text-font': FONT,
         'text-size': ['interpolate', ['linear'], ['zoom'],
           1, ['interpolate', ['linear'], ['get', 'a'], 0.5, 0, 5, 8, 100, 12, 1000, 15],
           4, ['interpolate', ['linear'], ['get', 'a'], 0.2, 9, 5, 12, 100, 16, 1000, 20],
           8, ['interpolate', ['linear'], ['get', 'a'], 0.05, 12, 5, 16, 100, 22]],
-        'text-max-width': 8, 'text-padding': 4, 'symbol-sort-key': ['-', 0, ['get', 'a']], 'text-allow-overlap': false,
+        'text-max-width': 8, 'text-padding': 4, 'symbol-sort-key': ['-', 0, ['get', 'a']], 'text-allow-overlap': false, visibility: 'none',
       },
-      paint: { 'text-color': '#1d1a14', 'text-halo-color': 'rgba(255,250,235,0.85)', 'text-halo-width': 1.2, 'text-opacity': 0, 'text-opacity-transition': { duration: 300 } } },
-  ];
+      paint: { 'text-color': '#1d1a14', 'text-halo-color': 'rgba(255,250,235,0.85)', 'text-halo-width': 1.2 } };
 }
 
 function buildStyle(): StyleSpecification {
@@ -83,9 +88,9 @@ function buildStyle(): StyleSpecification {
     },
     layers: [
       { id: 'bg', type: 'background', paint: { 'background-color': '#1b3a5c' } },
-      { id: 'land', type: 'fill', source: 'land', paint: { 'fill-color': '#e7dfc8' } },
-      ...territoryLayers('a'),
-      ...territoryLayers('b'),
+      { id: 'land', type: 'fill', source: 'land', paint: { 'fill-color': '#e3dac1' } },
+      ...territoryFillLayers('a'),
+      ...territoryFillLayers('b'),
       { id: 'lakes', type: 'fill', source: 'lakes', paint: { 'fill-color': '#2d5a86', 'fill-opacity': 0.9 } },
       { id: 'rivers', type: 'line', source: 'rivers', minzoom: 2.5, paint: { 'line-color': '#3f6f9e', 'line-width': ['interpolate', ['linear'], ['zoom'], 2.5, 0.4, 7, 1.4], 'line-opacity': 0.8 } },
       { id: 'coast', type: 'line', source: 'land', paint: { 'line-color': 'rgba(30,50,80,0.6)', 'line-width': 0.5 } },
@@ -99,6 +104,9 @@ function buildStyle(): StyleSpecification {
       { id: 'events-label', type: 'symbol', source: 'events', minzoom: 2,
         layout: { 'text-field': ['get', 'label'], 'text-font': FONT, 'text-size': ['match', ['get', 'imp'], 3, 12, 2, 11, 10], 'text-offset': [0, 1.1], 'text-anchor': 'top', 'text-max-width': 10, 'symbol-sort-key': ['-', 3, ['get', 'imp']], 'text-optional': true },
         paint: { 'text-color': '#fff7e6', 'text-halo-color': 'rgba(10,15,30,0.9)', 'text-halo-width': 1.3, 'text-opacity': ['-', 1, ['*', 0.5, ['get', 'age']]] } },
+      // Territory names last so they win symbol placement over event labels.
+      territoryLabelLayer('a'),
+      territoryLabelLayer('b'),
     ],
   };
 }
@@ -107,6 +115,7 @@ export class HistoryMap {
   readonly map: maplibregl.Map;
   private active: Slot = 'a';
   private shownSnapshot: number | null = null;
+  private shownFC: TerritoryFC | null = null;
   private loadSeq = 0;
   private markers = new Map<string, maplibregl.Marker>();
   private ready = false;
@@ -146,6 +155,7 @@ export class HistoryMap {
     this.setSlotOpacity(this.active, 0);
     this.active = next;
     this.shownSnapshot = snap;
+    this.shownFC = fc;
     prefetchNeighbours(this.ds.index, snap, this.ds.names);
     document.dispatchEvent(new CustomEvent('snapshot', { detail: snap }));
   }
@@ -154,10 +164,10 @@ export class HistoryMap {
     const L = state.layers;
     const t = L.territories ? on : 0;
     this.map.setPaintProperty(`terr-fill-${slot}`, 'fill-opacity', t);
-    this.map.setPaintProperty(`terr-fuzzy-${slot}`, 'line-opacity', t * 0.35);
+    this.map.setPaintProperty(`terr-fuzzy-${slot}`, 'line-opacity', t * 0.5);
     this.map.setPaintProperty(`terr-line2-${slot}`, 'line-opacity', t);
     this.map.setPaintProperty(`terr-line3-${slot}`, 'line-opacity', t);
-    this.map.setPaintProperty(`terr-label-${slot}`, 'text-opacity', L.labels ? on : 0);
+    this.map.setLayoutProperty(`terr-label-${slot}`, 'visibility', L.labels && on ? 'visible' : 'none');
   }
 
   private updateEvents(year: number) {
@@ -236,6 +246,15 @@ export class HistoryMap {
       if (e) out.push(e);
     }
     return out;
+  }
+
+  /** Full (untiled) features of the currently shown snapshot matching a basemap name. */
+  territoryGeometries(name: string | null, subject: string | null): GeoJSON.Geometry[] {
+    const fc = this.shownFC;
+    if (!fc) return [];
+    return fc.features
+      .filter((f) => f.geometry.type !== 'Point' && ((name && (f.properties as TerritoryProps).n === name) || (!name && (f.properties as TerritoryProps).s === subject)))
+      .map((f) => f.geometry);
   }
 
   personsInView(): Person[] {

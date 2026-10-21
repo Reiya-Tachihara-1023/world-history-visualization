@@ -5,12 +5,21 @@
     "year": 1602,
     "year_end": null,
     "lat": 52.37,
-    "lon": 4.90,
-    "name": {"ja": "オランダ東インド会社の設立", "en": "Founding of the Dutch East India Company"},
-    "desc": {"ja": "1600年のイギリス東インド会社に続き、オランダが連合東インド会社(VOC)を設立。アジア貿易の独占権を与えられ、香辛料貿易でポルトガルを圧倒した。", "en": "Following the English East India Company of 1600, the Dutch chartered the VOC with a monopoly on Asian trade; it soon outstripped Portugal in the spice trade."},
+    "lon": 4.9,
+    "name": {
+      "ja": "オランダ東インド会社の設立",
+      "en": "Founding of the Dutch East India Company"
+    },
+    "desc": {
+      "ja": "1600年のイギリス東インド会社に続き、オランダが連合東インド会社(VOC)を設立。アジア貿易の独占権を与えられ、香辛料貿易でポルトガルを圧倒した。",
+      "en": "Following the English East India Company of 1600, the Dutch chartered the VOC with a monopoly on Asian trade; it soon outstripped Portugal in the spice trade."
+    },
     "importance": 3,
     "persons": [],
-    "wiki": {"ja": "オランダ東インド会社", "en": "Dutch East India Company"}
+    "wiki": {
+      "ja": "オランダ東インド会社",
+      "en": "Dutch East India Company"
+    }
   },
   {
     "id": "edo-shogunate-founded",
@@ -19,11 +28,22 @@
     "year_end": null,
     "lat": 35.69,
     "lon": 139.69,
-    "name": {"ja": "江戸幕府の成立", "en": "Establishment of the Tokugawa Shogunate"},
-    "desc": {"ja": "関ヶ原の戦いに勝利した徳川家康が征夷大将軍に任じられ、江戸に幕府を開いた。以後約260年にわたる幕藩体制が始まった。", "en": "Tokugawa Ieyasu, victor at Sekigahara, was appointed shogun and opened his government at Edo, beginning some 260 years of Tokugawa rule."},
-    "importance": 2,
-    "persons": ["tokugawa-ieyasu"],
-    "wiki": {"ja": "江戸幕府", "en": "Tokugawa shogunate"}
+    "name": {
+      "ja": "江戸幕府の成立",
+      "en": "Establishment of the Tokugawa Shogunate"
+    },
+    "desc": {
+      "ja": "関ヶ原の戦いに勝利した徳川家康が征夷大将軍に任じられ、江戸に幕府を開いた。以後約260年にわたり幕藩体制のもとで安定した統治が続いた。",
+      "en": "Tokugawa Ieyasu, victor at Sekigahara, was appointed shogun and opened his government at Edo, beginning some 260 years of Tokugawa rule."
+    },
+    "importance": 1,
+    "persons": [
+      "tokugawa-ieyasu"
+    ],
+    "wiki": {
+      "ja": "江戸幕府",
+      "en": "Tokugawa shogunate"
+    }
   },
   {
     "id": "jamestown-founded",
@@ -32,11 +52,20 @@
     "year_end": null,
     "lat": 37.21,
     "lon": -76.78,
-    "name": {"ja": "ジェームズタウンの建設", "en": "Founding of Jamestown"},
-    "desc": {"ja": "イギリスがヴァージニアに最初の恒久的植民地ジェームズタウンを建設した。タバコ栽培で発展し、北米13植民地の出発点となった。", "en": "England founded Jamestown in Virginia, its first permanent North American colony; tobacco cultivation sustained it and the Thirteen Colonies grew from this start."},
-    "importance": 3,
+    "name": {
+      "ja": "ジェームズタウンの建設",
+      "en": "Founding of Jamestown"
+    },
+    "desc": {
+      "ja": "イギリスがヴァージニアに最初の恒久的植民地ジェームズタウンを建設した。タバコ栽培で発展し、北米13植民地の出発点となった。",
+      "en": "England founded Jamestown in Virginia, its first permanent North American colony; tobacco cultivation sustained it and the Thirteen Colonies grew from this start."
+    },
+    "importance": 2,
     "persons": [],
-    "wiki": {"ja": "ジェームズタウン (バージニア州)", "en": "Jamestown, Virginia"}
+    "wiki": {
+      "ja": "ジェームズタウン (バージニア州)",
+      "en": "Jamestown, Virginia"
+    }
   },
   {
     "id": "quebec-founded",
@@ -45,11 +74,20 @@
     "year_end": null,
     "lat": 46.81,
     "lon": -71.21,
-    "name": {"ja": "ケベックの建設", "en": "Founding of Quebec"},
-    "desc": {"ja": "フランスのシャンプランがセントローレンス川沿いにケベックを建設し、毛皮交易を基盤とするヌーヴェルフランス植民地の中心とした。", "en": "Samuel de Champlain founded Quebec on the St. Lawrence River, which became the centre of New France and its fur trade."},
-    "importance": 2,
+    "name": {
+      "ja": "ケベックの建設",
+      "en": "Founding of Quebec"
+    },
+    "desc": {
+      "ja": "フランスのシャンプランがセントローレンス川沿いにケベックを建設し、毛皮交易を基盤とするヌーヴェルフランス植民地の中心とした。",
+      "en": "Samuel de Champlain founded Quebec on the St. Lawrence River, which became the centre of New France and its fur trade."
+    },
+    "importance": 1,
     "persons": [],
-    "wiki": {"ja": "ケベック・シティー", "en": "Quebec City"}
+    "wiki": {
+      "ja": "ケベック・シティー",
+      "en": "Quebec City"
+    }
   },
   {
     "id": "kepler-laws-of-planetary-motion",
@@ -58,11 +96,20 @@
     "year_end": null,
     "lat": 50.09,
     "lon": 14.42,
-    "name": {"ja": "ケプラーの惑星運動の法則", "en": "Kepler's Laws of Planetary Motion"},
-    "desc": {"ja": "プラハの宮廷天文学者ケプラーが『新天文学』で惑星の楕円軌道の法則を発表。地動説を数学的に裏づけ、ニュートン力学への道を開いた。", "en": "At the Prague court, Kepler published his laws of elliptical planetary orbits in Astronomia Nova, giving heliocentrism a mathematical basis and paving the way for Newton."},
-    "importance": 2,
+    "name": {
+      "ja": "ケプラーの惑星運動の法則",
+      "en": "Kepler's Laws of Planetary Motion"
+    },
+    "desc": {
+      "ja": "プラハの宮廷天文学者ケプラーが『新天文学』で惑星の楕円軌道の法則を発表。地動説を数学的に裏づけ、ニュートン力学への道を開いた。",
+      "en": "At the Prague court, Kepler published his laws of elliptical planetary orbits in Astronomia Nova, giving heliocentrism a mathematical basis and paving the way for Newton."
+    },
+    "importance": 1,
     "persons": [],
-    "wiki": {"ja": "ケプラーの法則", "en": "Kepler's laws of planetary motion"}
+    "wiki": {
+      "ja": "ケプラーの法則",
+      "en": "Kepler's laws of planetary motion"
+    }
   },
   {
     "id": "galileo-telescopic-observations",
@@ -71,11 +118,22 @@
     "year_end": null,
     "lat": 45.41,
     "lon": 11.88,
-    "name": {"ja": "ガリレイの望遠鏡観測", "en": "Galileo's Telescopic Observations"},
-    "desc": {"ja": "パドヴァのガリレイが自作の望遠鏡で木星の衛星などを観測し『星界の報告』を刊行。地動説を支持したため1633年に宗教裁判で有罪とされた。", "en": "At Padua Galileo observed Jupiter's moons with his telescope and published Sidereus Nuncius; his support for heliocentrism led to his condemnation by the Inquisition in 1633."},
+    "name": {
+      "ja": "ガリレイの望遠鏡観測",
+      "en": "Galileo's Telescopic Observations"
+    },
+    "desc": {
+      "ja": "パドヴァのガリレイが自作の望遠鏡で木星の衛星などを観測し『星界の報告』を刊行。地動説を支持したため1633年に宗教裁判で有罪とされた。",
+      "en": "At Padua Galileo observed Jupiter's moons with his telescope and published Sidereus Nuncius; his support for heliocentrism led to his condemnation by the Inquisition in 1633."
+    },
     "importance": 2,
-    "persons": ["galileo"],
-    "wiki": {"ja": "星界の報告", "en": "Sidereus Nuncius"}
+    "persons": [
+      "galileo"
+    ],
+    "wiki": {
+      "ja": "星界の報告",
+      "en": "Sidereus Nuncius"
+    }
   },
   {
     "id": "romanov-dynasty-founded",
@@ -84,11 +142,22 @@
     "year_end": null,
     "lat": 55.75,
     "lon": 37.62,
-    "name": {"ja": "ロマノフ朝の成立", "en": "Founding of the Romanov Dynasty"},
-    "desc": {"ja": "動乱時代を経て全国会議がミハイル=ロマノフをツァーリに選出。1917年まで続くロマノフ朝が始まり、農奴制の強化が進んだ。", "en": "After the Time of Troubles, an assembly of the land elected Mikhail Romanov tsar, founding the dynasty that ruled Russia until 1917."},
+    "name": {
+      "ja": "ロマノフ朝の成立",
+      "en": "Founding of the Romanov Dynasty"
+    },
+    "desc": {
+      "ja": "動乱時代を経て全国会議がミハイル=ロマノフをツァーリに選出。1917年まで続くロマノフ朝が始まり、農奴制の強化が進んだ。",
+      "en": "After the Time of Troubles, an assembly of the land elected Mikhail Romanov tsar, founding the dynasty that ruled Russia until 1917."
+    },
     "importance": 3,
-    "persons": ["mikhail-romanov"],
-    "wiki": {"ja": "ロマノフ朝", "en": "House of Romanov"}
+    "persons": [
+      "mikhail-romanov"
+    ],
+    "wiki": {
+      "ja": "ロマノフ朝",
+      "en": "House of Romanov"
+    }
   },
   {
     "id": "nurhaci-founds-later-jin",
@@ -97,11 +166,22 @@
     "year_end": null,
     "lat": 41.72,
     "lon": 124.85,
-    "name": {"ja": "ヌルハチの後金建国", "en": "Nurhaci Founds the Later Jin"},
-    "desc": {"ja": "女真(満洲)諸部を統一したヌルハチがハンを称し後金を建国。八旗制を整備し、満洲文字を制定して明に対抗した。", "en": "Having united the Jurchen (Manchu) tribes, Nurhaci proclaimed himself khan of the Later Jin, organised the Eight Banners and created the Manchu script."},
+    "name": {
+      "ja": "ヌルハチの後金建国",
+      "en": "Nurhaci Founds the Later Jin"
+    },
+    "desc": {
+      "ja": "女真(満洲)諸部を統一したヌルハチがハンを称し後金を建国した。軍事・行政組織である八旗制を整備し、満洲文字を制定して明に対抗した。",
+      "en": "Having united the Jurchen (Manchu) tribes, Nurhaci proclaimed himself khan of the Later Jin, organised the Eight Banners and created the Manchu script."
+    },
     "importance": 3,
-    "persons": ["nurhaci"],
-    "wiki": {"ja": "後金", "en": "Later Jin (1616–1636)"}
+    "persons": [
+      "nurhaci"
+    ],
+    "wiki": {
+      "ja": "後金",
+      "en": "Later Jin (1616–1636)"
+    }
   },
   {
     "id": "defenestration-of-prague",
@@ -109,12 +189,21 @@
     "year": 1618,
     "year_end": null,
     "lat": 50.09,
-    "lon": 14.40,
-    "name": {"ja": "プラハ窓外投擲事件", "en": "Defenestration of Prague"},
-    "desc": {"ja": "ハプスブルク家のカトリック化政策に反発したベーメンの新教徒貴族が、プラハ城で王の代官を窓から投げ落とした。三十年戦争の発端となった。", "en": "Bohemian Protestant nobles, resisting Habsburg re-Catholicisation, threw royal officials from a window of Prague Castle, sparking the Thirty Years' War."},
-    "importance": 2,
+    "lon": 14.4,
+    "name": {
+      "ja": "プラハ窓外投擲事件",
+      "en": "Defenestration of Prague"
+    },
+    "desc": {
+      "ja": "ハプスブルク家のカトリック化政策に反発したベーメンの新教徒貴族が、プラハ城で王の代官を窓から投げ落とした。三十年戦争の発端となった。",
+      "en": "Bohemian Protestant nobles, resisting Habsburg re-Catholicisation, threw royal officials from a window of Prague Castle, sparking the Thirty Years' War."
+    },
+    "importance": 1,
     "persons": [],
-    "wiki": {"ja": "プラハ窓外投擲事件", "en": "Defenestrations of Prague"}
+    "wiki": {
+      "ja": "プラハ窓外投擲事件",
+      "en": "Defenestrations of Prague"
+    }
   },
   {
     "id": "thirty-years-war",
@@ -122,12 +211,25 @@
     "year": 1618,
     "year_end": 1648,
     "lat": 50.5,
-    "lon": 10.0,
-    "name": {"ja": "三十年戦争", "en": "Thirty Years' War"},
-    "desc": {"ja": "ベーメンの反乱に始まるドイツの宗教戦争。デンマーク・スウェーデン・フランスが介入して国際戦争化し、ドイツは荒廃した。", "en": "A religious war in Germany that began with the Bohemian revolt; Danish, Swedish and French intervention turned it into a European war that devastated Germany."},
+    "lon": 10,
+    "name": {
+      "ja": "三十年戦争",
+      "en": "Thirty Years' War"
+    },
+    "desc": {
+      "ja": "ベーメンの新教徒反乱に始まるドイツの宗教戦争。デンマーク・スウェーデン・フランスが介入して国際戦争となり、傭兵の略奪でドイツは荒廃した。",
+      "en": "A religious war in Germany that began with the Bohemian revolt; Danish, Swedish and French intervention turned it into a European war that devastated Germany."
+    },
     "importance": 3,
-    "persons": ["gustavus-adolphus", "richelieu", "wallenstein"],
-    "wiki": {"ja": "三十年戦争", "en": "Thirty Years' War"}
+    "persons": [
+      "gustavus-adolphus",
+      "richelieu",
+      "wallenstein"
+    ],
+    "wiki": {
+      "ja": "三十年戦争",
+      "en": "Thirty Years' War"
+    }
   },
   {
     "id": "batavia-founded",
@@ -136,11 +238,20 @@
     "year_end": null,
     "lat": -6.13,
     "lon": 106.81,
-    "name": {"ja": "バタヴィアの建設", "en": "Founding of Batavia"},
-    "desc": {"ja": "オランダ東インド会社がジャワ島のジャカルタを占領してバタヴィアと改称し、アジア貿易の拠点とした。香辛料貿易独占の本拠地となった。", "en": "The VOC seized Jakarta on Java and renamed it Batavia, making it the headquarters of its Asian trade and spice monopoly."},
+    "name": {
+      "ja": "バタヴィアの建設",
+      "en": "Founding of Batavia"
+    },
+    "desc": {
+      "ja": "オランダ東インド会社がジャワ島のジャカルタを占領してバタヴィアと改称し、アジア貿易の拠点とした。香辛料貿易独占の本拠地となった。",
+      "en": "The VOC seized Jakarta on Java and renamed it Batavia, making it the headquarters of its Asian trade and spice monopoly."
+    },
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "バタヴィア", "en": "Batavia, Dutch East Indies"}
+    "wiki": {
+      "ja": "バタヴィア",
+      "en": "Batavia, Dutch East Indies"
+    }
   },
   {
     "id": "pilgrim-fathers-plymouth",
@@ -149,50 +260,66 @@
     "year_end": null,
     "lat": 41.96,
     "lon": -70.66,
-    "name": {"ja": "ピルグリム=ファーザーズの渡米", "en": "Pilgrim Fathers Land at Plymouth"},
-    "desc": {"ja": "国教会の迫害を逃れたピューリタンの一団がメイフラワー号で北米に渡り、プリマス植民地を建設した。ニューイングランド植民地の起源となった。", "en": "Puritan separatists fleeing persecution crossed the Atlantic on the Mayflower and founded Plymouth Colony, the origin of New England."},
-    "importance": 3,
+    "name": {
+      "ja": "ピルグリム=ファーザーズの渡米",
+      "en": "Pilgrim Fathers Land at Plymouth"
+    },
+    "desc": {
+      "ja": "国教会の迫害を逃れたピューリタンの一団がメイフラワー号で北米に渡り、プリマス植民地を建設した。ニューイングランド植民地の起源となった。",
+      "en": "Puritan separatists fleeing persecution crossed the Atlantic on the Mayflower and founded Plymouth Colony, the origin of New England."
+    },
+    "importance": 2,
     "persons": [],
-    "wiki": {"ja": "ピルグリム・ファーザーズ", "en": "Pilgrims (Plymouth Colony)"}
+    "wiki": {
+      "ja": "ピルグリム・ファーザーズ",
+      "en": "Pilgrims (Plymouth Colony)"
+    }
   },
   {
     "id": "amboina-massacre",
     "type": "politics",
     "year": 1623,
     "year_end": null,
-    "lat": -3.70,
+    "lat": -3.7,
     "lon": 128.18,
-    "name": {"ja": "アンボイナ事件", "en": "Amboyna Massacre"},
-    "desc": {"ja": "モルッカ諸島のアンボイナでオランダがイギリス商館員を処刑。イギリスは香辛料貿易から撤退してインド経営に転じ、オランダは東南アジアでの覇権を確立した。", "en": "The Dutch executed English factors at Amboyna in the Moluccas; England withdrew from the spice islands to concentrate on India, leaving the Dutch supreme in Southeast Asia."},
+    "name": {
+      "ja": "アンボイナ事件",
+      "en": "Amboyna Massacre"
+    },
+    "desc": {
+      "ja": "モルッカ諸島のアンボイナでオランダがイギリス商館員を処刑。イギリスは香辛料貿易から撤退してインド経営に転じ、オランダは東南アジアでの覇権を確立した。",
+      "en": "The Dutch executed English factors at Amboyna in the Moluccas; England withdrew from the spice islands to concentrate on India, leaving the Dutch supreme in Southeast Asia."
+    },
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "アンボイナ事件", "en": "Amboyna massacre"}
-  },
-  {
-    "id": "dutch-occupy-taiwan",
-    "type": "founding",
-    "year": 1624,
-    "year_end": null,
-    "lat": 23.00,
-    "lon": 120.16,
-    "name": {"ja": "オランダの台湾占領", "en": "Dutch Occupation of Taiwan"},
-    "desc": {"ja": "オランダ東インド会社が台湾南部にゼーランディア城を築き、対中国・対日本貿易の中継拠点とした。1662年に鄭成功に追われるまで支配した。", "en": "The VOC built Fort Zeelandia in southern Taiwan as an entrepot for trade with China and Japan, holding the island until Zheng Chenggong expelled it in 1662."},
-    "importance": 1,
-    "persons": [],
-    "wiki": {"ja": "オランダ統治時代 (台湾)", "en": "Dutch Formosa"}
+    "wiki": {
+      "ja": "アンボイナ事件",
+      "en": "Amboyna massacre"
+    }
   },
   {
     "id": "petition-of-right",
     "type": "politics",
     "year": 1628,
     "year_end": null,
-    "lat": 51.50,
+    "lat": 51.5,
     "lon": -0.12,
-    "name": {"ja": "権利の請願", "en": "Petition of Right"},
-    "desc": {"ja": "イギリス議会がチャールズ1世に対し、議会の同意なき課税や不法な逮捕の禁止を求めて提出。王はいったん承認したが翌年議会を解散し、専制を強めた。", "en": "Parliament presented Charles I with a petition against taxation without consent and arbitrary imprisonment; he accepted it but dissolved Parliament the next year and ruled alone."},
-    "importance": 3,
-    "persons": ["charles-i"],
-    "wiki": {"ja": "権利の請願", "en": "Petition of Right"}
+    "name": {
+      "ja": "権利の請願",
+      "en": "Petition of Right"
+    },
+    "desc": {
+      "ja": "イギリス議会がチャールズ1世に対し、議会の同意なき課税や不法な逮捕の禁止を求めて提出。王はいったん承認したが翌年議会を解散し、専制を強めた。",
+      "en": "Parliament presented Charles I with a petition against taxation without consent and arbitrary imprisonment; he accepted it but dissolved Parliament the next year and ruled alone."
+    },
+    "importance": 2,
+    "persons": [
+      "charles-i"
+    ],
+    "wiki": {
+      "ja": "権利の請願",
+      "en": "Petition of Right"
+    }
   },
   {
     "id": "battle-of-lutzen",
@@ -201,37 +328,47 @@
     "year_end": null,
     "lat": 51.25,
     "lon": 12.14,
-    "name": {"ja": "リュッツェンの戦い", "en": "Battle of Lützen"},
-    "desc": {"ja": "新教側で参戦したスウェーデン王グスタフ=アドルフが皇帝軍のヴァレンシュタインと戦い、勝利したが戦死した。三十年戦争の転機の一つ。", "en": "Gustavus Adolphus of Sweden, fighting for the Protestant cause, defeated Wallenstein's imperial army but was killed in the battle."},
-    "importance": 2,
-    "persons": ["gustavus-adolphus", "wallenstein"],
-    "wiki": {"ja": "リュッツェンの戦い (1632年)", "en": "Battle of Lützen (1632)"}
+    "name": {
+      "ja": "リュッツェンの戦い",
+      "en": "Battle of Lützen"
+    },
+    "desc": {
+      "ja": "新教側で参戦したスウェーデン王グスタフ=アドルフが皇帝軍のヴァレンシュタインと戦い、勝利したが戦死した。三十年戦争の転機の一つ。",
+      "en": "Gustavus Adolphus of Sweden, fighting for the Protestant cause, defeated Wallenstein's imperial army but was killed in the battle."
+    },
+    "importance": 1,
+    "persons": [
+      "gustavus-adolphus",
+      "wallenstein"
+    ],
+    "wiki": {
+      "ja": "リュッツェンの戦い (1632年)",
+      "en": "Battle of Lützen (1632)"
+    }
   },
   {
     "id": "hong-taiji-proclaims-qing",
     "type": "founding",
     "year": 1636,
     "year_end": null,
-    "lat": 41.80,
+    "lat": 41.8,
     "lon": 123.43,
-    "name": {"ja": "ホンタイジの清建国", "en": "Hong Taiji Proclaims the Qing"},
-    "desc": {"ja": "ヌルハチの子ホンタイジが内モンゴルのチャハルを服属させ、瀋陽で皇帝を称して国号を清と改めた。翌年には朝鮮を服属させた。", "en": "Nurhaci's son Hong Taiji, having subdued the Chahar Mongols, proclaimed himself emperor at Mukden and renamed the state Qing; he forced Joseon Korea to submit the next year."},
+    "name": {
+      "ja": "ホンタイジの清建国",
+      "en": "Hong Taiji Proclaims the Qing"
+    },
+    "desc": {
+      "ja": "ヌルハチの子ホンタイジが内モンゴルのチャハルを服属させ、瀋陽で皇帝を称して国号を清と改めた。翌年には朝鮮に侵攻して服属させた。",
+      "en": "Nurhaci's son Hong Taiji, having subdued the Chahar Mongols, proclaimed himself emperor at Mukden and renamed the state Qing; he forced Joseon Korea to submit the next year."
+    },
     "importance": 3,
-    "persons": ["hong-taiji"],
-    "wiki": {"ja": "清", "en": "Qing dynasty"}
-  },
-  {
-    "id": "qing-invasion-of-joseon",
-    "type": "battle",
-    "year": 1636,
-    "year_end": 1637,
-    "lat": 37.57,
-    "lon": 126.98,
-    "name": {"ja": "清の朝鮮侵攻(丙子の乱)", "en": "Qing Invasion of Joseon"},
-    "desc": {"ja": "ホンタイジが親明政策をとる朝鮮に侵攻し、南漢山城に籠城した仁祖を降伏させた。朝鮮は明との関係を断ち、清に服属した。", "en": "Hong Taiji invaded Joseon, which had remained loyal to the Ming, and forced King Injo to surrender at Namhan Fortress; Korea became a Qing tributary."},
-    "importance": 1,
-    "persons": ["hong-taiji"],
-    "wiki": {"ja": "丙子の乱", "en": "Qing invasion of Joseon"}
+    "persons": [
+      "hong-taiji"
+    ],
+    "wiki": {
+      "ja": "清",
+      "en": "Qing dynasty"
+    }
   },
   {
     "id": "descartes-discourse-on-method",
@@ -240,11 +377,22 @@
     "year_end": null,
     "lat": 52.16,
     "lon": 4.49,
-    "name": {"ja": "デカルト『方法序説』", "en": "Descartes' Discourse on the Method"},
-    "desc": {"ja": "オランダに滞在中のデカルトが『方法序説』を刊行。「われ思う、ゆえにわれあり」を出発点とする演繹法を唱え、近代合理論哲学の基礎を築いた。", "en": "Descartes, living in the Netherlands, published his Discourse on the Method, founding modern rationalism on the principle 'I think, therefore I am'."},
+    "name": {
+      "ja": "デカルト『方法序説』",
+      "en": "Descartes' Discourse on the Method"
+    },
+    "desc": {
+      "ja": "オランダに滞在中のデカルトが『方法序説』を刊行。「われ思う、ゆえにわれあり」を出発点とする演繹法を唱え、近代合理論哲学の基礎を築いた。",
+      "en": "Descartes, living in the Netherlands, published his Discourse on the Method, founding modern rationalism on the principle 'I think, therefore I am'."
+    },
     "importance": 2,
-    "persons": ["descartes"],
-    "wiki": {"ja": "方法序説", "en": "Discourse on the Method"}
+    "persons": [
+      "descartes"
+    ],
+    "wiki": {
+      "ja": "方法序説",
+      "en": "Discourse on the Method"
+    }
   },
   {
     "id": "sakoku-japan",
@@ -253,24 +401,45 @@
     "year_end": null,
     "lat": 32.75,
     "lon": 129.87,
-    "name": {"ja": "日本の「鎖国」の完成", "en": "Japan's Sakoku Seclusion"},
-    "desc": {"ja": "島原の乱後、江戸幕府がポルトガル船の来航を禁止し、オランダ商館を長崎の出島に移した。以後、貿易はオランダ・中国などに限定された。", "en": "After the Shimabara Rebellion the shogunate banned Portuguese ships and confined the Dutch to Dejima in Nagasaki, limiting foreign trade to the Dutch, Chinese and a few others."},
-    "importance": 2,
+    "name": {
+      "ja": "日本の「鎖国」の完成",
+      "en": "Japan's Sakoku Seclusion"
+    },
+    "desc": {
+      "ja": "島原の乱後、江戸幕府がポルトガル船の来航を禁止し、オランダ商館を長崎の出島に移した。以後、貿易はオランダ・中国などに限定された。",
+      "en": "After the Shimabara Rebellion the shogunate banned Portuguese ships and confined the Dutch to Dejima in Nagasaki, limiting foreign trade to the Dutch, Chinese and a few others."
+    },
+    "importance": 1,
     "persons": [],
-    "wiki": {"ja": "鎖国", "en": "Sakoku"}
+    "wiki": {
+      "ja": "鎖国",
+      "en": "Sakoku"
+    }
   },
   {
     "id": "english-civil-war",
     "type": "revolution",
     "year": 1642,
     "year_end": 1649,
-    "lat": 51.50,
+    "lat": 51.5,
     "lon": -0.12,
-    "name": {"ja": "ピューリタン革命", "en": "Puritan Revolution (English Civil War)"},
-    "desc": {"ja": "チャールズ1世の専制に対し議会派が蜂起し、王党派との内戦に発展。クロムウェル率いる鉄騎隊が勝利し、王は処刑されて共和政が樹立された。", "en": "Parliament rose against Charles I's absolutism; Cromwell's Ironsides defeated the Royalists, the king was executed and a republic established."},
+    "name": {
+      "ja": "ピューリタン革命",
+      "en": "Puritan Revolution (English Civil War)"
+    },
+    "desc": {
+      "ja": "チャールズ1世の専制に対し議会派が蜂起し、王党派との内戦に発展。クロムウェル率いる鉄騎隊が勝利し、王は処刑されて共和政が樹立された。",
+      "en": "Parliament rose against Charles I's absolutism; Cromwell's Ironsides defeated the Royalists, the king was executed and a republic established."
+    },
     "importance": 3,
-    "persons": ["charles-i", "cromwell"],
-    "wiki": {"ja": "清教徒革命", "en": "English Civil War"}
+    "persons": [
+      "charles-i",
+      "cromwell"
+    ],
+    "wiki": {
+      "ja": "清教徒革命",
+      "en": "English Civil War"
+    }
   },
   {
     "id": "fall-of-the-ming",
@@ -278,25 +447,25 @@
     "year": 1644,
     "year_end": null,
     "lat": 39.91,
-    "lon": 116.40,
-    "name": {"ja": "明の滅亡と清の北京入城", "en": "Fall of the Ming and Qing Entry into Beijing"},
-    "desc": {"ja": "李自成の反乱軍が北京を占領し、崇禎帝が自殺して明は滅亡。山海関を守る呉三桂が清軍を導き入れ、清は李自成を破って北京に遷都した。", "en": "Li Zicheng's rebels took Beijing and the Chongzhen emperor hanged himself; the Ming general Wu Sangui opened Shanhai Pass to the Qing, who drove out Li and moved their capital to Beijing."},
+    "lon": 116.4,
+    "name": {
+      "ja": "明の滅亡と清の北京入城",
+      "en": "Fall of the Ming and Qing Entry into Beijing"
+    },
+    "desc": {
+      "ja": "李自成の反乱軍が北京を占領し、崇禎帝が自殺して明は滅亡。山海関を守る呉三桂が清軍を導き入れ、清は李自成を破って北京に遷都した。",
+      "en": "Li Zicheng's rebels took Beijing and the Chongzhen emperor hanged himself; the Ming general Wu Sangui opened Shanhai Pass to the Qing, who drove out Li and moved their capital to Beijing."
+    },
     "importance": 3,
-    "persons": ["li-zicheng", "wu-sangui", "dorgon"],
-    "wiki": {"ja": "李自成", "en": "Transition from Ming to Qing"}
-  },
-  {
-    "id": "battle-of-naseby",
-    "type": "battle",
-    "year": 1645,
-    "year_end": null,
-    "lat": 52.40,
-    "lon": -0.98,
-    "name": {"ja": "ネーズビーの戦い", "en": "Battle of Naseby"},
-    "desc": {"ja": "クロムウェルの鉄騎隊を中心とする議会派の新型軍が王党派軍を決定的に破った。ピューリタン革命における内戦の帰趨を決した戦い。", "en": "Parliament's New Model Army, with Cromwell's cavalry, decisively defeated the Royalist army, settling the outcome of the Civil War."},
-    "importance": 1,
-    "persons": ["cromwell"],
-    "wiki": {"ja": "ネイズビーの戦い", "en": "Battle of Naseby"}
+    "persons": [
+      "li-zicheng",
+      "wu-sangui",
+      "dorgon"
+    ],
+    "wiki": {
+      "ja": "李自成",
+      "en": "Transition from Ming to Qing"
+    }
   },
   {
     "id": "peace-of-westphalia",
@@ -305,11 +474,20 @@
     "year_end": null,
     "lat": 51.96,
     "lon": 7.63,
-    "name": {"ja": "ウェストファリア条約", "en": "Peace of Westphalia"},
-    "desc": {"ja": "三十年戦争を終結させた講和条約。カルヴァン派が公認され、ドイツ諸侯はほぼ完全な主権を獲得。スイスとオランダの独立が正式に承認された。", "en": "The peace ending the Thirty Years' War recognised Calvinism, granted the German princes near-full sovereignty and confirmed the independence of Switzerland and the Netherlands."},
+    "name": {
+      "ja": "ウェストファリア条約",
+      "en": "Peace of Westphalia"
+    },
+    "desc": {
+      "ja": "三十年戦争を終結させた講和条約。カルヴァン派が公認され、ドイツ諸侯はほぼ完全な主権を獲得。スイスとオランダの独立が正式に承認された。",
+      "en": "The peace ending the Thirty Years' War recognised Calvinism, granted the German princes near-full sovereignty and confirmed the independence of Switzerland and the Netherlands."
+    },
     "importance": 3,
     "persons": [],
-    "wiki": {"ja": "ヴェストファーレン条約", "en": "Peace of Westphalia"}
+    "wiki": {
+      "ja": "ヴェストファーレン条約",
+      "en": "Peace of Westphalia"
+    }
   },
   {
     "id": "fronde",
@@ -318,24 +496,48 @@
     "year_end": 1653,
     "lat": 48.86,
     "lon": 2.35,
-    "name": {"ja": "フロンドの乱", "en": "The Fronde"},
-    "desc": {"ja": "幼少のルイ14世のもとで宰相マザランの王権強化策に反発した高等法院と貴族が起こした反乱。鎮圧により絶対王政が確立した。", "en": "Parlements and nobles rebelled against Mazarin's centralising policies during Louis XIV's minority; its suppression cleared the way for royal absolutism."},
+    "name": {
+      "ja": "フロンドの乱",
+      "en": "The Fronde"
+    },
+    "desc": {
+      "ja": "幼少のルイ14世のもとで宰相マザランの王権強化策に反発した高等法院と貴族が起こした反乱。鎮圧によって貴族勢力は抑えられ、絶対王政が確立した。",
+      "en": "Parlements and nobles rebelled against Mazarin's centralising policies during Louis XIV's minority; its suppression cleared the way for royal absolutism."
+    },
     "importance": 2,
-    "persons": ["mazarin", "louis-xiv"],
-    "wiki": {"ja": "フロンドの乱", "en": "Fronde"}
+    "persons": [
+      "mazarin",
+      "louis-xiv"
+    ],
+    "wiki": {
+      "ja": "フロンドの乱",
+      "en": "Fronde"
+    }
   },
   {
     "id": "execution-of-charles-i",
     "type": "politics",
     "year": 1649,
     "year_end": null,
-    "lat": 51.50,
+    "lat": 51.5,
     "lon": -0.13,
-    "name": {"ja": "チャールズ1世の処刑", "en": "Execution of Charles I"},
-    "desc": {"ja": "議会派が国王チャールズ1世を裁判にかけ、ホワイトホールで公開処刑した。王政と貴族院は廃止され、イギリス史上唯一の共和政が始まった。", "en": "Parliament tried Charles I and beheaded him at Whitehall; monarchy and the House of Lords were abolished and England became a republic."},
+    "name": {
+      "ja": "チャールズ1世の処刑",
+      "en": "Execution of Charles I"
+    },
+    "desc": {
+      "ja": "議会派が国王チャールズ1世を裁判にかけ、ホワイトホールで公開処刑した。王政と貴族院は廃止され、イギリス史上唯一の共和政が始まった。",
+      "en": "Parliament tried Charles I and beheaded him at Whitehall; monarchy and the House of Lords were abolished and England became a republic."
+    },
     "importance": 3,
-    "persons": ["charles-i", "cromwell"],
-    "wiki": {"ja": "チャールズ1世 (イングランド王)", "en": "Execution of Charles I"}
+    "persons": [
+      "charles-i",
+      "cromwell"
+    ],
+    "wiki": {
+      "ja": "チャールズ1世 (イングランド王)",
+      "en": "Execution of Charles I"
+    }
   },
   {
     "id": "hobbes-leviathan",
@@ -344,37 +546,68 @@
     "year_end": null,
     "lat": 51.51,
     "lon": -0.12,
-    "name": {"ja": "ホッブズ『リヴァイアサン』", "en": "Hobbes' Leviathan"},
-    "desc": {"ja": "ホッブズが「万人の万人に対する闘争」である自然状態を脱するため、人民が契約によって主権者に権力を委ねると説いた。社会契約説の先駆。", "en": "Hobbes argued that to escape the 'war of all against all' people contract to surrender power to a sovereign, pioneering social contract theory."},
-    "importance": 2,
-    "persons": ["hobbes"],
-    "wiki": {"ja": "リヴァイアサン (ホッブズ)", "en": "Leviathan (Hobbes book)"}
+    "name": {
+      "ja": "ホッブズ『リヴァイアサン』",
+      "en": "Hobbes' Leviathan"
+    },
+    "desc": {
+      "ja": "ホッブズが「万人の万人に対する闘争」である自然状態を脱するため、人民が契約によって主権者に権力を委ねると説いた。社会契約説の先駆。",
+      "en": "Hobbes argued that to escape the 'war of all against all' people contract to surrender power to a sovereign, pioneering social contract theory."
+    },
+    "importance": 1,
+    "persons": [
+      "hobbes"
+    ],
+    "wiki": {
+      "ja": "リヴァイアサン (ホッブズ)",
+      "en": "Leviathan (Hobbes book)"
+    }
   },
   {
     "id": "navigation-act",
     "type": "politics",
     "year": 1651,
     "year_end": null,
-    "lat": 51.50,
+    "lat": 51.5,
     "lon": -0.12,
-    "name": {"ja": "航海法", "en": "Navigation Act"},
-    "desc": {"ja": "クロムウェルの共和政府が、イギリスとその植民地への輸入をイギリス船または産出国の船に限定した。中継貿易で栄えるオランダを狙い撃ちにし、英蘭戦争を招いた。", "en": "Cromwell's republic restricted imports into England and its colonies to English ships or those of the producing country, striking at Dutch carrying trade and provoking the Anglo-Dutch Wars."},
-    "importance": 3,
-    "persons": ["cromwell"],
-    "wiki": {"ja": "航海条例", "en": "Navigation Acts"}
+    "name": {
+      "ja": "航海法",
+      "en": "Navigation Act"
+    },
+    "desc": {
+      "ja": "クロムウェルの共和政府が、イギリスとその植民地への輸入をイギリス船または産出国の船に限定した。中継貿易で栄えるオランダを狙い撃ちにし、英蘭戦争を招いた。",
+      "en": "Cromwell's republic restricted imports into England and its colonies to English ships or those of the producing country, striking at Dutch carrying trade and provoking the Anglo-Dutch Wars."
+    },
+    "importance": 2,
+    "persons": [
+      "cromwell"
+    ],
+    "wiki": {
+      "ja": "航海条例",
+      "en": "Navigation Acts"
+    }
   },
   {
     "id": "anglo-dutch-wars",
     "type": "battle",
     "year": 1652,
     "year_end": 1674,
-    "lat": 52.0,
-    "lon": 3.0,
-    "name": {"ja": "英蘭戦争", "en": "Anglo-Dutch Wars"},
-    "desc": {"ja": "航海法をめぐり三次にわたってイギリスとオランダが戦った海上戦争。第2次戦争でイギリスはニューアムステルダムを奪いニューヨークと改称した。", "en": "Three naval wars between England and the Dutch Republic over the Navigation Act; in the second England seized New Amsterdam and renamed it New York."},
+    "lat": 52,
+    "lon": 3,
+    "name": {
+      "ja": "英蘭戦争",
+      "en": "Anglo-Dutch Wars"
+    },
+    "desc": {
+      "ja": "航海法をめぐり三次にわたってイギリスとオランダが戦った海上戦争。第2次戦争でイギリスはニューアムステルダムを奪いニューヨークと改称した。",
+      "en": "Three naval wars between England and the Dutch Republic over the Navigation Act; in the second England seized New Amsterdam and renamed it New York."
+    },
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "英蘭戦争", "en": "Anglo-Dutch Wars"}
+    "wiki": {
+      "ja": "英蘭戦争",
+      "en": "Anglo-Dutch Wars"
+    }
   },
   {
     "id": "cape-colony-founded",
@@ -383,24 +616,20 @@
     "year_end": null,
     "lat": -33.92,
     "lon": 18.42,
-    "name": {"ja": "ケープ植民地の建設", "en": "Founding of the Cape Colony"},
-    "desc": {"ja": "オランダ東インド会社がアフリカ南端の喜望峰に補給基地を建設。入植したオランダ系農民はブール人と呼ばれ、南アフリカ植民の起源となった。", "en": "The VOC established a supply station at the Cape of Good Hope; Dutch settlers there, later called Boers, began European colonisation of South Africa."},
+    "name": {
+      "ja": "ケープ植民地の建設",
+      "en": "Founding of the Cape Colony"
+    },
+    "desc": {
+      "ja": "オランダ東インド会社がアフリカ南端の喜望峰に補給基地を建設。入植したオランダ系農民はブール人と呼ばれ、南アフリカ植民の起源となった。",
+      "en": "The VOC established a supply station at the Cape of Good Hope; Dutch settlers there, later called Boers, began European colonisation of South Africa."
+    },
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "ケープ植民地", "en": "Dutch Cape Colony"}
-  },
-  {
-    "id": "cromwell-lord-protector",
-    "type": "politics",
-    "year": 1653,
-    "year_end": null,
-    "lat": 51.50,
-    "lon": -0.12,
-    "name": {"ja": "クロムウェルの護国卿就任", "en": "Cromwell Becomes Lord Protector"},
-    "desc": {"ja": "アイルランドとスコットランドを征服したクロムウェルが議会を解散し、護国卿として軍事独裁を行った。厳格なピューリタン統治は国民の反感を招いた。", "en": "After conquering Ireland and Scotland, Cromwell dissolved Parliament and ruled as Lord Protector; his strict Puritan military rule alienated the nation."},
-    "importance": 2,
-    "persons": ["cromwell"],
-    "wiki": {"ja": "護国卿", "en": "Lord Protector"}
+    "wiki": {
+      "ja": "ケープ植民地",
+      "en": "Dutch Cape Colony"
+    }
   },
   {
     "id": "aurangzeb-accession",
@@ -409,24 +638,46 @@
     "year_end": null,
     "lat": 28.65,
     "lon": 77.23,
-    "name": {"ja": "アウラングゼーブの即位", "en": "Accession of Aurangzeb"},
-    "desc": {"ja": "父シャー=ジャハーンを幽閉し兄弟を倒してムガル皇帝となった。デカンへの征服で帝国の領土は最大となったが、厳格なイスラーム政策で各地の反乱を招いた。", "en": "Aurangzeb imprisoned his father Shah Jahan and killed his brothers to seize the Mughal throne; his Deccan conquests brought the empire to its greatest extent, but his strict Islamic policy provoked revolts."},
+    "name": {
+      "ja": "アウラングゼーブの即位",
+      "en": "Accession of Aurangzeb"
+    },
+    "desc": {
+      "ja": "父シャー=ジャハーンを幽閉し兄弟を倒してムガル皇帝となった。デカンへの征服で帝国の領土は最大となったが、厳格なイスラーム政策で各地の反乱を招いた。",
+      "en": "Aurangzeb imprisoned his father Shah Jahan and killed his brothers to seize the Mughal throne; his Deccan conquests brought the empire to its greatest extent, but his strict Islamic policy provoked revolts."
+    },
     "importance": 2,
-    "persons": ["aurangzeb"],
-    "wiki": {"ja": "アウラングゼーブ", "en": "Aurangzeb"}
+    "persons": [
+      "aurangzeb"
+    ],
+    "wiki": {
+      "ja": "アウラングゼーブ",
+      "en": "Aurangzeb"
+    }
   },
   {
     "id": "stuart-restoration",
     "type": "politics",
     "year": 1660,
     "year_end": null,
-    "lat": 51.50,
+    "lat": 51.5,
     "lon": -0.12,
-    "name": {"ja": "王政復古", "en": "Stuart Restoration"},
-    "desc": {"ja": "クロムウェル死後の混乱の中、亡命中のチャールズ2世が議会に迎えられて即位し王政が復活した。王はやがてカトリックと専制を志向し、議会と対立した。", "en": "Amid the confusion after Cromwell's death, Parliament recalled the exiled Charles II and restored the monarchy; his Catholic and absolutist leanings soon renewed conflict with Parliament."},
-    "importance": 3,
-    "persons": ["charles-ii"],
-    "wiki": {"ja": "王政復古 (イングランド)", "en": "Stuart Restoration"}
+    "name": {
+      "ja": "王政復古",
+      "en": "Stuart Restoration"
+    },
+    "desc": {
+      "ja": "クロムウェル死後の混乱の中、亡命中のチャールズ2世が議会に迎えられて即位し王政が復活した。王はやがてカトリックと専制を志向し、議会と対立した。",
+      "en": "Amid the confusion after Cromwell's death, Parliament recalled the exiled Charles II and restored the monarchy; his Catholic and absolutist leanings soon renewed conflict with Parliament."
+    },
+    "importance": 2,
+    "persons": [
+      "charles-ii"
+    ],
+    "wiki": {
+      "ja": "王政復古 (イングランド)",
+      "en": "Stuart Restoration"
+    }
   },
   {
     "id": "louis-xiv-personal-rule",
@@ -435,24 +686,47 @@
     "year_end": null,
     "lat": 48.86,
     "lon": 2.35,
-    "name": {"ja": "ルイ14世の親政開始", "en": "Louis XIV Begins Personal Rule"},
-    "desc": {"ja": "マザランの死後、ルイ14世が宰相を置かず親政を開始。財務総監コルベールの重商主義政策で国富を増し、「朕は国家なり」と称される絶対王政の最盛期を築いた。", "en": "After Mazarin's death Louis XIV ruled without a chief minister; Colbert's mercantilism enriched the state and the king built the apogee of absolutism."},
+    "name": {
+      "ja": "ルイ14世の親政開始",
+      "en": "Louis XIV Begins Personal Rule"
+    },
+    "desc": {
+      "ja": "マザランの死後、ルイ14世が宰相を置かず親政を開始。財務総監コルベールの重商主義政策で国富を増し、「朕は国家なり」と称される絶対王政の最盛期を築いた。",
+      "en": "After Mazarin's death Louis XIV ruled without a chief minister; Colbert's mercantilism enriched the state and the king built the apogee of absolutism."
+    },
     "importance": 3,
-    "persons": ["louis-xiv", "colbert"],
-    "wiki": {"ja": "ルイ14世 (フランス王)", "en": "Louis XIV"}
+    "persons": [
+      "louis-xiv",
+      "colbert"
+    ],
+    "wiki": {
+      "ja": "ルイ14世 (フランス王)",
+      "en": "Louis XIV"
+    }
   },
   {
     "id": "koxinga-takes-taiwan",
     "type": "fall",
     "year": 1662,
     "year_end": null,
-    "lat": 23.00,
+    "lat": 23,
     "lon": 120.16,
-    "name": {"ja": "鄭成功の台湾占領", "en": "Zheng Chenggong Takes Taiwan"},
-    "desc": {"ja": "明の復興をめざす鄭成功がゼーランディア城のオランダ軍を降伏させ、台湾を反清活動の根拠地とした。鄭氏の台湾統治は1683年まで続いた。", "en": "Zheng Chenggong (Koxinga), fighting to restore the Ming, forced the Dutch at Fort Zeelandia to surrender and made Taiwan his anti-Qing base, held by his family until 1683."},
-    "importance": 2,
-    "persons": ["zheng-chenggong"],
-    "wiki": {"ja": "鄭成功", "en": "Siege of Fort Zeelandia"}
+    "name": {
+      "ja": "鄭成功の台湾占領",
+      "en": "Zheng Chenggong Takes Taiwan"
+    },
+    "desc": {
+      "ja": "明の復興をめざす鄭成功がゼーランディア城のオランダ軍を降伏させ、台湾を反清活動の根拠地とした。鄭氏の台湾統治は1683年まで続いた。",
+      "en": "Zheng Chenggong (Koxinga), fighting to restore the Ming, forced the Dutch at Fort Zeelandia to surrender and made Taiwan his anti-Qing base, held by his family until 1683."
+    },
+    "importance": 1,
+    "persons": [
+      "zheng-chenggong"
+    ],
+    "wiki": {
+      "ja": "鄭成功",
+      "en": "Siege of Fort Zeelandia"
+    }
   },
   {
     "id": "revolt-of-the-three-feudatories",
@@ -461,11 +735,23 @@
     "year_end": 1681,
     "lat": 25.04,
     "lon": 102.71,
-    "name": {"ja": "三藩の乱", "en": "Revolt of the Three Feudatories"},
-    "desc": {"ja": "康熙帝の藩王廃止策に対し、雲南の呉三桂ら三藩が起こした反乱。8年かけて鎮圧され、清の中国支配が確立した。", "en": "Wu Sangui of Yunnan and two other feudatory princes rebelled against the Kangxi emperor's plan to abolish their domains; their defeat after eight years consolidated Qing rule over China."},
+    "name": {
+      "ja": "三藩の乱",
+      "en": "Revolt of the Three Feudatories"
+    },
+    "desc": {
+      "ja": "康熙帝の藩王廃止策に対し、雲南の呉三桂・広東の尚之信・福建の耿精忠の三藩が起こした反乱。8年かけて鎮圧され、清の中国支配が確立した。",
+      "en": "Wu Sangui of Yunnan and two other feudatory princes rebelled against the Kangxi emperor's plan to abolish their domains; their defeat after eight years consolidated Qing rule over China."
+    },
     "importance": 3,
-    "persons": ["kangxi", "wu-sangui"],
-    "wiki": {"ja": "三藩の乱", "en": "Revolt of the Three Feudatories"}
+    "persons": [
+      "kangxi",
+      "wu-sangui"
+    ],
+    "wiki": {
+      "ja": "三藩の乱",
+      "en": "Revolt of the Three Feudatories"
+    }
   },
   {
     "id": "shivaji-founds-maratha-kingdom",
@@ -474,50 +760,46 @@
     "year_end": null,
     "lat": 18.23,
     "lon": 73.44,
-    "name": {"ja": "シヴァージーのマラーター王国建設", "en": "Shivaji Founds the Maratha Kingdom"},
-    "desc": {"ja": "デカンのヒンドゥー教徒シヴァージーがムガル帝国に抵抗し、ライガド城で戴冠してマラーター王国を建てた。18世紀にはマラーター同盟として西インドを支配した。", "en": "Shivaji, a Hindu leader of the Deccan, resisted the Mughals and was crowned at Raigad, founding the Maratha kingdom that dominated western India as a confederacy in the 18th century."},
-    "importance": 2,
-    "persons": ["shivaji"],
-    "wiki": {"ja": "マラーター王国", "en": "Maratha Empire"}
-  },
-  {
-    "id": "battle-of-fehrbellin",
-    "type": "battle",
-    "year": 1675,
-    "year_end": null,
-    "lat": 52.80,
-    "lon": 12.77,
-    "name": {"ja": "フェールベリンの戦い", "en": "Battle of Fehrbellin"},
-    "desc": {"ja": "ブランデンブルク選帝侯フリードリヒ=ヴィルヘルム(大選帝侯)が侵入したスウェーデン軍を破った。常備軍と官僚制の整備による絶対主義国家建設の成果を示した。", "en": "Frederick William, the Great Elector of Brandenburg, defeated an invading Swedish army, showing the strength of the standing army and bureaucracy he had built."},
+    "name": {
+      "ja": "シヴァージーのマラーター王国建設",
+      "en": "Shivaji Founds the Maratha Kingdom"
+    },
+    "desc": {
+      "ja": "デカンのヒンドゥー教徒シヴァージーがムガル帝国に抵抗し、ライガド城で戴冠してマラーター王国を建てた。18世紀にはマラーター同盟として西インドを支配した。",
+      "en": "Shivaji, a Hindu leader of the Deccan, resisted the Mughals and was crowned at Raigad, founding the Maratha kingdom that dominated western India as a confederacy in the 18th century."
+    },
     "importance": 1,
-    "persons": ["frederick-william-great-elector"],
-    "wiki": {"ja": "フェールベリンの戦い", "en": "Battle of Fehrbellin"}
-  },
-  {
-    "id": "aurangzeb-reimposes-jizya",
-    "type": "religion",
-    "year": 1679,
-    "year_end": null,
-    "lat": 28.65,
-    "lon": 77.23,
-    "name": {"ja": "アウラングゼーブのジズヤ復活", "en": "Aurangzeb Reimposes the Jizya"},
-    "desc": {"ja": "アクバルが廃止した非ムスリムへの人頭税ジズヤをアウラングゼーブが復活させ、ヒンドゥー寺院も破壊した。ラージプート・マラーター・シク教徒の反抗を激化させた。", "en": "Aurangzeb reimposed the jizya poll tax on non-Muslims that Akbar had abolished and destroyed Hindu temples, intensifying Rajput, Maratha and Sikh resistance."},
-    "importance": 2,
-    "persons": ["aurangzeb"],
-    "wiki": {"ja": "ジズヤ", "en": "Jizya"}
+    "persons": [
+      "shivaji"
+    ],
+    "wiki": {
+      "ja": "マラーター王国",
+      "en": "Maratha Empire"
+    }
   },
   {
     "id": "palace-of-versailles",
     "type": "culture",
     "year": 1682,
     "year_end": null,
-    "lat": 48.80,
+    "lat": 48.8,
     "lon": 2.12,
-    "name": {"ja": "ヴェルサイユ宮殿への宮廷移転", "en": "Court Moves to the Palace of Versailles"},
-    "desc": {"ja": "ルイ14世がパリ郊外に造営したバロック様式のヴェルサイユ宮殿に宮廷を移した。壮麗な宮廷文化はヨーロッパ各国の君主の模範となった。", "en": "Louis XIV moved his court to the Baroque palace he had built at Versailles outside Paris; its splendid court culture became the model for monarchs across Europe."},
-    "importance": 2,
-    "persons": ["louis-xiv"],
-    "wiki": {"ja": "ヴェルサイユ宮殿", "en": "Palace of Versailles"}
+    "name": {
+      "ja": "ヴェルサイユ宮殿への宮廷移転",
+      "en": "Court Moves to the Palace of Versailles"
+    },
+    "desc": {
+      "ja": "ルイ14世がパリ郊外に造営したバロック様式のヴェルサイユ宮殿に宮廷を移した。壮麗な宮廷文化はヨーロッパ各国の君主の模範となった。",
+      "en": "Louis XIV moved his court to the Baroque palace he had built at Versailles outside Paris; its splendid court culture became the model for monarchs across Europe."
+    },
+    "importance": 1,
+    "persons": [
+      "louis-xiv"
+    ],
+    "wiki": {
+      "ja": "ヴェルサイユ宮殿",
+      "en": "Palace of Versailles"
+    }
   },
   {
     "id": "second-siege-of-vienna",
@@ -526,37 +808,68 @@
     "year_end": null,
     "lat": 48.21,
     "lon": 16.37,
-    "name": {"ja": "第2次ウィーン包囲", "en": "Second Siege of Vienna"},
-    "desc": {"ja": "オスマン帝国軍がウィーンを包囲したが、ポーランド王ヤン=ソビエスキらの援軍に撃退された。以後オスマン帝国は守勢に転じ、ハンガリーを失った。", "en": "An Ottoman army besieged Vienna but was routed by relief forces under John Sobieski of Poland; thereafter the Ottomans fell on the defensive and lost Hungary."},
-    "importance": 3,
+    "name": {
+      "ja": "第2次ウィーン包囲",
+      "en": "Second Siege of Vienna"
+    },
+    "desc": {
+      "ja": "オスマン帝国軍がウィーンを包囲したが、ポーランド王ヤン=ソビエスキらの援軍に撃退された。以後オスマン帝国は守勢に転じ、ハンガリーを失った。",
+      "en": "An Ottoman army besieged Vienna but was routed by relief forces under John Sobieski of Poland; thereafter the Ottomans fell on the defensive and lost Hungary."
+    },
+    "importance": 2,
     "persons": [],
-    "wiki": {"ja": "第二次ウィーン包囲", "en": "Battle of Vienna"}
+    "wiki": {
+      "ja": "第二次ウィーン包囲",
+      "en": "Battle of Vienna"
+    }
   },
   {
     "id": "qing-conquest-of-taiwan",
     "type": "fall",
     "year": 1683,
     "year_end": null,
-    "lat": 23.00,
+    "lat": 23,
     "lon": 120.16,
-    "name": {"ja": "清の台湾征服", "en": "Qing Conquest of Taiwan"},
-    "desc": {"ja": "康熙帝が鄭氏政権を降伏させ、台湾を清の直轄領とした。これにより遷界令が解除され、海禁が緩和されて中国商人の海外貿易が再開した。", "en": "The Kangxi emperor forced the Zheng regime to surrender and annexed Taiwan; the coastal evacuation order was lifted and maritime trade reopened."},
+    "name": {
+      "ja": "清の台湾征服",
+      "en": "Qing Conquest of Taiwan"
+    },
+    "desc": {
+      "ja": "康熙帝が鄭氏政権を降伏させ、台湾を清の直轄領とした。これにより遷界令が解除され、海禁が緩和されて中国商人の海外貿易が再開した。",
+      "en": "The Kangxi emperor forced the Zheng regime to surrender and annexed Taiwan; the coastal evacuation order was lifted and maritime trade reopened."
+    },
     "importance": 2,
-    "persons": ["kangxi"],
-    "wiki": {"ja": "澎湖海戦", "en": "Battle of Penghu"}
+    "persons": [
+      "kangxi"
+    ],
+    "wiki": {
+      "ja": "澎湖海戦",
+      "en": "Battle of Penghu"
+    }
   },
   {
     "id": "revocation-of-the-edict-of-nantes",
     "type": "religion",
     "year": 1685,
     "year_end": null,
-    "lat": 48.40,
-    "lon": 2.70,
-    "name": {"ja": "ナントの王令の廃止", "en": "Revocation of the Edict of Nantes"},
-    "desc": {"ja": "ルイ14世がアンリ4世のナントの王令を廃止し、ユグノーの信仰の自由を奪った。商工業者の多いユグノーが大量に国外へ亡命し、フランス経済に打撃を与えた。", "en": "Louis XIV revoked Henry IV's Edict of Nantes, ending Huguenot toleration; the mass emigration of Huguenot merchants and artisans damaged the French economy."},
+    "lat": 48.4,
+    "lon": 2.7,
+    "name": {
+      "ja": "ナントの王令の廃止",
+      "en": "Revocation of the Edict of Nantes"
+    },
+    "desc": {
+      "ja": "ルイ14世がアンリ4世のナントの王令を廃止し、ユグノーの信仰の自由を奪った。商工業者の多いユグノーが大量に国外へ亡命し、フランス経済に打撃を与えた。",
+      "en": "Louis XIV revoked Henry IV's Edict of Nantes, ending Huguenot toleration; the mass emigration of Huguenot merchants and artisans damaged the French economy."
+    },
     "importance": 3,
-    "persons": ["louis-xiv"],
-    "wiki": {"ja": "フォンテーヌブローの勅令", "en": "Edict of Fontainebleau"}
+    "persons": [
+      "louis-xiv"
+    ],
+    "wiki": {
+      "ja": "フォンテーヌブローの勅令",
+      "en": "Edict of Fontainebleau"
+    }
   },
   {
     "id": "newton-principia",
@@ -565,37 +878,71 @@
     "year_end": null,
     "lat": 52.21,
     "lon": 0.12,
-    "name": {"ja": "ニュートン『プリンキピア』", "en": "Newton's Principia"},
-    "desc": {"ja": "ケンブリッジのニュートンが『自然哲学の数学的諸原理』で万有引力の法則と運動の三法則を発表。天体と地上の運動を統一的に説明し、近代物理学を確立した。", "en": "Newton of Cambridge published the Principia, setting out universal gravitation and the three laws of motion, which unified celestial and terrestrial mechanics and founded modern physics."},
+    "name": {
+      "ja": "ニュートン『プリンキピア』",
+      "en": "Newton's Principia"
+    },
+    "desc": {
+      "ja": "ケンブリッジのニュートンが『自然哲学の数学的諸原理』で万有引力の法則と運動の三法則を発表。天体と地上の運動を統一的に説明し、近代物理学を確立した。",
+      "en": "Newton of Cambridge published the Principia, setting out universal gravitation and the three laws of motion, which unified celestial and terrestrial mechanics and founded modern physics."
+    },
     "importance": 3,
-    "persons": ["newton"],
-    "wiki": {"ja": "自然哲学の数学的諸原理", "en": "Philosophiæ Naturalis Principia Mathematica"}
+    "persons": [
+      "newton"
+    ],
+    "wiki": {
+      "ja": "自然哲学の数学的諸原理",
+      "en": "Philosophiæ Naturalis Principia Mathematica"
+    }
   },
   {
     "id": "glorious-revolution",
     "type": "revolution",
     "year": 1688,
     "year_end": 1689,
-    "lat": 51.50,
+    "lat": 51.5,
     "lon": -0.12,
-    "name": {"ja": "名誉革命", "en": "Glorious Revolution"},
-    "desc": {"ja": "カトリック化と専制を進めるジェームズ2世に対し、議会がオランダ総督ウィレムと妻メアリを招いた。王は亡命し、流血なく王位が交代した。", "en": "Parliament invited the Dutch stadtholder William and his wife Mary to replace the Catholic absolutist James II, who fled; the crown changed hands without bloodshed."},
+    "name": {
+      "ja": "名誉革命",
+      "en": "Glorious Revolution"
+    },
+    "desc": {
+      "ja": "カトリック化と専制を進めるジェームズ2世に対し、議会がオランダ総督ウィレムと妻メアリを招いた。王は亡命し、流血なく王位が交代した。",
+      "en": "Parliament invited the Dutch stadtholder William and his wife Mary to replace the Catholic absolutist James II, who fled; the crown changed hands without bloodshed."
+    },
     "importance": 3,
-    "persons": ["william-iii", "james-ii"],
-    "wiki": {"ja": "名誉革命", "en": "Glorious Revolution"}
+    "persons": [
+      "william-iii",
+      "james-ii"
+    ],
+    "wiki": {
+      "ja": "名誉革命",
+      "en": "Glorious Revolution"
+    }
   },
   {
     "id": "bill-of-rights",
     "type": "politics",
     "year": 1689,
     "year_end": null,
-    "lat": 51.50,
+    "lat": 51.5,
     "lon": -0.12,
-    "name": {"ja": "権利の章典", "en": "Bill of Rights"},
-    "desc": {"ja": "ウィリアム3世とメアリ2世が議会の提出した権利の宣言を承認し、法律として制定。議会の立法権・課税権を確認し、立憲王政の基礎となった。", "en": "William III and Mary II accepted Parliament's Declaration of Rights, enacted as the Bill of Rights; it confirmed Parliament's legislative and taxing powers and founded constitutional monarchy."},
+    "name": {
+      "ja": "権利の章典",
+      "en": "Bill of Rights"
+    },
+    "desc": {
+      "ja": "ウィリアム3世とメアリ2世が議会の提出した権利の宣言を承認し、法律として制定。議会の立法権・課税権を確認し、立憲王政の基礎となった。",
+      "en": "William III and Mary II accepted Parliament's Declaration of Rights, enacted as the Bill of Rights; it confirmed Parliament's legislative and taxing powers and founded constitutional monarchy."
+    },
     "importance": 3,
-    "persons": ["william-iii"],
-    "wiki": {"ja": "権利の章典", "en": "Bill of Rights 1689"}
+    "persons": [
+      "william-iii"
+    ],
+    "wiki": {
+      "ja": "権利の章典",
+      "en": "Bill of Rights 1689"
+    }
   },
   {
     "id": "treaty-of-nerchinsk",
@@ -604,11 +951,23 @@
     "year_end": null,
     "lat": 51.96,
     "lon": 116.58,
-    "name": {"ja": "ネルチンスク条約", "en": "Treaty of Nerchinsk"},
-    "desc": {"ja": "康熙帝がピョートル1世のロシアと結んだ中国初の対等な国際条約。アルグン川と外興安嶺(スタノヴォイ山脈)を国境と定め、通商を認めた。", "en": "The Kangxi emperor's treaty with Peter the Great's Russia, China's first on equal terms, fixed the border along the Argun River and the Stanovoy Range and permitted trade."},
+    "name": {
+      "ja": "ネルチンスク条約",
+      "en": "Treaty of Nerchinsk"
+    },
+    "desc": {
+      "ja": "康熙帝がピョートル1世のロシアと結んだ中国初の対等な国際条約。アルグン川と外興安嶺(スタノヴォイ山脈)を国境と定め、通商を認めた。",
+      "en": "The Kangxi emperor's treaty with Peter the Great's Russia, China's first on equal terms, fixed the border along the Argun River and the Stanovoy Range and permitted trade."
+    },
     "importance": 3,
-    "persons": ["kangxi", "peter-i"],
-    "wiki": {"ja": "ネルチンスク条約", "en": "Treaty of Nerchinsk"}
+    "persons": [
+      "kangxi",
+      "peter-i"
+    ],
+    "wiki": {
+      "ja": "ネルチンスク条約",
+      "en": "Treaty of Nerchinsk"
+    }
   },
   {
     "id": "locke-two-treatises",
@@ -617,63 +976,69 @@
     "year_end": null,
     "lat": 51.51,
     "lon": -0.12,
-    "name": {"ja": "ロック『統治二論』", "en": "Locke's Two Treatises of Government"},
-    "desc": {"ja": "ロックが『統治二論(市民政府二論)』で、政府は人民の信託に基づき、信託に反する政府には抵抗権があると説いた。名誉革命を正当化し、アメリカ独立宣言に影響した。", "en": "Locke argued that government rests on the trust of the people, who may resist a government that betrays it; the work justified the Glorious Revolution and influenced the American Declaration of Independence."},
-    "importance": 3,
-    "persons": ["locke"],
-    "wiki": {"ja": "統治二論", "en": "Two Treatises of Government"}
-  },
-  {
-    "id": "bank-of-england-founded",
-    "type": "politics",
-    "year": 1694,
-    "year_end": null,
-    "lat": 51.51,
-    "lon": -0.09,
-    "name": {"ja": "イングランド銀行の設立", "en": "Founding of the Bank of England"},
-    "desc": {"ja": "対仏戦争の戦費調達のためイングランド銀行が設立され、国債制度が整備された。議会が保証する公債は低利の資金を集め、イギリス財政軍事国家の基盤となった。", "en": "The Bank of England was founded to finance war against France; parliament-backed public debt raised cheap credit and underpinned Britain's fiscal-military state."},
+    "name": {
+      "ja": "ロック『統治二論』",
+      "en": "Locke's Two Treatises of Government"
+    },
+    "desc": {
+      "ja": "ロックが『統治二論(市民政府二論)』で、政府は人民の信託に基づき、信託に反する政府には抵抗権があると説いた。名誉革命を正当化し、アメリカ独立宣言に影響した。",
+      "en": "Locke argued that government rests on the trust of the people, who may resist a government that betrays it; the work justified the Glorious Revolution and influenced the American Declaration of Independence."
+    },
     "importance": 2,
-    "persons": [],
-    "wiki": {"ja": "イングランド銀行", "en": "Bank of England"}
+    "persons": [
+      "locke"
+    ],
+    "wiki": {
+      "ja": "統治二論",
+      "en": "Two Treatises of Government"
+    }
   },
   {
     "id": "treaty-of-karlowitz",
     "type": "treaty",
     "year": 1699,
     "year_end": null,
-    "lat": 45.20,
+    "lat": 45.2,
     "lon": 19.93,
-    "name": {"ja": "カルロヴィッツ条約", "en": "Treaty of Karlowitz"},
-    "desc": {"ja": "ウィーン包囲失敗後の戦争に敗れたオスマン帝国がオーストリアなどと結んだ条約。ハンガリー・トランシルヴァニアを失い、帝国の領土縮小が始まった。", "en": "Defeated in the war that followed the failed siege of Vienna, the Ottomans ceded Hungary and Transylvania to Austria, beginning the empire's territorial retreat."},
-    "importance": 3,
+    "name": {
+      "ja": "カルロヴィッツ条約",
+      "en": "Treaty of Karlowitz"
+    },
+    "desc": {
+      "ja": "ウィーン包囲失敗後の戦争に敗れたオスマン帝国がオーストリアなどと結んだ条約。ハンガリー・トランシルヴァニアを失い、帝国の領土縮小が始まった。",
+      "en": "Defeated in the war that followed the failed siege of Vienna, the Ottomans ceded Hungary and Transylvania to Austria, beginning the empire's territorial retreat."
+    },
+    "importance": 2,
     "persons": [],
-    "wiki": {"ja": "カルロヴィッツ条約", "en": "Treaty of Karlowitz"}
-  },
-  {
-    "id": "khalsa-founded",
-    "type": "religion",
-    "year": 1699,
-    "year_end": null,
-    "lat": 31.24,
-    "lon": 76.50,
-    "name": {"ja": "シク教団カールサーの結成", "en": "Founding of the Sikh Khalsa"},
-    "desc": {"ja": "第10代グル、ゴーヴィンド=シングがパンジャーブでシク教徒の軍事教団カールサーを組織した。ムガル帝国の迫害に対抗し、シク教徒は武装勢力として成長した。", "en": "Guru Gobind Singh organised the Sikhs of the Punjab into the Khalsa, a martial brotherhood, in response to Mughal persecution; the Sikhs grew into a military power."},
-    "importance": 1,
-    "persons": [],
-    "wiki": {"ja": "カールサー", "en": "Khalsa"}
+    "wiki": {
+      "ja": "カルロヴィッツ条約",
+      "en": "Treaty of Karlowitz"
+    }
   },
   {
     "id": "great-northern-war",
     "type": "battle",
     "year": 1700,
     "year_end": 1721,
-    "lat": 59.0,
-    "lon": 25.0,
-    "name": {"ja": "北方戦争", "en": "Great Northern War"},
-    "desc": {"ja": "バルト海の覇権をめぐりピョートル1世のロシアがスウェーデンのカール12世と戦った。ロシアはポルタヴァで勝利し、バルト海沿岸を獲得して強国となった。", "en": "Peter the Great's Russia fought Charles XII of Sweden for mastery of the Baltic; victory at Poltava and the Baltic coast made Russia a great power."},
+    "lat": 59,
+    "lon": 25,
+    "name": {
+      "ja": "北方戦争",
+      "en": "Great Northern War"
+    },
+    "desc": {
+      "ja": "バルト海の覇権をめぐりピョートル1世のロシアがスウェーデンのカール12世と戦った。ロシアはポルタヴァで勝利し、バルト海沿岸を獲得して強国となった。",
+      "en": "Peter the Great's Russia fought Charles XII of Sweden for mastery of the Baltic; victory at Poltava and the Baltic coast made Russia a great power."
+    },
     "importance": 3,
-    "persons": ["peter-i", "charles-xii"],
-    "wiki": {"ja": "大北方戦争", "en": "Great Northern War"}
+    "persons": [
+      "peter-i",
+      "charles-xii"
+    ],
+    "wiki": {
+      "ja": "大北方戦争",
+      "en": "Great Northern War"
+    }
   },
   {
     "id": "kingdom-of-prussia-founded",
@@ -682,11 +1047,22 @@
     "year_end": null,
     "lat": 54.71,
     "lon": 20.51,
-    "name": {"ja": "プロイセン王国の成立", "en": "Kingdom of Prussia Established"},
-    "desc": {"ja": "ブランデンブルク選帝侯フリードリヒがスペイン継承戦争で皇帝を支援する見返りに王号を認められ、ケーニヒスベルクで戴冠した。プロイセン王国の始まり。", "en": "Elector Frederick of Brandenburg was granted a royal title for supporting the emperor in the Spanish Succession war and crowned himself at Königsberg, founding the Kingdom of Prussia."},
-    "importance": 3,
-    "persons": ["frederick-i-prussia"],
-    "wiki": {"ja": "プロイセン王国", "en": "Kingdom of Prussia"}
+    "name": {
+      "ja": "プロイセン王国の成立",
+      "en": "Kingdom of Prussia Established"
+    },
+    "desc": {
+      "ja": "ブランデンブルク選帝侯フリードリヒがスペイン継承戦争で皇帝を支援する見返りに王号を認められ、ケーニヒスベルクで戴冠した。プロイセン王国の始まり。",
+      "en": "Elector Frederick of Brandenburg was granted a royal title for supporting the emperor in the Spanish Succession war and crowned himself at Königsberg, founding the Kingdom of Prussia."
+    },
+    "importance": 2,
+    "persons": [
+      "frederick-i-prussia"
+    ],
+    "wiki": {
+      "ja": "プロイセン王国",
+      "en": "Kingdom of Prussia"
+    }
   },
   {
     "id": "war-of-the-spanish-succession",
@@ -694,12 +1070,23 @@
     "year": 1701,
     "year_end": 1714,
     "lat": 40.42,
-    "lon": -3.70,
-    "name": {"ja": "スペイン継承戦争", "en": "War of the Spanish Succession"},
-    "desc": {"ja": "スペイン=ハプスブルク家の断絶後、ルイ14世が孫をフェリペ5世として即位させたため、イギリス・オランダ・オーストリアが対抗して戦った。ユトレヒト条約で終結。", "en": "When Louis XIV placed his grandson on the Spanish throne as Philip V after the Spanish Habsburgs died out, Britain, the Dutch and Austria fought to prevent a Bourbon union; ended by Utrecht."},
+    "lon": -3.7,
+    "name": {
+      "ja": "スペイン継承戦争",
+      "en": "War of the Spanish Succession"
+    },
+    "desc": {
+      "ja": "スペイン=ハプスブルク家の断絶後、ルイ14世が孫をフェリペ5世として即位させたため、イギリス・オランダ・オーストリアが対抗して戦った。ユトレヒト条約で終結。",
+      "en": "When Louis XIV placed his grandson on the Spanish throne as Philip V after the Spanish Habsburgs died out, Britain, the Dutch and Austria fought to prevent a Bourbon union; ended by Utrecht."
+    },
     "importance": 3,
-    "persons": ["louis-xiv"],
-    "wiki": {"ja": "スペイン継承戦争", "en": "War of the Spanish Succession"}
+    "persons": [
+      "louis-xiv"
+    ],
+    "wiki": {
+      "ja": "スペイン継承戦争",
+      "en": "War of the Spanish Succession"
+    }
   },
   {
     "id": "ashanti-kingdom-founded",
@@ -708,11 +1095,20 @@
     "year_end": null,
     "lat": 6.69,
     "lon": -1.62,
-    "name": {"ja": "アシャンティ王国の成立", "en": "Rise of the Ashanti Kingdom"},
-    "desc": {"ja": "西アフリカのギニア湾岸でオセイ=トゥトゥがクマシを都にアシャンティ王国を統一。金と奴隷の交易でヨーロッパ商人と結び、強国となった。", "en": "Osei Tutu united the Ashanti with Kumasi as capital on the Gulf of Guinea; the kingdom grew powerful through gold and slave trade with Europeans."},
-    "importance": 2,
+    "name": {
+      "ja": "アシャンティ王国の成立",
+      "en": "Rise of the Ashanti Kingdom"
+    },
+    "desc": {
+      "ja": "西アフリカのギニア湾岸でオセイ=トゥトゥがクマシを都にアシャンティ王国を統一。金と奴隷の交易でヨーロッパ商人と結び、強国となった。",
+      "en": "Osei Tutu united the Ashanti with Kumasi as capital on the Gulf of Guinea; the kingdom grew powerful through gold and slave trade with Europeans."
+    },
+    "importance": 1,
     "persons": [],
-    "wiki": {"ja": "アシャンティ王国", "en": "Ashanti Empire"}
+    "wiki": {
+      "ja": "アシャンティ王国",
+      "en": "Ashanti Empire"
+    }
   },
   {
     "id": "saint-petersburg-founded",
@@ -721,24 +1117,22 @@
     "year_end": null,
     "lat": 59.93,
     "lon": 30.32,
-    "name": {"ja": "ペテルブルクの建設", "en": "Founding of Saint Petersburg"},
-    "desc": {"ja": "ピョートル1世が北方戦争で奪ったネヴァ川河口に新都ペテルブルクを建設。「西欧への窓」として1712年に遷都し、西欧化改革の象徴となった。", "en": "Peter the Great founded St Petersburg at the mouth of the Neva, taken in the Northern War; the 'window on the West' became capital in 1712 and the symbol of his westernising reforms."},
-    "importance": 3,
-    "persons": ["peter-i"],
-    "wiki": {"ja": "サンクトペテルブルク", "en": "Saint Petersburg"}
-  },
-  {
-    "id": "battle-of-blenheim",
-    "type": "battle",
-    "year": 1704,
-    "year_end": null,
-    "lat": 48.63,
-    "lon": 10.63,
-    "name": {"ja": "ブレンハイムの戦い", "en": "Battle of Blenheim"},
-    "desc": {"ja": "スペイン継承戦争中、イギリスのマールバラ公とオーストリアのオイゲン公が連合してフランス・バイエルン軍を大破した。ルイ14世の軍事的優位が崩れた。", "en": "Marlborough and Prince Eugene crushed a Franco-Bavarian army during the War of the Spanish Succession, ending Louis XIV's military ascendancy."},
-    "importance": 1,
-    "persons": [],
-    "wiki": {"ja": "ブレンハイムの戦い", "en": "Battle of Blenheim"}
+    "name": {
+      "ja": "ペテルブルクの建設",
+      "en": "Founding of Saint Petersburg"
+    },
+    "desc": {
+      "ja": "ピョートル1世が北方戦争で奪ったネヴァ川河口に新都ペテルブルクを建設。「西欧への窓」として1712年に遷都し、西欧化改革の象徴となった。",
+      "en": "Peter the Great founded St Petersburg at the mouth of the Neva, taken in the Northern War; the 'window on the West' became capital in 1712 and the symbol of his westernising reforms."
+    },
+    "importance": 2,
+    "persons": [
+      "peter-i"
+    ],
+    "wiki": {
+      "ja": "サンクトペテルブルク",
+      "en": "Saint Petersburg"
+    }
   },
   {
     "id": "act-of-union-1707",
@@ -747,11 +1141,20 @@
     "year_end": null,
     "lat": 55.95,
     "lon": -3.19,
-    "name": {"ja": "大ブリテン王国の成立", "en": "Act of Union: Kingdom of Great Britain"},
-    "desc": {"ja": "アン女王のもとでイングランドとスコットランドが合同法により議会を統合し、大ブリテン王国が成立した。スコットランドは独自の教会と法制度を保持した。", "en": "Under Queen Anne, England and Scotland merged their parliaments by the Act of Union to form the Kingdom of Great Britain; Scotland kept its own church and law."},
-    "importance": 2,
+    "name": {
+      "ja": "大ブリテン王国の成立",
+      "en": "Act of Union: Kingdom of Great Britain"
+    },
+    "desc": {
+      "ja": "アン女王のもとでイングランドとスコットランドが合同法により議会を統合し、大ブリテン王国が成立した。スコットランドは独自の教会と法制度を保持した。",
+      "en": "Under Queen Anne, England and Scotland merged their parliaments by the Act of Union to form the Kingdom of Great Britain; Scotland kept its own church and law."
+    },
+    "importance": 1,
     "persons": [],
-    "wiki": {"ja": "合同法 (1707年)", "en": "Acts of Union 1707"}
+    "wiki": {
+      "ja": "合同法 (1707年)",
+      "en": "Acts of Union 1707"
+    }
   },
   {
     "id": "death-of-aurangzeb",
@@ -760,11 +1163,22 @@
     "year_end": null,
     "lat": 19.09,
     "lon": 74.74,
-    "name": {"ja": "アウラングゼーブの死とムガル帝国の衰退", "en": "Death of Aurangzeb and Mughal Decline"},
-    "desc": {"ja": "アウラングゼーブの死後、継承争いと地方勢力の自立が進み、ムガル帝国は急速に衰退した。マラーター同盟やシク教徒が台頭し、英仏の進出を許した。", "en": "After Aurangzeb's death, succession struggles and the autonomy of provincial powers rapidly weakened the Mughals; the Marathas and Sikhs rose and the British and French advanced."},
-    "importance": 2,
-    "persons": ["aurangzeb"],
-    "wiki": {"ja": "ムガル帝国", "en": "Mughal Empire"}
+    "name": {
+      "ja": "アウラングゼーブの死とムガル帝国の衰退",
+      "en": "Death of Aurangzeb and Mughal Decline"
+    },
+    "desc": {
+      "ja": "アウラングゼーブの死後、継承争いと地方勢力の自立が進み、ムガル帝国は急速に衰退した。マラーター同盟やシク教徒が台頭し、英仏の進出を許した。",
+      "en": "After Aurangzeb's death, succession struggles and the autonomy of provincial powers rapidly weakened the Mughals; the Marathas and Sikhs rose and the British and French advanced."
+    },
+    "importance": 1,
+    "persons": [
+      "aurangzeb"
+    ],
+    "wiki": {
+      "ja": "ムガル帝国",
+      "en": "Mughal Empire"
+    }
   },
   {
     "id": "battle-of-poltava",
@@ -773,11 +1187,23 @@
     "year_end": null,
     "lat": 49.59,
     "lon": 34.55,
-    "name": {"ja": "ポルタヴァの戦い", "en": "Battle of Poltava"},
-    "desc": {"ja": "ウクライナに侵入したカール12世のスウェーデン軍をピョートル1世が大破した。カール12世はオスマン帝国に亡命し、北方戦争の形勢はロシア有利に決した。", "en": "Peter the Great destroyed Charles XII's Swedish army in Ukraine; Charles fled to the Ottomans and the Northern War turned decisively in Russia's favour."},
+    "name": {
+      "ja": "ポルタヴァの戦い",
+      "en": "Battle of Poltava"
+    },
+    "desc": {
+      "ja": "ウクライナに侵入したカール12世のスウェーデン軍をピョートル1世が大破した。カール12世はオスマン帝国に亡命し、北方戦争の形勢はロシア有利に決した。",
+      "en": "Peter the Great destroyed Charles XII's Swedish army in Ukraine; Charles fled to the Ottomans and the Northern War turned decisively in Russia's favour."
+    },
     "importance": 3,
-    "persons": ["peter-i", "charles-xii"],
-    "wiki": {"ja": "ポルタヴァの戦い", "en": "Battle of Poltava"}
+    "persons": [
+      "peter-i",
+      "charles-xii"
+    ],
+    "wiki": {
+      "ja": "ポルタヴァの戦い",
+      "en": "Battle of Poltava"
+    }
   },
   {
     "id": "treaty-of-utrecht",
@@ -786,50 +1212,44 @@
     "year_end": null,
     "lat": 52.09,
     "lon": 5.12,
-    "name": {"ja": "ユトレヒト条約", "en": "Treaty of Utrecht"},
-    "desc": {"ja": "スペイン継承戦争の講和。フェリペ5世の王位は認められたが仏西の合同は禁止され、イギリスはジブラルタル・ニューファンドランドなどとアシエント(奴隷供給契約)を獲得した。", "en": "The peace ending the Spanish Succession war recognised Philip V but barred a Franco-Spanish union; Britain gained Gibraltar, Newfoundland and other territories plus the asiento slave-trade contract."},
+    "name": {
+      "ja": "ユトレヒト条約",
+      "en": "Treaty of Utrecht"
+    },
+    "desc": {
+      "ja": "スペイン継承戦争の講和。フェリペ5世の王位は認められたが仏西の合同は禁止され、イギリスはジブラルタル・ニューファンドランドなどとアシエント(奴隷供給契約)を獲得した。",
+      "en": "The peace ending the Spanish Succession war recognised Philip V but barred a Franco-Spanish union; Britain gained Gibraltar, Newfoundland and other territories plus the asiento slave-trade contract."
+    },
     "importance": 3,
     "persons": [],
-    "wiki": {"ja": "ユトレヒト条約", "en": "Peace of Utrecht"}
-  },
-  {
-    "id": "hanoverian-succession",
-    "type": "politics",
-    "year": 1714,
-    "year_end": null,
-    "lat": 51.50,
-    "lon": -0.14,
-    "name": {"ja": "ハノーヴァー朝の成立", "en": "Hanoverian Succession"},
-    "desc": {"ja": "アン女王の死でステュアート朝が断絶し、ドイツのハノーヴァー選帝侯がジョージ1世として即位した。英語を解さない王のもとで内閣の自立が進んだ。", "en": "On Queen Anne's death the Stuart line ended and the Elector of Hanover became George I; under a king who spoke little English the cabinet grew independent of the crown."},
-    "importance": 2,
-    "persons": [],
-    "wiki": {"ja": "ハノーヴァー朝", "en": "House of Hanover"}
-  },
-  {
-    "id": "treaty-of-nystad",
-    "type": "treaty",
-    "year": 1721,
-    "year_end": null,
-    "lat": 60.80,
-    "lon": 21.40,
-    "name": {"ja": "ニスタット条約", "en": "Treaty of Nystad"},
-    "desc": {"ja": "北方戦争を終結させた条約。ロシアはスウェーデンからリヴォニア・エストニアなどバルト海東岸を獲得し、ピョートル1世は「皇帝(インペラトル)」の称号を採用した。", "en": "The treaty ending the Northern War gave Russia Livonia, Estonia and the eastern Baltic coast from Sweden; Peter adopted the title of emperor."},
-    "importance": 2,
-    "persons": ["peter-i"],
-    "wiki": {"ja": "ニスタット条約", "en": "Treaty of Nystad"}
+    "wiki": {
+      "ja": "ユトレヒト条約",
+      "en": "Peace of Utrecht"
+    }
   },
   {
     "id": "walpole-cabinet",
     "type": "politics",
     "year": 1721,
     "year_end": null,
-    "lat": 51.50,
+    "lat": 51.5,
     "lon": -0.13,
-    "name": {"ja": "ウォルポール内閣と責任内閣制の成立", "en": "Walpole's Cabinet and Responsible Government"},
-    "desc": {"ja": "ホイッグ党のウォルポールが第一大蔵卿として事実上の首相となり、議会の多数党が内閣を組織する責任内閣制の慣行を築いた。「王は君臨すれども統治せず」。", "en": "The Whig Robert Walpole became de facto first prime minister; the practice that the cabinet depends on the parliamentary majority took shape, the king reigning but not ruling."},
-    "importance": 3,
-    "persons": ["walpole"],
-    "wiki": {"ja": "ロバート・ウォルポール", "en": "Robert Walpole"}
+    "name": {
+      "ja": "ウォルポール内閣と責任内閣制の成立",
+      "en": "Walpole's Cabinet and Responsible Government"
+    },
+    "desc": {
+      "ja": "ホイッグ党のウォルポールが第一大蔵卿として事実上の首相となり、議会の多数党が内閣を組織する責任内閣制の慣行を築いた。「王は君臨すれども統治せず」。",
+      "en": "The Whig Robert Walpole became de facto first prime minister; the practice that the cabinet depends on the parliamentary majority took shape, the king reigning but not ruling."
+    },
+    "importance": 2,
+    "persons": [
+      "walpole"
+    ],
+    "wiki": {
+      "ja": "ロバート・ウォルポール",
+      "en": "Robert Walpole"
+    }
   },
   {
     "id": "fall-of-the-safavids",
@@ -838,11 +1258,20 @@
     "year_end": null,
     "lat": 32.65,
     "lon": 51.68,
-    "name": {"ja": "サファヴィー朝の事実上の崩壊", "en": "Afghan Capture of Isfahan"},
-    "desc": {"ja": "アフガン人のギルザイ族が首都イスファハーンを陥落させ、サファヴィー朝は事実上崩壊した。ロシア・オスマン帝国もイランに侵入し、混乱が続いた。", "en": "Ghilzai Afghans captured the capital Isfahan, effectively ending Safavid power; Russia and the Ottomans also invaded Iran, prolonging the chaos."},
-    "importance": 2,
+    "name": {
+      "ja": "サファヴィー朝の事実上の崩壊",
+      "en": "Afghan Capture of Isfahan"
+    },
+    "desc": {
+      "ja": "アフガン人のギルザイ族が首都イスファハーンを陥落させ、サファヴィー朝は事実上崩壊した。ロシア・オスマン帝国もイランに侵入し、混乱が続いた。",
+      "en": "Ghilzai Afghans captured the capital Isfahan, effectively ending Safavid power; Russia and the Ottomans also invaded Iran, prolonging the chaos."
+    },
+    "importance": 1,
     "persons": [],
-    "wiki": {"ja": "サファヴィー朝", "en": "Siege of Isfahan"}
+    "wiki": {
+      "ja": "サファヴィー朝",
+      "en": "Siege of Isfahan"
+    }
   },
   {
     "id": "yongzheng-bans-christianity",
@@ -850,12 +1279,23 @@
     "year": 1724,
     "year_end": null,
     "lat": 39.91,
-    "lon": 116.40,
-    "name": {"ja": "雍正帝のキリスト教布教禁止", "en": "Yongzheng Bans Christian Missions"},
-    "desc": {"ja": "典礼問題で教皇がイエズス会の布教方法を否認したのを受け、雍正帝がキリスト教の布教を全面禁止した。宮廷に仕える宣教師以外は追放された。", "en": "After the pope condemned the Jesuits' accommodation of Chinese rites, the Yongzheng emperor banned Christian missions, expelling all missionaries except those serving at court."},
-    "importance": 2,
-    "persons": ["yongzheng"],
-    "wiki": {"ja": "典礼論争", "en": "Chinese Rites controversy"}
+    "lon": 116.4,
+    "name": {
+      "ja": "雍正帝のキリスト教布教禁止",
+      "en": "Yongzheng Bans Christian Missions"
+    },
+    "desc": {
+      "ja": "典礼問題で教皇がイエズス会の布教方法を否認したのを受け、雍正帝がキリスト教の布教を全面禁止した。宮廷に仕える宣教師以外は追放された。",
+      "en": "After the pope condemned the Jesuits' accommodation of Chinese rites, the Yongzheng emperor banned Christian missions, expelling all missionaries except those serving at court."
+    },
+    "importance": 1,
+    "persons": [
+      "yongzheng"
+    ],
+    "wiki": {
+      "ja": "典礼論争",
+      "en": "Chinese Rites controversy"
+    }
   },
   {
     "id": "dahomey-expansion",
@@ -864,11 +1304,20 @@
     "year_end": null,
     "lat": 7.18,
     "lon": 1.99,
-    "name": {"ja": "ダホメ王国の発展", "en": "Expansion of the Kingdom of Dahomey"},
-    "desc": {"ja": "アボメを都とするダホメ王国が沿岸のアラダ・ウィダを征服し、奴隷海岸の交易を掌握した。奴隷貿易で火器を得て、西アフリカの強国となった。", "en": "The Kingdom of Dahomey, based at Abomey, conquered coastal Allada and Whydah and controlled the Slave Coast trade, acquiring firearms and becoming a West African power."},
+    "name": {
+      "ja": "ダホメ王国の発展",
+      "en": "Expansion of the Kingdom of Dahomey"
+    },
+    "desc": {
+      "ja": "アボメを都とするダホメ王国が沿岸のアラダ・ウィダを征服し、奴隷海岸の交易を掌握した。奴隷貿易で火器を得て、西アフリカの強国となった。",
+      "en": "The Kingdom of Dahomey, based at Abomey, conquered coastal Allada and Whydah and controlled the Slave Coast trade, acquiring firearms and becoming a West African power."
+    },
     "importance": 1,
     "persons": [],
-    "wiki": {"ja": "ダホメ王国", "en": "Dahomey"}
+    "wiki": {
+      "ja": "ダホメ王国",
+      "en": "Dahomey"
+    }
   },
   {
     "id": "treaty-of-kyakhta",
@@ -877,37 +1326,46 @@
     "year_end": null,
     "lat": 50.35,
     "lon": 106.45,
-    "name": {"ja": "キャフタ条約", "en": "Treaty of Kyakhta"},
-    "desc": {"ja": "雍正帝がロシアと結び、モンゴル方面の国境を画定した条約。キャフタを国境貿易地とし、ロシアの北京駐在と正教会布教を認めた。", "en": "The Yongzheng emperor's treaty with Russia fixed the Mongolian frontier, made Kyakhta a border trading post and allowed a Russian mission in Beijing."},
-    "importance": 3,
-    "persons": ["yongzheng"],
-    "wiki": {"ja": "キャフタ条約", "en": "Treaty of Kyakhta (1727)"}
-  },
-  {
-    "id": "grand-council-established",
-    "type": "politics",
-    "year": 1732,
-    "year_end": null,
-    "lat": 39.91,
-    "lon": 116.40,
-    "name": {"ja": "軍機処の設置", "en": "Establishment of the Grand Council"},
-    "desc": {"ja": "雍正帝がジュンガル遠征の軍務処理のため軍機処を設け、やがて内閣に代わる最高政務機関とした。皇帝直属の少数機関により独裁体制が強化された。", "en": "The Yongzheng emperor created the Grand Council to handle the Dzungar campaign; it became the supreme policy organ, replacing the Grand Secretariat and strengthening autocracy."},
+    "name": {
+      "ja": "キャフタ条約",
+      "en": "Treaty of Kyakhta"
+    },
+    "desc": {
+      "ja": "雍正帝がロシアと結び、モンゴル方面の国境を画定した条約。キャフタを国境貿易地とし、ロシアの北京駐在と正教会布教を認めた。",
+      "en": "The Yongzheng emperor's treaty with Russia fixed the Mongolian frontier, made Kyakhta a border trading post and allowed a Russian mission in Beijing."
+    },
     "importance": 2,
-    "persons": ["yongzheng"],
-    "wiki": {"ja": "軍機処", "en": "Grand Council (Qing dynasty)"}
+    "persons": [
+      "yongzheng"
+    ],
+    "wiki": {
+      "ja": "キャフタ条約",
+      "en": "Treaty of Kyakhta (1727)"
+    }
   },
   {
     "id": "nader-shah-founds-afsharids",
     "type": "founding",
     "year": 1736,
     "year_end": null,
-    "lat": 36.30,
-    "lon": 59.60,
-    "name": {"ja": "ナーディル=シャーのアフシャール朝", "en": "Nader Shah Founds the Afsharid Dynasty"},
-    "desc": {"ja": "アフガン人を駆逐したナーディル=シャーがサファヴィー朝を廃して即位し、アフシャール朝を建てた。1739年にはデリーを略奪しムガル帝国に打撃を与えた。", "en": "Having expelled the Afghans, Nader Shah deposed the Safavids and took the throne, founding the Afsharid dynasty; in 1739 he sacked Delhi, crippling the Mughals."},
-    "importance": 2,
-    "persons": ["nader-shah"],
-    "wiki": {"ja": "アフシャール朝", "en": "Afsharid Iran"}
+    "lat": 36.3,
+    "lon": 59.6,
+    "name": {
+      "ja": "ナーディル=シャーのアフシャール朝",
+      "en": "Nader Shah Founds the Afsharid Dynasty"
+    },
+    "desc": {
+      "ja": "アフガン人を駆逐したナーディル=シャーがサファヴィー朝を廃して即位し、アフシャール朝を建てた。1739年にはデリーを略奪しムガル帝国に打撃を与えた。",
+      "en": "Having expelled the Afghans, Nader Shah deposed the Safavids and took the throne, founding the Afsharid dynasty; in 1739 he sacked Delhi, crippling the Mughals."
+    },
+    "importance": 1,
+    "persons": [
+      "nader-shah"
+    ],
+    "wiki": {
+      "ja": "アフシャール朝",
+      "en": "Afsharid Iran"
+    }
   },
   {
     "id": "war-of-the-austrian-succession",
@@ -916,11 +1374,23 @@
     "year_end": 1748,
     "lat": 51.11,
     "lon": 17.03,
-    "name": {"ja": "オーストリア継承戦争", "en": "War of the Austrian Succession"},
-    "desc": {"ja": "マリア=テレジアのハプスブルク家相続に異を唱えたプロイセンのフリードリヒ2世がシュレジエンに侵入。フランス・バイエルンも加わり、プロイセンはシュレジエンを獲得した。", "en": "Frederick II of Prussia, contesting Maria Theresa's succession, invaded Silesia; France and Bavaria joined against Austria, and Prussia kept Silesia."},
-    "importance": 3,
-    "persons": ["frederick-ii", "maria-theresa"],
-    "wiki": {"ja": "オーストリア継承戦争", "en": "War of the Austrian Succession"}
+    "name": {
+      "ja": "オーストリア継承戦争",
+      "en": "War of the Austrian Succession"
+    },
+    "desc": {
+      "ja": "マリア=テレジアのハプスブルク家相続に異を唱えたプロイセンのフリードリヒ2世がシュレジエンに侵入。フランス・バイエルンも加わり、プロイセンはシュレジエンを獲得した。",
+      "en": "Frederick II of Prussia, contesting Maria Theresa's succession, invaded Silesia; France and Bavaria joined against Austria, and Prussia kept Silesia."
+    },
+    "importance": 2,
+    "persons": [
+      "frederick-ii",
+      "maria-theresa"
+    ],
+    "wiki": {
+      "ja": "オーストリア継承戦争",
+      "en": "War of the Austrian Succession"
+    }
   },
   {
     "id": "wahhabi-movement",
@@ -929,24 +1399,22 @@
     "year_end": null,
     "lat": 24.74,
     "lon": 46.57,
-    "name": {"ja": "ワッハーブ王国の成立", "en": "Founding of the Wahhabi State"},
-    "desc": {"ja": "イスラームの原点回帰を説くイブン=アブドゥル=ワッハーブが豪族サウード家と結び、アラビア半島にワッハーブ王国を建てた。オスマン支配への反抗の先駆となった。", "en": "Ibn Abd al-Wahhab, preaching a return to the purity of early Islam, allied with the house of Saud to found a state in Arabia, a forerunner of resistance to Ottoman rule."},
+    "name": {
+      "ja": "ワッハーブ王国の成立",
+      "en": "Founding of the Wahhabi State"
+    },
+    "desc": {
+      "ja": "イスラームの原点回帰を説くイブン=アブドゥル=ワッハーブが豪族サウード家と結び、アラビア半島にワッハーブ王国を建てた。オスマン支配への反抗の先駆となった。",
+      "en": "Ibn Abd al-Wahhab, preaching a return to the purity of early Islam, allied with the house of Saud to found a state in Arabia, a forerunner of resistance to Ottoman rule."
+    },
     "importance": 2,
-    "persons": ["ibn-abd-al-wahhab"],
-    "wiki": {"ja": "ワッハーブ派", "en": "Emirate of Diriyah"}
-  },
-  {
-    "id": "treaty-of-aachen",
-    "type": "treaty",
-    "year": 1748,
-    "year_end": null,
-    "lat": 50.78,
-    "lon": 6.08,
-    "name": {"ja": "アーヘンの和約", "en": "Treaty of Aix-la-Chapelle"},
-    "desc": {"ja": "オーストリア継承戦争を終結させた条約。マリア=テレジアの相続は承認されたが、プロイセンのシュレジエン領有も認められ、オーストリアは奪回を期した。", "en": "The treaty ending the Austrian Succession war confirmed Maria Theresa's inheritance but also Prussia's possession of Silesia, which Austria resolved to recover."},
-    "importance": 1,
-    "persons": ["maria-theresa", "frederick-ii"],
-    "wiki": {"ja": "アーヘンの和約 (1748年)", "en": "Treaty of Aix-la-Chapelle (1748)"}
+    "persons": [
+      "ibn-abd-al-wahhab"
+    ],
+    "wiki": {
+      "ja": "ワッハーブ派",
+      "en": "Emirate of Diriyah"
+    }
   },
   {
     "id": "montesquieu-spirit-of-the-laws",
@@ -955,11 +1423,22 @@
     "year_end": null,
     "lat": 48.86,
     "lon": 2.35,
-    "name": {"ja": "モンテスキュー『法の精神』", "en": "Montesquieu's The Spirit of the Laws"},
-    "desc": {"ja": "モンテスキューがイギリスの政治を模範に、立法・行政・司法の三権分立を説いた。フランス絶対王政を批判し、アメリカ合衆国憲法に大きな影響を与えた。", "en": "Montesquieu, taking Britain as his model, advocated the separation of legislative, executive and judicial powers; his critique of absolutism deeply influenced the US Constitution."},
-    "importance": 3,
-    "persons": ["montesquieu"],
-    "wiki": {"ja": "法の精神", "en": "The Spirit of Law"}
+    "name": {
+      "ja": "モンテスキュー『法の精神』",
+      "en": "Montesquieu's The Spirit of the Laws"
+    },
+    "desc": {
+      "ja": "モンテスキューがイギリスの政治を模範に、立法・行政・司法の三権分立を説いた。フランス絶対王政を批判し、アメリカ合衆国憲法に大きな影響を与えた。",
+      "en": "Montesquieu, taking Britain as his model, advocated the separation of legislative, executive and judicial powers; his critique of absolutism deeply influenced the US Constitution."
+    },
+    "importance": 2,
+    "persons": [
+      "montesquieu"
+    ],
+    "wiki": {
+      "ja": "法の精神",
+      "en": "The Spirit of Law"
+    }
   },
   {
     "id": "encyclopedie",
@@ -968,11 +1447,24 @@
     "year_end": 1772,
     "lat": 48.86,
     "lon": 2.35,
-    "name": {"ja": "『百科全書』の刊行", "en": "Publication of the Encyclopédie"},
-    "desc": {"ja": "ディドロとダランベールが編集し、ヴォルテール・ルソーらも執筆した啓蒙思想の集大成。当局の弾圧を受けながら全28巻が刊行され、旧体制批判を広めた。", "en": "Edited by Diderot and d'Alembert with contributions from Voltaire and Rousseau, the 28-volume Encyclopédie summed up Enlightenment thought and spread criticism of the old regime despite censorship."},
-    "importance": 3,
-    "persons": ["diderot", "voltaire", "rousseau"],
-    "wiki": {"ja": "百科全書", "en": "Encyclopédie"}
+    "name": {
+      "ja": "『百科全書』の刊行",
+      "en": "Publication of the Encyclopédie"
+    },
+    "desc": {
+      "ja": "ディドロとダランベールが編集し、ヴォルテール・ルソーらも執筆した啓蒙思想の集大成。当局の弾圧を受けながら全28巻が刊行され、旧体制批判を広めた。",
+      "en": "Edited by Diderot and d'Alembert with contributions from Voltaire and Rousseau, the 28-volume Encyclopédie summed up Enlightenment thought and spread criticism of the old regime despite censorship."
+    },
+    "importance": 2,
+    "persons": [
+      "diderot",
+      "voltaire",
+      "rousseau"
+    ],
+    "wiki": {
+      "ja": "百科全書",
+      "en": "Encyclopédie"
+    }
   },
   {
     "id": "konbaung-dynasty-founded",
@@ -980,12 +1472,23 @@
     "year": 1752,
     "year_end": null,
     "lat": 22.57,
-    "lon": 95.70,
-    "name": {"ja": "コンバウン朝の成立", "en": "Founding of the Konbaung Dynasty"},
-    "desc": {"ja": "アラウンパヤーがモン人に滅ぼされたタウングー朝に代わってビルマを再統一し、コンバウン朝を建てた。タイのアユタヤを攻め、19世紀にはイギリスと衝突した。", "en": "Alaungpaya reunified Burma after the Mon destroyed the Toungoo dynasty, founding the Konbaung dynasty, which later sacked Ayutthaya and clashed with Britain."},
-    "importance": 2,
-    "persons": ["alaungpaya"],
-    "wiki": {"ja": "コンバウン王朝", "en": "Konbaung dynasty"}
+    "lon": 95.7,
+    "name": {
+      "ja": "コンバウン朝の成立",
+      "en": "Founding of the Konbaung Dynasty"
+    },
+    "desc": {
+      "ja": "アラウンパヤーがモン人に滅ぼされたタウングー朝に代わってビルマを再統一し、コンバウン朝を建てた。タイのアユタヤを攻め、19世紀にはイギリスと衝突した。",
+      "en": "Alaungpaya reunified Burma after the Mon destroyed the Toungoo dynasty, founding the Konbaung dynasty, which later sacked Ayutthaya and clashed with Britain."
+    },
+    "importance": 1,
+    "persons": [
+      "alaungpaya"
+    ],
+    "wiki": {
+      "ja": "コンバウン王朝",
+      "en": "Konbaung dynasty"
+    }
   },
   {
     "id": "french-and-indian-war",
@@ -994,24 +1497,44 @@
     "year_end": 1763,
     "lat": 46.81,
     "lon": -71.21,
-    "name": {"ja": "フレンチ=インディアン戦争", "en": "French and Indian War"},
-    "desc": {"ja": "北アメリカで英仏植民地が先住民を巻き込んで戦った七年戦争の一環。イギリスがケベックを攻略してヌーヴェルフランスを征服し、北米での覇権を握った。", "en": "The North American theatre of the Seven Years' War, fought between British and French colonists and their Native allies; Britain took Quebec and conquered New France."},
+    "name": {
+      "ja": "フレンチ=インディアン戦争",
+      "en": "French and Indian War"
+    },
+    "desc": {
+      "ja": "北アメリカで英仏植民地が先住民を巻き込んで戦った七年戦争の一環。イギリスがケベックを攻略してヌーヴェルフランスを征服し、北米での覇権を握った。",
+      "en": "The North American theatre of the Seven Years' War, fought between British and French colonists and their Native allies; Britain took Quebec and conquered New France."
+    },
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "フレンチ・インディアン戦争", "en": "French and Indian War"}
+    "wiki": {
+      "ja": "フレンチ・インディアン戦争",
+      "en": "French and Indian War"
+    }
   },
   {
     "id": "diplomatic-revolution",
     "type": "treaty",
     "year": 1756,
     "year_end": null,
-    "lat": 48.80,
+    "lat": 48.8,
     "lon": 2.12,
-    "name": {"ja": "外交革命", "en": "Diplomatic Revolution"},
-    "desc": {"ja": "シュレジエン奪回をめざすマリア=テレジアが宿敵フランスと同盟を結んだ。200年来の仏墺対立が解消され、プロイセンはイギリスと結んで対抗した。", "en": "Maria Theresa, seeking to recover Silesia, allied with Austria's old enemy France, ending two centuries of rivalry; Prussia responded by allying with Britain."},
-    "importance": 2,
-    "persons": ["maria-theresa"],
-    "wiki": {"ja": "外交革命", "en": "Diplomatic Revolution"}
+    "name": {
+      "ja": "外交革命",
+      "en": "Diplomatic Revolution"
+    },
+    "desc": {
+      "ja": "シュレジエン奪回をめざすマリア=テレジアが宿敵フランスと同盟を結んだ。200年来の仏墺対立が解消され、プロイセンはイギリスと結んで対抗した。",
+      "en": "Maria Theresa, seeking to recover Silesia, allied with Austria's old enemy France, ending two centuries of rivalry; Prussia responded by allying with Britain."
+    },
+    "importance": 1,
+    "persons": [
+      "maria-theresa"
+    ],
+    "wiki": {
+      "ja": "外交革命",
+      "en": "Diplomatic Revolution"
+    }
   },
   {
     "id": "seven-years-war",
@@ -1019,25 +1542,48 @@
     "year": 1756,
     "year_end": 1763,
     "lat": 51.5,
-    "lon": 13.0,
-    "name": {"ja": "七年戦争", "en": "Seven Years' War"},
-    "desc": {"ja": "シュレジエンをめぐりプロイセンがオーストリア・フランス・ロシアと戦った。フリードリヒ2世は苦戦したがロシアの離脱で危機を脱し、シュレジエンを確保した。英仏は植民地でも争った。", "en": "Prussia fought Austria, France and Russia over Silesia; Frederick II was hard pressed but saved by Russia's withdrawal and kept Silesia, while Britain and France fought worldwide for colonies."},
+    "lon": 13,
+    "name": {
+      "ja": "七年戦争",
+      "en": "Seven Years' War"
+    },
+    "desc": {
+      "ja": "シュレジエンをめぐりプロイセンがオーストリア・フランス・ロシアと戦った。フリードリヒ2世は苦戦したがロシアの離脱で危機を脱し、シュレジエンを確保した。英仏は植民地でも争った。",
+      "en": "Prussia fought Austria, France and Russia over Silesia; Frederick II was hard pressed but saved by Russia's withdrawal and kept Silesia, while Britain and France fought worldwide for colonies."
+    },
     "importance": 3,
-    "persons": ["frederick-ii", "maria-theresa"],
-    "wiki": {"ja": "七年戦争", "en": "Seven Years' War"}
+    "persons": [
+      "frederick-ii",
+      "maria-theresa"
+    ],
+    "wiki": {
+      "ja": "七年戦争",
+      "en": "Seven Years' War"
+    }
   },
   {
     "id": "battle-of-plassey",
     "type": "battle",
     "year": 1757,
     "year_end": null,
-    "lat": 23.80,
+    "lat": 23.8,
     "lon": 88.25,
-    "name": {"ja": "プラッシーの戦い", "en": "Battle of Plassey"},
-    "desc": {"ja": "イギリス東インド会社のクライヴがフランスと結ぶベンガル太守軍を破った。イギリスはベンガルの実権を握り、インド植民地化の第一歩となった。", "en": "Clive of the East India Company defeated the French-backed Nawab of Bengal; Britain gained control of Bengal, the first step in the colonisation of India."},
+    "name": {
+      "ja": "プラッシーの戦い",
+      "en": "Battle of Plassey"
+    },
+    "desc": {
+      "ja": "イギリス東インド会社のクライヴがフランスと結ぶベンガル太守軍を破った。イギリスはベンガルの実権を握り、インド植民地化の第一歩となった。",
+      "en": "Clive of the East India Company defeated the French-backed Nawab of Bengal; Britain gained control of Bengal, the first step in the colonisation of India."
+    },
     "importance": 3,
-    "persons": ["clive"],
-    "wiki": {"ja": "プラッシーの戦い", "en": "Battle of Plassey"}
+    "persons": [
+      "clive"
+    ],
+    "wiki": {
+      "ja": "プラッシーの戦い",
+      "en": "Battle of Plassey"
+    }
   },
   {
     "id": "canton-system",
@@ -1046,24 +1592,46 @@
     "year_end": null,
     "lat": 23.13,
     "lon": 113.26,
-    "name": {"ja": "貿易港の広州一港への限定", "en": "Canton System: Trade Restricted to Guangzhou"},
-    "desc": {"ja": "乾隆帝がヨーロッパ船の貿易港を広州一港に限定し、公行と呼ばれる特許商人組合に貿易を独占させた。アヘン戦争まで続く清の対外貿易管理体制となった。", "en": "The Qianlong emperor restricted European trade to the single port of Guangzhou, where the licensed Cohong merchants held a monopoly; the system lasted until the Opium War."},
-    "importance": 3,
-    "persons": ["qianlong"],
-    "wiki": {"ja": "広東システム", "en": "Canton System"}
+    "name": {
+      "ja": "貿易港の広州一港への限定",
+      "en": "Canton System: Trade Restricted to Guangzhou"
+    },
+    "desc": {
+      "ja": "乾隆帝がヨーロッパ船の貿易港を広州一港に限定し、公行と呼ばれる特許商人組合に貿易を独占させた。アヘン戦争まで続く清の対外貿易管理体制となった。",
+      "en": "The Qianlong emperor restricted European trade to the single port of Guangzhou, where the licensed Cohong merchants held a monopoly; the system lasted until the Opium War."
+    },
+    "importance": 2,
+    "persons": [
+      "qianlong"
+    ],
+    "wiki": {
+      "ja": "広東システム",
+      "en": "Canton System"
+    }
   },
   {
     "id": "qing-conquest-of-dzungaria",
     "type": "fall",
     "year": 1759,
     "year_end": null,
-    "lat": 43.80,
-    "lon": 87.60,
-    "name": {"ja": "清のジュンガル征服と新疆の成立", "en": "Qing Conquest of the Dzungars and Xinjiang"},
-    "desc": {"ja": "乾隆帝がジュンガルを滅ぼし、続いて東トルキスタンの回部を平定して「新疆」と名づけた。清の領土は最大となり、藩部として理藩院が統轄した。", "en": "The Qianlong emperor destroyed the Dzungar khanate and subdued the Muslim Tarim Basin, naming the region Xinjiang; the Qing reached its greatest extent, administering these lands through the Lifan Yuan."},
-    "importance": 2,
-    "persons": ["qianlong"],
-    "wiki": {"ja": "ジュンガル", "en": "Dzungar–Qing Wars"}
+    "lat": 43.8,
+    "lon": 87.6,
+    "name": {
+      "ja": "清のジュンガル征服と新疆の成立",
+      "en": "Qing Conquest of the Dzungars and Xinjiang"
+    },
+    "desc": {
+      "ja": "乾隆帝がジュンガルを滅ぼし、続いて東トルキスタンの回部を平定して「新疆」と名づけた。清の領土は最大となり、藩部として理藩院が統轄した。",
+      "en": "The Qianlong emperor destroyed the Dzungar khanate and subdued the Muslim Tarim Basin, naming the region Xinjiang; the Qing reached its greatest extent, administering these lands through the Lifan Yuan."
+    },
+    "importance": 1,
+    "persons": [
+      "qianlong"
+    ],
+    "wiki": {
+      "ja": "ジュンガル",
+      "en": "Dzungar–Qing Wars"
+    }
   },
   {
     "id": "rousseau-social-contract",
@@ -1072,11 +1640,22 @@
     "year_end": null,
     "lat": 48.86,
     "lon": 2.35,
-    "name": {"ja": "ルソー『社会契約論』", "en": "Rousseau's The Social Contract"},
-    "desc": {"ja": "ルソーが『社会契約論』で人民主権を唱え、一般意志に基づく直接民主政を理想とした。同年の『エミール』とともに発禁となったが、フランス革命に大きな影響を与えた。", "en": "Rousseau proclaimed popular sovereignty and an ideal of direct democracy based on the general will; banned along with Émile, the work profoundly influenced the French Revolution."},
-    "importance": 3,
-    "persons": ["rousseau"],
-    "wiki": {"ja": "社会契約論", "en": "The Social Contract"}
+    "name": {
+      "ja": "ルソー『社会契約論』",
+      "en": "Rousseau's The Social Contract"
+    },
+    "desc": {
+      "ja": "ルソーが『社会契約論』で人民主権を唱え、一般意志に基づく直接民主政を理想とした。同年の『エミール』とともに発禁となったが、フランス革命に大きな影響を与えた。",
+      "en": "Rousseau proclaimed popular sovereignty and an ideal of direct democracy based on the general will; banned along with Émile, the work profoundly influenced the French Revolution."
+    },
+    "importance": 2,
+    "persons": [
+      "rousseau"
+    ],
+    "wiki": {
+      "ja": "社会契約論",
+      "en": "The Social Contract"
+    }
   },
   {
     "id": "treaty-of-paris-1763",
@@ -1085,24 +1664,20 @@
     "year_end": null,
     "lat": 48.86,
     "lon": 2.35,
-    "name": {"ja": "パリ条約(1763年)", "en": "Treaty of Paris (1763)"},
-    "desc": {"ja": "七年戦争・フレンチ=インディアン戦争の講和。イギリスはフランスからカナダとミシシッピ川以東のルイジアナ、スペインからフロリダを獲得し、第一次大英帝国を築いた。", "en": "The peace ending the Seven Years' War gave Britain Canada and Louisiana east of the Mississippi from France and Florida from Spain, establishing the first British Empire."},
-    "importance": 3,
+    "name": {
+      "ja": "パリ条約(1763年)",
+      "en": "Treaty of Paris (1763)"
+    },
+    "desc": {
+      "ja": "七年戦争・フレンチ=インディアン戦争の講和。イギリスはフランスからカナダとミシシッピ川以東のルイジアナ、スペインからフロリダを獲得し、第一次大英帝国を築いた。",
+      "en": "The peace ending the Seven Years' War gave Britain Canada and Louisiana east of the Mississippi from France and Florida from Spain, establishing the first British Empire."
+    },
+    "importance": 2,
     "persons": [],
-    "wiki": {"ja": "パリ条約 (1763年)", "en": "Treaty of Paris (1763)"}
-  },
-  {
-    "id": "treaty-of-hubertusburg",
-    "type": "treaty",
-    "year": 1763,
-    "year_end": null,
-    "lat": 51.26,
-    "lon": 12.80,
-    "name": {"ja": "フベルトゥスブルク条約", "en": "Treaty of Hubertusburg"},
-    "desc": {"ja": "七年戦争のプロイセン・オーストリア間の講和条約。戦前の国境が回復され、プロイセンのシュレジエン領有が最終的に確定し、ヨーロッパの強国と認められた。", "en": "The peace between Prussia and Austria ending the Seven Years' War restored prewar borders and finally confirmed Prussia's hold on Silesia and its great-power status."},
-    "importance": 1,
-    "persons": ["frederick-ii", "maria-theresa"],
-    "wiki": {"ja": "フベルトゥスブルク条約", "en": "Treaty of Hubertusburg"}
+    "wiki": {
+      "ja": "パリ条約 (1763年)",
+      "en": "Treaty of Paris (1763)"
+    }
   },
   {
     "id": "battle-of-buxar",
@@ -1111,11 +1686,22 @@
     "year_end": null,
     "lat": 25.56,
     "lon": 83.98,
-    "name": {"ja": "ブクサールの戦い", "en": "Battle of Buxar"},
-    "desc": {"ja": "イギリス東インド会社がベンガル・アワド太守とムガル皇帝の連合軍を破った。翌年ベンガルなどの徴税権(ディーワーニー)を獲得し、インド支配の財政基盤を得た。", "en": "The East India Company defeated the combined forces of the Nawabs of Bengal and Awadh and the Mughal emperor; the next year it obtained the diwani, the right to collect Bengal's revenue."},
+    "name": {
+      "ja": "ブクサールの戦い",
+      "en": "Battle of Buxar"
+    },
+    "desc": {
+      "ja": "イギリス東インド会社がベンガル・アワド太守とムガル皇帝の連合軍を破った。翌年ベンガルなどの徴税権(ディーワーニー)を獲得し、インド支配の財政基盤を得た。",
+      "en": "The East India Company defeated the combined forces of the Nawabs of Bengal and Awadh and the Mughal emperor; the next year it obtained the diwani, the right to collect Bengal's revenue."
+    },
     "importance": 2,
-    "persons": ["clive"],
-    "wiki": {"ja": "ブクサールの戦い", "en": "Battle of Buxar"}
+    "persons": [
+      "clive"
+    ],
+    "wiki": {
+      "ja": "ブクサールの戦い",
+      "en": "Battle of Buxar"
+    }
   },
   {
     "id": "spinning-jenny",
@@ -1124,24 +1710,42 @@
     "year_end": null,
     "lat": 53.75,
     "lon": -2.48,
-    "name": {"ja": "ハーグリーヴズのジェニー紡績機", "en": "Hargreaves' Spinning Jenny"},
-    "desc": {"ja": "ランカシャーの織工ハーグリーヴズが一度に多数の糸を紡ぐ多軸紡績機を発明。ジョン=ケイの飛び杼による織布の効率化に紡績が追いつき、産業革命の技術革新が本格化した。", "en": "The Lancashire weaver Hargreaves invented a multi-spindle spinning machine; spinning caught up with weaving speeded by Kay's flying shuttle, launching the Industrial Revolution's inventions."},
+    "name": {
+      "ja": "ハーグリーヴズのジェニー紡績機",
+      "en": "Hargreaves' Spinning Jenny"
+    },
+    "desc": {
+      "ja": "ランカシャーの織工ハーグリーヴズが一度に多数の糸を紡ぐ多軸紡績機を発明。ジョン=ケイの飛び杼による織布の効率化に紡績が追いつき、産業革命の技術革新が本格化した。",
+      "en": "The Lancashire weaver Hargreaves invented a multi-spindle spinning machine; spinning caught up with weaving speeded by Kay's flying shuttle, launching the Industrial Revolution's inventions."
+    },
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "ジェニー紡績機", "en": "Spinning jenny"}
+    "wiki": {
+      "ja": "ジェニー紡績機",
+      "en": "Spinning jenny"
+    }
   },
   {
     "id": "stamp-act",
     "type": "politics",
     "year": 1765,
     "year_end": null,
-    "lat": 51.50,
+    "lat": 51.5,
     "lon": -0.12,
-    "name": {"ja": "印紙法", "en": "Stamp Act"},
-    "desc": {"ja": "イギリス本国が七年戦争の戦費負担のため植民地の印刷物に印紙税を課した。植民地側は「代表なくして課税なし」と反発し、翌年撤回されたが対立の発端となった。", "en": "Britain taxed printed matter in the colonies to pay for the Seven Years' War; the colonists protested 'no taxation without representation' and the act was repealed, but the rift had opened."},
-    "importance": 3,
+    "name": {
+      "ja": "印紙法",
+      "en": "Stamp Act"
+    },
+    "desc": {
+      "ja": "イギリス本国が七年戦争の戦費負担のため植民地の印刷物に印紙税を課した。植民地側は「代表なくして課税なし」と反発し、翌年撤回されたが対立の発端となった。",
+      "en": "Britain taxed printed matter in the colonies to pay for the Seven Years' War; the colonists protested 'no taxation without representation' and the act was repealed, but the rift had opened."
+    },
+    "importance": 2,
     "persons": [],
-    "wiki": {"ja": "1765年印紙法", "en": "Stamp Act 1765"}
+    "wiki": {
+      "ja": "1765年印紙法",
+      "en": "Stamp Act 1765"
+    }
   },
   {
     "id": "fall-of-ayutthaya",
@@ -1150,11 +1754,20 @@
     "year_end": null,
     "lat": 14.35,
     "lon": 100.57,
-    "name": {"ja": "アユタヤ朝の滅亡", "en": "Fall of Ayutthaya"},
-    "desc": {"ja": "ビルマのコンバウン朝軍が都アユタヤを攻略し、400年続いたタイのアユタヤ朝が滅亡した。タークシンがビルマ軍を駆逐してトンブリー朝を建て、1782年にラタナコーシン朝が成立した。", "en": "Konbaung Burmese forces sacked Ayutthaya, ending the 400-year-old Thai kingdom; Taksin expelled the Burmese and founded Thonburi, succeeded in 1782 by the Rattanakosin (Chakri) dynasty."},
+    "name": {
+      "ja": "アユタヤ朝の滅亡",
+      "en": "Fall of Ayutthaya"
+    },
+    "desc": {
+      "ja": "ビルマのコンバウン朝軍が都アユタヤを攻略し、400年続いたタイのアユタヤ朝が滅亡した。タークシンがビルマ軍を駆逐してトンブリー朝を建て、1782年にラタナコーシン朝が成立した。",
+      "en": "Konbaung Burmese forces sacked Ayutthaya, ending the 400-year-old Thai kingdom; Taksin expelled the Burmese and founded Thonburi, succeeded in 1782 by the Rattanakosin (Chakri) dynasty."
+    },
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "アユタヤ王朝", "en": "Burmese–Siamese War (1765–1767)"}
+    "wiki": {
+      "ja": "アユタヤ王朝",
+      "en": "Burmese–Siamese War (1765–1767)"
+    }
   },
   {
     "id": "anglo-mysore-wars",
@@ -1162,12 +1775,23 @@
     "year": 1767,
     "year_end": 1799,
     "lat": 12.42,
-    "lon": 76.70,
-    "name": {"ja": "マイソール戦争", "en": "Anglo-Mysore Wars"},
-    "desc": {"ja": "南インドのマイソール王国がイギリス東インド会社と四次にわたり戦った。ティプー=スルタンは1799年の首都セリンガパタム陥落で戦死し、マイソールは藩王国となった。", "en": "The kingdom of Mysore in south India fought four wars against the East India Company; Tipu Sultan died at the fall of Seringapatam in 1799 and Mysore became a princely state."},
-    "importance": 2,
-    "persons": ["tipu-sultan"],
-    "wiki": {"ja": "マイソール戦争", "en": "Anglo-Mysore Wars"}
+    "lon": 76.7,
+    "name": {
+      "ja": "マイソール戦争",
+      "en": "Anglo-Mysore Wars"
+    },
+    "desc": {
+      "ja": "南インドのマイソール王国がイギリス東インド会社と四次にわたり戦った。ティプー=スルタンは1799年の首都セリンガパタム陥落で戦死し、マイソールは藩王国となった。",
+      "en": "The kingdom of Mysore in south India fought four wars against the East India Company; Tipu Sultan died at the fall of Seringapatam in 1799 and Mysore became a princely state."
+    },
+    "importance": 1,
+    "persons": [
+      "tipu-sultan"
+    ],
+    "wiki": {
+      "ja": "マイソール戦争",
+      "en": "Anglo-Mysore Wars"
+    }
   },
   {
     "id": "arkwright-water-frame",
@@ -1176,11 +1800,20 @@
     "year_end": null,
     "lat": 53.11,
     "lon": -1.56,
-    "name": {"ja": "アークライトの水力紡績機", "en": "Arkwright's Water Frame"},
-    "desc": {"ja": "アークライトが水力を動力とする紡績機を発明し、クロムフォードに工場を建てた。強い綿糸の大量生産が可能になり、工場制機械工業の先駆けとなった。", "en": "Arkwright patented a water-powered spinning frame and built a mill at Cromford; mass production of strong cotton yarn began and the factory system was born."},
+    "name": {
+      "ja": "アークライトの水力紡績機",
+      "en": "Arkwright's Water Frame"
+    },
+    "desc": {
+      "ja": "アークライトが水力を動力とする紡績機を発明し、クロムフォードに工場を建てた。強い綿糸の大量生産が可能になり、工場制機械工業の先駆けとなった。",
+      "en": "Arkwright patented a water-powered spinning frame and built a mill at Cromford; mass production of strong cotton yarn began and the factory system was born."
+    },
     "importance": 2,
     "persons": [],
-    "wiki": {"ja": "水力紡績機", "en": "Water frame"}
+    "wiki": {
+      "ja": "水力紡績機",
+      "en": "Water frame"
+    }
   },
   {
     "id": "watt-steam-engine",
@@ -1189,24 +1822,46 @@
     "year_end": null,
     "lat": 55.86,
     "lon": -4.25,
-    "name": {"ja": "ワットの蒸気機関の改良", "en": "Watt's Improved Steam Engine"},
-    "desc": {"ja": "グラスゴーのワットがニューコメンの蒸気機関に分離凝縮器を加えて効率を飛躍的に高め、特許を取得。回転運動化により紡績機など工場の動力源となり、産業革命を加速した。", "en": "Watt of Glasgow patented a separate condenser that vastly improved Newcomen's steam engine; adapted to rotary motion, it powered mills and accelerated the Industrial Revolution."},
-    "importance": 3,
-    "persons": ["watt"],
-    "wiki": {"ja": "ジェームズ・ワット", "en": "Watt steam engine"}
+    "name": {
+      "ja": "ワットの蒸気機関の改良",
+      "en": "Watt's Improved Steam Engine"
+    },
+    "desc": {
+      "ja": "グラスゴーのワットがニューコメンの蒸気機関に分離凝縮器を加えて効率を飛躍的に高め、特許を取得。回転運動化により紡績機など工場の動力源となり、産業革命を加速した。",
+      "en": "Watt of Glasgow patented a separate condenser that vastly improved Newcomen's steam engine; adapted to rotary motion, it powered mills and accelerated the Industrial Revolution."
+    },
+    "importance": 2,
+    "persons": [
+      "watt"
+    ],
+    "wiki": {
+      "ja": "ジェームズ・ワット",
+      "en": "Watt steam engine"
+    }
   },
   {
     "id": "cook-reaches-australia",
     "type": "exploration",
     "year": 1770,
     "year_end": null,
-    "lat": -34.00,
+    "lat": -34,
     "lon": 151.23,
-    "name": {"ja": "クックのオーストラリア東岸到達", "en": "Cook Reaches Eastern Australia"},
-    "desc": {"ja": "イギリスの探検家クックが第1回航海でニュージーランドを周航後、オーストラリア東岸のボタニー湾に上陸し、イギリス領を宣言した。太平洋の地理が明らかになった。", "en": "On his first voyage the British navigator Cook circumnavigated New Zealand and landed at Botany Bay, claiming eastern Australia for Britain and mapping much of the Pacific."},
+    "name": {
+      "ja": "クックのオーストラリア東岸到達",
+      "en": "Cook Reaches Eastern Australia"
+    },
+    "desc": {
+      "ja": "イギリスの探検家クックが第1回航海でニュージーランドを周航後、オーストラリア東岸のボタニー湾に上陸し、イギリス領を宣言した。太平洋の地理が明らかになった。",
+      "en": "On his first voyage the British navigator Cook circumnavigated New Zealand and landed at Botany Bay, claiming eastern Australia for Britain and mapping much of the Pacific."
+    },
     "importance": 2,
-    "persons": ["cook"],
-    "wiki": {"ja": "ジェームズ・クック", "en": "First voyage of James Cook"}
+    "persons": [
+      "cook"
+    ],
+    "wiki": {
+      "ja": "ジェームズ・クック",
+      "en": "First voyage of James Cook"
+    }
   },
   {
     "id": "tay-son-rebellion",
@@ -1215,11 +1870,20 @@
     "year_end": 1802,
     "lat": 13.78,
     "lon": 109.22,
-    "name": {"ja": "西山(タイソン)の乱", "en": "Tây Sơn Rebellion"},
-    "desc": {"ja": "ベトナム中部の西山で阮氏三兄弟が蜂起し、南の広南阮氏と北の鄭氏・黎朝を倒して西山朝を建てた。清の干渉軍も撃退したが、阮福暎に滅ぼされた。", "en": "Three Nguyen brothers rose at Tây Sơn in central Vietnam, overthrew the Nguyen lords of the south and the Trinh and Le of the north and repelled a Qing intervention, before falling to Nguyen Phuc Anh."},
-    "importance": 2,
+    "name": {
+      "ja": "西山(タイソン)の乱",
+      "en": "Tây Sơn Rebellion"
+    },
+    "desc": {
+      "ja": "ベトナム中部の西山で阮氏三兄弟が蜂起し、南の広南阮氏と北の鄭氏・黎朝を倒して西山朝を建てた。清の干渉軍も撃退したが、阮福暎に滅ぼされた。",
+      "en": "Three Nguyen brothers rose at Tây Sơn in central Vietnam, overthrew the Nguyen lords of the south and the Trinh and Le of the north and repelled a Qing intervention, before falling to Nguyen Phuc Anh."
+    },
+    "importance": 1,
     "persons": [],
-    "wiki": {"ja": "西山朝", "en": "Tây Sơn dynasty"}
+    "wiki": {
+      "ja": "西山朝",
+      "en": "Tây Sơn dynasty"
+    }
   },
   {
     "id": "first-partition-of-poland",
@@ -1228,11 +1892,24 @@
     "year_end": null,
     "lat": 52.23,
     "lon": 21.01,
-    "name": {"ja": "第1回ポーランド分割", "en": "First Partition of Poland"},
-    "desc": {"ja": "ロシアのエカチェリーナ2世、プロイセンのフリードリヒ2世、オーストリアのマリア=テレジアが選挙王制で弱体化したポーランドの領土を分割した。ポーランドは国土の約3分の1を失った。", "en": "Catherine II of Russia, Frederick II of Prussia and Maria Theresa of Austria partitioned the territory of Poland, weakened by its elective monarchy; Poland lost about a third of its land."},
+    "name": {
+      "ja": "第1回ポーランド分割",
+      "en": "First Partition of Poland"
+    },
+    "desc": {
+      "ja": "ロシアのエカチェリーナ2世、プロイセンのフリードリヒ2世、オーストリアのマリア=テレジアが選挙王制で弱体化したポーランドの領土を分割した。ポーランドは国土の約3分の1を失った。",
+      "en": "Catherine II of Russia, Frederick II of Prussia and Maria Theresa of Austria partitioned the territory of Poland, weakened by its elective monarchy; Poland lost about a third of its land."
+    },
     "importance": 3,
-    "persons": ["catherine-ii", "frederick-ii", "maria-theresa"],
-    "wiki": {"ja": "ポーランド分割", "en": "First Partition of Poland"}
+    "persons": [
+      "catherine-ii",
+      "frederick-ii",
+      "maria-theresa"
+    ],
+    "wiki": {
+      "ja": "ポーランド分割",
+      "en": "First Partition of Poland"
+    }
   },
   {
     "id": "pugachev-rebellion",
@@ -1240,12 +1917,24 @@
     "year": 1773,
     "year_end": 1775,
     "lat": 51.77,
-    "lon": 55.10,
-    "name": {"ja": "プガチョフの農民反乱", "en": "Pugachev's Rebellion"},
-    "desc": {"ja": "コサックのプガチョフがピョートル3世を僭称してヴォルガ・ウラル地方で蜂起し、農奴や諸民族が加わる大反乱となった。鎮圧後、エカチェリーナ2世は農奴制を強化した。", "en": "The Cossack Pugachev, claiming to be Peter III, led a huge revolt of serfs and minorities in the Volga-Ural region; after crushing it Catherine II tightened serfdom."},
-    "importance": 3,
-    "persons": ["pugachev", "catherine-ii"],
-    "wiki": {"ja": "プガチョフの乱", "en": "Pugachev's Rebellion"}
+    "lon": 55.1,
+    "name": {
+      "ja": "プガチョフの農民反乱",
+      "en": "Pugachev's Rebellion"
+    },
+    "desc": {
+      "ja": "コサックのプガチョフがピョートル3世を僭称してヴォルガ・ウラル地方で蜂起し、農奴や諸民族が加わる大反乱となった。鎮圧後、エカチェリーナ2世は農奴制を強化した。",
+      "en": "The Cossack Pugachev, claiming to be Peter III, led a huge revolt of serfs and minorities in the Volga-Ural region; after crushing it Catherine II tightened serfdom."
+    },
+    "importance": 2,
+    "persons": [
+      "pugachev",
+      "catherine-ii"
+    ],
+    "wiki": {
+      "ja": "プガチョフの乱",
+      "en": "Pugachev's Rebellion"
+    }
   },
   {
     "id": "boston-tea-party",
@@ -1254,11 +1943,20 @@
     "year_end": null,
     "lat": 42.36,
     "lon": -71.05,
-    "name": {"ja": "ボストン茶会事件", "en": "Boston Tea Party"},
-    "desc": {"ja": "東インド会社に茶の独占販売権を与えた茶法に反発した植民地人が、ボストン港で茶箱を海に投棄した。本国の報復措置が植民地の結束を強め、独立戦争の導火線となった。", "en": "Colonists angered by the Tea Act, which gave the East India Company a tea monopoly, dumped tea chests into Boston harbour; British reprisals united the colonies and led to war."},
-    "importance": 3,
+    "name": {
+      "ja": "ボストン茶会事件",
+      "en": "Boston Tea Party"
+    },
+    "desc": {
+      "ja": "東インド会社に茶の独占販売権を与えた茶法に反発した植民地人が、ボストン港で茶箱を海に投棄した。本国の報復措置が植民地の結束を強め、独立戦争の導火線となった。",
+      "en": "Colonists angered by the Tea Act, which gave the East India Company a tea monopoly, dumped tea chests into Boston harbour; British reprisals united the colonies and led to war."
+    },
+    "importance": 2,
     "persons": [],
-    "wiki": {"ja": "ボストン茶会事件", "en": "Boston Tea Party"}
+    "wiki": {
+      "ja": "ボストン茶会事件",
+      "en": "Boston Tea Party"
+    }
   },
   {
     "id": "treaty-of-kucuk-kaynarca",
@@ -1267,11 +1965,22 @@
     "year_end": null,
     "lat": 43.63,
     "lon": 27.25,
-    "name": {"ja": "キュチュク=カイナルジ条約", "en": "Treaty of Küçük Kaynarca"},
-    "desc": {"ja": "ロシア=トルコ戦争に敗れたオスマン帝国がエカチェリーナ2世と結んだ条約。クリム=ハン国が独立(1783年ロシアが併合)し、ロシアは黒海北岸と黒海航行権を得た。", "en": "Defeated in the Russo-Turkish War, the Ottomans granted Catherine II the northern Black Sea coast and navigation rights; the Crimean Khanate became independent and was annexed by Russia in 1783."},
-    "importance": 3,
-    "persons": ["catherine-ii"],
-    "wiki": {"ja": "キュチュク・カイナルジ条約", "en": "Treaty of Küçük Kaynarca"}
+    "name": {
+      "ja": "キュチュク=カイナルジ条約",
+      "en": "Treaty of Küçük Kaynarca"
+    },
+    "desc": {
+      "ja": "ロシア=トルコ戦争に敗れたオスマン帝国がエカチェリーナ2世と結んだ条約。クリム=ハン国が独立(1783年ロシアが併合)し、ロシアは黒海北岸と黒海航行権を得た。",
+      "en": "Defeated in the Russo-Turkish War, the Ottomans granted Catherine II the northern Black Sea coast and navigation rights; the Crimean Khanate became independent and was annexed by Russia in 1783."
+    },
+    "importance": 2,
+    "persons": [
+      "catherine-ii"
+    ],
+    "wiki": {
+      "ja": "キュチュク・カイナルジ条約",
+      "en": "Treaty of Küçük Kaynarca"
+    }
   },
   {
     "id": "battle-of-lexington-and-concord",
@@ -1280,11 +1989,22 @@
     "year_end": null,
     "lat": 42.45,
     "lon": -71.23,
-    "name": {"ja": "レキシントンの戦い", "en": "Battles of Lexington and Concord"},
-    "desc": {"ja": "ボストン郊外のレキシントンとコンコードでイギリス軍と植民地民兵が武力衝突し、アメリカ独立戦争が始まった。大陸会議はワシントンを総司令官に任命した。", "en": "British troops and colonial militia clashed at Lexington and Concord outside Boston, beginning the American War of Independence; Congress named Washington commander-in-chief."},
-    "importance": 3,
-    "persons": ["washington"],
-    "wiki": {"ja": "レキシントン・コンコードの戦い", "en": "Battles of Lexington and Concord"}
+    "name": {
+      "ja": "レキシントンの戦い",
+      "en": "Battles of Lexington and Concord"
+    },
+    "desc": {
+      "ja": "ボストン郊外のレキシントンとコンコードでイギリス軍と植民地民兵が武力衝突し、アメリカ独立戦争が始まった。大陸会議はワシントンを総司令官に任命した。",
+      "en": "British troops and colonial militia clashed at Lexington and Concord outside Boston, beginning the American War of Independence; Congress named Washington commander-in-chief."
+    },
+    "importance": 2,
+    "persons": [
+      "washington"
+    ],
+    "wiki": {
+      "ja": "レキシントン・コンコードの戦い",
+      "en": "Battles of Lexington and Concord"
+    }
   },
   {
     "id": "anglo-maratha-wars",
@@ -1293,24 +2013,20 @@
     "year_end": 1818,
     "lat": 18.52,
     "lon": 73.86,
-    "name": {"ja": "マラーター戦争", "en": "Anglo-Maratha Wars"},
-    "desc": {"ja": "西インドを支配するマラーター同盟がイギリス東インド会社と三次にわたって戦った。1818年に同盟は解体され、イギリスはデカン以北のインド支配を確立した。", "en": "The Maratha Confederacy of western India fought three wars against the East India Company; its dissolution in 1818 gave Britain control of India north of the Deccan."},
-    "importance": 2,
+    "name": {
+      "ja": "マラーター戦争",
+      "en": "Anglo-Maratha Wars"
+    },
+    "desc": {
+      "ja": "西インドを支配するマラーター同盟がイギリス東インド会社と三次にわたって戦った。1818年に同盟は解体され、イギリスはデカン以北のインド支配を確立した。",
+      "en": "The Maratha Confederacy of western India fought three wars against the East India Company; its dissolution in 1818 gave Britain control of India north of the Deccan."
+    },
+    "importance": 1,
     "persons": [],
-    "wiki": {"ja": "マラーター戦争", "en": "Anglo-Maratha Wars"}
-  },
-  {
-    "id": "paine-common-sense",
-    "type": "culture",
-    "year": 1776,
-    "year_end": null,
-    "lat": 39.95,
-    "lon": -75.15,
-    "name": {"ja": "トマス=ペイン『コモン=センス』", "en": "Thomas Paine's Common Sense"},
-    "desc": {"ja": "イギリスから渡ったペインがフィラデルフィアで刊行した小冊子。平易な言葉で独立の正当性を説いて大ベストセラーとなり、植民地世論を独立へ導いた。", "en": "Paine's pamphlet, published in Philadelphia, argued the case for independence in plain language; it sold enormously and swung colonial opinion toward separation."},
-    "importance": 2,
-    "persons": [],
-    "wiki": {"ja": "コモン・センス", "en": "Common Sense"}
+    "wiki": {
+      "ja": "マラーター戦争",
+      "en": "Anglo-Maratha Wars"
+    }
   },
   {
     "id": "declaration-of-independence",
@@ -1319,11 +2035,23 @@
     "year_end": null,
     "lat": 39.95,
     "lon": -75.15,
-    "name": {"ja": "アメリカ独立宣言", "en": "United States Declaration of Independence"},
-    "desc": {"ja": "第2回大陸会議がジェファソンの起草した独立宣言を採択。ロックの思想に基づき、生命・自由・幸福の追求を天賦の権利とし、圧政への抵抗権を掲げた。", "en": "The Second Continental Congress adopted the Declaration drafted by Jefferson, which, drawing on Locke, proclaimed the rights to life, liberty and the pursuit of happiness and the right to resist tyranny."},
+    "name": {
+      "ja": "アメリカ独立宣言",
+      "en": "United States Declaration of Independence"
+    },
+    "desc": {
+      "ja": "第2回大陸会議がジェファソンの起草した独立宣言を採択。ロックの思想に基づき、生命・自由・幸福の追求を天賦の権利とし、圧政への抵抗権を掲げた。",
+      "en": "The Second Continental Congress adopted the Declaration drafted by Jefferson, which, drawing on Locke, proclaimed the rights to life, liberty and the pursuit of happiness and the right to resist tyranny."
+    },
     "importance": 3,
-    "persons": ["jefferson", "franklin"],
-    "wiki": {"ja": "アメリカ独立宣言", "en": "United States Declaration of Independence"}
+    "persons": [
+      "jefferson",
+      "franklin"
+    ],
+    "wiki": {
+      "ja": "アメリカ独立宣言",
+      "en": "United States Declaration of Independence"
+    }
   },
   {
     "id": "wealth-of-nations",
@@ -1332,24 +2060,46 @@
     "year_end": null,
     "lat": 51.51,
     "lon": -0.12,
-    "name": {"ja": "アダム=スミス『諸国民の富』", "en": "Adam Smith's The Wealth of Nations"},
-    "desc": {"ja": "アダム=スミスが重商主義を批判し、分業と自由競争が「見えざる手」によって国富を増すと説いた。自由放任を唱える古典派経済学の出発点となった。", "en": "Adam Smith attacked mercantilism and argued that the division of labour and free competition, guided by an 'invisible hand', increase national wealth, founding classical laissez-faire economics."},
-    "importance": 3,
-    "persons": ["adam-smith"],
-    "wiki": {"ja": "国富論", "en": "The Wealth of Nations"}
+    "name": {
+      "ja": "アダム=スミス『諸国民の富』",
+      "en": "Adam Smith's The Wealth of Nations"
+    },
+    "desc": {
+      "ja": "アダム=スミスが重商主義を批判し、分業と自由競争が「見えざる手」によって国富を増すと説いた。自由放任を唱える古典派経済学の出発点となった。",
+      "en": "Adam Smith attacked mercantilism and argued that the division of labour and free competition, guided by an 'invisible hand', increase national wealth, founding classical laissez-faire economics."
+    },
+    "importance": 2,
+    "persons": [
+      "adam-smith"
+    ],
+    "wiki": {
+      "ja": "国富論",
+      "en": "The Wealth of Nations"
+    }
   },
   {
     "id": "battle-of-saratoga",
     "type": "battle",
     "year": 1777,
     "year_end": null,
-    "lat": 43.00,
+    "lat": 43,
     "lon": -73.63,
-    "name": {"ja": "サラトガの戦い", "en": "Battle of Saratoga"},
-    "desc": {"ja": "ニューヨーク北部でイギリス軍がアメリカ軍に降伏した。独立戦争の転機となり、フランクリンの外交もあってフランスが翌年参戦、スペイン・オランダも続いた。", "en": "A British army surrendered to the Americans in upstate New York; the turning point of the war, it brought France into the conflict the next year, followed by Spain and the Netherlands."},
-    "importance": 3,
-    "persons": ["franklin"],
-    "wiki": {"ja": "サラトガの戦い", "en": "Battles of Saratoga"}
+    "name": {
+      "ja": "サラトガの戦い",
+      "en": "Battle of Saratoga"
+    },
+    "desc": {
+      "ja": "ニューヨーク北部でイギリス軍がアメリカ軍に降伏した。独立戦争の転機となり、フランクリンの外交もあってフランスが翌年参戦、スペイン・オランダも続いた。",
+      "en": "A British army surrendered to the Americans in upstate New York; the turning point of the war, it brought France into the conflict the next year, followed by Spain and the Netherlands."
+    },
+    "importance": 2,
+    "persons": [
+      "franklin"
+    ],
+    "wiki": {
+      "ja": "サラトガの戦い",
+      "en": "Battles of Saratoga"
+    }
   },
   {
     "id": "league-of-armed-neutrality",
@@ -1358,11 +2108,22 @@
     "year_end": null,
     "lat": 59.93,
     "lon": 30.32,
-    "name": {"ja": "武装中立同盟", "en": "League of Armed Neutrality"},
-    "desc": {"ja": "エカチェリーナ2世の提唱で、中立国の自由な通商を守るためロシア・スウェーデン・デンマークなどが結成した。イギリスを国際的に孤立させ、アメリカ独立を間接的に支援した。", "en": "At Catherine II's initiative Russia, Sweden, Denmark and others formed a league to protect neutral shipping; it isolated Britain and indirectly aided American independence."},
-    "importance": 2,
-    "persons": ["catherine-ii"],
-    "wiki": {"ja": "武装中立同盟", "en": "First League of Armed Neutrality"}
+    "name": {
+      "ja": "武装中立同盟",
+      "en": "League of Armed Neutrality"
+    },
+    "desc": {
+      "ja": "エカチェリーナ2世の提唱で、中立国の自由な通商を守るためロシア・スウェーデン・デンマークなどが結成した。イギリスを国際的に孤立させ、アメリカ独立を間接的に支援した。",
+      "en": "At Catherine II's initiative Russia, Sweden, Denmark and others formed a league to protect neutral shipping; it isolated Britain and indirectly aided American independence."
+    },
+    "importance": 1,
+    "persons": [
+      "catherine-ii"
+    ],
+    "wiki": {
+      "ja": "武装中立同盟",
+      "en": "First League of Armed Neutrality"
+    }
   },
   {
     "id": "kant-critique-of-pure-reason",
@@ -1371,11 +2132,22 @@
     "year_end": null,
     "lat": 54.71,
     "lon": 20.51,
-    "name": {"ja": "カント『純粋理性批判』", "en": "Kant's Critique of Pure Reason"},
-    "desc": {"ja": "ケーニヒスベルクのカントが大陸合理論とイギリス経験論を総合し、認識の限界を論じた。ドイツ観念論の出発点となり、近代哲学に決定的な影響を与えた。", "en": "Kant of Königsberg synthesised continental rationalism and British empiricism and examined the limits of knowledge, founding German idealism and reshaping modern philosophy."},
-    "importance": 2,
-    "persons": ["kant"],
-    "wiki": {"ja": "純粋理性批判", "en": "Critique of Pure Reason"}
+    "name": {
+      "ja": "カント『純粋理性批判』",
+      "en": "Kant's Critique of Pure Reason"
+    },
+    "desc": {
+      "ja": "ケーニヒスベルクのカントが大陸合理論とイギリス経験論を総合し、認識の限界を論じた。ドイツ観念論の出発点となり、近代哲学に決定的な影響を与えた。",
+      "en": "Kant of Königsberg synthesised continental rationalism and British empiricism and examined the limits of knowledge, founding German idealism and reshaping modern philosophy."
+    },
+    "importance": 1,
+    "persons": [
+      "kant"
+    ],
+    "wiki": {
+      "ja": "純粋理性批判",
+      "en": "Critique of Pure Reason"
+    }
   },
   {
     "id": "joseph-ii-reforms",
@@ -1384,11 +2156,22 @@
     "year_end": null,
     "lat": 48.21,
     "lon": 16.37,
-    "name": {"ja": "ヨーゼフ2世の改革", "en": "Reforms of Joseph II"},
-    "desc": {"ja": "啓蒙専制君主ヨーゼフ2世が宗教寛容令と農奴解放令を発布。急進的な中央集権化は貴族や諸民族の反発を招き、多くは撤回された。", "en": "The enlightened despot Joseph II issued edicts of religious toleration and serf emancipation; his radical centralisation provoked noble and national resistance and much was revoked."},
+    "name": {
+      "ja": "ヨーゼフ2世の改革",
+      "en": "Reforms of Joseph II"
+    },
+    "desc": {
+      "ja": "啓蒙専制君主ヨーゼフ2世が宗教寛容令と農奴解放令を発布。急進的な中央集権化は貴族や諸民族の反発を招き、多くは撤回された。",
+      "en": "The enlightened despot Joseph II issued edicts of religious toleration and serf emancipation; his radical centralisation provoked noble and national resistance and much was revoked."
+    },
     "importance": 2,
-    "persons": ["joseph-ii"],
-    "wiki": {"ja": "ヨーゼフ2世", "en": "Joseph II, Holy Roman Emperor"}
+    "persons": [
+      "joseph-ii"
+    ],
+    "wiki": {
+      "ja": "ヨーゼフ2世",
+      "en": "Joseph II, Holy Roman Emperor"
+    }
   },
   {
     "id": "battle-of-yorktown",
@@ -1397,11 +2180,22 @@
     "year_end": null,
     "lat": 37.24,
     "lon": -76.51,
-    "name": {"ja": "ヨークタウンの戦い", "en": "Siege of Yorktown"},
-    "desc": {"ja": "ワシントン率いるアメリカ軍とフランス軍がヴァージニアのヨークタウンでイギリス軍を包囲し降伏させた。独立戦争の事実上の決着となった。", "en": "Washington's American army and French forces besieged and forced the surrender of the British army at Yorktown, Virginia, effectively deciding the War of Independence."},
+    "name": {
+      "ja": "ヨークタウンの戦い",
+      "en": "Siege of Yorktown"
+    },
+    "desc": {
+      "ja": "ワシントン率いるアメリカ軍とフランス軍がヴァージニアのヨークタウンでイギリス軍を包囲し降伏させた。独立戦争の事実上の決着となった。",
+      "en": "Washington's American army and French forces besieged and forced the surrender of the British army at Yorktown, Virginia, effectively deciding the War of Independence."
+    },
     "importance": 3,
-    "persons": ["washington"],
-    "wiki": {"ja": "ヨークタウンの戦い", "en": "Siege of Yorktown"}
+    "persons": [
+      "washington"
+    ],
+    "wiki": {
+      "ja": "ヨークタウンの戦い",
+      "en": "Siege of Yorktown"
+    }
   },
   {
     "id": "treaty-of-paris-1783",
@@ -1410,24 +2204,22 @@
     "year_end": null,
     "lat": 48.86,
     "lon": 2.35,
-    "name": {"ja": "パリ条約(1783年)", "en": "Treaty of Paris (1783)"},
-    "desc": {"ja": "イギリスがアメリカ合衆国の独立を承認し、ミシシッピ川以東のルイジアナを割譲した。フランス・スペインとも講和し、スペインはフロリダを回復した。", "en": "Britain recognised the independence of the United States and ceded the land east of the Mississippi; in the accompanying treaties Spain recovered Florida."},
+    "name": {
+      "ja": "パリ条約(1783年)",
+      "en": "Treaty of Paris (1783)"
+    },
+    "desc": {
+      "ja": "イギリスがアメリカ合衆国の独立を承認し、ミシシッピ川以東のルイジアナを割譲した。フランス・スペインとも講和し、スペインはフロリダを回復した。",
+      "en": "Britain recognised the independence of the United States and ceded the land east of the Mississippi; in the accompanying treaties Spain recovered Florida."
+    },
     "importance": 3,
-    "persons": ["franklin"],
-    "wiki": {"ja": "パリ条約 (1783年)", "en": "Treaty of Paris (1783)"}
-  },
-  {
-    "id": "russian-annexation-of-crimea",
-    "type": "fall",
-    "year": 1783,
-    "year_end": null,
-    "lat": 44.95,
-    "lon": 34.10,
-    "name": {"ja": "ロシアのクリミア併合", "en": "Russian Annexation of Crimea"},
-    "desc": {"ja": "エカチェリーナ2世がオスマン帝国から独立させたクリム=ハン国を併合した。ロシアは黒海の制海権を握り、セヴァストポリに黒海艦隊の基地を建設した。", "en": "Catherine II annexed the Crimean Khanate, detached from the Ottomans; Russia secured the Black Sea and built the base of its Black Sea Fleet at Sevastopol."},
-    "importance": 2,
-    "persons": ["catherine-ii"],
-    "wiki": {"ja": "クリミア・ハン国", "en": "Annexation of Crimea by the Russian Empire"}
+    "persons": [
+      "franklin"
+    ],
+    "wiki": {
+      "ja": "パリ条約 (1783年)",
+      "en": "Treaty of Paris (1783)"
+    }
   },
   {
     "id": "cartwright-power-loom",
@@ -1436,11 +2228,20 @@
     "year_end": null,
     "lat": 53.52,
     "lon": -1.13,
-    "name": {"ja": "カートライトの力織機", "en": "Cartwright's Power Loom"},
-    "desc": {"ja": "牧師カートライトが蒸気力でも動かせる力織機を発明し特許を取得した。紡績の機械化に遅れていた織布工程も機械化され、綿工業の工場制生産が完成した。", "en": "The clergyman Cartwright patented a power loom that could be driven by steam; weaving, which had lagged behind spinning, was mechanised and cotton production fully industrialised."},
-    "importance": 2,
+    "name": {
+      "ja": "カートライトの力織機",
+      "en": "Cartwright's Power Loom"
+    },
+    "desc": {
+      "ja": "牧師カートライトが蒸気力でも動かせる力織機を発明し特許を取得した。紡績の機械化に遅れていた織布工程も機械化され、綿工業の工場制生産が完成した。",
+      "en": "The clergyman Cartwright patented a power loom that could be driven by steam; weaving, which had lagged behind spinning, was mechanised and cotton production fully industrialised."
+    },
+    "importance": 1,
     "persons": [],
-    "wiki": {"ja": "力織機", "en": "Power loom"}
+    "wiki": {
+      "ja": "力織機",
+      "en": "Power loom"
+    }
   },
   {
     "id": "us-constitution",
@@ -1449,11 +2250,23 @@
     "year_end": null,
     "lat": 39.95,
     "lon": -75.15,
-    "name": {"ja": "合衆国憲法の制定", "en": "Drafting of the United States Constitution"},
-    "desc": {"ja": "フィラデルフィアの憲法制定会議が連邦主義・三権分立・人民主権を原則とする合衆国憲法を起草した。各州の批准を経て1789年に発効した。", "en": "The Philadelphia Convention drafted a constitution based on federalism, separation of powers and popular sovereignty; it took effect in 1789 after ratification by the states."},
+    "name": {
+      "ja": "合衆国憲法の制定",
+      "en": "Drafting of the United States Constitution"
+    },
+    "desc": {
+      "ja": "フィラデルフィアの憲法制定会議が連邦主義・三権分立・人民主権を原則とする合衆国憲法を起草した。各州の批准を経て1789年に発効した。",
+      "en": "The Philadelphia Convention drafted a constitution based on federalism, separation of powers and popular sovereignty; it took effect in 1789 after ratification by the states."
+    },
     "importance": 3,
-    "persons": ["washington", "franklin"],
-    "wiki": {"ja": "アメリカ合衆国憲法", "en": "Constitution of the United States"}
+    "persons": [
+      "washington",
+      "franklin"
+    ],
+    "wiki": {
+      "ja": "アメリカ合衆国憲法",
+      "en": "Constitution of the United States"
+    }
   },
   {
     "id": "sydney-founded",
@@ -1462,11 +2275,20 @@
     "year_end": null,
     "lat": -33.87,
     "lon": 151.21,
-    "name": {"ja": "シドニーの建設(流刑植民地)", "en": "Founding of Sydney"},
-    "desc": {"ja": "イギリスの第一船団が囚人を乗せてシドニー湾に到着し、オーストラリア最初の植民地を建設した。流刑植民地として始まり、先住民アボリジニは土地を奪われた。", "en": "The British First Fleet carrying convicts arrived at Sydney Cove and founded Australia's first colony; begun as a penal settlement, it dispossessed the Aboriginal inhabitants."},
-    "importance": 2,
+    "name": {
+      "ja": "シドニーの建設(流刑植民地)",
+      "en": "Founding of Sydney"
+    },
+    "desc": {
+      "ja": "イギリスの第一船団が囚人を乗せてシドニー湾に到着し、オーストラリア最初の植民地を建設した。流刑植民地として始まり、先住民アボリジニは土地を奪われた。",
+      "en": "The British First Fleet carrying convicts arrived at Sydney Cove and founded Australia's first colony; begun as a penal settlement, it dispossessed the Aboriginal inhabitants."
+    },
+    "importance": 1,
     "persons": [],
-    "wiki": {"ja": "シドニー", "en": "First Fleet"}
+    "wiki": {
+      "ja": "シドニー",
+      "en": "First Fleet"
+    }
   },
   {
     "id": "washington-inaugurated",
@@ -1475,24 +2297,48 @@
     "year_end": null,
     "lat": 40.71,
     "lon": -74.01,
-    "name": {"ja": "ワシントンの初代大統領就任", "en": "Inauguration of George Washington"},
-    "desc": {"ja": "合衆国憲法のもとワシントンが初代大統領に就任し、ニューヨークで新政府が発足した。財務長官ハミルトンと国務長官ジェファソンの対立から二大政党の原型が生まれた。", "en": "Under the new constitution Washington was inaugurated as first president in New York; the rivalry between Hamilton and Jefferson in his cabinet gave rise to the first parties."},
-    "importance": 2,
-    "persons": ["washington", "jefferson"],
-    "wiki": {"ja": "ジョージ・ワシントン", "en": "First inauguration of George Washington"}
+    "name": {
+      "ja": "ワシントンの初代大統領就任",
+      "en": "Inauguration of George Washington"
+    },
+    "desc": {
+      "ja": "合衆国憲法のもとワシントンが初代大統領に就任し、ニューヨークで新政府が発足した。財務長官ハミルトンと国務長官ジェファソンの対立から二大政党の原型が生まれた。",
+      "en": "Under the new constitution Washington was inaugurated as first president in New York; the rivalry between Hamilton and Jefferson in his cabinet gave rise to the first parties."
+    },
+    "importance": 1,
+    "persons": [
+      "washington",
+      "jefferson"
+    ],
+    "wiki": {
+      "ja": "ジョージ・ワシントン",
+      "en": "First inauguration of George Washington"
+    }
   },
   {
     "id": "estates-general-1789",
     "type": "politics",
     "year": 1789,
     "year_end": null,
-    "lat": 48.80,
+    "lat": 48.8,
     "lon": 2.12,
-    "name": {"ja": "三部会の招集と国民議会の成立", "en": "Estates-General and the National Assembly"},
-    "desc": {"ja": "財政危機のためルイ16世が175年ぶりに三部会を招集。議決方法で対立した第三身分は国民議会を名乗り、球戯場(テニスコート)の誓いで憲法制定まで解散しないと誓った。", "en": "Louis XVI summoned the Estates-General for the first time in 175 years to solve the fiscal crisis; the Third Estate declared itself the National Assembly and swore the Tennis Court Oath."},
-    "importance": 3,
-    "persons": ["louis-xvi", "sieyes"],
-    "wiki": {"ja": "1789年の三部会", "en": "Estates General of 1789"}
+    "name": {
+      "ja": "三部会の招集と国民議会の成立",
+      "en": "Estates-General and the National Assembly"
+    },
+    "desc": {
+      "ja": "財政危機のためルイ16世が175年ぶりに三部会を招集。議決方法で対立した第三身分は国民議会を名乗り、球戯場(テニスコート)の誓いで憲法制定まで解散しないと誓った。",
+      "en": "Louis XVI summoned the Estates-General for the first time in 175 years to solve the fiscal crisis; the Third Estate declared itself the National Assembly and swore the Tennis Court Oath."
+    },
+    "importance": 2,
+    "persons": [
+      "louis-xvi",
+      "sieyes"
+    ],
+    "wiki": {
+      "ja": "1789年の三部会",
+      "en": "Estates General of 1789"
+    }
   },
   {
     "id": "storming-of-the-bastille",
@@ -1501,24 +2347,44 @@
     "year_end": null,
     "lat": 48.85,
     "lon": 2.37,
-    "name": {"ja": "バスティーユ牢獄の襲撃", "en": "Storming of the Bastille"},
-    "desc": {"ja": "7月14日、国王の軍隊集結に危機を感じたパリ民衆が専制の象徴バスティーユ牢獄を襲撃した。革命は全国に波及し、8月には封建的特権の廃止が宣言された。", "en": "On 14 July the people of Paris, fearing a royal crackdown, stormed the Bastille, symbol of despotism; the revolution spread nationwide and feudal privileges were abolished in August."},
+    "name": {
+      "ja": "バスティーユ牢獄の襲撃",
+      "en": "Storming of the Bastille"
+    },
+    "desc": {
+      "ja": "7月14日、国王の軍隊集結に危機を感じたパリ民衆が専制の象徴バスティーユ牢獄を襲撃した。革命は全国に波及し、8月には封建的特権の廃止が宣言された。",
+      "en": "On 14 July the people of Paris, fearing a royal crackdown, stormed the Bastille, symbol of despotism; the revolution spread nationwide and feudal privileges were abolished in August."
+    },
     "importance": 3,
     "persons": [],
-    "wiki": {"ja": "バスティーユ襲撃", "en": "Storming of the Bastille"}
+    "wiki": {
+      "ja": "バスティーユ襲撃",
+      "en": "Storming of the Bastille"
+    }
   },
   {
     "id": "declaration-of-the-rights-of-man",
     "type": "politics",
     "year": 1789,
     "year_end": null,
-    "lat": 48.80,
+    "lat": 48.8,
     "lon": 2.12,
-    "name": {"ja": "人権宣言", "en": "Declaration of the Rights of Man and of the Citizen"},
-    "desc": {"ja": "国民議会がラ=ファイエットらの起草した人権宣言を採択。人間の自由・平等、国民主権、私有財産の不可侵などを掲げ、近代市民社会の原理を示した。", "en": "The National Assembly adopted the Declaration drafted by Lafayette and others, proclaiming liberty and equality, national sovereignty and the inviolability of property as principles of modern society."},
+    "name": {
+      "ja": "人権宣言",
+      "en": "Declaration of the Rights of Man and of the Citizen"
+    },
+    "desc": {
+      "ja": "国民議会がラ=ファイエットらの起草した人権宣言を採択。人間の自由・平等、国民主権、私有財産の不可侵などを掲げ、近代市民社会の原理を示した。",
+      "en": "The National Assembly adopted the Declaration drafted by Lafayette and others, proclaiming liberty and equality, national sovereignty and the inviolability of property as principles of modern society."
+    },
     "importance": 3,
-    "persons": ["lafayette"],
-    "wiki": {"ja": "人間と市民の権利の宣言", "en": "Declaration of the Rights of Man and of the Citizen"}
+    "persons": [
+      "lafayette"
+    ],
+    "wiki": {
+      "ja": "人間と市民の権利の宣言",
+      "en": "Declaration of the Rights of Man and of the Citizen"
+    }
   },
   {
     "id": "flight-to-varennes",
@@ -1527,11 +2393,22 @@
     "year_end": null,
     "lat": 49.23,
     "lon": 5.03,
-    "name": {"ja": "ヴァレンヌ逃亡事件", "en": "Flight to Varennes"},
-    "desc": {"ja": "ルイ16世一家が王妃の故国オーストリアへ逃亡を図り、国境近くのヴァレンヌで捕らえられた。国王への信頼は失われ、共和政を求める声が高まった。", "en": "Louis XVI and his family tried to flee toward Austria but were caught at Varennes near the border; trust in the king collapsed and calls for a republic grew."},
-    "importance": 2,
-    "persons": ["louis-xvi"],
-    "wiki": {"ja": "ヴァレンヌ事件", "en": "Flight to Varennes"}
+    "name": {
+      "ja": "ヴァレンヌ逃亡事件",
+      "en": "Flight to Varennes"
+    },
+    "desc": {
+      "ja": "ルイ16世一家が王妃の故国オーストリアへ逃亡を図り、国境近くのヴァレンヌで捕らえられた。国王への信頼は失われ、共和政を求める声が高まった。",
+      "en": "Louis XVI and his family tried to flee toward Austria but were caught at Varennes near the border; trust in the king collapsed and calls for a republic grew."
+    },
+    "importance": 1,
+    "persons": [
+      "louis-xvi"
+    ],
+    "wiki": {
+      "ja": "ヴァレンヌ事件",
+      "en": "Flight to Varennes"
+    }
   },
   {
     "id": "haitian-revolution",
@@ -1540,11 +2417,22 @@
     "year_end": 1804,
     "lat": 18.54,
     "lon": -72.34,
-    "name": {"ja": "ハイチ革命", "en": "Haitian Revolution"},
-    "desc": {"ja": "フランス領サン=ドマングで黒人奴隷が蜂起し、トゥサン=ルヴェルチュールの指導で解放を実現。ナポレオンの再征服軍を退け、1804年に史上初の黒人共和国ハイチが独立した。", "en": "Enslaved Africans in French Saint-Domingue rose under Toussaint Louverture, won their freedom and defeated Napoleon's expedition; in 1804 Haiti became the first Black republic."},
+    "name": {
+      "ja": "ハイチ革命",
+      "en": "Haitian Revolution"
+    },
+    "desc": {
+      "ja": "フランス領サン=ドマングで黒人奴隷が蜂起し、トゥサン=ルヴェルチュールの指導で解放を実現。ナポレオンの再征服軍を退け、1804年に史上初の黒人共和国ハイチが独立した。",
+      "en": "Enslaved Africans in French Saint-Domingue rose under Toussaint Louverture, won their freedom and defeated Napoleon's expedition; in 1804 Haiti became the first Black republic."
+    },
     "importance": 3,
-    "persons": ["toussaint-louverture"],
-    "wiki": {"ja": "ハイチ革命", "en": "Haitian Revolution"}
+    "persons": [
+      "toussaint-louverture"
+    ],
+    "wiki": {
+      "ja": "ハイチ革命",
+      "en": "Haitian Revolution"
+    }
   },
   {
     "id": "battle-of-valmy",
@@ -1553,11 +2441,20 @@
     "year_end": null,
     "lat": 49.08,
     "lon": 4.77,
-    "name": {"ja": "ヴァルミーの戦い", "en": "Battle of Valmy"},
-    "desc": {"ja": "革命フランスの義勇軍がプロイセン・オーストリア軍の侵攻を阻止した。直後に国民公会が王政廃止と共和政樹立を宣言し、第一共和政が始まった。", "en": "French volunteer forces halted the Prussian-Austrian invasion; immediately afterward the National Convention abolished the monarchy and proclaimed the First Republic."},
-    "importance": 3,
+    "name": {
+      "ja": "ヴァルミーの戦い",
+      "en": "Battle of Valmy"
+    },
+    "desc": {
+      "ja": "革命フランスの義勇軍がプロイセン・オーストリア軍の侵攻を阻止した。直後に国民公会が王政廃止と共和政樹立を宣言し、第一共和政が始まった。",
+      "en": "French volunteer forces halted the Prussian-Austrian invasion; immediately afterward the National Convention abolished the monarchy and proclaimed the First Republic."
+    },
+    "importance": 2,
     "persons": [],
-    "wiki": {"ja": "ヴァルミーの戦い", "en": "Battle of Valmy"}
+    "wiki": {
+      "ja": "ヴァルミーの戦い",
+      "en": "Battle of Valmy"
+    }
   },
   {
     "id": "execution-of-louis-xvi",
@@ -1566,24 +2463,22 @@
     "year_end": null,
     "lat": 48.87,
     "lon": 2.32,
-    "name": {"ja": "ルイ16世の処刑", "en": "Execution of Louis XVI"},
-    "desc": {"ja": "国民公会がルイ16世を裁判にかけ、革命広場でギロチンにより処刑した。衝撃を受けたヨーロッパ諸国はイギリス主導で第1回対仏大同盟を結成した。", "en": "The National Convention tried Louis XVI and guillotined him on the Place de la Révolution; the shocked powers of Europe formed the First Coalition under British leadership."},
-    "importance": 3,
-    "persons": ["louis-xvi"],
-    "wiki": {"ja": "ルイ16世 (フランス王)", "en": "Execution of Louis XVI"}
-  },
-  {
-    "id": "second-partition-of-poland",
-    "type": "politics",
-    "year": 1793,
-    "year_end": null,
-    "lat": 52.23,
-    "lon": 21.01,
-    "name": {"ja": "第2回ポーランド分割", "en": "Second Partition of Poland"},
-    "desc": {"ja": "1791年の五月憲法による改革を嫌ったロシアとプロイセンが、再びポーランド領を分割した。コシューシコが蜂起したが鎮圧された。", "en": "Russia and Prussia, hostile to Poland's reforming constitution of 1791, carried out a second partition; Kościuszko's uprising against it was crushed."},
+    "name": {
+      "ja": "ルイ16世の処刑",
+      "en": "Execution of Louis XVI"
+    },
+    "desc": {
+      "ja": "国民公会がルイ16世を裁判にかけ、革命広場でギロチンにより処刑した。衝撃を受けたヨーロッパ諸国はイギリス主導で第1回対仏大同盟を結成した。",
+      "en": "The National Convention tried Louis XVI and guillotined him on the Place de la Révolution; the shocked powers of Europe formed the First Coalition under British leadership."
+    },
     "importance": 2,
-    "persons": ["catherine-ii", "kosciuszko"],
-    "wiki": {"ja": "第二次ポーランド分割", "en": "Second Partition of Poland"}
+    "persons": [
+      "louis-xvi"
+    ],
+    "wiki": {
+      "ja": "ルイ16世 (フランス王)",
+      "en": "Execution of Louis XVI"
+    }
   },
   {
     "id": "reign-of-terror",
@@ -1592,11 +2487,23 @@
     "year_end": 1794,
     "lat": 48.86,
     "lon": 2.34,
-    "name": {"ja": "ジャコバン派の恐怖政治", "en": "Reign of Terror"},
-    "desc": {"ja": "ジロンド派を追放したロベスピエールらジャコバン派が公安委員会を通じて独裁を行い、反対派を次々に処刑した。封建地代の無償廃止や徴兵制など急進的改革も実施された。", "en": "After expelling the Girondins, Robespierre's Jacobins ruled through the Committee of Public Safety, executing opponents en masse while enacting radical reforms such as the abolition of feudal dues."},
+    "name": {
+      "ja": "ジャコバン派の恐怖政治",
+      "en": "Reign of Terror"
+    },
+    "desc": {
+      "ja": "ジロンド派を追放したロベスピエールらジャコバン派が公安委員会を通じて独裁を行い、反対派を次々に処刑した。封建地代の無償廃止や徴兵制など急進的改革も実施された。",
+      "en": "After expelling the Girondins, Robespierre's Jacobins ruled through the Committee of Public Safety, executing opponents en masse while enacting radical reforms such as the abolition of feudal dues."
+    },
     "importance": 3,
-    "persons": ["robespierre", "danton"],
-    "wiki": {"ja": "恐怖政治", "en": "Reign of Terror"}
+    "persons": [
+      "robespierre",
+      "danton"
+    ],
+    "wiki": {
+      "ja": "恐怖政治",
+      "en": "Reign of Terror"
+    }
   },
   {
     "id": "macartney-embassy",
@@ -1605,11 +2512,23 @@
     "year_end": null,
     "lat": 40.98,
     "lon": 117.94,
-    "name": {"ja": "マカートニーの使節派遣", "en": "Macartney Embassy to China"},
-    "desc": {"ja": "イギリスがマカートニーを清に派遣し、熱河で乾隆帝に謁見して自由貿易と開港を求めた。清は朝貢使節として扱い、要求を全て拒否した。", "en": "Britain sent Lord Macartney to China; received by the Qianlong emperor at Rehe, he requested free trade and open ports, but the Qing treated him as a tribute envoy and refused everything."},
-    "importance": 3,
-    "persons": ["macartney", "qianlong"],
-    "wiki": {"ja": "マカートニー使節団", "en": "Macartney Embassy"}
+    "name": {
+      "ja": "マカートニーの使節派遣",
+      "en": "Macartney Embassy to China"
+    },
+    "desc": {
+      "ja": "イギリスがマカートニーを清に派遣し、熱河で乾隆帝に謁見して自由貿易と開港を求めた。清は朝貢使節として扱い、要求を全て拒否した。",
+      "en": "Britain sent Lord Macartney to China; received by the Qianlong emperor at Rehe, he requested free trade and open ports, but the Qing treated him as a tribute envoy and refused everything."
+    },
+    "importance": 2,
+    "persons": [
+      "macartney",
+      "qianlong"
+    ],
+    "wiki": {
+      "ja": "マカートニー使節団",
+      "en": "Macartney Embassy"
+    }
   },
   {
     "id": "thermidorian-reaction",
@@ -1618,11 +2537,22 @@
     "year_end": null,
     "lat": 48.86,
     "lon": 2.34,
-    "name": {"ja": "テルミドールの反動", "en": "Thermidorian Reaction"},
-    "desc": {"ja": "革命暦テルミドール9日(7月27日)、恐怖政治に対する反発からロベスピエールが国民公会で逮捕され、翌日処刑された。ジャコバン独裁は終わり、穏健派が主導権を握った。", "en": "On 9 Thermidor (27 July) the Convention, revolting against the Terror, arrested Robespierre, who was guillotined the next day; the Jacobin dictatorship ended and moderates took control."},
-    "importance": 3,
-    "persons": ["robespierre"],
-    "wiki": {"ja": "テルミドールのクーデター", "en": "Thermidorian Reaction"}
+    "name": {
+      "ja": "テルミドールの反動",
+      "en": "Thermidorian Reaction"
+    },
+    "desc": {
+      "ja": "革命暦テルミドール9日(7月27日)、恐怖政治に対する反発からロベスピエールが国民公会で逮捕され、翌日処刑された。ジャコバン独裁は終わり、穏健派が主導権を握った。",
+      "en": "On 9 Thermidor (27 July) the Convention, revolting against the Terror, arrested Robespierre, who was guillotined the next day; the Jacobin dictatorship ended and moderates took control."
+    },
+    "importance": 2,
+    "persons": [
+      "robespierre"
+    ],
+    "wiki": {
+      "ja": "テルミドールのクーデター",
+      "en": "Thermidorian Reaction"
+    }
   },
   {
     "id": "third-partition-of-poland",
@@ -1631,24 +2561,22 @@
     "year_end": null,
     "lat": 52.23,
     "lon": 21.01,
-    "name": {"ja": "第3回ポーランド分割", "en": "Third Partition of Poland"},
-    "desc": {"ja": "ロシア・プロイセン・オーストリアが残るポーランド領をすべて分割し、ポーランド王国は地図上から消滅した。独立回復は1918年まで待たねばならなかった。", "en": "Russia, Prussia and Austria divided the remaining Polish territory among themselves and the Polish state vanished from the map until 1918."},
-    "importance": 3,
-    "persons": ["catherine-ii"],
-    "wiki": {"ja": "第三次ポーランド分割", "en": "Third Partition of Poland"}
-  },
-  {
-    "id": "directory-established",
-    "type": "politics",
-    "year": 1795,
-    "year_end": null,
-    "lat": 48.86,
-    "lon": 2.34,
-    "name": {"ja": "総裁政府の成立", "en": "Establishment of the Directory"},
-    "desc": {"ja": "1795年憲法により5人の総裁からなる総裁政府が発足した。制限選挙制の穏健なブルジョワ共和政だったが、王党派の反乱やバブーフの陰謀など内外の危機に動揺した。", "en": "The Constitution of 1795 created a five-man Directory, a moderate bourgeois republic with limited suffrage, unsettled by royalist risings, Babeuf's conspiracy and war."},
+    "name": {
+      "ja": "第3回ポーランド分割",
+      "en": "Third Partition of Poland"
+    },
+    "desc": {
+      "ja": "ロシア・プロイセン・オーストリアが残るポーランド領をすべて分割し、ポーランド王国は地図上から消滅した。独立回復は1918年まで待たねばならなかった。",
+      "en": "Russia, Prussia and Austria divided the remaining Polish territory among themselves and the Polish state vanished from the map until 1918."
+    },
     "importance": 2,
-    "persons": [],
-    "wiki": {"ja": "総裁政府", "en": "French Directory"}
+    "persons": [
+      "catherine-ii"
+    ],
+    "wiki": {
+      "ja": "第三次ポーランド分割",
+      "en": "Third Partition of Poland"
+    }
   },
   {
     "id": "white-lotus-rebellion",
@@ -1657,11 +2585,20 @@
     "year_end": 1804,
     "lat": 31.5,
     "lon": 110.5,
-    "name": {"ja": "白蓮教徒の乱", "en": "White Lotus Rebellion"},
-    "desc": {"ja": "人口増加と官吏の腐敗に苦しむ四川・湖北などの農民が、弥勒下生を説く白蓮教の指導で蜂起した。八旗・緑営は無力で、郷勇の活躍で鎮圧されたが清の衰退が露呈した。", "en": "Peasants of Sichuan and Hubei, burdened by population pressure and corrupt officials, rose under the millenarian White Lotus sect; the banner armies proved useless and local militias suppressed it, exposing Qing decline."},
-    "importance": 3,
+    "name": {
+      "ja": "白蓮教徒の乱",
+      "en": "White Lotus Rebellion"
+    },
+    "desc": {
+      "ja": "人口増加と官吏の腐敗に苦しむ四川・湖北などの農民が、弥勒下生を説く白蓮教の指導で蜂起した。八旗・緑営は無力で、郷勇の活躍で鎮圧されたが清の衰退が露呈した。",
+      "en": "Peasants of Sichuan and Hubei, burdened by population pressure and corrupt officials, rose under the millenarian White Lotus sect; the banner armies proved useless and local militias suppressed it, exposing Qing decline."
+    },
+    "importance": 2,
     "persons": [],
-    "wiki": {"ja": "白蓮教徒の乱", "en": "White Lotus Rebellion"}
+    "wiki": {
+      "ja": "白蓮教徒の乱",
+      "en": "White Lotus Rebellion"
+    }
   },
   {
     "id": "qajar-dynasty-founded",
@@ -1670,50 +2607,20 @@
     "year_end": null,
     "lat": 35.69,
     "lon": 51.39,
-    "name": {"ja": "カージャール朝の成立", "en": "Founding of the Qajar Dynasty"},
-    "desc": {"ja": "トルコ系カージャール族のアーガー=ムハンマドがイランを統一してシャーに即位し、テヘランを都とした。19世紀にはロシア・イギリスの圧迫を受けた。", "en": "Agha Mohammad Khan of the Turkic Qajar tribe unified Iran, was crowned shah and made Tehran his capital; the dynasty later came under Russian and British pressure."},
-    "importance": 2,
+    "name": {
+      "ja": "カージャール朝の成立",
+      "en": "Founding of the Qajar Dynasty"
+    },
+    "desc": {
+      "ja": "トルコ系カージャール族のアーガー=ムハンマドがイランを統一してシャーに即位し、テヘランを都とした。19世紀にはロシア・イギリスの圧迫を受けた。",
+      "en": "Agha Mohammad Khan of the Turkic Qajar tribe unified Iran, was crowned shah and made Tehran his capital; the dynasty later came under Russian and British pressure."
+    },
+    "importance": 1,
     "persons": [],
-    "wiki": {"ja": "ガージャール朝", "en": "Qajar Iran"}
-  },
-  {
-    "id": "jenner-vaccination",
-    "type": "culture",
-    "year": 1796,
-    "year_end": null,
-    "lat": 51.69,
-    "lon": -2.46,
-    "name": {"ja": "ジェンナーの種痘", "en": "Jenner's Smallpox Vaccination"},
-    "desc": {"ja": "イギリスの医師ジェンナーが牛痘を接種して天然痘を予防する種痘法を開発した。予防接種の始まりで、天然痘の死亡率を大きく下げた。", "en": "The English physician Jenner inoculated with cowpox to prevent smallpox, inaugurating vaccination and greatly reducing smallpox mortality."},
-    "importance": 2,
-    "persons": [],
-    "wiki": {"ja": "エドワード・ジェンナー", "en": "Edward Jenner"}
-  },
-  {
-    "id": "napoleon-italian-campaign",
-    "type": "battle",
-    "year": 1796,
-    "year_end": 1797,
-    "lat": 45.46,
-    "lon": 9.19,
-    "name": {"ja": "ナポレオンのイタリア遠征", "en": "Napoleon's Italian Campaign"},
-    "desc": {"ja": "総裁政府に任命されたナポレオンがイタリア方面軍を率いてオーストリア軍を連破し、カンポ=フォルミオ条約で第1回対仏大同盟を崩壊させた。国民的英雄となった。", "en": "Appointed by the Directory, Napoleon led the Army of Italy to repeated victories over Austria; the Treaty of Campo Formio broke the First Coalition and made him a national hero."},
-    "importance": 2,
-    "persons": ["napoleon"],
-    "wiki": {"ja": "イタリア戦役 (1796-1797年)", "en": "Italian campaigns of the French Revolutionary Wars"}
-  },
-  {
-    "id": "napoleon-egyptian-expedition",
-    "type": "battle",
-    "year": 1798,
-    "year_end": 1799,
-    "lat": 30.04,
-    "lon": 31.24,
-    "name": {"ja": "ナポレオンのエジプト遠征", "en": "Napoleon's Egyptian Expedition"},
-    "desc": {"ja": "イギリスとインドの連絡を断つためナポレオンがエジプトに遠征。ネルソンに艦隊を破られ、第2回対仏大同盟が結成されると軍を残して帰国した。ロゼッタ=ストーンが発見された。", "en": "Napoleon invaded Egypt to cut Britain's route to India; Nelson destroyed his fleet, and when the Second Coalition formed he abandoned his army and returned. The Rosetta Stone was found."},
-    "importance": 2,
-    "persons": ["napoleon", "nelson"],
-    "wiki": {"ja": "エジプト・シリア戦役", "en": "French campaign in Egypt and Syria"}
+    "wiki": {
+      "ja": "ガージャール朝",
+      "en": "Qajar Iran"
+    }
   },
   {
     "id": "coup-of-18-brumaire",
@@ -1722,24 +2629,47 @@
     "year_end": null,
     "lat": 48.82,
     "lon": 2.23,
-    "name": {"ja": "ブリュメール18日のクーデタ", "en": "Coup of 18 Brumaire"},
-    "desc": {"ja": "エジプトから帰国したナポレオンがクーデタで総裁政府を倒し、統領政府を樹立して第一統領となった。フランス革命は事実上終結した。", "en": "Returning from Egypt, Napoleon overthrew the Directory in a coup and established the Consulate with himself as First Consul, effectively ending the French Revolution."},
+    "name": {
+      "ja": "ブリュメール18日のクーデタ",
+      "en": "Coup of 18 Brumaire"
+    },
+    "desc": {
+      "ja": "エジプトから帰国したナポレオンがクーデタで総裁政府を倒し、統領政府を樹立して第一統領となった。フランス革命は事実上終結した。",
+      "en": "Returning from Egypt, Napoleon overthrew the Directory in a coup and established the Consulate with himself as First Consul, effectively ending the French Revolution."
+    },
     "importance": 3,
-    "persons": ["napoleon", "sieyes"],
-    "wiki": {"ja": "ブリュメール18日のクーデター", "en": "Coup of 18 Brumaire"}
+    "persons": [
+      "napoleon",
+      "sieyes"
+    ],
+    "wiki": {
+      "ja": "ブリュメール18日のクーデター",
+      "en": "Coup of 18 Brumaire"
+    }
   },
   {
     "id": "battle-of-marengo",
     "type": "battle",
     "year": 1800,
     "year_end": null,
-    "lat": 44.90,
-    "lon": 8.70,
-    "name": {"ja": "マレンゴの戦い", "en": "Battle of Marengo"},
-    "desc": {"ja": "アルプスを越えて北イタリアに進出したナポレオンがオーストリア軍を破った。翌年のリュネヴィル条約と1802年のアミアンの和約で第2回対仏大同盟は解体した。", "en": "Napoleon crossed the Alps and defeated the Austrians in northern Italy; the Treaty of Lunéville and the Peace of Amiens (1802) dissolved the Second Coalition."},
-    "importance": 2,
-    "persons": ["napoleon"],
-    "wiki": {"ja": "マレンゴの戦い", "en": "Battle of Marengo"}
+    "lat": 44.9,
+    "lon": 8.7,
+    "name": {
+      "ja": "マレンゴの戦い",
+      "en": "Battle of Marengo"
+    },
+    "desc": {
+      "ja": "アルプスを越えて北イタリアに進出したナポレオンがオーストリア軍を破った。翌年のリュネヴィル条約と1802年のアミアンの和約で第2回対仏大同盟は解体した。",
+      "en": "Napoleon crossed the Alps and defeated the Austrians in northern Italy; the Treaty of Lunéville and the Peace of Amiens (1802) dissolved the Second Coalition."
+    },
+    "importance": 1,
+    "persons": [
+      "napoleon"
+    ],
+    "wiki": {
+      "ja": "マレンゴの戦い",
+      "en": "Battle of Marengo"
+    }
   },
   {
     "id": "act-of-union-1801",
@@ -1748,11 +2678,20 @@
     "year_end": null,
     "lat": 53.35,
     "lon": -6.26,
-    "name": {"ja": "アイルランド併合", "en": "Act of Union with Ireland"},
-    "desc": {"ja": "1798年のアイルランド反乱後、イギリスはアイルランドを併合し、グレートブリテン=アイルランド連合王国が成立した。カトリック教徒の権利は制限されたままで、独立運動が続いた。", "en": "After the Irish rebellion of 1798 Britain absorbed Ireland into the United Kingdom of Great Britain and Ireland; Catholics remained without full rights and the independence movement continued."},
-    "importance": 2,
+    "name": {
+      "ja": "アイルランド併合",
+      "en": "Act of Union with Ireland"
+    },
+    "desc": {
+      "ja": "1798年のアイルランド反乱後、イギリスはアイルランドを併合し、グレートブリテン=アイルランド連合王国が成立した。カトリック教徒の権利は制限されたままで、独立運動が続いた。",
+      "en": "After the Irish rebellion of 1798 Britain absorbed Ireland into the United Kingdom of Great Britain and Ireland; Catholics remained without full rights and the independence movement continued."
+    },
+    "importance": 1,
     "persons": [],
-    "wiki": {"ja": "合同法 (1800年)", "en": "Acts of Union 1800"}
+    "wiki": {
+      "ja": "合同法 (1800年)",
+      "en": "Acts of Union 1800"
+    }
   },
   {
     "id": "nguyen-dynasty-founded",
@@ -1761,11 +2700,22 @@
     "year_end": null,
     "lat": 16.46,
     "lon": 107.59,
-    "name": {"ja": "阮朝の成立", "en": "Founding of the Nguyen Dynasty"},
-    "desc": {"ja": "フランス人宣教師ピニョーの支援を得た阮福暎が西山朝を倒し、フエを都に阮朝を建てて嘉隆帝と称した。清から越南国王に封じられ、国号を越南(ベトナム)とした。", "en": "Nguyen Phuc Anh, aided by the French missionary Pigneau, overthrew the Tây Sơn and founded the Nguyen dynasty at Hue as Emperor Gia Long; invested by the Qing, he named the country Viet Nam."},
-    "importance": 3,
-    "persons": ["gia-long"],
-    "wiki": {"ja": "阮朝", "en": "Nguyễn dynasty"}
+    "name": {
+      "ja": "阮朝の成立",
+      "en": "Founding of the Nguyen Dynasty"
+    },
+    "desc": {
+      "ja": "フランス人宣教師ピニョーの支援を得た阮福暎が西山朝を倒し、フエを都に阮朝を建てて嘉隆帝と称した。清から越南国王に封じられ、国号を越南(ベトナム)とした。",
+      "en": "Nguyen Phuc Anh, aided by the French missionary Pigneau, overthrew the Tây Sơn and founded the Nguyen dynasty at Hue as Emperor Gia Long; invested by the Qing, he named the country Viet Nam."
+    },
+    "importance": 2,
+    "persons": [
+      "gia-long"
+    ],
+    "wiki": {
+      "ja": "阮朝",
+      "en": "Nguyễn dynasty"
+    }
   },
   {
     "id": "napoleonic-code",
@@ -1774,11 +2724,22 @@
     "year_end": null,
     "lat": 48.86,
     "lon": 2.34,
-    "name": {"ja": "ナポレオン法典", "en": "Napoleonic Code"},
-    "desc": {"ja": "ナポレオンが法の前の平等、私有財産の不可侵、契約の自由など革命の成果を盛り込んだ民法典を公布。近代市民法の模範として各国の法典に影響を与えた。", "en": "Napoleon promulgated a civil code embodying the Revolution's gains: equality before the law, inviolability of property and freedom of contract; it became the model for modern civil law worldwide."},
-    "importance": 3,
-    "persons": ["napoleon"],
-    "wiki": {"ja": "フランス民法典", "en": "Napoleonic Code"}
+    "name": {
+      "ja": "ナポレオン法典",
+      "en": "Napoleonic Code"
+    },
+    "desc": {
+      "ja": "ナポレオンが法の前の平等、私有財産の不可侵、契約の自由など革命の成果を盛り込んだ民法典を公布。近代市民法の模範として各国の法典に影響を与えた。",
+      "en": "Napoleon promulgated a civil code embodying the Revolution's gains: equality before the law, inviolability of property and freedom of contract; it became the model for modern civil law worldwide."
+    },
+    "importance": 2,
+    "persons": [
+      "napoleon"
+    ],
+    "wiki": {
+      "ja": "フランス民法典",
+      "en": "Napoleonic Code"
+    }
   },
   {
     "id": "napoleon-crowned-emperor",
@@ -1787,11 +2748,22 @@
     "year_end": null,
     "lat": 48.85,
     "lon": 2.35,
-    "name": {"ja": "ナポレオンの皇帝即位", "en": "Napoleon Crowned Emperor"},
-    "desc": {"ja": "国民投票で圧倒的支持を得たナポレオンがノートルダム大聖堂で戴冠し、皇帝ナポレオン1世として第一帝政を開始した。イギリスは第3回対仏大同盟を結成した。", "en": "Endorsed by plebiscite, Napoleon crowned himself at Notre-Dame as Emperor Napoleon I, beginning the First Empire; Britain responded by forming the Third Coalition."},
+    "name": {
+      "ja": "ナポレオンの皇帝即位",
+      "en": "Napoleon Crowned Emperor"
+    },
+    "desc": {
+      "ja": "国民投票で圧倒的支持を得たナポレオンがノートルダム大聖堂で戴冠し、皇帝ナポレオン1世として第一帝政を開始した。イギリスは第3回対仏大同盟を結成した。",
+      "en": "Endorsed by plebiscite, Napoleon crowned himself at Notre-Dame as Emperor Napoleon I, beginning the First Empire; Britain responded by forming the Third Coalition."
+    },
     "importance": 3,
-    "persons": ["napoleon"],
-    "wiki": {"ja": "ナポレオンの戴冠式", "en": "Coronation of Napoleon"}
+    "persons": [
+      "napoleon"
+    ],
+    "wiki": {
+      "ja": "ナポレオンの戴冠式",
+      "en": "Coronation of Napoleon"
+    }
   },
   {
     "id": "battle-of-trafalgar",
@@ -1800,11 +2772,23 @@
     "year_end": null,
     "lat": 36.28,
     "lon": -6.26,
-    "name": {"ja": "トラファルガーの海戦", "en": "Battle of Trafalgar"},
-    "desc": {"ja": "ネルソン率いるイギリス艦隊がスペイン沖でフランス・スペイン連合艦隊を壊滅させた。ネルソンは戦死したが、ナポレオンのイギリス上陸計画は挫折し、イギリスの制海権が確立した。", "en": "Nelson's British fleet annihilated the Franco-Spanish fleet off Spain; Nelson died, but Napoleon's plan to invade Britain collapsed and British naval supremacy was secured."},
+    "name": {
+      "ja": "トラファルガーの海戦",
+      "en": "Battle of Trafalgar"
+    },
+    "desc": {
+      "ja": "ネルソン率いるイギリス艦隊がスペイン沖でフランス・スペイン連合艦隊を壊滅させた。ネルソンは戦死したが、ナポレオンのイギリス上陸計画は挫折し、イギリスの制海権が確立した。",
+      "en": "Nelson's British fleet annihilated the Franco-Spanish fleet off Spain; Nelson died, but Napoleon's plan to invade Britain collapsed and British naval supremacy was secured."
+    },
     "importance": 3,
-    "persons": ["nelson", "napoleon"],
-    "wiki": {"ja": "トラファルガーの海戦", "en": "Battle of Trafalgar"}
+    "persons": [
+      "nelson",
+      "napoleon"
+    ],
+    "wiki": {
+      "ja": "トラファルガーの海戦",
+      "en": "Battle of Trafalgar"
+    }
   },
   {
     "id": "battle-of-austerlitz",
@@ -1813,11 +2797,22 @@
     "year_end": null,
     "lat": 49.13,
     "lon": 16.76,
-    "name": {"ja": "アウステルリッツの戦い", "en": "Battle of Austerlitz"},
-    "desc": {"ja": "ナポレオンがオーストリア・ロシア連合軍を破った三帝会戦。オーストリアはプレスブルク条約で領土を割譲し、第3回対仏大同盟は崩壊した。", "en": "Napoleon crushed the combined Austrian and Russian armies in the 'Battle of the Three Emperors'; Austria ceded territory at Pressburg and the Third Coalition collapsed."},
+    "name": {
+      "ja": "アウステルリッツの戦い",
+      "en": "Battle of Austerlitz"
+    },
+    "desc": {
+      "ja": "ナポレオンがオーストリア・ロシア連合軍を破った三帝会戦。オーストリアはプレスブルク条約で領土を割譲し、第3回対仏大同盟は崩壊した。",
+      "en": "Napoleon crushed the combined Austrian and Russian armies in the 'Battle of the Three Emperors'; Austria ceded territory at Pressburg and the Third Coalition collapsed."
+    },
     "importance": 3,
-    "persons": ["napoleon"],
-    "wiki": {"ja": "アウステルリッツの戦い", "en": "Battle of Austerlitz"}
+    "persons": [
+      "napoleon"
+    ],
+    "wiki": {
+      "ja": "アウステルリッツの戦い",
+      "en": "Battle of Austerlitz"
+    }
   },
   {
     "id": "confederation-of-the-rhine",
@@ -1826,24 +2821,22 @@
     "year_end": null,
     "lat": 50.11,
     "lon": 8.68,
-    "name": {"ja": "ライン同盟の結成", "en": "Confederation of the Rhine"},
-    "desc": {"ja": "ナポレオンが西南ドイツ16諸邦を保護下に置いてライン同盟を結成した。諸邦が帝国を離脱したため、フランツ2世は退位して神聖ローマ帝国は消滅した。", "en": "Napoleon organised sixteen states of western and southern Germany into the Confederation of the Rhine under his protection; their secession led Francis II to abdicate and the Holy Roman Empire ceased to exist."},
+    "name": {
+      "ja": "ライン同盟の結成",
+      "en": "Confederation of the Rhine"
+    },
+    "desc": {
+      "ja": "ナポレオンが西南ドイツ16諸邦を保護下に置いてライン同盟を結成した。諸邦が帝国を離脱したため、フランツ2世は退位して神聖ローマ帝国は消滅した。",
+      "en": "Napoleon organised sixteen states of western and southern Germany into the Confederation of the Rhine under his protection; their secession led Francis II to abdicate and the Holy Roman Empire ceased to exist."
+    },
     "importance": 2,
-    "persons": ["napoleon"],
-    "wiki": {"ja": "ライン同盟", "en": "Confederation of the Rhine"}
-  },
-  {
-    "id": "dissolution-of-the-holy-roman-empire",
-    "type": "fall",
-    "year": 1806,
-    "year_end": null,
-    "lat": 48.21,
-    "lon": 16.37,
-    "name": {"ja": "神聖ローマ帝国の消滅", "en": "Dissolution of the Holy Roman Empire"},
-    "desc": {"ja": "ライン同盟の結成を受け、皇帝フランツ2世が帝冠を放棄し、962年以来続いた神聖ローマ帝国が消滅した。フランツはオーストリア皇帝フランツ1世として統治を続けた。", "en": "Following the creation of the Confederation of the Rhine, Emperor Francis II laid down the imperial crown, ending the Holy Roman Empire that had existed since 962; he reigned on as Francis I of Austria."},
-    "importance": 3,
-    "persons": [],
-    "wiki": {"ja": "神聖ローマ帝国", "en": "Dissolution of the Holy Roman Empire"}
+    "persons": [
+      "napoleon"
+    ],
+    "wiki": {
+      "ja": "ライン同盟",
+      "en": "Confederation of the Rhine"
+    }
   },
   {
     "id": "continental-system",
@@ -1851,12 +2844,23 @@
     "year": 1806,
     "year_end": null,
     "lat": 52.52,
-    "lon": 13.40,
-    "name": {"ja": "大陸封鎖令", "en": "Continental System"},
-    "desc": {"ja": "イエナでプロイセンを破りベルリンに入城したナポレオンが、大陸諸国にイギリスとの通商を禁じる勅令を発した。イギリス経済の封鎖を狙ったが、大陸諸国の反発を招いた。", "en": "Having defeated Prussia at Jena and entered Berlin, Napoleon decreed a ban on all trade between the Continent and Britain; intended to strangle the British economy, it instead alienated the continental states."},
+    "lon": 13.4,
+    "name": {
+      "ja": "大陸封鎖令",
+      "en": "Continental System"
+    },
+    "desc": {
+      "ja": "イエナでプロイセンを破りベルリンに入城したナポレオンが、大陸諸国にイギリスとの通商を禁じる勅令を発した。イギリス経済の封鎖を狙ったが、大陸諸国の反発を招いた。",
+      "en": "Having defeated Prussia at Jena and entered Berlin, Napoleon decreed a ban on all trade between the Continent and Britain; intended to strangle the British economy, it instead alienated the continental states."
+    },
     "importance": 3,
-    "persons": ["napoleon"],
-    "wiki": {"ja": "大陸封鎖令", "en": "Continental System"}
+    "persons": [
+      "napoleon"
+    ],
+    "wiki": {
+      "ja": "大陸封鎖令",
+      "en": "Continental System"
+    }
   },
   {
     "id": "treaties-of-tilsit",
@@ -1865,24 +2869,22 @@
     "year_end": null,
     "lat": 55.09,
     "lon": 21.89,
-    "name": {"ja": "ティルジット条約", "en": "Treaties of Tilsit"},
-    "desc": {"ja": "ナポレオンがロシア・プロイセンと結んだ講和。プロイセンは領土の半分を失い、エルベ川以西にウェストファリア王国、旧ポーランド領にワルシャワ大公国が建てられた。", "en": "Napoleon's peace with Russia and Prussia stripped Prussia of half its territory, creating the Kingdom of Westphalia west of the Elbe and the Grand Duchy of Warsaw from Prussian Poland."},
-    "importance": 3,
-    "persons": ["napoleon"],
-    "wiki": {"ja": "ティルジットの和約", "en": "Treaties of Tilsit"}
-  },
-  {
-    "id": "prussian-reforms",
-    "type": "politics",
-    "year": 1807,
-    "year_end": null,
-    "lat": 54.71,
-    "lon": 20.51,
-    "name": {"ja": "プロイセン改革", "en": "Prussian Reforms"},
-    "desc": {"ja": "ティルジット条約の屈辱を受け、シュタインとハルデンベルクが農奴解放・都市自治・軍制改革を実施した。フィヒテの「ドイツ国民に告ぐ」やベルリン大学創設も国民意識を高めた。", "en": "After the humiliation of Tilsit, Stein and Hardenberg emancipated the serfs and reformed cities and the army; Fichte's addresses and the founding of Berlin University stirred national feeling."},
+    "name": {
+      "ja": "ティルジット条約",
+      "en": "Treaties of Tilsit"
+    },
+    "desc": {
+      "ja": "ナポレオンがロシア・プロイセンと結んだ講和。プロイセンは領土の半分を失い、エルベ川以西にウェストファリア王国、旧ポーランド領にワルシャワ大公国が建てられた。",
+      "en": "Napoleon's peace with Russia and Prussia stripped Prussia of half its territory, creating the Kingdom of Westphalia west of the Elbe and the Grand Duchy of Warsaw from Prussian Poland."
+    },
     "importance": 2,
-    "persons": [],
-    "wiki": {"ja": "プロイセン改革", "en": "Prussian Reform Movement"}
+    "persons": [
+      "napoleon"
+    ],
+    "wiki": {
+      "ja": "ティルジットの和約",
+      "en": "Treaties of Tilsit"
+    }
   },
   {
     "id": "spanish-uprising-1808",
@@ -1890,12 +2892,23 @@
     "year": 1808,
     "year_end": 1814,
     "lat": 40.42,
-    "lon": -3.70,
-    "name": {"ja": "スペイン反乱(半島戦争)", "en": "Spanish Uprising and Peninsular War"},
-    "desc": {"ja": "ナポレオンが兄ジョゼフをスペイン王としたことにマドリード民衆が蜂起し、全国的なゲリラ戦に発展した。イギリスの支援もあり、フランス軍は泥沼の戦争に苦しんだ。", "en": "When Napoleon made his brother Joseph king of Spain the people of Madrid rose, igniting a nationwide guerrilla war; with British support it bogged down the French armies for years."},
-    "importance": 2,
-    "persons": ["napoleon"],
-    "wiki": {"ja": "半島戦争", "en": "Peninsular War"}
+    "lon": -3.7,
+    "name": {
+      "ja": "スペイン反乱(半島戦争)",
+      "en": "Spanish Uprising and Peninsular War"
+    },
+    "desc": {
+      "ja": "ナポレオンが兄ジョゼフをスペイン王としたことにマドリード民衆が蜂起し、全国的なゲリラ戦に発展した。イギリスの支援もあり、フランス軍は泥沼の戦争に苦しんだ。",
+      "en": "When Napoleon made his brother Joseph king of Spain the people of Madrid rose, igniting a nationwide guerrilla war; with British support it bogged down the French armies for years."
+    },
+    "importance": 1,
+    "persons": [
+      "napoleon"
+    ],
+    "wiki": {
+      "ja": "半島戦争",
+      "en": "Peninsular War"
+    }
   },
   {
     "id": "latin-american-independence-begins",
@@ -1903,12 +2916,23 @@
     "year": 1810,
     "year_end": null,
     "lat": 10.48,
-    "lon": -66.90,
-    "name": {"ja": "ラテンアメリカ独立運動の開始", "en": "Beginning of Latin American Independence"},
-    "desc": {"ja": "ナポレオンのスペイン占領を機に、カラカスやブエノスアイレスなどの植民地でクリオーリョが自治政府を樹立した。ボリバルやサン=マルティンの指導で独立戦争が広がった。", "en": "Napoleon's occupation of Spain prompted Creoles in Caracas, Buenos Aires and elsewhere to set up autonomous juntas; wars of independence spread under Bolívar and San Martín."},
+    "lon": -66.9,
+    "name": {
+      "ja": "ラテンアメリカ独立運動の開始",
+      "en": "Beginning of Latin American Independence"
+    },
+    "desc": {
+      "ja": "ナポレオンのスペイン占領を機に、カラカスやブエノスアイレスなどの植民地でクリオーリョが自治政府を樹立した。ボリバルやサン=マルティンの指導で独立戦争が広がった。",
+      "en": "Napoleon's occupation of Spain prompted Creoles in Caracas, Buenos Aires and elsewhere to set up autonomous juntas; wars of independence spread under Bolívar and San Martín."
+    },
     "importance": 2,
-    "persons": ["bolivar"],
-    "wiki": {"ja": "ラテンアメリカ独立戦争", "en": "Spanish American wars of independence"}
+    "persons": [
+      "bolivar"
+    ],
+    "wiki": {
+      "ja": "ラテンアメリカ独立戦争",
+      "en": "Spanish American wars of independence"
+    }
   },
   {
     "id": "hidalgo-revolt",
@@ -1917,11 +2941,22 @@
     "year_end": null,
     "lat": 21.16,
     "lon": -100.93,
-    "name": {"ja": "イダルゴの蜂起", "en": "Hidalgo's Revolt"},
-    "desc": {"ja": "メキシコの司祭イダルゴが先住民や混血の民衆を率いてスペインからの独立を求めて蜂起した。翌年処刑されたが、1821年のメキシコ独立への道を開いた。", "en": "The Mexican priest Hidalgo led Indians and mestizos in a rising for independence from Spain; executed the next year, he opened the road to Mexican independence in 1821."},
-    "importance": 3,
-    "persons": ["hidalgo"],
-    "wiki": {"ja": "ミゲル・イダルゴ", "en": "Cry of Dolores"}
+    "name": {
+      "ja": "イダルゴの蜂起",
+      "en": "Hidalgo's Revolt"
+    },
+    "desc": {
+      "ja": "メキシコの司祭イダルゴが先住民や混血の民衆を率いてスペインからの独立を求めて蜂起した。翌年処刑されたが、1821年のメキシコ独立への道を開いた。",
+      "en": "The Mexican priest Hidalgo led Indians and mestizos in a rising for independence from Spain; executed the next year, he opened the road to Mexican independence in 1821."
+    },
+    "importance": 2,
+    "persons": [
+      "hidalgo"
+    ],
+    "wiki": {
+      "ja": "ミゲル・イダルゴ",
+      "en": "Cry of Dolores"
+    }
   },
   {
     "id": "napoleon-russian-campaign",
@@ -1930,11 +2965,22 @@
     "year_end": null,
     "lat": 55.75,
     "lon": 37.62,
-    "name": {"ja": "ナポレオンのロシア遠征", "en": "Napoleon's Russian Campaign"},
-    "desc": {"ja": "大陸封鎖令を破ったロシアに対しナポレオンが60万の大軍で遠征。モスクワを占領したが、冬の到来とロシア軍の反撃で壊滅的な退却を強いられた。", "en": "Napoleon invaded Russia, which had broken the Continental System, with some 600,000 men; he took Moscow but winter and Russian counterattacks forced a catastrophic retreat."},
+    "name": {
+      "ja": "ナポレオンのロシア遠征",
+      "en": "Napoleon's Russian Campaign"
+    },
+    "desc": {
+      "ja": "大陸封鎖令を破ったロシアに対しナポレオンが60万の大軍で遠征。モスクワを占領したが、冬の到来とロシア軍の反撃で壊滅的な退却を強いられた。",
+      "en": "Napoleon invaded Russia, which had broken the Continental System, with some 600,000 men; he took Moscow but winter and Russian counterattacks forced a catastrophic retreat."
+    },
     "importance": 3,
-    "persons": ["napoleon"],
-    "wiki": {"ja": "1812年ロシア戦役", "en": "French invasion of Russia"}
+    "persons": [
+      "napoleon"
+    ],
+    "wiki": {
+      "ja": "1812年ロシア戦役",
+      "en": "French invasion of Russia"
+    }
   },
   {
     "id": "battle-of-leipzig",
@@ -1943,24 +2989,22 @@
     "year_end": null,
     "lat": 51.31,
     "lon": 12.41,
-    "name": {"ja": "ライプツィヒの戦い", "en": "Battle of Leipzig"},
-    "desc": {"ja": "ロシア・プロイセン・オーストリアなどの連合軍が諸国民戦争(解放戦争)でナポレオン軍を大破した。翌年連合軍はパリに入城し、ナポレオンは退位した。", "en": "In the 'Battle of the Nations' the Russian, Prussian and Austrian allies routed Napoleon's army; the next year they entered Paris and Napoleon abdicated."},
+    "name": {
+      "ja": "ライプツィヒの戦い",
+      "en": "Battle of Leipzig"
+    },
+    "desc": {
+      "ja": "ロシア・プロイセン・オーストリアなどの連合軍が諸国民戦争(解放戦争)でナポレオン軍を大破した。翌年連合軍はパリに入城し、ナポレオンは退位した。",
+      "en": "In the 'Battle of the Nations' the Russian, Prussian and Austrian allies routed Napoleon's army; the next year they entered Paris and Napoleon abdicated."
+    },
     "importance": 3,
-    "persons": ["napoleon"],
-    "wiki": {"ja": "ライプツィヒの戦い", "en": "Battle of Leipzig"}
-  },
-  {
-    "id": "napoleon-exiled-to-elba",
-    "type": "politics",
-    "year": 1814,
-    "year_end": null,
-    "lat": 42.81,
-    "lon": 10.32,
-    "name": {"ja": "ナポレオンの退位とエルバ島流刑", "en": "Napoleon's Abdication and Exile to Elba"},
-    "desc": {"ja": "連合軍のパリ占領後、ナポレオンは退位してエルバ島に流された。フランスではルイ18世が即位してブルボン朝が復活した。", "en": "After the allies occupied Paris, Napoleon abdicated and was exiled to Elba; Louis XVIII ascended the throne and the Bourbon monarchy was restored."},
-    "importance": 2,
-    "persons": ["napoleon"],
-    "wiki": {"ja": "エルバ島", "en": "Treaty of Fontainebleau (1814)"}
+    "persons": [
+      "napoleon"
+    ],
+    "wiki": {
+      "ja": "ライプツィヒの戦い",
+      "en": "Battle of Leipzig"
+    }
   },
   {
     "id": "congress-of-vienna",
@@ -1969,11 +3013,23 @@
     "year_end": 1815,
     "lat": 48.21,
     "lon": 16.37,
-    "name": {"ja": "ウィーン会議", "en": "Congress of Vienna"},
-    "desc": {"ja": "ナポレオン戦争後のヨーロッパ秩序を定めるためメッテルニヒの主宰で開かれた国際会議。タレーランの唱えた正統主義と勢力均衡を原則とし、ウィーン体制を築いた。", "en": "The international congress chaired by Metternich to settle Europe after the Napoleonic Wars; guided by Talleyrand's principle of legitimacy and the balance of power, it created the Vienna system."},
+    "name": {
+      "ja": "ウィーン会議",
+      "en": "Congress of Vienna"
+    },
+    "desc": {
+      "ja": "ナポレオン戦争後のヨーロッパ秩序を定めるためメッテルニヒの主宰で開かれた国際会議。タレーランの唱えた正統主義と勢力均衡を原則とし、ウィーン体制を築いた。",
+      "en": "The international congress chaired by Metternich to settle Europe after the Napoleonic Wars; guided by Talleyrand's principle of legitimacy and the balance of power, it created the Vienna system."
+    },
     "importance": 3,
-    "persons": ["metternich", "talleyrand"],
-    "wiki": {"ja": "ウィーン会議", "en": "Congress of Vienna"}
+    "persons": [
+      "metternich",
+      "talleyrand"
+    ],
+    "wiki": {
+      "ja": "ウィーン会議",
+      "en": "Congress of Vienna"
+    }
   },
   {
     "id": "battle-of-waterloo",
@@ -1982,23 +3038,22 @@
     "year_end": null,
     "lat": 50.68,
     "lon": 4.41,
-    "name": {"ja": "ワーテルローの戦い", "en": "Battle of Waterloo"},
-    "desc": {"ja": "エルバ島を脱出して復位したナポレオンの百日天下は、ウェリントン率いるイギリス軍とプロイセン軍にワーテルローで敗れて終わった。ナポレオンはセントヘレナ島に流された。", "en": "Napoleon's Hundred Days after escaping Elba ended with his defeat at Waterloo by Wellington's British army and the Prussians; he was exiled to St Helena."},
+    "name": {
+      "ja": "ワーテルローの戦い",
+      "en": "Battle of Waterloo"
+    },
+    "desc": {
+      "ja": "エルバ島を脱出して復位したナポレオンの百日天下は、ウェリントン率いるイギリス軍とプロイセン軍にワーテルローで敗れて終わった。ナポレオンはセントヘレナ島に流された。",
+      "en": "Napoleon's Hundred Days after escaping Elba ended with his defeat at Waterloo by Wellington's British army and the Prussians; he was exiled to St Helena."
+    },
     "importance": 3,
-    "persons": ["napoleon", "wellington"],
-    "wiki": {"ja": "ワーテルローの戦い", "en": "Battle of Waterloo"}
-  },
-  {
-    "id": "holy-alliance",
-    "type": "treaty",
-    "year": 1815,
-    "year_end": null,
-    "lat": 48.86,
-    "lon": 2.35,
-    "name": {"ja": "神聖同盟", "en": "Holy Alliance"},
-    "desc": {"ja": "ロシア皇帝アレクサンドル1世の提唱でキリスト教の精神に基づく君主間の同盟が結ばれ、英・教皇・オスマン以外の全ヨーロッパ君主が参加した。同年の四国同盟とともにウィーン体制を支えた。", "en": "At Tsar Alexander I's proposal the monarchs of Europe, except Britain, the pope and the Ottomans, joined a Christian alliance of sovereigns; with the Quadruple Alliance it upheld the Vienna system."},
-    "importance": 2,
-    "persons": ["alexander-i"],
-    "wiki": {"ja": "神聖同盟", "en": "Holy Alliance"}
+    "persons": [
+      "napoleon",
+      "wellington"
+    ],
+    "wiki": {
+      "ja": "ワーテルローの戦い",
+      "en": "Battle of Waterloo"
+    }
   }
 ]

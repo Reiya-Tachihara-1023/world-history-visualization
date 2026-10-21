@@ -1,0 +1,2391 @@
+[
+  {
+    "id": "wars-of-the-diadochi",
+    "type": "battle",
+    "year": -322,
+    "year_end": -301,
+    "lat": 38.6,
+    "lon": 30.9,
+    "name": {
+      "ja": "ディアドコイ戦争",
+      "en": "Wars of the Diadochi"
+    },
+    "desc": {
+      "ja": "アレクサンドロス大王の死後、後継者(ディアドコイ)たちが帝国の覇権を争った。前301年のイプソスの戦いを経て帝国は分裂した。",
+      "en": "After Alexander's death his generals, the Diadochi, fought over the empire; the Battle of Ipsus in 301 BC sealed its fragmentation."
+    },
+    "importance": 1,
+    "persons": [
+      "ptolemy-i",
+      "seleucus-i"
+    ],
+    "wiki": {
+      "ja": "ディアドコイ戦争",
+      "en": "Wars of the Diadochi"
+    }
+  },
+  {
+    "id": "founding-of-seleucid-empire",
+    "type": "founding",
+    "year": -312,
+    "year_end": null,
+    "lat": 33.09,
+    "lon": 44.52,
+    "name": {
+      "ja": "セレウコス朝シリアの成立",
+      "en": "Founding of the Seleucid Empire"
+    },
+    "desc": {
+      "ja": "セレウコス1世がバビロニアを確保し、シリアからイラン・中央アジアに及ぶ広大なヘレニズム国家セレウコス朝を建てた。都はのちアンティオキアに置かれた。",
+      "en": "Seleucus I secured Babylonia and founded the Seleucid Empire, a vast Hellenistic state stretching from Syria to Iran and Central Asia."
+    },
+    "importance": 2,
+    "persons": [
+      "seleucus-i"
+    ],
+    "wiki": {
+      "ja": "セレウコス朝",
+      "en": "Seleucid Empire"
+    }
+  },
+  {
+    "id": "founding-of-ptolemaic-egypt",
+    "type": "founding",
+    "year": -305,
+    "year_end": null,
+    "lat": 31.2,
+    "lon": 29.92,
+    "name": {
+      "ja": "プトレマイオス朝エジプトの成立",
+      "en": "Founding of Ptolemaic Egypt"
+    },
+    "desc": {
+      "ja": "アレクサンドロスの部将プトレマイオスがエジプトで王を称し、アレクサンドリアを都とするプトレマイオス朝を開いた。ヘレニズム諸国で最も長く続いた。",
+      "en": "Ptolemy, one of Alexander's generals, took the royal title in Egypt and founded the Ptolemaic dynasty with its capital at Alexandria."
+    },
+    "importance": 2,
+    "persons": [
+      "ptolemy-i"
+    ],
+    "wiki": {
+      "ja": "プトレマイオス朝",
+      "en": "Ptolemaic Kingdom"
+    }
+  },
+  {
+    "id": "mouseion-of-alexandria",
+    "type": "culture",
+    "year": -300,
+    "year_end": null,
+    "lat": 31.2,
+    "lon": 29.92,
+    "name": {
+      "ja": "ムセイオンの設立",
+      "en": "Founding of the Mouseion of Alexandria"
+    },
+    "desc": {
+      "ja": "プトレマイオス朝がアレクサンドリアに王立研究所ムセイオンと大図書館を設け、エウクレイデスやエラトステネスらが自然科学を発展させた。",
+      "en": "The Ptolemies founded the Mouseion and great library at Alexandria, where scholars such as Euclid and Eratosthenes advanced the sciences."
+    },
+    "importance": 2,
+    "persons": [
+      "ptolemy-i",
+      "euclid",
+      "eratosthenes"
+    ],
+    "wiki": {
+      "ja": "ムセイオン",
+      "en": "Mouseion"
+    }
+  },
+  {
+    "id": "stoicism-and-epicureanism",
+    "type": "culture",
+    "year": -300,
+    "year_end": null,
+    "lat": 37.98,
+    "lon": 23.73,
+    "name": {
+      "ja": "ストア派・エピクロス派の成立",
+      "en": "Rise of Stoicism and Epicureanism"
+    },
+    "desc": {
+      "ja": "アテネでゼノンがストア派を、エピクロスがエピクロス派を開いた。ポリスの枠を越えた個人の生き方を説くヘレニズム哲学が広まった。",
+      "en": "In Athens Zeno founded Stoicism and Epicurus his school; Hellenistic philosophies addressed the individual beyond the polis."
+    },
+    "importance": 1,
+    "persons": [
+      "zeno-of-citium",
+      "epicurus"
+    ],
+    "wiki": {
+      "ja": "ストア派",
+      "en": "Stoicism"
+    }
+  },
+  {
+    "id": "founding-of-antigonid-macedon",
+    "type": "founding",
+    "year": -276,
+    "year_end": null,
+    "lat": 40.76,
+    "lon": 22.52,
+    "name": {
+      "ja": "アンティゴノス朝マケドニアの成立",
+      "en": "Founding of Antigonid Macedon"
+    },
+    "desc": {
+      "ja": "アンティゴノス2世がマケドニア王位を確立し、ギリシア本土を勢力下に置くアンティゴノス朝が成立した。ヘレニズム3王国が出そろった。",
+      "en": "Antigonus II secured the Macedonian throne, establishing the Antigonid dynasty and completing the three great Hellenistic kingdoms."
+    },
+    "importance": 1,
+    "persons": [
+      "antigonus-ii"
+    ],
+    "wiki": {
+      "ja": "アンティゴノス朝",
+      "en": "Antigonid dynasty"
+    }
+  },
+  {
+    "id": "greco-bactrian-independence",
+    "type": "founding",
+    "year": -255,
+    "year_end": null,
+    "lat": 36.76,
+    "lon": 66.9,
+    "name": {
+      "ja": "バクトリアの独立",
+      "en": "Independence of Greco-Bactria"
+    },
+    "desc": {
+      "ja": "セレウコス朝からギリシア系のバクトリア王国が独立した。ギリシア文化を中央アジア・インド北西部に伝える拠点となった。",
+      "en": "The Greek rulers of Bactria broke away from the Seleucids, creating a kingdom that spread Greek culture into Central Asia and northwest India."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "グレコ・バクトリア王国",
+      "en": "Greco-Bactrian Kingdom"
+    }
+  },
+  {
+    "id": "founding-of-parthia",
+    "type": "founding",
+    "year": -248,
+    "year_end": null,
+    "lat": 38.08,
+    "lon": 58.2,
+    "name": {
+      "ja": "パルティアの建国",
+      "en": "Founding of Parthia"
+    },
+    "desc": {
+      "ja": "イラン系遊牧民の族長アルサケスがセレウコス朝から自立し、パルティア(安息)を建てた。のちイランからメソポタミアを支配した。",
+      "en": "Arsaces, chief of an Iranian nomadic people, broke from the Seleucids and founded Parthia, which later ruled Iran and Mesopotamia."
+    },
+    "importance": 3,
+    "persons": [
+      "arsaces-i"
+    ],
+    "wiki": {
+      "ja": "パルティア",
+      "en": "Parthian Empire"
+    }
+  },
+  {
+    "id": "death-of-archimedes",
+    "type": "culture",
+    "year": -212,
+    "year_end": null,
+    "lat": 37.08,
+    "lon": 15.29,
+    "name": {
+      "ja": "アルキメデスの死（シラクサ陥落）",
+      "en": "Death of Archimedes at Syracuse"
+    },
+    "desc": {
+      "ja": "第2回ポエニ戦争中、ローマ軍がシラクサを攻略し、浮力の原理などを発見したヘレニズム最大の科学者アルキメデスが殺された。",
+      "en": "Roman forces took Syracuse during the Second Punic War, and Archimedes, the greatest Hellenistic scientist, was killed."
+    },
+    "importance": 1,
+    "persons": [
+      "archimedes"
+    ],
+    "wiki": {
+      "ja": "アルキメデス",
+      "en": "Archimedes"
+    }
+  },
+  {
+    "id": "founding-of-maurya",
+    "type": "founding",
+    "year": -317,
+    "year_end": null,
+    "lat": 25.61,
+    "lon": 85.14,
+    "name": {
+      "ja": "マウリヤ朝の成立",
+      "en": "Founding of the Maurya Empire"
+    },
+    "desc": {
+      "ja": "チャンドラグプタがナンダ朝を倒してパータリプトラを都にマウリヤ朝を建て、インド最初の統一国家の基礎を築いた。西北インドからセレウコス朝勢力も退けた。",
+      "en": "Chandragupta overthrew the Nanda dynasty and founded the Maurya Empire at Pataliputra, India's first large unified state."
+    },
+    "importance": 3,
+    "persons": [
+      "chandragupta-maurya"
+    ],
+    "wiki": {
+      "ja": "マウリヤ朝",
+      "en": "Maurya Empire"
+    }
+  },
+  {
+    "id": "kalinga-war",
+    "type": "battle",
+    "year": -261,
+    "year_end": null,
+    "lat": 20.19,
+    "lon": 85.84,
+    "name": {
+      "ja": "カリンガ征服",
+      "en": "Kalinga War"
+    },
+    "desc": {
+      "ja": "アショーカ王が東海岸のカリンガ国を征服した。戦争の惨禍を悔いた王は仏教に深く帰依し、ダルマによる統治を目指した。",
+      "en": "Ashoka conquered Kalinga on the east coast; remorse over the carnage turned him toward Buddhism and rule by dharma."
+    },
+    "importance": 2,
+    "persons": [
+      "ashoka"
+    ],
+    "wiki": {
+      "ja": "カリンガ戦争",
+      "en": "Kalinga War"
+    }
+  },
+  {
+    "id": "edicts-of-ashoka",
+    "type": "politics",
+    "year": -257,
+    "year_end": null,
+    "lat": 25.61,
+    "lon": 85.14,
+    "name": {
+      "ja": "アショーカ王の法勅",
+      "en": "Edicts of Ashoka"
+    },
+    "desc": {
+      "ja": "アショーカ王はダルマ(法)に基づく統治を磨崖碑・石柱碑に刻ませた。仏典の結集を行い、セイロンにも布教使を送った。",
+      "en": "Ashoka had edicts proclaiming rule by dharma carved on rocks and pillars, sponsored a Buddhist council and sent missions to Ceylon."
+    },
+    "importance": 3,
+    "persons": [
+      "ashoka"
+    ],
+    "wiki": {
+      "en": "Edicts of Ashoka"
+    }
+  },
+  {
+    "id": "fall-of-maurya",
+    "type": "fall",
+    "year": -180,
+    "year_end": null,
+    "lat": 25.61,
+    "lon": 85.14,
+    "name": {
+      "ja": "マウリヤ朝の滅亡",
+      "en": "Fall of the Maurya Empire"
+    },
+    "desc": {
+      "ja": "アショーカ王の死後に衰退したマウリヤ朝は、将軍プシャミトラに王が殺されて滅び、シュンガ朝が成立した。以後、北インドは小国分立の時代に入った。",
+      "en": "Weakened after Ashoka, the Maurya Empire ended when the general Pushyamitra killed the last king and founded the Shunga dynasty."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "シュンガ朝",
+      "en": "Shunga Empire"
+    }
+  },
+  {
+    "id": "founding-of-kushan",
+    "type": "founding",
+    "year": 30,
+    "year_end": null,
+    "lat": 34.01,
+    "lon": 71.58,
+    "name": {
+      "ja": "クシャーナ朝の成立",
+      "en": "Founding of the Kushan Empire"
+    },
+    "desc": {
+      "ja": "1世紀、バクトリアから進出したイラン系のクシャーナ朝が西北インドを統一した。プルシャプラを都とし、東西交易で繁栄した。",
+      "en": "In the 1st century the Kushans, moving from Bactria, united northwest India with Purushapura as capital and prospered on trade."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "クシャーナ朝",
+      "en": "Kushan Empire"
+    }
+  },
+  {
+    "id": "gandhara-art",
+    "type": "culture",
+    "year": 100,
+    "year_end": null,
+    "lat": 33.74,
+    "lon": 72.79,
+    "name": {
+      "ja": "ガンダーラ美術の発展",
+      "en": "Flourishing of Gandhara Art"
+    },
+    "desc": {
+      "ja": "クシャーナ朝下のガンダーラ地方で、ヘレニズムの影響を受けて仏像が作られ始めた。この仏教美術は中央アジアを経て中国・日本に伝わった。",
+      "en": "Under the Kushans, Hellenistic-influenced Buddha images were created in Gandhara; this art spread via Central Asia to China and Japan."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "ガンダーラ美術",
+      "en": "Greco-Buddhist art"
+    }
+  },
+  {
+    "id": "kanishka-accession",
+    "type": "politics",
+    "year": 127,
+    "year_end": null,
+    "lat": 34.01,
+    "lon": 71.58,
+    "name": {
+      "ja": "カニシカ王の即位",
+      "en": "Accession of Kanishka"
+    },
+    "desc": {
+      "ja": "クシャーナ朝最盛期の王カニシカが即位した。仏教を保護して第4回仏典結集を行い、中央アジアからガンジス川中流域まで支配した。",
+      "en": "Kanishka, the greatest Kushan king, took the throne; he patronized Buddhism, held the Fourth Council and ruled from Central Asia to the Ganges."
+    },
+    "importance": 3,
+    "persons": [
+      "kanishka"
+    ],
+    "wiki": {
+      "ja": "カニシカ1世",
+      "en": "Kanishka"
+    }
+  },
+  {
+    "id": "rise-of-mahayana",
+    "type": "religion",
+    "year": 150,
+    "year_end": null,
+    "lat": 16.57,
+    "lon": 80.36,
+    "name": {
+      "ja": "大乗仏教の成立",
+      "en": "Rise of Mahayana Buddhism"
+    },
+    "desc": {
+      "ja": "衆生の救済を説く大乗仏教が成立し、ナーガールジュナ(竜樹)が空の思想を理論化した。中央アジアを経て東アジアに広まった。",
+      "en": "Mahayana Buddhism, stressing universal salvation, took shape; Nagarjuna systematized its doctrine of emptiness and it spread to East Asia."
+    },
+    "importance": 2,
+    "persons": [
+      "nagarjuna"
+    ],
+    "wiki": {
+      "ja": "大乗仏教",
+      "en": "Mahayana"
+    }
+  },
+  {
+    "id": "founding-of-gupta",
+    "type": "founding",
+    "year": 320,
+    "year_end": null,
+    "lat": 25.61,
+    "lon": 85.14,
+    "name": {
+      "ja": "グプタ朝の成立",
+      "en": "Founding of the Gupta Empire"
+    },
+    "desc": {
+      "ja": "チャンドラグプタ1世がパータリプトラを都にグプタ朝を建てた。北インドを統一し、ヒンドゥー教とサンスクリット文化が栄えた。",
+      "en": "Chandragupta I founded the Gupta Empire at Pataliputra; it unified northern India and fostered Hinduism and Sanskrit culture."
+    },
+    "importance": 3,
+    "persons": [
+      "chandragupta-i"
+    ],
+    "wiki": {
+      "ja": "グプタ朝",
+      "en": "Gupta Empire"
+    }
+  },
+  {
+    "id": "chandragupta-ii-reign",
+    "type": "politics",
+    "year": 376,
+    "year_end": 414,
+    "lat": 25.61,
+    "lon": 85.14,
+    "name": {
+      "ja": "チャンドラグプタ2世の治世",
+      "en": "Reign of Chandragupta II"
+    },
+    "desc": {
+      "ja": "グプタ朝最盛期の王チャンドラグプタ2世(超日王)が北インドの大半を支配した。宮廷ではカーリダーサら詩人が活躍した。",
+      "en": "Chandragupta II ruled most of northern India at the Gupta zenith; poets such as Kalidasa flourished at his court."
+    },
+    "importance": 2,
+    "persons": [
+      "chandragupta-ii",
+      "kalidasa"
+    ],
+    "wiki": {
+      "ja": "チャンドラグプタ2世",
+      "en": "Chandragupta II"
+    }
+  },
+  {
+    "id": "faxian-journey",
+    "type": "exploration",
+    "year": 399,
+    "year_end": 412,
+    "lat": 25.61,
+    "lon": 85.14,
+    "name": {
+      "ja": "法顕のインド旅行",
+      "en": "Faxian's Journey to India"
+    },
+    "desc": {
+      "ja": "東晋の僧法顕が仏典を求めて陸路でインドに赴き、グプタ朝下のインドを見聞して海路で帰国した。旅行記『仏国記』を著した。",
+      "en": "The Eastern Jin monk Faxian traveled overland to Gupta India in search of scriptures and returned by sea, writing the Record of Buddhist Kingdoms."
+    },
+    "importance": 1,
+    "persons": [
+      "faxian"
+    ],
+    "wiki": {
+      "ja": "法顕",
+      "en": "Faxian"
+    }
+  },
+  {
+    "id": "kalidasa-shakuntala",
+    "type": "culture",
+    "year": 400,
+    "year_end": null,
+    "lat": 23.18,
+    "lon": 75.78,
+    "name": {
+      "ja": "カーリダーサ『シャクンタラー』",
+      "en": "Kalidasa's Shakuntala"
+    },
+    "desc": {
+      "ja": "宮廷詩人カーリダーサがサンスクリット語の戯曲『シャクンタラー』を著した。グプタ朝ではサンスクリット文学や純インド風のグプタ美術が栄えた。",
+      "en": "The court poet Kalidasa wrote the Sanskrit drama Shakuntala; Gupta India saw a flowering of Sanskrit literature and indigenous Gupta art."
+    },
+    "importance": 2,
+    "persons": [
+      "kalidasa"
+    ],
+    "wiki": {
+      "ja": "シャクンタラー",
+      "en": "Abhijnanashakuntalam"
+    }
+  },
+  {
+    "id": "founding-of-nalanda",
+    "type": "culture",
+    "year": 427,
+    "year_end": null,
+    "lat": 25.14,
+    "lon": 85.44,
+    "name": {
+      "ja": "ナーランダー僧院の創建",
+      "en": "Founding of Nalanda"
+    },
+    "desc": {
+      "ja": "グプタ朝の王クマーラグプタがナーランダー僧院を創建した。仏教教学の最高学府として栄え、のち唐の玄奘や義浄もここで学んだ。",
+      "en": "The Gupta king Kumaragupta founded the monastery of Nalanda, which became the great center of Buddhist learning later visited by Xuanzang."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "en": "Nalanda"
+    }
+  },
+  {
+    "id": "aryabhata-zero",
+    "type": "culture",
+    "year": 499,
+    "year_end": null,
+    "lat": 25.61,
+    "lon": 85.14,
+    "name": {
+      "ja": "アーリヤバタの天文学とゼロの概念",
+      "en": "Aryabhata and the Concept of Zero"
+    },
+    "desc": {
+      "ja": "グプタ朝の数学者・天文学者アーリヤバタが天文書を著した。この時代に十進法とゼロの概念が確立し、のちイスラーム世界に伝わった。",
+      "en": "The Gupta mathematician Aryabhata wrote his astronomical treatise; the decimal system and concept of zero matured in this era and later passed to the Islamic world."
+    },
+    "importance": 1,
+    "persons": [
+      "aryabhata"
+    ],
+    "wiki": {
+      "ja": "アーリヤバタ",
+      "en": "Aryabhata"
+    }
+  },
+  {
+    "id": "fall-of-gupta",
+    "type": "fall",
+    "year": 550,
+    "year_end": null,
+    "lat": 25.61,
+    "lon": 85.14,
+    "name": {
+      "ja": "グプタ朝の滅亡",
+      "en": "Fall of the Gupta Empire"
+    },
+    "desc": {
+      "ja": "5世紀後半からの遊牧民エフタルの侵入と地方勢力の自立でグプタ朝は衰え、6世紀半ばに滅亡した。北インドは分裂時代に入った。",
+      "en": "Hephthalite invasions from the late 5th century and regional secessions weakened the Guptas, who collapsed by the mid-6th century."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "グプタ朝",
+      "en": "Gupta Empire"
+    }
+  },
+  {
+    "id": "maodun-unites-xiongnu",
+    "type": "founding",
+    "year": -209,
+    "year_end": null,
+    "lat": 47.3,
+    "lon": 102.8,
+    "name": {
+      "ja": "冒頓単于の匈奴統一",
+      "en": "Modu Chanyu Unites the Xiongnu"
+    },
+    "desc": {
+      "ja": "冒頓単于がモンゴル高原の匈奴を統一し、東胡・月氏を破って大遊牧国家を築いた。前200年には白登山で漢の高祖を包囲した。",
+      "en": "Modu Chanyu united the Xiongnu of the Mongolian steppe, crushed the Donghu and Yuezhi, and in 200 BC besieged Han Gaozu at Baideng."
+    },
+    "importance": 2,
+    "persons": [
+      "maodun"
+    ],
+    "wiki": {
+      "ja": "冒頓単于",
+      "en": "Modu Chanyu"
+    }
+  },
+  {
+    "id": "qin-unification",
+    "type": "politics",
+    "year": -221,
+    "year_end": null,
+    "lat": 34.33,
+    "lon": 108.71,
+    "name": {
+      "ja": "秦の中国統一",
+      "en": "Qin Unification of China"
+    },
+    "desc": {
+      "ja": "秦王政が六国を滅ぼして中国を統一し、始皇帝と称した。郡県制・文字や度量衡の統一を進め、焚書坑儒を行い、万里の長城を修築した。",
+      "en": "King Zheng of Qin conquered the six states, unified China and took the title First Emperor; he standardized script and measures and built the Great Wall."
+    },
+    "importance": 3,
+    "persons": [
+      "qin-shi-huang"
+    ],
+    "wiki": {
+      "ja": "秦",
+      "en": "Qin's wars of unification"
+    }
+  },
+  {
+    "id": "chen-sheng-wu-guang-uprising",
+    "type": "revolution",
+    "year": -209,
+    "year_end": null,
+    "lat": 33.63,
+    "lon": 116.98,
+    "name": {
+      "ja": "陳勝・呉広の乱",
+      "en": "Chen Sheng and Wu Guang Uprising"
+    },
+    "desc": {
+      "ja": "始皇帝の死の翌年、農民の陳勝・呉広が秦の苛政に対して挙兵した。中国史上最初の農民反乱で、各地の反乱を誘発し秦を崩壊に導いた。",
+      "en": "A year after the First Emperor's death, peasants Chen Sheng and Wu Guang rose against Qin tyranny, China's first peasant revolt, sparking rebellions that toppled Qin."
+    },
+    "importance": 2,
+    "persons": [
+      "chen-sheng"
+    ],
+    "wiki": {
+      "ja": "陳勝・呉広の乱",
+      "en": "Dazexiang uprising"
+    }
+  },
+  {
+    "id": "founding-of-former-han",
+    "type": "founding",
+    "year": -202,
+    "year_end": null,
+    "lat": 34.27,
+    "lon": 108.94,
+    "name": {
+      "ja": "前漢の成立",
+      "en": "Founding of the Former Han"
+    },
+    "desc": {
+      "ja": "前206年に秦を滅ぼした劉邦が、垓下の戦いで項羽を破って皇帝(高祖)となり、長安を都に前漢を建てた。郡国制を採用した。",
+      "en": "After Qin fell in 206 BC, Liu Bang defeated Xiang Yu at Gaixia and became emperor (Gaozu), founding the Han at Chang'an with a mixed commandery-kingdom system."
+    },
+    "importance": 3,
+    "persons": [
+      "liu-bang",
+      "xiang-yu"
+    ],
+    "wiki": {
+      "ja": "前漢",
+      "en": "Han dynasty"
+    }
+  },
+  {
+    "id": "confucianism-state-ideology",
+    "type": "culture",
+    "year": -136,
+    "year_end": null,
+    "lat": 34.27,
+    "lon": 108.94,
+    "name": {
+      "ja": "儒学の官学化",
+      "en": "Confucianism Becomes State Doctrine"
+    },
+    "desc": {
+      "ja": "武帝が董仲舒の献策で五経博士を置き、儒学を官学とした。郷挙里選で官吏を登用し、塩・鉄の専売や均輸・平準法で財政を強化した。",
+      "en": "On Dong Zhongshu's advice Emperor Wu established the Five Classics academicians, making Confucianism state orthodoxy, alongside salt and iron monopolies."
+    },
+    "importance": 2,
+    "persons": [
+      "emperor-wu-of-han",
+      "dong-zhongshu"
+    ],
+    "wiki": {
+      "ja": "董仲舒",
+      "en": "Dong Zhongshu"
+    }
+  },
+  {
+    "id": "zhang-qian-mission",
+    "type": "exploration",
+    "year": -139,
+    "year_end": -126,
+    "lat": 36.76,
+    "lon": 66.9,
+    "name": {
+      "ja": "張騫の西域派遣",
+      "en": "Zhang Qian's Mission to the Western Regions"
+    },
+    "desc": {
+      "ja": "武帝が匈奴挟撃のため張騫を大月氏に派遣した。同盟は成らなかったが西域の情報がもたらされ、絹の道が開かれる契機となった。",
+      "en": "Emperor Wu sent Zhang Qian to the Yuezhi to ally against the Xiongnu; no alliance resulted, but his reports opened the way to the Silk Road."
+    },
+    "importance": 3,
+    "persons": [
+      "zhang-qian",
+      "emperor-wu-of-han"
+    ],
+    "wiki": {
+      "ja": "張騫",
+      "en": "Zhang Qian"
+    }
+  },
+  {
+    "id": "four-commanderies-of-han",
+    "type": "politics",
+    "year": -108,
+    "year_end": null,
+    "lat": 39.02,
+    "lon": 125.75,
+    "name": {
+      "ja": "楽浪郡など朝鮮4郡の設置",
+      "en": "Han Establishes the Four Commanderies in Korea"
+    },
+    "desc": {
+      "ja": "武帝が衛氏朝鮮を滅ぼし、楽浪郡など4郡を置いて朝鮮半島北部を直轄した。南方では南越を滅ぼし、北では匈奴を討って河西4郡を設けた。",
+      "en": "Emperor Wu destroyed Wiman Joseon and set up Lelang and three other commanderies in northern Korea, while also conquering Nanyue and the Hexi corridor."
+    },
+    "importance": 2,
+    "persons": [
+      "emperor-wu-of-han"
+    ],
+    "wiki": {
+      "ja": "漢四郡",
+      "en": "Four Commanderies of Han"
+    }
+  },
+  {
+    "id": "shiji",
+    "type": "culture",
+    "year": -91,
+    "year_end": null,
+    "lat": 34.27,
+    "lon": 108.94,
+    "name": {
+      "ja": "司馬遷『史記』の完成",
+      "en": "Sima Qian Completes the Shiji"
+    },
+    "desc": {
+      "ja": "司馬遷が黄帝から武帝までの通史『史記』を完成させた。本紀・列伝からなる紀伝体は、班固の『漢書』以後の中国正史の模範となった。",
+      "en": "Sima Qian completed the Shiji, a history from the Yellow Emperor to Emperor Wu; its annals-biography format became the model for Chinese dynastic histories."
+    },
+    "importance": 2,
+    "persons": [
+      "sima-qian"
+    ],
+    "wiki": {
+      "ja": "史記",
+      "en": "Records of the Grand Historian"
+    }
+  },
+  {
+    "id": "wang-mang-founds-xin",
+    "type": "founding",
+    "year": 8,
+    "year_end": null,
+    "lat": 34.27,
+    "lon": 108.94,
+    "name": {
+      "ja": "王莽の新建国",
+      "en": "Wang Mang Founds the Xin Dynasty"
+    },
+    "desc": {
+      "ja": "外戚の王莽が前漢を奪って新を建て、『周礼』に基づく復古的改革を行った。急進的な政策は社会を混乱させ、赤眉の乱を招いた。",
+      "en": "The imperial in-law Wang Mang usurped the Han and founded the Xin, imposing archaic reforms modeled on the Zhou that caused chaos and the Red Eyebrows revolt."
+    },
+    "importance": 2,
+    "persons": [
+      "wang-mang"
+    ],
+    "wiki": {
+      "ja": "新",
+      "en": "Xin dynasty"
+    }
+  },
+  {
+    "id": "founding-of-later-han",
+    "type": "founding",
+    "year": 25,
+    "year_end": null,
+    "lat": 34.68,
+    "lon": 112.45,
+    "name": {
+      "ja": "後漢の成立",
+      "en": "Founding of the Later Han"
+    },
+    "desc": {
+      "ja": "漢の一族劉秀(光武帝)が新の滅亡後の混乱を収め、洛陽を都に漢を再興した。赤眉の乱を平定し、豪族の支持を基盤に統治した。",
+      "en": "Liu Xiu (Emperor Guangwu), a Han scion, restored the Han at Luoyang after the fall of Xin, suppressing the Red Eyebrows with the backing of the great families."
+    },
+    "importance": 2,
+    "persons": [
+      "guangwu"
+    ],
+    "wiki": {
+      "ja": "後漢",
+      "en": "Eastern Han dynasty"
+    }
+  },
+  {
+    "id": "gold-seal-of-na",
+    "type": "politics",
+    "year": 57,
+    "year_end": null,
+    "lat": 33.66,
+    "lon": 130.31,
+    "name": {
+      "ja": "倭の奴国王の後漢朝貢（金印）",
+      "en": "King of Na Sends Tribute to Han (Gold Seal)"
+    },
+    "desc": {
+      "ja": "倭の奴国王が後漢の光武帝に朝貢し、印綬を授けられた。江戸時代に志賀島で発見された「漢委奴国王」の金印がこれにあたるとされる。",
+      "en": "The king of Na in Wa (Japan) sent tribute to Emperor Guangwu and received a seal, identified with the gold seal found on Shikanoshima in 1784."
+    },
+    "importance": 2,
+    "persons": [
+      "guangwu"
+    ],
+    "wiki": {
+      "ja": "漢委奴国王印",
+      "en": "King of Na gold seal"
+    }
+  },
+  {
+    "id": "funan-founding",
+    "type": "founding",
+    "year": 50,
+    "year_end": null,
+    "lat": 10.25,
+    "lon": 105.15,
+    "name": {
+      "ja": "扶南の建国",
+      "en": "Founding of Funan"
+    },
+    "desc": {
+      "ja": "1世紀、メコン川下流に東南アジア最古の国家扶南が成立した。港市オケオからはローマの金貨やインドの神像が出土し、海の道の中継点だった。",
+      "en": "In the 1st century Funan, Southeast Asia's earliest known state, arose on the lower Mekong; its port Oc Eo yielded Roman coins and Indian images."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "扶南",
+      "en": "Funan"
+    }
+  },
+  {
+    "id": "ban-chao-western-regions",
+    "type": "exploration",
+    "year": 91,
+    "year_end": null,
+    "lat": 41.72,
+    "lon": 82.94,
+    "name": {
+      "ja": "班超の西域経営",
+      "en": "Ban Chao Governs the Western Regions"
+    },
+    "desc": {
+      "ja": "班超が西域都護となり、タリム盆地のオアシス諸国を後漢に服属させた。97年には部下の甘英を大秦(ローマ)に派遣した。",
+      "en": "Ban Chao became Protector General of the Western Regions, bringing the Tarim oasis states under Han; in 97 he sent Gan Ying toward Rome (Daqin)."
+    },
+    "importance": 1,
+    "persons": [
+      "ban-chao",
+      "gan-ying"
+    ],
+    "wiki": {
+      "ja": "班超",
+      "en": "Ban Chao"
+    }
+  },
+  {
+    "id": "cai-lun-paper",
+    "type": "culture",
+    "year": 105,
+    "year_end": null,
+    "lat": 34.68,
+    "lon": 112.45,
+    "name": {
+      "ja": "蔡倫の製紙法改良",
+      "en": "Cai Lun Improves Papermaking"
+    },
+    "desc": {
+      "ja": "宦官の蔡倫が樹皮や麻くずを材料とする製紙法を改良し、和帝に献上した。紙は木簡・竹簡に代わって普及し、やがて世界に伝わった。",
+      "en": "The eunuch Cai Lun improved papermaking using bark and hemp waste and presented it to Emperor He; paper replaced bamboo slips and spread worldwide."
+    },
+    "importance": 3,
+    "persons": [
+      "cai-lun"
+    ],
+    "wiki": {
+      "ja": "蔡倫",
+      "en": "Cai Lun"
+    }
+  },
+  {
+    "id": "yellow-turban-rebellion",
+    "type": "revolution",
+    "year": 184,
+    "year_end": null,
+    "lat": 37.22,
+    "lon": 115.03,
+    "name": {
+      "ja": "黄巾の乱",
+      "en": "Yellow Turban Rebellion"
+    },
+    "desc": {
+      "ja": "党錮の禁で政治が混乱するなか、太平道の張角が率いる農民が黄色い頭巾を目印に蜂起した。後漢の支配は崩れ、群雄割拠の時代に入った。",
+      "en": "Amid court strife, peasants led by Zhang Jue of the Taiping Dao rose wearing yellow turbans; Han authority collapsed and warlords divided the land."
+    },
+    "importance": 3,
+    "persons": [
+      "zhang-jue"
+    ],
+    "wiki": {
+      "ja": "黄巾の乱",
+      "en": "Yellow Turban Rebellion"
+    }
+  },
+  {
+    "id": "champa-founding",
+    "type": "founding",
+    "year": 192,
+    "year_end": null,
+    "lat": 16.47,
+    "lon": 107.59,
+    "name": {
+      "ja": "チャンパーの建国",
+      "en": "Founding of Champa"
+    },
+    "desc": {
+      "ja": "ベトナム中部で後漢の日南郡から独立してチャンパー(林邑)が成立した。インド文化の影響を受け、南シナ海の交易で栄えた。",
+      "en": "Champa (Linyi) arose in central Vietnam after breaking from the Han commandery of Rinan; Indianized, it prospered on South China Sea trade."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "チャンパ王国",
+      "en": "Champa"
+    }
+  },
+  {
+    "id": "fall-of-han-founding-of-wei",
+    "type": "fall",
+    "year": 220,
+    "year_end": null,
+    "lat": 34.68,
+    "lon": 112.45,
+    "name": {
+      "ja": "後漢の滅亡と三国の分立",
+      "en": "Fall of the Han and Rise of the Three Kingdoms"
+    },
+    "desc": {
+      "ja": "赤壁の戦いで天下三分が決まり、曹操の子曹丕が献帝から禅譲を受けて魏を建てた。翌年劉備が蜀を、229年孫権が呉を建て、三国が分立した。",
+      "en": "After Red Cliffs set the stage, Cao Cao's son Cao Pi took the abdication of the last Han emperor and founded Wei; Liu Bei's Shu and Sun Quan's Wu followed."
+    },
+    "importance": 3,
+    "persons": [
+      "cao-cao",
+      "cao-pi",
+      "liu-bei",
+      "sun-quan"
+    ],
+    "wiki": {
+      "ja": "三国時代 (中国)",
+      "en": "Three Kingdoms"
+    }
+  },
+  {
+    "id": "himiko-envoy-to-wei",
+    "type": "politics",
+    "year": 239,
+    "year_end": null,
+    "lat": 34.68,
+    "lon": 112.45,
+    "name": {
+      "ja": "卑弥呼の魏への遣使",
+      "en": "Himiko Sends Envoys to Wei"
+    },
+    "desc": {
+      "ja": "邪馬台国の女王卑弥呼が帯方郡を通じて魏に使者を送り、「親魏倭王」の称号と金印を授けられた。『魏志』倭人伝に記されている。",
+      "en": "Queen Himiko of Yamatai sent envoys to Wei and was granted the title 'Queen of Wa, Friend of Wei' and a gold seal, as recorded in the Wei chronicle."
+    },
+    "importance": 2,
+    "persons": [
+      "himiko"
+    ],
+    "wiki": {
+      "ja": "卑弥呼",
+      "en": "Himiko"
+    }
+  },
+  {
+    "id": "jin-unification",
+    "type": "founding",
+    "year": 280,
+    "year_end": null,
+    "lat": 34.68,
+    "lon": 112.45,
+    "name": {
+      "ja": "晋の中国統一",
+      "en": "Jin Unifies China"
+    },
+    "desc": {
+      "ja": "魏を奪った司馬炎(武帝)が265年に晋を建て、280年に呉を滅ぼして中国を再統一した。占田・課田法を定めたが、八王の乱で早くも乱れた。",
+      "en": "Sima Yan, who had taken Wei in 265, conquered Wu in 280 and reunified China under the Jin, which soon fell into the War of the Eight Princes."
+    },
+    "importance": 2,
+    "persons": [
+      "sima-yan"
+    ],
+    "wiki": {
+      "ja": "西晋",
+      "en": "Jin dynasty (266–420)"
+    }
+  },
+  {
+    "id": "goguryeo-destroys-lelang",
+    "type": "fall",
+    "year": 313,
+    "year_end": null,
+    "lat": 39.02,
+    "lon": 125.75,
+    "name": {
+      "ja": "高句麗の楽浪郡滅亡",
+      "en": "Goguryeo Destroys Lelang"
+    },
+    "desc": {
+      "ja": "中国東北部に興った高句麗が楽浪郡を滅ぼし、中国の朝鮮半島直接支配は終わった。半島南部では4世紀に百済・新羅が成立した。",
+      "en": "Goguryeo, risen in Manchuria, destroyed Lelang commandery, ending direct Chinese rule in Korea; Baekje and Silla formed in the south in the 4th century."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "楽浪郡",
+      "en": "Lelang Commandery"
+    }
+  },
+  {
+    "id": "fall-of-western-jin",
+    "type": "fall",
+    "year": 316,
+    "year_end": null,
+    "lat": 34.27,
+    "lon": 108.94,
+    "name": {
+      "ja": "西晋の滅亡（永嘉の乱）",
+      "en": "Fall of the Western Jin"
+    },
+    "desc": {
+      "ja": "匈奴が永嘉の乱で洛陽・長安を陥れ、西晋は滅亡した。華北は五胡十六国の時代に入り、翌年江南では司馬睿が東晋を建てた。",
+      "en": "The Xiongnu sacked Luoyang and Chang'an in the Yongjia disaster and the Western Jin fell; the north entered the Sixteen Kingdoms era and the Eastern Jin arose in the south."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "永嘉の乱",
+      "en": "Disaster of Yongjia"
+    }
+  },
+  {
+    "id": "orchid-pavilion-gathering",
+    "type": "culture",
+    "year": 353,
+    "year_end": null,
+    "lat": 30,
+    "lon": 120.58,
+    "name": {
+      "ja": "王羲之「蘭亭序」",
+      "en": "Wang Xizhi's Orchid Pavilion Preface"
+    },
+    "desc": {
+      "ja": "書聖と呼ばれる王羲之が蘭亭の宴で「蘭亭序」を書いた。江南の東晋では貴族文化が栄え、画家顧愷之や詩人陶淵明らが活躍した。",
+      "en": "Wang Xizhi, the 'sage of calligraphy', wrote the Orchid Pavilion Preface; Eastern Jin aristocratic culture also produced the painter Gu Kaizhi and the poet Tao Yuanming."
+    },
+    "importance": 1,
+    "persons": [
+      "wang-xizhi",
+      "tao-yuanming"
+    ],
+    "wiki": {
+      "ja": "蘭亭序",
+      "en": "Lantingji Xu"
+    }
+  },
+  {
+    "id": "battle-of-fei-river",
+    "type": "battle",
+    "year": 383,
+    "year_end": null,
+    "lat": 32.56,
+    "lon": 116.79,
+    "name": {
+      "ja": "淝水の戦い",
+      "en": "Battle of Fei River"
+    },
+    "desc": {
+      "ja": "華北を統一した前秦の苻堅が大軍で東晋に侵攻したが、淝水で大敗した。前秦は崩壊し、華北は再び分裂、南北対立が固定化した。",
+      "en": "Fu Jian of Former Qin, having unified the north, invaded the Eastern Jin but was routed at the Fei River; his empire collapsed and the north-south divide hardened."
+    },
+    "importance": 2,
+    "persons": [
+      "fu-jian"
+    ],
+    "wiki": {
+      "ja": "淝水の戦い",
+      "en": "Battle of Fei River"
+    }
+  },
+  {
+    "id": "founding-of-northern-wei",
+    "type": "founding",
+    "year": 386,
+    "year_end": null,
+    "lat": 40.09,
+    "lon": 113.3,
+    "name": {
+      "ja": "北魏の建国",
+      "en": "Founding of the Northern Wei"
+    },
+    "desc": {
+      "ja": "鮮卑の拓跋珪が北魏を建て、平城(大同)を都とした。鮮卑族の諸部を解体して中国的な国家体制を整え、華北統一の基礎を築いた。",
+      "en": "Tuoba Gui of the Xianbei founded the Northern Wei with its capital at Pingcheng, reorganizing the tribes into a Chinese-style state."
+    },
+    "importance": 3,
+    "persons": [
+      "tuoba-gui"
+    ],
+    "wiki": {
+      "ja": "北魏",
+      "en": "Northern Wei"
+    }
+  },
+  {
+    "id": "gwanggaeto-stele",
+    "type": "culture",
+    "year": 414,
+    "year_end": null,
+    "lat": 41.14,
+    "lon": 126.19,
+    "name": {
+      "ja": "広開土王碑の建立",
+      "en": "Erection of the Gwanggaeto Stele"
+    },
+    "desc": {
+      "ja": "高句麗の長寿王が、領土を大きく広げた父広開土王の功績を記した石碑を丸都に建てた。倭が百済・新羅と争ったことも記される。",
+      "en": "King Jangsu of Goguryeo erected a stele at Gungnae recording the conquests of his father Gwanggaeto, including conflicts with Wa, Baekje and Silla."
+    },
+    "importance": 1,
+    "persons": [
+      "gwanggaeto"
+    ],
+    "wiki": {
+      "ja": "広開土王碑",
+      "en": "Gwanggaeto Stele"
+    }
+  },
+  {
+    "id": "five-kings-of-wa",
+    "type": "politics",
+    "year": 421,
+    "year_end": 478,
+    "lat": 34.47,
+    "lon": 135.82,
+    "name": {
+      "ja": "倭の五王の南朝遣使",
+      "en": "The Five Kings of Wa Send Envoys to the Southern Dynasties"
+    },
+    "desc": {
+      "ja": "讃・珍・済・興・武の倭の五王が南朝の宋などに朝貢し、朝鮮半島南部における軍事的地位の承認を求めた。『宋書』倭国伝に記される。",
+      "en": "Five kings of Wa (Japan) sent tribute to the Liu Song and other southern courts seeking recognition of their claims in southern Korea, as recorded in the Book of Song."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "倭の五王",
+      "en": "Five kings of Wa"
+    }
+  },
+  {
+    "id": "northern-wei-unifies-north",
+    "type": "politics",
+    "year": 439,
+    "year_end": null,
+    "lat": 40.09,
+    "lon": 113.3,
+    "name": {
+      "ja": "北魏の華北統一",
+      "en": "Northern Wei Unifies Northern China"
+    },
+    "desc": {
+      "ja": "北魏の太武帝が北涼を滅ぼして華北を統一し、五胡十六国の時代が終わった。南の宋と対峙する南北朝時代となり、のち雲崗石窟が造営された。",
+      "en": "Emperor Taiwu conquered Northern Liang and unified the north, ending the Sixteen Kingdoms; the Northern and Southern dynasties era began and the Yungang grottoes followed."
+    },
+    "importance": 2,
+    "persons": [
+      "emperor-taiwu"
+    ],
+    "wiki": {
+      "ja": "北魏",
+      "en": "Northern Wei"
+    }
+  },
+  {
+    "id": "equal-field-system",
+    "type": "politics",
+    "year": 485,
+    "year_end": null,
+    "lat": 40.09,
+    "lon": 113.3,
+    "name": {
+      "ja": "均田制の施行",
+      "en": "Introduction of the Equal-Field System"
+    },
+    "desc": {
+      "ja": "北魏の孝文帝が均田制を定め、農民に土地を給付して税収と兵力を確保した。三長制とともに、隋・唐の土地制度・税制の原型となった。",
+      "en": "Emperor Xiaowen instituted the equal-field system, allotting land to peasants to secure revenue; with the three-elder system it became the model for Sui-Tang land law."
+    },
+    "importance": 2,
+    "persons": [
+      "emperor-xiaowen"
+    ],
+    "wiki": {
+      "ja": "均田制",
+      "en": "Equal-field system"
+    }
+  },
+  {
+    "id": "xiaowen-moves-capital-to-luoyang",
+    "type": "politics",
+    "year": 494,
+    "year_end": null,
+    "lat": 34.68,
+    "lon": 112.45,
+    "name": {
+      "ja": "孝文帝の洛陽遷都と漢化政策",
+      "en": "Emperor Xiaowen Moves the Capital to Luoyang"
+    },
+    "desc": {
+      "ja": "孝文帝が都を平城から洛陽に移し、鮮卑の服装・言語を禁じて漢化政策を進めた。洛陽近郊には竜門石窟が開かれ、仏教美術が栄えた。",
+      "en": "Emperor Xiaowen moved the capital from Pingcheng to Luoyang and pushed sinicization, banning Xianbei dress and speech; the Longmen grottoes were begun nearby."
+    },
+    "importance": 3,
+    "persons": [
+      "emperor-xiaowen"
+    ],
+    "wiki": {
+      "ja": "孝文帝",
+      "en": "Emperor Xiaowen of Northern Wei"
+    }
+  },
+  {
+    "id": "buddhism-to-japan",
+    "type": "religion",
+    "year": 538,
+    "year_end": null,
+    "lat": 34.47,
+    "lon": 135.82,
+    "name": {
+      "ja": "仏教の日本伝来",
+      "en": "Introduction of Buddhism to Japan"
+    },
+    "desc": {
+      "ja": "百済の聖明王が倭の欽明天皇に仏像と経典を送り、仏教が公式に日本に伝わった。新羅でも527年に法興王が仏教を公認していた。",
+      "en": "King Seong of Baekje sent Buddhist images and sutras to the Yamato court, formally introducing Buddhism to Japan; Silla had adopted it in 527."
+    },
+    "importance": 2,
+    "persons": [
+      "seong-of-baekje"
+    ],
+    "wiki": {
+      "ja": "仏教公伝",
+      "en": "Buddhism in Japan"
+    }
+  },
+  {
+    "id": "founding-of-gokturks",
+    "type": "founding",
+    "year": 552,
+    "year_end": null,
+    "lat": 47.3,
+    "lon": 102.8,
+    "name": {
+      "ja": "突厥の建国",
+      "en": "Founding of the Türk Khaganate"
+    },
+    "desc": {
+      "ja": "トルコ系の突厥が柔然を破ってモンゴル高原に独立し、中央アジアまで支配する大遊牧国家を建てた。ササン朝と結んでエフタルも滅ぼした。",
+      "en": "The Turkic Göktürks overthrew the Rouran and built a steppe empire from Mongolia to Central Asia, destroying the Hephthalites with Sasanian help."
+    },
+    "importance": 2,
+    "persons": [
+      "bumin-qaghan"
+    ],
+    "wiki": {
+      "ja": "突厥",
+      "en": "First Turkic Khaganate"
+    }
+  },
+  {
+    "id": "founding-of-sui",
+    "type": "founding",
+    "year": 581,
+    "year_end": null,
+    "lat": 34.27,
+    "lon": 108.94,
+    "name": {
+      "ja": "隋の建国",
+      "en": "Founding of the Sui Dynasty"
+    },
+    "desc": {
+      "ja": "北周の外戚楊堅(文帝)が帝位を奪い、大興城(長安)を都に隋を建てた。均田制・府兵制を整え、科挙を始めて中央集権を強化した。",
+      "en": "Yang Jian (Emperor Wen), an in-law of the Northern Zhou, seized the throne and founded the Sui at Daxing (Chang'an), instituting the equal-field, militia and examination systems."
+    },
+    "importance": 3,
+    "persons": [
+      "yang-jian"
+    ],
+    "wiki": {
+      "ja": "隋",
+      "en": "Sui dynasty"
+    }
+  },
+  {
+    "id": "sui-unification",
+    "type": "fall",
+    "year": 589,
+    "year_end": null,
+    "lat": 32.06,
+    "lon": 118.78,
+    "name": {
+      "ja": "隋の中国統一",
+      "en": "Sui Unification of China"
+    },
+    "desc": {
+      "ja": "隋の文帝が南朝最後の王朝である陳を滅ぼし、西晋滅亡以来約270年にわたる南北分裂を終わらせて中国を統一した。",
+      "en": "Emperor Wen of Sui conquered Chen, the last southern dynasty, ending some 270 years of division since the fall of the Western Jin."
+    },
+    "importance": 2,
+    "persons": [
+      "yang-jian"
+    ],
+    "wiki": {
+      "ja": "陳 (南朝)",
+      "en": "Chen dynasty"
+    }
+  },
+  {
+    "id": "battle-of-carrhae",
+    "type": "battle",
+    "year": -53,
+    "year_end": null,
+    "lat": 36.87,
+    "lon": 39.03,
+    "name": {
+      "ja": "カルラエの戦い",
+      "en": "Battle of Carrhae"
+    },
+    "desc": {
+      "ja": "三頭政治の一人クラッススがパルティア遠征で大敗し戦死した。パルティアの騎馬戦術が示され、ローマの東方進出は阻まれた。",
+      "en": "Crassus, one of the triumvirs, was crushed and killed invading Parthia; Parthian horse archers halted Roman expansion in the East."
+    },
+    "importance": 1,
+    "persons": [
+      "crassus"
+    ],
+    "wiki": {
+      "ja": "カルラエの戦い",
+      "en": "Battle of Carrhae"
+    }
+  },
+  {
+    "id": "founding-of-sasanian-empire",
+    "type": "founding",
+    "year": 224,
+    "year_end": null,
+    "lat": 33.09,
+    "lon": 44.58,
+    "name": {
+      "ja": "ササン朝の成立",
+      "en": "Founding of the Sasanian Empire"
+    },
+    "desc": {
+      "ja": "アルダシール1世がパルティアを倒し、クテシフォンを都にササン朝ペルシアを建てた。ゾロアスター教を国教とし、アケメネス朝の復興を掲げた。",
+      "en": "Ardashir I overthrew Parthia and founded the Sasanian Empire at Ctesiphon, making Zoroastrianism the state religion and claiming the Achaemenid legacy."
+    },
+    "importance": 3,
+    "persons": [
+      "ardashir-i"
+    ],
+    "wiki": {
+      "ja": "サーサーン朝",
+      "en": "Sasanian Empire"
+    }
+  },
+  {
+    "id": "rise-of-manichaeism",
+    "type": "religion",
+    "year": 242,
+    "year_end": null,
+    "lat": 33.09,
+    "lon": 44.58,
+    "name": {
+      "ja": "マニ教の成立",
+      "en": "Rise of Manichaeism"
+    },
+    "desc": {
+      "ja": "マニがゾロアスター教・仏教・キリスト教を融合した二元論的なマニ教を説き始めた。シャープール1世に保護されたが、のち弾圧されて処刑された。",
+      "en": "Mani began preaching a dualist faith blending Zoroastrian, Buddhist and Christian elements; protected by Shapur I, he was later persecuted and executed."
+    },
+    "importance": 1,
+    "persons": [
+      "mani",
+      "shapur-i"
+    ],
+    "wiki": {
+      "ja": "マニ教",
+      "en": "Manichaeism"
+    }
+  },
+  {
+    "id": "battle-of-edessa",
+    "type": "battle",
+    "year": 260,
+    "year_end": null,
+    "lat": 37.15,
+    "lon": 38.79,
+    "name": {
+      "ja": "エデッサの戦い",
+      "en": "Battle of Edessa"
+    },
+    "desc": {
+      "ja": "ササン朝のシャープール1世がエデッサでローマ軍を破り、皇帝ウァレリアヌスを捕虜とした。ササン朝の強大さを示す事件となった。",
+      "en": "Shapur I defeated the Romans at Edessa and captured the emperor Valerian, a stunning demonstration of Sasanian power."
+    },
+    "importance": 1,
+    "persons": [
+      "shapur-i",
+      "valerian"
+    ],
+    "wiki": {
+      "ja": "エデッサの戦い",
+      "en": "Battle of Edessa"
+    }
+  },
+  {
+    "id": "khosrow-i-reign",
+    "type": "politics",
+    "year": 531,
+    "year_end": 579,
+    "lat": 33.09,
+    "lon": 44.58,
+    "name": {
+      "ja": "ホスロー1世の治世",
+      "en": "Reign of Khosrow I"
+    },
+    "desc": {
+      "ja": "ササン朝最盛期の王ホスロー1世が税制・軍制を改革し、ビザンツのユスティニアヌスと抗争した。突厥と結んでエフタルを滅ぼした。",
+      "en": "Khosrow I, at the Sasanian zenith, reformed taxation and the army, fought Justinian's Byzantium and destroyed the Hephthalites in alliance with the Türks."
+    },
+    "importance": 2,
+    "persons": [
+      "khosrow-i"
+    ],
+    "wiki": {
+      "ja": "ホスロー1世",
+      "en": "Khosrow I"
+    }
+  },
+  {
+    "id": "destruction-of-hephthalites",
+    "type": "battle",
+    "year": 558,
+    "year_end": null,
+    "lat": 39.77,
+    "lon": 64.42,
+    "name": {
+      "ja": "エフタルの滅亡",
+      "en": "Destruction of the Hephthalites"
+    },
+    "desc": {
+      "ja": "中央アジアを支配してグプタ朝やササン朝を脅かした遊牧民エフタルが、ササン朝のホスロー1世と突厥の挟撃によって滅ぼされた。",
+      "en": "The Hephthalites, nomads who had dominated Central Asia and threatened the Guptas and Sasanians, were crushed between the Sasanians and the Türks."
+    },
+    "importance": 1,
+    "persons": [
+      "khosrow-i"
+    ],
+    "wiki": {
+      "ja": "エフタル",
+      "en": "Hephthalites"
+    }
+  },
+  {
+    "id": "rise-of-aksum",
+    "type": "founding",
+    "year": 100,
+    "year_end": null,
+    "lat": 14.13,
+    "lon": 38.72,
+    "name": {
+      "ja": "アクスム王国の興隆",
+      "en": "Rise of the Kingdom of Aksum"
+    },
+    "desc": {
+      "ja": "エチオピア高原のアクスム王国が紅海・インド洋貿易で繁栄した。4世紀にはメロエ王国を滅ぼし、エザナ王がキリスト教を受容した。",
+      "en": "Aksum in the Ethiopian highlands prospered on Red Sea and Indian Ocean trade; in the 4th century it destroyed Meroë and King Ezana adopted Christianity."
+    },
+    "importance": 1,
+    "persons": [
+      "ezana"
+    ],
+    "wiki": {
+      "ja": "アクスム王国",
+      "en": "Kingdom of Aksum"
+    }
+  },
+  {
+    "id": "rome-unifies-italy",
+    "type": "politics",
+    "year": -272,
+    "year_end": null,
+    "lat": 40.47,
+    "lon": 17.24,
+    "name": {
+      "ja": "ローマのイタリア半島統一",
+      "en": "Roman Unification of Italy"
+    },
+    "desc": {
+      "ja": "ローマがピュロスの援軍を退けてギリシア植民市タレントゥムを降し、イタリア半島を統一した。征服地は分割統治で支配された。",
+      "en": "Rome, having repelled Pyrrhus, subdued the Greek colony of Tarentum and unified the Italian peninsula, ruling the conquered by divide and rule."
+    },
+    "importance": 1,
+    "persons": [
+      "pyrrhus"
+    ],
+    "wiki": {
+      "en": "Roman expansion in Italy"
+    }
+  },
+  {
+    "id": "first-punic-war",
+    "type": "battle",
+    "year": -264,
+    "year_end": -241,
+    "lat": 37.8,
+    "lon": 12.44,
+    "name": {
+      "ja": "第1回ポエニ戦争",
+      "en": "First Punic War"
+    },
+    "desc": {
+      "ja": "ローマとフェニキア人の植民市カルタゴが、西地中海の覇権をめぐりシチリア島で争った。ローマが勝利し、シチリアを最初の属州とした。",
+      "en": "Rome and the Phoenician colony of Carthage fought over Sicily; Rome won and made Sicily its first province."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "第一次ポエニ戦争",
+      "en": "First Punic War"
+    }
+  },
+  {
+    "id": "battle-of-cannae",
+    "type": "battle",
+    "year": -216,
+    "year_end": null,
+    "lat": 41.3,
+    "lon": 16.13,
+    "name": {
+      "ja": "カンネーの戦い",
+      "en": "Battle of Cannae"
+    },
+    "desc": {
+      "ja": "第2回ポエニ戦争でアルプスを越えてイタリアに侵入したハンニバルが、カンネーでローマ軍を包囲殲滅した。ローマ史上最大の敗北とされる。",
+      "en": "In the Second Punic War Hannibal, having crossed the Alps into Italy, encircled and annihilated the Roman army at Cannae, Rome's worst defeat."
+    },
+    "importance": 3,
+    "persons": [
+      "hannibal"
+    ],
+    "wiki": {
+      "ja": "カンナエの戦い",
+      "en": "Battle of Cannae"
+    }
+  },
+  {
+    "id": "battle-of-zama",
+    "type": "battle",
+    "year": -202,
+    "year_end": null,
+    "lat": 36.3,
+    "lon": 9.4,
+    "name": {
+      "ja": "ザマの戦い",
+      "en": "Battle of Zama"
+    },
+    "desc": {
+      "ja": "ローマのスキピオがアフリカに渡り、カルタゴ本国に戻ったハンニバルをザマで破った。第2回ポエニ戦争はローマの勝利に終わった。",
+      "en": "Scipio carried the war to Africa and defeated Hannibal at Zama, ending the Second Punic War in Rome's favor."
+    },
+    "importance": 2,
+    "persons": [
+      "scipio-africanus",
+      "hannibal"
+    ],
+    "wiki": {
+      "ja": "ザマの戦い",
+      "en": "Battle of Zama"
+    }
+  },
+  {
+    "id": "destruction-of-carthage",
+    "type": "fall",
+    "year": -146,
+    "year_end": null,
+    "lat": 36.85,
+    "lon": 10.32,
+    "name": {
+      "ja": "カルタゴの滅亡",
+      "en": "Destruction of Carthage"
+    },
+    "desc": {
+      "ja": "第3回ポエニ戦争でローマがカルタゴを徹底的に破壊し、アフリカ属州とした。同年コリントも破壊され、ギリシアもローマの支配下に入った。",
+      "en": "In the Third Punic War Rome razed Carthage and made it the province of Africa; the same year Corinth was destroyed and Greece fell under Roman rule."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "第三次ポエニ戦争",
+      "en": "Third Punic War"
+    }
+  },
+  {
+    "id": "gracchi-reforms",
+    "type": "politics",
+    "year": -133,
+    "year_end": -121,
+    "lat": 41.89,
+    "lon": 12.48,
+    "name": {
+      "ja": "グラックス兄弟の改革",
+      "en": "Reforms of the Gracchi"
+    },
+    "desc": {
+      "ja": "護民官グラックス兄弟が、ラティフンディアの拡大で没落した中小農民を救うため大土地所有を制限しようとしたが、元老院派に殺され失敗した。",
+      "en": "The tribunes Tiberius and Gaius Gracchus tried to limit large estates to restore the small farmers ruined by latifundia, but both were killed by the senatorial faction."
+    },
+    "importance": 3,
+    "persons": [
+      "tiberius-gracchus",
+      "gaius-gracchus"
+    ],
+    "wiki": {
+      "ja": "グラックス兄弟",
+      "en": "Gracchi"
+    }
+  },
+  {
+    "id": "spartacus-revolt",
+    "type": "revolution",
+    "year": -73,
+    "year_end": -71,
+    "lat": 41.1,
+    "lon": 14.21,
+    "name": {
+      "ja": "スパルタクスの反乱",
+      "en": "Spartacus Revolt"
+    },
+    "desc": {
+      "ja": "剣闘士スパルタクスがカプアで蜂起し、数万の奴隷を率いてイタリア各地を転戦した。クラッススとポンペイウスに鎮圧された。",
+      "en": "The gladiator Spartacus rose at Capua and led tens of thousands of slaves across Italy before being crushed by Crassus and Pompey."
+    },
+    "importance": 2,
+    "persons": [
+      "spartacus",
+      "crassus"
+    ],
+    "wiki": {
+      "ja": "第三次奴隷戦争",
+      "en": "Third Servile War"
+    }
+  },
+  {
+    "id": "gallic-wars",
+    "type": "battle",
+    "year": -58,
+    "year_end": -51,
+    "lat": 47.54,
+    "lon": 4.5,
+    "name": {
+      "ja": "カエサルのガリア遠征",
+      "en": "Caesar's Gallic Wars"
+    },
+    "desc": {
+      "ja": "前60年にポンペイウス・クラッススと第1回三頭政治を結んだカエサルがガリアを征服し、『ガリア戦記』を著した。軍事的名声を高めた。",
+      "en": "Caesar, who had formed the First Triumvirate with Pompey and Crassus in 60 BC, conquered Gaul and wrote his Commentaries, winning great military fame."
+    },
+    "importance": 2,
+    "persons": [
+      "julius-caesar"
+    ],
+    "wiki": {
+      "ja": "ガリア戦争",
+      "en": "Gallic Wars"
+    }
+  },
+  {
+    "id": "assassination-of-caesar",
+    "type": "politics",
+    "year": -44,
+    "year_end": null,
+    "lat": 41.89,
+    "lon": 12.48,
+    "name": {
+      "ja": "カエサルの暗殺",
+      "en": "Assassination of Caesar"
+    },
+    "desc": {
+      "ja": "ルビコン川を渡ってポンペイウスを倒し、終身独裁官となったカエサルが、共和政を守ろうとするブルートゥスらに元老院で暗殺された。",
+      "en": "Caesar, who had crossed the Rubicon, defeated Pompey and become dictator for life, was stabbed in the Senate by Brutus and other republicans."
+    },
+    "importance": 3,
+    "persons": [
+      "julius-caesar",
+      "brutus"
+    ],
+    "wiki": {
+      "en": "Assassination of Julius Caesar"
+    }
+  },
+  {
+    "id": "battle-of-actium",
+    "type": "battle",
+    "year": -31,
+    "year_end": null,
+    "lat": 38.95,
+    "lon": 20.77,
+    "name": {
+      "ja": "アクティウムの海戦",
+      "en": "Battle of Actium"
+    },
+    "desc": {
+      "ja": "第2回三頭政治の後、オクタウィアヌスがアントニウスとプトレマイオス朝のクレオパトラの連合軍を破った。翌年エジプトは属州となった。",
+      "en": "Octavian defeated the fleet of Mark Antony and Cleopatra of Egypt; the next year Ptolemaic Egypt became a Roman province."
+    },
+    "importance": 3,
+    "persons": [
+      "augustus",
+      "mark-antony",
+      "cleopatra"
+    ],
+    "wiki": {
+      "ja": "アクティウムの海戦",
+      "en": "Battle of Actium"
+    }
+  },
+  {
+    "id": "augustus-principate",
+    "type": "politics",
+    "year": -27,
+    "year_end": null,
+    "lat": 41.89,
+    "lon": 12.48,
+    "name": {
+      "ja": "アウグストゥスの元首政開始",
+      "en": "Augustus Establishes the Principate"
+    },
+    "desc": {
+      "ja": "オクタウィアヌスが元老院からアウグストゥスの称号を受け、市民のなかの第一人者として統治する元首政を始めた。事実上の帝政の開始である。",
+      "en": "Octavian received the title Augustus from the Senate and began the Principate, ruling as first citizen; in effect the Roman Empire began."
+    },
+    "importance": 3,
+    "persons": [
+      "augustus"
+    ],
+    "wiki": {
+      "ja": "プリンキパトゥス",
+      "en": "Principate"
+    }
+  },
+  {
+    "id": "crucifixion-of-jesus",
+    "type": "religion",
+    "year": 30,
+    "year_end": null,
+    "lat": 31.78,
+    "lon": 35.23,
+    "name": {
+      "ja": "イエスの処刑",
+      "en": "Crucifixion of Jesus"
+    },
+    "desc": {
+      "ja": "神の愛と隣人愛を説いたイエスが、ユダヤ教の指導者に訴えられ、ローマ総督ピラトのもとで十字架刑に処された。弟子たちは復活を信じ教団を形成した。",
+      "en": "Jesus, who preached God's love and love of neighbor, was accused by Jewish leaders and crucified under the governor Pilate; his disciples proclaimed his resurrection."
+    },
+    "importance": 3,
+    "persons": [
+      "jesus"
+    ],
+    "wiki": {
+      "ja": "イエス・キリスト",
+      "en": "Crucifixion of Jesus"
+    }
+  },
+  {
+    "id": "pauls-missionary-journeys",
+    "type": "religion",
+    "year": 46,
+    "year_end": 60,
+    "lat": 36.2,
+    "lon": 36.16,
+    "name": {
+      "ja": "パウロの伝道",
+      "en": "Missionary Journeys of Paul"
+    },
+    "desc": {
+      "ja": "パウロが小アジア・ギリシアを巡って異邦人に伝道し、キリスト教を世界宗教へと広げた。64年にはネロ帝の迫害でペテロとともに殉教したとされる。",
+      "en": "Paul preached to gentiles across Asia Minor and Greece, turning Christianity into a universal religion; he is said to have died in Nero's persecution of 64."
+    },
+    "importance": 2,
+    "persons": [
+      "paul-the-apostle",
+      "nero"
+    ],
+    "wiki": {
+      "ja": "パウロ",
+      "en": "Paul the Apostle"
+    }
+  },
+  {
+    "id": "five-good-emperors",
+    "type": "politics",
+    "year": 96,
+    "year_end": 180,
+    "lat": 41.89,
+    "lon": 12.48,
+    "name": {
+      "ja": "五賢帝時代",
+      "en": "Age of the Five Good Emperors"
+    },
+    "desc": {
+      "ja": "ネルウァからマルクス=アウレリウス=アントニヌスまでの五賢帝の時代、ローマは最も安定した。トラヤヌス帝のとき帝国の領土は最大となった。",
+      "en": "Under the five good emperors from Nerva to Marcus Aurelius Rome enjoyed its greatest stability; under Trajan the empire reached its maximum extent."
+    },
+    "importance": 3,
+    "persons": [
+      "trajan",
+      "hadrian",
+      "marcus-aurelius"
+    ],
+    "wiki": {
+      "ja": "五賢帝",
+      "en": "Nerva–Antonine dynasty"
+    }
+  },
+  {
+    "id": "antonine-constitution",
+    "type": "politics",
+    "year": 212,
+    "year_end": null,
+    "lat": 41.89,
+    "lon": 12.48,
+    "name": {
+      "ja": "アントニヌス勅令",
+      "en": "Constitutio Antoniniana"
+    },
+    "desc": {
+      "ja": "カラカラ帝が帝国内のほぼ全自由人にローマ市民権を与えた。市民法として発達したローマ法は、万民法として帝国全体に適用されるようになった。",
+      "en": "Emperor Caracalla granted Roman citizenship to all free inhabitants of the empire, making Roman law the law of all peoples."
+    },
+    "importance": 2,
+    "persons": [
+      "caracalla"
+    ],
+    "wiki": {
+      "ja": "アントニヌス勅令",
+      "en": "Constitutio Antoniniana"
+    }
+  },
+  {
+    "id": "crisis-of-the-third-century",
+    "type": "politics",
+    "year": 235,
+    "year_end": 284,
+    "lat": 41.89,
+    "lon": 12.48,
+    "name": {
+      "ja": "軍人皇帝時代",
+      "en": "Crisis of the Third Century"
+    },
+    "desc": {
+      "ja": "各地の軍団が擁立する皇帝が約50年間に26人も交替した。ゲルマン人やササン朝の侵入、経済の混乱で帝国は危機に陥った。",
+      "en": "Over some fifty years 26 emperors were raised by rival armies; Germanic and Sasanian invasions and economic collapse plunged the empire into crisis."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "軍人皇帝",
+      "en": "Crisis of the Third Century"
+    }
+  },
+  {
+    "id": "diocletian-tetrarchy",
+    "type": "politics",
+    "year": 293,
+    "year_end": null,
+    "lat": 40.77,
+    "lon": 29.92,
+    "name": {
+      "ja": "ディオクレティアヌスの四帝分治",
+      "en": "Diocletian's Tetrarchy"
+    },
+    "desc": {
+      "ja": "ディオクレティアヌス帝が帝国を4分して2人の正帝と2人の副帝で統治する四帝分治制を始め、専制君主政に移行した。303年には大規模なキリスト教迫害を行った。",
+      "en": "Diocletian divided the empire among two Augusti and two Caesars, inaugurating the Dominate; in 303 he launched the last great persecution of Christians."
+    },
+    "importance": 3,
+    "persons": [
+      "diocletian"
+    ],
+    "wiki": {
+      "ja": "テトラルキア",
+      "en": "Tetrarchy"
+    }
+  },
+  {
+    "id": "edict-of-milan",
+    "type": "religion",
+    "year": 313,
+    "year_end": null,
+    "lat": 45.46,
+    "lon": 9.19,
+    "name": {
+      "ja": "ミラノ勅令",
+      "en": "Edict of Milan"
+    },
+    "desc": {
+      "ja": "コンスタンティヌス帝がミラノ勅令でキリスト教を公認し、迫害を終わらせた。帝国統合のために教会を利用する政策が始まった。",
+      "en": "Constantine's Edict of Milan legalized Christianity and ended persecution, beginning the policy of using the Church to unify the empire."
+    },
+    "importance": 3,
+    "persons": [
+      "constantine-i"
+    ],
+    "wiki": {
+      "ja": "ミラノ勅令",
+      "en": "Edict of Milan"
+    }
+  },
+  {
+    "id": "council-of-nicaea",
+    "type": "religion",
+    "year": 325,
+    "year_end": null,
+    "lat": 40.43,
+    "lon": 29.72,
+    "name": {
+      "ja": "ニケーア公会議",
+      "en": "First Council of Nicaea"
+    },
+    "desc": {
+      "ja": "コンスタンティヌス帝が招集した初の公会議で、アタナシウス派が正統とされ、アリウス派が異端とされた。三位一体説の基礎が築かれた。",
+      "en": "At the first ecumenical council, convened by Constantine, the Athanasian position was upheld and Arianism condemned, laying the basis of Trinitarian doctrine."
+    },
+    "importance": 3,
+    "persons": [
+      "constantine-i",
+      "athanasius"
+    ],
+    "wiki": {
+      "ja": "第1ニカイア公会議",
+      "en": "First Council of Nicaea"
+    }
+  },
+  {
+    "id": "founding-of-constantinople",
+    "type": "founding",
+    "year": 330,
+    "year_end": null,
+    "lat": 41.01,
+    "lon": 28.98,
+    "name": {
+      "ja": "コンスタンティノープル遷都",
+      "en": "Founding of Constantinople"
+    },
+    "desc": {
+      "ja": "コンスタンティヌス帝がギリシア人植民市ビザンティウムの地に新都コンスタンティノープルを建設して遷都した。帝国の重心は東方に移った。",
+      "en": "Constantine built a new capital at Byzantium, renamed Constantinople, shifting the empire's center of gravity to the East."
+    },
+    "importance": 2,
+    "persons": [
+      "constantine-i"
+    ],
+    "wiki": {
+      "ja": "コンスタンティノープル",
+      "en": "Constantinople"
+    }
+  },
+  {
+    "id": "germanic-migrations-begin",
+    "type": "politics",
+    "year": 375,
+    "year_end": null,
+    "lat": 47,
+    "lon": 35,
+    "name": {
+      "ja": "ゲルマン人の大移動の開始",
+      "en": "Beginning of the Germanic Migrations"
+    },
+    "desc": {
+      "ja": "アジア系遊牧民フン人が西進して東ゴート人を圧迫し、西ゴート人がドナウ川を越えてローマ領内に移住した。ゲルマン人の大移動が始まった。",
+      "en": "The Huns moved west and crushed the Ostrogoths, driving the Visigoths across the Danube into Roman territory and setting off the Great Migrations."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "民族移動時代",
+      "en": "Migration Period"
+    }
+  },
+  {
+    "id": "battle-of-adrianople",
+    "type": "battle",
+    "year": 378,
+    "year_end": null,
+    "lat": 41.68,
+    "lon": 26.56,
+    "name": {
+      "ja": "アドリアノープルの戦い",
+      "en": "Battle of Adrianople"
+    },
+    "desc": {
+      "ja": "ローマ領内に移住した西ゴート人が反乱を起こし、アドリアノープルで東の皇帝ウァレンスを敗死させた。ローマの軍事的衰退を示した。",
+      "en": "The Visigoths settled inside the empire rebelled and killed the eastern emperor Valens at Adrianople, exposing Rome's military decline."
+    },
+    "importance": 2,
+    "persons": [
+      "valens"
+    ],
+    "wiki": {
+      "ja": "ハドリアノポリスの戦い",
+      "en": "Battle of Adrianople"
+    }
+  },
+  {
+    "id": "division-of-roman-empire",
+    "type": "politics",
+    "year": 395,
+    "year_end": null,
+    "lat": 45.46,
+    "lon": 9.19,
+    "name": {
+      "ja": "ローマ帝国の東西分裂",
+      "en": "Division of the Roman Empire"
+    },
+    "desc": {
+      "ja": "392年にキリスト教を国教としたテオドシウス帝が死去し、帝国は2人の子に分けられた。以後、東西ローマ帝国が再び統一されることはなかった。",
+      "en": "Theodosius, who had made Christianity the state religion in 392, died and the empire was divided between his two sons; East and West were never reunited."
+    },
+    "importance": 2,
+    "persons": [
+      "theodosius-i"
+    ],
+    "wiki": {
+      "ja": "テオドシウス1世",
+      "en": "Theodosius I"
+    }
+  },
+  {
+    "id": "sack-of-rome-410",
+    "type": "fall",
+    "year": 410,
+    "year_end": null,
+    "lat": 41.89,
+    "lon": 12.48,
+    "name": {
+      "ja": "西ゴート人のローマ略奪",
+      "en": "Sack of Rome by the Visigoths"
+    },
+    "desc": {
+      "ja": "アラリックの率いる西ゴート人がローマ市を略奪した。西ゴート人はその後ガリア南部からイベリア半島に移って西ゴート王国を建てた。",
+      "en": "The Visigoths under Alaric sacked the city of Rome; they went on to found the Visigothic Kingdom in southern Gaul and Iberia."
+    },
+    "importance": 2,
+    "persons": [
+      "alaric"
+    ],
+    "wiki": {
+      "ja": "ローマ略奪 (410年)",
+      "en": "Sack of Rome (410)"
+    }
+  },
+  {
+    "id": "battle-of-catalaunian-plains",
+    "type": "battle",
+    "year": 451,
+    "year_end": null,
+    "lat": 48.3,
+    "lon": 4.08,
+    "name": {
+      "ja": "カタラウヌムの戦い",
+      "en": "Battle of the Catalaunian Plains"
+    },
+    "desc": {
+      "ja": "パンノニアに大帝国を築いたフン人の王アッティラがガリアに侵入したが、西ローマの将軍アエティウスとゲルマン諸族の連合軍に敗れた。",
+      "en": "Attila, king of the Huns who had built an empire in Pannonia, invaded Gaul but was checked by a coalition of Romans and Germanic peoples."
+    },
+    "importance": 2,
+    "persons": [
+      "attila",
+      "aetius"
+    ],
+    "wiki": {
+      "ja": "カタラウヌムの戦い",
+      "en": "Battle of the Catalaunian Plains"
+    }
+  },
+  {
+    "id": "fall-of-western-roman-empire",
+    "type": "fall",
+    "year": 476,
+    "year_end": null,
+    "lat": 44.42,
+    "lon": 12.2,
+    "name": {
+      "ja": "西ローマ帝国の滅亡",
+      "en": "Fall of the Western Roman Empire"
+    },
+    "desc": {
+      "ja": "ゲルマン人傭兵隊長オドアケルが皇帝ロムルス=アウグストゥルスを廃位し、西ローマ帝国は滅亡した。493年にはテオドリックが東ゴート王国を建てた。",
+      "en": "The Germanic commander Odoacer deposed Romulus Augustulus, ending the Western Roman Empire; in 493 Theodoric founded the Ostrogothic Kingdom in Italy."
+    },
+    "importance": 3,
+    "persons": [
+      "odoacer",
+      "theodoric"
+    ],
+    "wiki": {
+      "ja": "西ローマ帝国",
+      "en": "Fall of the Western Roman Empire"
+    }
+  },
+  {
+    "id": "clovis-founds-frankish-kingdom",
+    "type": "founding",
+    "year": 481,
+    "year_end": null,
+    "lat": 50.61,
+    "lon": 3.39,
+    "name": {
+      "ja": "クローヴィスのフランク王国建国",
+      "en": "Clovis Founds the Frankish Kingdom"
+    },
+    "desc": {
+      "ja": "メロヴィング家のクローヴィスがフランク人を統一し、ガリアを征服した。496年にはアタナシウス派に改宗し、ローマ人の支持を得た。",
+      "en": "Clovis of the Merovingian house united the Franks and conquered Gaul; his conversion to Catholic Christianity in 496 won him Roman support."
+    },
+    "importance": 3,
+    "persons": [
+      "clovis-i"
+    ],
+    "wiki": {
+      "ja": "フランク王国",
+      "en": "Francia"
+    }
+  },
+  {
+    "id": "founding-of-monte-cassino",
+    "type": "religion",
+    "year": 529,
+    "year_end": null,
+    "lat": 41.49,
+    "lon": 13.81,
+    "name": {
+      "ja": "モンテ=カシノ修道院の創設",
+      "en": "Founding of Monte Cassino"
+    },
+    "desc": {
+      "ja": "ベネディクトゥスがモンテ=カシノに修道院を建て、「祈り、働け」を旨とする戒律を定めた。西欧修道院制度の基礎となった。",
+      "en": "Benedict founded the monastery of Monte Cassino and wrote his Rule of 'pray and work', the foundation of Western monasticism."
+    },
+    "importance": 2,
+    "persons": [
+      "benedict-of-nursia"
+    ],
+    "wiki": {
+      "ja": "モンテ・カッシーノ",
+      "en": "Monte Cassino"
+    }
+  },
+  {
+    "id": "corpus-juris-civilis",
+    "type": "culture",
+    "year": 534,
+    "year_end": null,
+    "lat": 41.01,
+    "lon": 28.98,
+    "name": {
+      "ja": "『ローマ法大全』の編纂",
+      "en": "Compilation of the Corpus Juris Civilis"
+    },
+    "desc": {
+      "ja": "ユスティニアヌス帝がトリボニアヌスらに命じてローマ法を集大成させた。『ローマ法大全』は後世のヨーロッパ法学の基礎となった。",
+      "en": "Justinian had Tribonian and other jurists codify Roman law; the Corpus Juris Civilis became the foundation of later European jurisprudence."
+    },
+    "importance": 3,
+    "persons": [
+      "justinian-i",
+      "tribonian"
+    ],
+    "wiki": {
+      "ja": "ローマ法大全",
+      "en": "Corpus Juris Civilis"
+    }
+  },
+  {
+    "id": "justinian-reconquest",
+    "type": "battle",
+    "year": 534,
+    "year_end": 555,
+    "lat": 36.85,
+    "lon": 10.32,
+    "name": {
+      "ja": "ユスティニアヌスの地中海再征服",
+      "en": "Justinian's Reconquest of the Mediterranean"
+    },
+    "desc": {
+      "ja": "ユスティニアヌス帝が将軍ベリサリウスらを派遣し、北アフリカのヴァンダル王国とイタリアの東ゴート王国を滅ぼして地中海世界をほぼ回復した。",
+      "en": "Justinian's generals Belisarius and Narses destroyed the Vandal Kingdom in Africa and the Ostrogothic Kingdom in Italy, largely restoring Roman rule in the Mediterranean."
+    },
+    "importance": 1,
+    "persons": [
+      "justinian-i",
+      "belisarius"
+    ],
+    "wiki": {
+      "ja": "ヴァンダル戦争",
+      "en": "Vandalic War"
+    }
+  },
+  {
+    "id": "hagia-sophia",
+    "type": "culture",
+    "year": 537,
+    "year_end": null,
+    "lat": 41.01,
+    "lon": 28.98,
+    "name": {
+      "ja": "ハギア=ソフィア聖堂の完成",
+      "en": "Completion of Hagia Sophia"
+    },
+    "desc": {
+      "ja": "532年のニカの反乱で焼失した聖堂に代えて、ユスティニアヌス帝が巨大ドームをもつハギア=ソフィア聖堂を再建した。ビザンツ様式の代表作である。",
+      "en": "After the Nika riots of 532 destroyed the old church, Justinian rebuilt Hagia Sophia with its vast dome, the masterpiece of Byzantine architecture."
+    },
+    "importance": 2,
+    "persons": [
+      "justinian-i"
+    ],
+    "wiki": {
+      "ja": "アヤソフィア",
+      "en": "Hagia Sophia"
+    }
+  },
+  {
+    "id": "lombards-invade-italy",
+    "type": "founding",
+    "year": 568,
+    "year_end": null,
+    "lat": 45.19,
+    "lon": 9.16,
+    "name": {
+      "ja": "ランゴバルド王国の建国",
+      "en": "Lombard Invasion of Italy"
+    },
+    "desc": {
+      "ja": "ゲルマン人のランゴバルド人が北イタリアに侵入し、パヴィアを都に王国を建てた。ゲルマン人の大移動はこれで終わったとされる。",
+      "en": "The Lombards invaded northern Italy and founded a kingdom with its capital at Pavia, an event often taken to mark the end of the Germanic migrations."
+    },
+    "importance": 2,
+    "persons": [
+      "alboin"
+    ],
+    "wiki": {
+      "ja": "ランゴバルド王国",
+      "en": "Kingdom of the Lombards"
+    }
+  },
+  {
+    "id": "gregory-the-great",
+    "type": "religion",
+    "year": 590,
+    "year_end": null,
+    "lat": 41.89,
+    "lon": 12.48,
+    "name": {
+      "ja": "グレゴリウス1世の教皇就任",
+      "en": "Gregory the Great Becomes Pope"
+    },
+    "desc": {
+      "ja": "グレゴリウス1世が教皇となり、ゲルマン人への布教を進めた。597年にはアングロ=サクソン人の改宗のためアウグスティヌスをブリテンに派遣した。",
+      "en": "Gregory I became pope and promoted missions to the Germanic peoples, sending Augustine to Britain in 597 to convert the Anglo-Saxons."
+    },
+    "importance": 1,
+    "persons": [
+      "gregory-i"
+    ],
+    "wiki": {
+      "ja": "グレゴリウス1世 (ローマ教皇)",
+      "en": "Pope Gregory I"
+    }
+  },
+  {
+    "id": "teotihuacan",
+    "type": "founding",
+    "year": 100,
+    "year_end": null,
+    "lat": 19.69,
+    "lon": -98.84,
+    "name": {
+      "ja": "テオティワカン文明の繁栄",
+      "en": "Rise of Teotihuacan"
+    },
+    "desc": {
+      "ja": "メキシコ高原でテオティワカンが巨大都市として発展し、太陽のピラミッドなどが建設された。メソアメリカ各地に影響を及ぼした。",
+      "en": "Teotihuacan in the Valley of Mexico grew into a vast planned city with the Pyramid of the Sun, exerting influence across Mesoamerica."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "テオティワカン",
+      "en": "Teotihuacan"
+    }
+  },
+  {
+    "id": "moche-culture",
+    "type": "founding",
+    "year": 100,
+    "year_end": null,
+    "lat": -8.17,
+    "lon": -79,
+    "name": {
+      "ja": "モチェ文化の成立",
+      "en": "Rise of the Moche Culture"
+    },
+    "desc": {
+      "ja": "ペルー北海岸でモチェ文化が栄え、日乾煉瓦の巨大神殿や写実的な土器が作られた。アンデス文明の初期の中心の一つである。",
+      "en": "The Moche culture flourished on Peru's north coast, building huge adobe temples and producing realistic pottery, an early center of Andean civilization."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "モチェ文化",
+      "en": "Moche culture"
+    }
+  },
+  {
+    "id": "classic-maya-begins",
+    "type": "founding",
+    "year": 250,
+    "year_end": null,
+    "lat": 17.22,
+    "lon": -89.62,
+    "name": {
+      "ja": "マヤ文明古典期の開始",
+      "en": "Beginning of the Classic Maya Period"
+    },
+    "desc": {
+      "ja": "ユカタン半島でティカルなどのマヤ都市国家が栄え、ピラミッド型神殿を築き、独自の文字と精密な暦、二十進法を発展させた。",
+      "en": "Maya city-states such as Tikal flourished in the Yucatán region, building stepped temples and developing hieroglyphic writing, a precise calendar and base-20 numerals."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "マヤ文明",
+      "en": "Maya civilization"
+    }
+  }
+]

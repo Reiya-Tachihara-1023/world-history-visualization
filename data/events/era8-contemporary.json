@@ -1,0 +1,3555 @@
+[
+  {
+    "id": "iron-curtain-speech",
+    "type": "politics",
+    "year": 1946,
+    "year_end": null,
+    "lat": 38.85,
+    "lon": -91.95,
+    "name": {
+      "ja": "「鉄のカーテン」演説",
+      "en": "Iron Curtain Speech"
+    },
+    "desc": {
+      "ja": "イギリス前首相チャーチルがアメリカのフルトンで演説し、ソ連が東欧を遮断する「鉄のカーテン」を下ろしたと批判した。冷戦の到来を象徴する演説となった。",
+      "en": "Former British prime minister Churchill, speaking at Fulton, Missouri, declared that an 'iron curtain' had descended across Europe, signalling the onset of the Cold War."
+    },
+    "importance": 2,
+    "persons": [
+      "churchill",
+      "truman"
+    ],
+    "wiki": {
+      "ja": "鉄のカーテン",
+      "en": "Iron Curtain"
+    }
+  },
+  {
+    "id": "japanese-constitution",
+    "type": "politics",
+    "year": 1946,
+    "year_end": null,
+    "lat": 35.68,
+    "lon": 139.69,
+    "name": {
+      "ja": "日本国憲法の公布",
+      "en": "Constitution of Japan Promulgated"
+    },
+    "desc": {
+      "ja": "GHQの占領下で主権在民・基本的人権の尊重・戦争放棄を原則とする日本国憲法が公布され、翌1947年に施行された。",
+      "en": "Under the Allied occupation Japan promulgated a new constitution based on popular sovereignty, human rights and renunciation of war; it took effect in 1947."
+    },
+    "importance": 2,
+    "persons": [
+      "yoshida-shigeru"
+    ],
+    "wiki": {
+      "ja": "日本国憲法",
+      "en": "Constitution of Japan"
+    }
+  },
+  {
+    "id": "chinese-civil-war",
+    "type": "battle",
+    "year": 1946,
+    "year_end": 1949,
+    "lat": 32.06,
+    "lon": 118.78,
+    "name": {
+      "ja": "国共内戦",
+      "en": "Chinese Civil War"
+    },
+    "desc": {
+      "ja": "日本降伏後、国民党と共産党の内戦が再燃した。土地改革で農民の支持を得た共産党が優勢となり、1949年に国民党を大陸から駆逐した。",
+      "en": "After Japan's surrender the Nationalists and Communists resumed full-scale civil war; the Communists, backed by peasants won over by land reform, drove the Nationalists from the mainland by 1949."
+    },
+    "importance": 3,
+    "persons": [
+      "mao-zedong",
+      "chiang-kai-shek"
+    ],
+    "wiki": {
+      "ja": "国共内戦",
+      "en": "Chinese Civil War"
+    }
+  },
+  {
+    "id": "first-indochina-war",
+    "type": "battle",
+    "year": 1946,
+    "year_end": 1954,
+    "lat": 21.03,
+    "lon": 105.85,
+    "name": {
+      "ja": "インドシナ戦争",
+      "en": "First Indochina War"
+    },
+    "desc": {
+      "ja": "ベトナム民主共和国の独立を認めないフランスとの間で戦争が始まった。フランスはバオダイを擁立したが、1954年の敗北で撤退した。",
+      "en": "France refused to recognise the Democratic Republic of Vietnam and war broke out; France installed Bao Dai but withdrew after its defeat in 1954."
+    },
+    "importance": 2,
+    "persons": [
+      "ho-chi-minh"
+    ],
+    "wiki": {
+      "ja": "第一次インドシナ戦争",
+      "en": "First Indochina War"
+    }
+  },
+  {
+    "id": "philippines-independence",
+    "type": "founding",
+    "year": 1946,
+    "year_end": null,
+    "lat": 14.6,
+    "lon": 120.98,
+    "name": {
+      "ja": "フィリピンの独立",
+      "en": "Independence of the Philippines"
+    },
+    "desc": {
+      "ja": "アメリカの約束どおりフィリピン共和国が独立した。ただしアメリカ軍基地は残り、経済的にも強くアメリカに依存した。",
+      "en": "The Republic of the Philippines gained independence from the United States as promised, though US bases remained and the economy stayed dependent on America."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "フィリピンの歴史",
+      "en": "History of the Philippines (1946–1965)"
+    }
+  },
+  {
+    "id": "truman-doctrine",
+    "type": "politics",
+    "year": 1947,
+    "year_end": null,
+    "lat": 38.9,
+    "lon": -77.04,
+    "name": {
+      "ja": "トルーマン＝ドクトリン",
+      "en": "Truman Doctrine"
+    },
+    "desc": {
+      "ja": "トルーマン大統領が共産主義の拡大を防ぐためギリシア・トルコへの援助を表明し、「封じ込め」政策を打ち出した。冷戦の開始を告げた。",
+      "en": "President Truman pledged aid to Greece and Turkey to halt the spread of communism, launching the policy of containment and opening the Cold War."
+    },
+    "importance": 3,
+    "persons": [
+      "truman"
+    ],
+    "wiki": {
+      "ja": "トルーマン・ドクトリン",
+      "en": "Truman Doctrine"
+    }
+  },
+  {
+    "id": "marshall-plan",
+    "type": "politics",
+    "year": 1947,
+    "year_end": null,
+    "lat": 38.9,
+    "lon": -77.05,
+    "name": {
+      "ja": "マーシャル＝プラン",
+      "en": "Marshall Plan"
+    },
+    "desc": {
+      "ja": "アメリカのマーシャル国務長官がヨーロッパ経済復興援助計画を発表した。西欧諸国は受け入れたが、ソ連と東欧諸国は拒否した。",
+      "en": "US Secretary of State Marshall announced the European Recovery Program; Western Europe accepted the aid while the USSR and its satellites refused."
+    },
+    "importance": 3,
+    "persons": [
+      "marshall",
+      "truman"
+    ],
+    "wiki": {
+      "ja": "マーシャル・プラン",
+      "en": "Marshall Plan"
+    }
+  },
+  {
+    "id": "cominform",
+    "type": "politics",
+    "year": 1947,
+    "year_end": null,
+    "lat": 50.83,
+    "lon": 15.52,
+    "name": {
+      "ja": "コミンフォルムの結成",
+      "en": "Founding of the Cominform"
+    },
+    "desc": {
+      "ja": "マーシャル＝プランに対抗してソ連と東欧諸国、フランス・イタリアの共産党が共産党情報局を結成した。1948年にユーゴスラヴィアが除名された。",
+      "en": "In answer to the Marshall Plan, the Soviet, East European, French and Italian communist parties founded the Communist Information Bureau; Yugoslavia was expelled in 1948."
+    },
+    "importance": 2,
+    "persons": [
+      "stalin",
+      "tito"
+    ],
+    "wiki": {
+      "ja": "コミンフォルム",
+      "en": "Cominform"
+    }
+  },
+  {
+    "id": "india-pakistan-partition",
+    "type": "founding",
+    "year": 1947,
+    "year_end": null,
+    "lat": 28.61,
+    "lon": 77.21,
+    "name": {
+      "ja": "インド・パキスタンの分離独立",
+      "en": "Partition of India and Pakistan"
+    },
+    "desc": {
+      "ja": "イギリス領インドがヒンドゥー教徒主体のインド連邦とムスリム主体のパキスタンに分かれて独立した。分離に伴う混乱で多数の死者が出た。",
+      "en": "British India was partitioned into Hindu-majority India and Muslim-majority Pakistan; the division brought massive migration and communal violence."
+    },
+    "importance": 3,
+    "persons": [
+      "nehru",
+      "jinnah",
+      "gandhi"
+    ],
+    "wiki": {
+      "ja": "インド・パキスタン分離独立",
+      "en": "Partition of India"
+    }
+  },
+  {
+    "id": "gandhi-assassinated",
+    "type": "politics",
+    "year": 1948,
+    "year_end": null,
+    "lat": 28.6,
+    "lon": 77.2,
+    "name": {
+      "ja": "ガンディーの暗殺",
+      "en": "Assassination of Gandhi"
+    },
+    "desc": {
+      "ja": "分離独立後の宗教対立の中でヒンドゥー・ムスリムの融和を訴え続けていたガンディーが、デリーで急進的ヒンドゥー教徒の青年に射殺された。インド全土が深い悲しみに包まれた。",
+      "en": "Gandhi, who had been pleading for Hindu–Muslim reconciliation, was shot dead in Delhi by a Hindu extremist."
+    },
+    "importance": 2,
+    "persons": [
+      "gandhi"
+    ],
+    "wiki": {
+      "ja": "マハトマ・ガンディー",
+      "en": "Assassination of Mahatma Gandhi"
+    }
+  },
+  {
+    "id": "burma-independence",
+    "type": "founding",
+    "year": 1948,
+    "year_end": null,
+    "lat": 16.8,
+    "lon": 96.15,
+    "name": {
+      "ja": "ビルマの独立",
+      "en": "Independence of Burma"
+    },
+    "desc": {
+      "ja": "アウン＝サンら独立運動の指導者がイギリスと交渉を重ね、アウン＝サン暗殺後にビルマ連邦が独立した。イギリス連邦には加わらず、中立外交の道を選んだ。",
+      "en": "Following the movement led by Aung San, the Union of Burma became independent of Britain and chose to remain outside the Commonwealth."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "ビルマの歴史",
+      "en": "History of Myanmar"
+    }
+  },
+  {
+    "id": "czechoslovak-coup",
+    "type": "politics",
+    "year": 1948,
+    "year_end": null,
+    "lat": 50.08,
+    "lon": 14.44,
+    "name": {
+      "ja": "チェコスロヴァキア＝クーデタ",
+      "en": "Czechoslovak Coup"
+    },
+    "desc": {
+      "ja": "チェコスロヴァキアで共産党がクーデタにより政権を掌握し、東欧全体が社会主義圏に組み込まれた。西欧諸国に衝撃を与えた。",
+      "en": "The Communist Party seized power in Czechoslovakia, completing the Sovietisation of Eastern Europe and alarming the Western powers."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "1948年のチェコスロバキア政変",
+      "en": "1948 Czechoslovak coup d'état"
+    }
+  },
+  {
+    "id": "israel-founding",
+    "type": "founding",
+    "year": 1948,
+    "year_end": null,
+    "lat": 32.08,
+    "lon": 34.78,
+    "name": {
+      "ja": "イスラエルの建国",
+      "en": "Founding of Israel"
+    },
+    "desc": {
+      "ja": "国連のパレスチナ分割決議に基づき、ユダヤ人がイスラエル国の建国を宣言した。アラブ諸国はこれを認めず戦争となった。",
+      "en": "Under the UN partition plan for Palestine, Jewish leaders proclaimed the State of Israel; the Arab states refused to accept it and war followed."
+    },
+    "importance": 3,
+    "persons": [
+      "ben-gurion"
+    ],
+    "wiki": {
+      "ja": "イスラエル独立宣言",
+      "en": "Israeli Declaration of Independence"
+    }
+  },
+  {
+    "id": "first-arab-israeli-war",
+    "type": "battle",
+    "year": 1948,
+    "year_end": 1949,
+    "lat": 31.78,
+    "lon": 35.22,
+    "name": {
+      "ja": "第1次中東戦争",
+      "en": "First Arab–Israeli War"
+    },
+    "desc": {
+      "ja": "イスラエル建国に反対するアラブ諸国が攻撃したが、イスラエルが勝利して領土を拡大した。多数のパレスチナ人が難民となった。",
+      "en": "Arab states attacked the new state of Israel but were defeated; Israel expanded its territory and hundreds of thousands of Palestinians became refugees."
+    },
+    "importance": 2,
+    "persons": [
+      "ben-gurion"
+    ],
+    "wiki": {
+      "ja": "第一次中東戦争",
+      "en": "1948 Arab–Israeli War"
+    }
+  },
+  {
+    "id": "berlin-blockade",
+    "type": "politics",
+    "year": 1948,
+    "year_end": 1949,
+    "lat": 52.52,
+    "lon": 13.4,
+    "name": {
+      "ja": "ベルリン封鎖",
+      "en": "Berlin Blockade"
+    },
+    "desc": {
+      "ja": "西側の通貨改革に反発したソ連が西ベルリンへの陸路を遮断した。西側は大空輸で対抗し、翌年封鎖は解除されたが、ドイツ分断が決定的となった。",
+      "en": "The USSR cut land routes to West Berlin in protest at Western currency reform; the Western allies supplied the city by airlift until the blockade ended in 1949."
+    },
+    "importance": 3,
+    "persons": [
+      "stalin",
+      "truman"
+    ],
+    "wiki": {
+      "ja": "ベルリン封鎖",
+      "en": "Berlin Blockade"
+    }
+  },
+  {
+    "id": "universal-declaration-of-human-rights",
+    "type": "politics",
+    "year": 1948,
+    "year_end": null,
+    "lat": 48.86,
+    "lon": 2.29,
+    "name": {
+      "ja": "世界人権宣言",
+      "en": "Universal Declaration of Human Rights"
+    },
+    "desc": {
+      "ja": "パリで開かれた第3回国連総会が世界人権宣言を採択し、すべての人間が生まれながらに自由で平等であることを国際的な基準として示した。各国の人権保障の指針となった。",
+      "en": "The UN General Assembly meeting in Paris adopted the Universal Declaration of Human Rights, setting an international standard of freedom and equality."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "世界人権宣言",
+      "en": "Universal Declaration of Human Rights"
+    }
+  },
+  {
+    "id": "nato-founding",
+    "type": "treaty",
+    "year": 1949,
+    "year_end": null,
+    "lat": 38.9,
+    "lon": -77.03,
+    "name": {
+      "ja": "NATOの成立",
+      "en": "Founding of NATO"
+    },
+    "desc": {
+      "ja": "ソ連の脅威に対抗するため、アメリカ・カナダと西欧10か国が北大西洋条約に調印して集団防衛機構を結成した。西側陣営の軍事同盟の中核となり、1955年には西ドイツも加わった。",
+      "en": "The United States, Canada and Western European states signed the North Atlantic Treaty, forming a collective defence alliance against the USSR."
+    },
+    "importance": 3,
+    "persons": [
+      "truman"
+    ],
+    "wiki": {
+      "ja": "北大西洋条約機構",
+      "en": "NATO"
+    }
+  },
+  {
+    "id": "comecon",
+    "type": "politics",
+    "year": 1949,
+    "year_end": null,
+    "lat": 55.75,
+    "lon": 37.62,
+    "name": {
+      "ja": "コメコンの設立",
+      "en": "Founding of Comecon"
+    },
+    "desc": {
+      "ja": "マーシャル＝プランによる西欧の復興に対抗して、ソ連と東欧6か国が経済相互援助会議(コメコン)を設立し、社会主義圏内の計画経済の調整と貿易を進めた。1991年に解散した。",
+      "en": "The USSR and its East European allies founded the Council for Mutual Economic Assistance as a counterpart to the Marshall Plan."
+    },
+    "importance": 2,
+    "persons": [
+      "stalin"
+    ],
+    "wiki": {
+      "ja": "経済相互援助会議",
+      "en": "Comecon"
+    }
+  },
+  {
+    "id": "frg-founding",
+    "type": "founding",
+    "year": 1949,
+    "year_end": null,
+    "lat": 50.73,
+    "lon": 7.1,
+    "name": {
+      "ja": "ドイツ連邦共和国の成立",
+      "en": "Founding of West Germany"
+    },
+    "desc": {
+      "ja": "米英仏の占領地区にドイツ連邦共和国(西ドイツ)が成立し、ボンを首都とした。アデナウアーが初代首相となり西側に加わった。",
+      "en": "The Federal Republic of Germany was established in the Western occupation zones with Bonn as capital; Adenauer became its first chancellor."
+    },
+    "importance": 2,
+    "persons": [
+      "adenauer"
+    ],
+    "wiki": {
+      "ja": "西ドイツ",
+      "en": "West Germany"
+    }
+  },
+  {
+    "id": "gdr-founding",
+    "type": "founding",
+    "year": 1949,
+    "year_end": null,
+    "lat": 52.52,
+    "lon": 13.42,
+    "name": {
+      "ja": "ドイツ民主共和国の成立",
+      "en": "Founding of East Germany"
+    },
+    "desc": {
+      "ja": "西ドイツ成立に対抗して、ソ連占領地区にドイツ民主共和国(東ドイツ)が成立した。社会主義統一党の一党支配のもとで東ベルリンを首都とし、ドイツの東西分断が固定化された。",
+      "en": "The German Democratic Republic was proclaimed in the Soviet zone, fixing the division of Germany into East and West."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "ドイツ民主共和国",
+      "en": "East Germany"
+    }
+  },
+  {
+    "id": "soviet-atomic-bomb",
+    "type": "culture",
+    "year": 1949,
+    "year_end": null,
+    "lat": 50.07,
+    "lon": 78.43,
+    "name": {
+      "ja": "ソ連の原爆保有",
+      "en": "Soviet Atomic Bomb"
+    },
+    "desc": {
+      "ja": "ソ連がカザフスタンのセミパラチンスク実験場で初の原爆実験に成功し、アメリカの核独占は4年で崩れた。以後、米ソは水爆開発へと進み、激しい核軍拡競争の時代に入った。",
+      "en": "The USSR tested its first atomic bomb in Kazakhstan, ending the American nuclear monopoly and beginning the superpower arms race."
+    },
+    "importance": 1,
+    "persons": [
+      "stalin"
+    ],
+    "wiki": {
+      "ja": "RDS-1",
+      "en": "RDS-1"
+    }
+  },
+  {
+    "id": "prc-founding",
+    "type": "founding",
+    "year": 1949,
+    "year_end": null,
+    "lat": 39.91,
+    "lon": 116.4,
+    "name": {
+      "ja": "中華人民共和国の成立",
+      "en": "Founding of the People's Republic of China"
+    },
+    "desc": {
+      "ja": "内戦に勝利した共産党の毛沢東が北京で中華人民共和国の成立を宣言した。翌年にはソ連と中ソ友好同盟相互援助条約を結んだ。",
+      "en": "Having won the civil war, Mao Zedong proclaimed the People's Republic of China in Beijing; a treaty of alliance with the USSR followed in 1950."
+    },
+    "importance": 3,
+    "persons": [
+      "mao-zedong",
+      "zhou-enlai"
+    ],
+    "wiki": {
+      "ja": "中華人民共和国",
+      "en": "Proclamation of the People's Republic of China"
+    }
+  },
+  {
+    "id": "roc-retreat-to-taiwan",
+    "type": "politics",
+    "year": 1949,
+    "year_end": null,
+    "lat": 25.03,
+    "lon": 121.56,
+    "name": {
+      "ja": "国民政府の台湾移転",
+      "en": "Nationalist Retreat to Taiwan"
+    },
+    "desc": {
+      "ja": "内戦に敗れた蔣介石の国民政府は台湾に移り、中華民国を維持した。以後、中国は大陸の中華人民共和国と台湾の中華民国に分断され、アメリカは台湾の国民政府を支持し続けた。",
+      "en": "Defeated in the civil war, Chiang Kai-shek's Nationalist government withdrew to Taiwan, where the Republic of China continued, dividing China across the strait."
+    },
+    "importance": 1,
+    "persons": [
+      "chiang-kai-shek"
+    ],
+    "wiki": {
+      "ja": "台湾の歴史",
+      "en": "Retreat of the government of the Republic of China to Taiwan"
+    }
+  },
+  {
+    "id": "indonesian-independence-recognized",
+    "type": "founding",
+    "year": 1949,
+    "year_end": null,
+    "lat": -6.2,
+    "lon": 106.85,
+    "name": {
+      "ja": "インドネシア独立の承認",
+      "en": "Dutch Recognition of Indonesian Independence"
+    },
+    "desc": {
+      "ja": "1945年に独立を宣言したインドネシアはオランダと独立戦争を戦い、ハーグ協定でオランダがようやく独立を承認した。スカルノが大統領となった。",
+      "en": "After declaring independence in 1945 Indonesia fought the Dutch; by the Hague agreement the Netherlands finally recognised its independence under President Sukarno."
+    },
+    "importance": 2,
+    "persons": [
+      "sukarno"
+    ],
+    "wiki": {
+      "ja": "インドネシア独立戦争",
+      "en": "Indonesian National Revolution"
+    }
+  },
+  {
+    "id": "korean-war",
+    "type": "battle",
+    "year": 1950,
+    "year_end": 1953,
+    "lat": 37.96,
+    "lon": 126.68,
+    "name": {
+      "ja": "朝鮮戦争",
+      "en": "Korean War"
+    },
+    "desc": {
+      "ja": "北朝鮮軍が38度線を越えて南進し戦争が始まった。アメリカ中心の国連軍と中国人民義勇軍が介入し、1953年に板門店で休戦協定が結ばれた。",
+      "en": "North Korean forces crossed the 38th parallel; UN forces led by the US and Chinese volunteers intervened, and an armistice was signed at Panmunjom in 1953."
+    },
+    "importance": 3,
+    "persons": [
+      "kim-il-sung",
+      "syngman-rhee",
+      "truman",
+      "macarthur"
+    ],
+    "wiki": {
+      "ja": "朝鮮戦争",
+      "en": "Korean War"
+    }
+  },
+  {
+    "id": "schuman-plan",
+    "type": "politics",
+    "year": 1950,
+    "year_end": null,
+    "lat": 48.86,
+    "lon": 2.32,
+    "name": {
+      "ja": "シューマン＝プラン",
+      "en": "Schuman Plan"
+    },
+    "desc": {
+      "ja": "フランス外相シューマンが、独仏の石炭と鉄鋼の生産を共同の機関の管理下に置く構想を発表した。独仏の和解と戦争の防止をめざすもので、ヨーロッパ統合の出発点となった。",
+      "en": "French foreign minister Schuman proposed pooling Franco-German coal and steel under a common authority, the starting point of European integration."
+    },
+    "importance": 2,
+    "persons": [
+      "schuman",
+      "adenauer"
+    ],
+    "wiki": {
+      "ja": "シューマン宣言",
+      "en": "Schuman Declaration"
+    }
+  },
+  {
+    "id": "mccarthyism",
+    "type": "politics",
+    "year": 1950,
+    "year_end": 1954,
+    "lat": 38.89,
+    "lon": -77.01,
+    "name": {
+      "ja": "マッカーシズム",
+      "en": "McCarthyism"
+    },
+    "desc": {
+      "ja": "マッカーシー上院議員を中心に共産主義者の摘発が進められ、「赤狩り」が社会に広がった。1954年に上院が彼を非難して終息した。",
+      "en": "Senator McCarthy led a campaign of accusations against alleged communists, spreading the 'Red Scare' through US society until his censure in 1954."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "マッカーシズム",
+      "en": "McCarthyism"
+    }
+  },
+  {
+    "id": "san-francisco-peace-treaty",
+    "type": "treaty",
+    "year": 1951,
+    "year_end": null,
+    "lat": 37.77,
+    "lon": -122.42,
+    "name": {
+      "ja": "サンフランシスコ平和条約",
+      "en": "Treaty of San Francisco"
+    },
+    "desc": {
+      "ja": "日本は西側48か国と平和条約を結び独立を回復した。同時に日米安全保障条約が調印され、アメリカ軍の駐留が続いた。",
+      "en": "Japan signed a peace treaty with 48 Western-bloc states and regained sovereignty; the US–Japan Security Treaty signed the same day kept American forces in Japan."
+    },
+    "importance": 3,
+    "persons": [
+      "yoshida-shigeru"
+    ],
+    "wiki": {
+      "ja": "日本国との平和条約",
+      "en": "Treaty of San Francisco"
+    }
+  },
+  {
+    "id": "ecsc-founding",
+    "type": "founding",
+    "year": 1952,
+    "year_end": null,
+    "lat": 49.61,
+    "lon": 6.13,
+    "name": {
+      "ja": "ヨーロッパ石炭鉄鋼共同体(ECSC)の発足",
+      "en": "Founding of the ECSC"
+    },
+    "desc": {
+      "ja": "フランス・西ドイツ・イタリア・ベネルクス3国がヨーロッパ石炭鉄鋼共同体を発足させた。ヨーロッパ統合の第一歩である。",
+      "en": "France, West Germany, Italy and the Benelux countries launched the European Coal and Steel Community, the first step in European integration."
+    },
+    "importance": 2,
+    "persons": [
+      "schuman",
+      "adenauer"
+    ],
+    "wiki": {
+      "ja": "欧州石炭鉄鋼共同体",
+      "en": "European Coal and Steel Community"
+    }
+  },
+  {
+    "id": "egyptian-revolution-1952",
+    "type": "revolution",
+    "year": 1952,
+    "year_end": null,
+    "lat": 30.04,
+    "lon": 31.24,
+    "name": {
+      "ja": "エジプト革命",
+      "en": "Egyptian Revolution of 1952"
+    },
+    "desc": {
+      "ja": "ナギブとナセルを中心とする自由将校団がクーデタで国王ファールークを追放し、ムハンマド＝アリー朝の王政を倒した。翌年共和政となり、1956年にナセルが大統領に就任した。",
+      "en": "Nasser's Free Officers overthrew the monarchy in a coup; Egypt became a republic in 1953 and Nasser became president in 1956."
+    },
+    "importance": 2,
+    "persons": [
+      "nasser"
+    ],
+    "wiki": {
+      "ja": "エジプト革命 (1952年)",
+      "en": "Egyptian revolution of 1952"
+    }
+  },
+  {
+    "id": "stalin-death",
+    "type": "politics",
+    "year": 1953,
+    "year_end": null,
+    "lat": 55.75,
+    "lon": 37.6,
+    "name": {
+      "ja": "スターリンの死",
+      "en": "Death of Stalin"
+    },
+    "desc": {
+      "ja": "30年近くソ連を支配した独裁者スターリンが死去し、マレンコフらの集団指導体制に移行した。朝鮮戦争の休戦やジュネーヴ4巨頭会談など、東西の緊張緩和(雪どけ)のきっかけとなった。",
+      "en": "Soviet dictator Stalin died and collective leadership followed; his death helped bring the Korean armistice and an easing of East–West tension."
+    },
+    "importance": 1,
+    "persons": [
+      "stalin",
+      "khrushchev"
+    ],
+    "wiki": {
+      "ja": "ヨシフ・スターリン",
+      "en": "Death and state funeral of Joseph Stalin"
+    }
+  },
+  {
+    "id": "dien-bien-phu",
+    "type": "battle",
+    "year": 1954,
+    "year_end": null,
+    "lat": 21.39,
+    "lon": 103.02,
+    "name": {
+      "ja": "ディエンビエンフーの戦い",
+      "en": "Battle of Dien Bien Phu"
+    },
+    "desc": {
+      "ja": "ベトナム民主共和国軍がフランス軍の拠点ディエンビエンフーを攻略した。この敗北でフランスはインドシナからの撤退を決めた。",
+      "en": "Viet Minh forces captured the French stronghold of Dien Bien Phu; the defeat led France to withdraw from Indochina."
+    },
+    "importance": 3,
+    "persons": [
+      "ho-chi-minh"
+    ],
+    "wiki": {
+      "ja": "ディエンビエンフーの戦い",
+      "en": "Battle of Dien Bien Phu"
+    }
+  },
+  {
+    "id": "geneva-accords-1954",
+    "type": "treaty",
+    "year": 1954,
+    "year_end": null,
+    "lat": 46.2,
+    "lon": 6.15,
+    "name": {
+      "ja": "ジュネーヴ休戦協定",
+      "en": "Geneva Accords"
+    },
+    "desc": {
+      "ja": "インドシナ戦争の休戦協定で、ベトナムは北緯17度線で南北に分けられ、2年後の統一選挙が約束された。しかしアメリカは調印を拒否した。",
+      "en": "The accords ended the Indochina War, dividing Vietnam at the 17th parallel pending elections within two years; the United States refused to sign."
+    },
+    "importance": 2,
+    "persons": [
+      "ho-chi-minh",
+      "zhou-enlai"
+    ],
+    "wiki": {
+      "ja": "ジュネーヴ協定",
+      "en": "1954 Geneva Conference"
+    }
+  },
+  {
+    "id": "algerian-war",
+    "type": "battle",
+    "year": 1954,
+    "year_end": 1962,
+    "lat": 36.75,
+    "lon": 3.06,
+    "name": {
+      "ja": "アルジェリア戦争",
+      "en": "Algerian War"
+    },
+    "desc": {
+      "ja": "民族解放戦線(FLN)がフランスに対して武装闘争を開始した。長い戦争の末、ド＝ゴールがエヴィアン協定でアルジェリアの独立を認めた。",
+      "en": "The FLN began an armed struggle against French rule; after a long war de Gaulle recognised Algerian independence in the Évian Accords of 1962."
+    },
+    "importance": 3,
+    "persons": [
+      "de-gaulle"
+    ],
+    "wiki": {
+      "ja": "アルジェリア戦争",
+      "en": "Algerian War"
+    }
+  },
+  {
+    "id": "bandung-conference",
+    "type": "treaty",
+    "year": 1955,
+    "year_end": null,
+    "lat": -6.92,
+    "lon": 107.61,
+    "name": {
+      "ja": "アジア＝アフリカ会議",
+      "en": "Bandung Conference"
+    },
+    "desc": {
+      "ja": "インドネシアのバンドンにアジア・アフリカ29か国が集まり、反植民地主義と平和共存をうたう平和十原則を採択した。第三世界の結束を示した。",
+      "en": "Twenty-nine Asian and African states met at Bandung and adopted ten principles of anti-colonialism and peaceful coexistence, asserting the Third World's unity."
+    },
+    "importance": 3,
+    "persons": [
+      "sukarno",
+      "nehru",
+      "zhou-enlai",
+      "nasser"
+    ],
+    "wiki": {
+      "ja": "アジア＝アフリカ会議",
+      "en": "Bandung Conference"
+    }
+  },
+  {
+    "id": "warsaw-pact",
+    "type": "treaty",
+    "year": 1955,
+    "year_end": null,
+    "lat": 52.23,
+    "lon": 21.01,
+    "name": {
+      "ja": "ワルシャワ条約機構の成立",
+      "en": "Founding of the Warsaw Pact"
+    },
+    "desc": {
+      "ja": "西ドイツのNATO加盟に対抗して、ソ連と東欧7か国がワルシャワ条約機構を結成した。東西両陣営の軍事ブロックが完成した。",
+      "en": "In response to West Germany's entry into NATO, the USSR and seven East European states formed the Warsaw Pact, completing the two military blocs."
+    },
+    "importance": 3,
+    "persons": [
+      "khrushchev"
+    ],
+    "wiki": {
+      "ja": "ワルシャワ条約機構",
+      "en": "Warsaw Pact"
+    }
+  },
+  {
+    "id": "khrushchev-secret-speech",
+    "type": "politics",
+    "year": 1956,
+    "year_end": null,
+    "lat": 55.76,
+    "lon": 37.62,
+    "name": {
+      "ja": "スターリン批判",
+      "en": "Khrushchev's Secret Speech"
+    },
+    "desc": {
+      "ja": "ソ連共産党第20回大会でフルシチョフがスターリンの個人崇拝と粛清を批判し、平和共存路線を打ち出した。東欧諸国の自由化運動を刺激した。",
+      "en": "At the 20th Party Congress Khrushchev denounced Stalin's cult of personality and purges and advocated peaceful coexistence, stirring reform movements in Eastern Europe."
+    },
+    "importance": 3,
+    "persons": [
+      "khrushchev"
+    ],
+    "wiki": {
+      "ja": "スターリン批判",
+      "en": "On the Cult of Personality and Its Consequences"
+    }
+  },
+  {
+    "id": "hungarian-uprising",
+    "type": "revolution",
+    "year": 1956,
+    "year_end": null,
+    "lat": 47.5,
+    "lon": 19.04,
+    "name": {
+      "ja": "ハンガリー事件",
+      "en": "Hungarian Uprising"
+    },
+    "desc": {
+      "ja": "ブダペストで自由化を求める民衆が蜂起し、ナジ政権はワルシャワ条約機構からの脱退を宣言した。ソ連軍が介入して鎮圧した。",
+      "en": "Popular demands for liberalisation led Nagy's government to announce withdrawal from the Warsaw Pact; Soviet troops crushed the uprising."
+    },
+    "importance": 3,
+    "persons": [
+      "khrushchev"
+    ],
+    "wiki": {
+      "ja": "ハンガリー動乱",
+      "en": "Hungarian Revolution of 1956"
+    }
+  },
+  {
+    "id": "suez-crisis",
+    "type": "battle",
+    "year": 1956,
+    "year_end": null,
+    "lat": 31.26,
+    "lon": 32.3,
+    "name": {
+      "ja": "スエズ戦争",
+      "en": "Suez Crisis"
+    },
+    "desc": {
+      "ja": "ナセルのスエズ運河国有化に対し、イギリス・フランス・イスラエルがエジプトに侵攻した(第2次中東戦争)。米ソと国際世論の批判で撤退し、ナセルの威信が高まった。",
+      "en": "After Nasser nationalised the Suez Canal, Britain, France and Israel invaded Egypt; international and superpower pressure forced them to withdraw, raising Nasser's prestige."
+    },
+    "importance": 3,
+    "persons": [
+      "nasser"
+    ],
+    "wiki": {
+      "ja": "第二次中東戦争",
+      "en": "Suez Crisis"
+    }
+  },
+  {
+    "id": "japan-joins-un",
+    "type": "politics",
+    "year": 1956,
+    "year_end": null,
+    "lat": 55.74,
+    "lon": 37.63,
+    "name": {
+      "ja": "日ソ共同宣言と日本の国連加盟",
+      "en": "Japan–Soviet Joint Declaration and Japan's UN Admission"
+    },
+    "desc": {
+      "ja": "鳩山一郎首相がモスクワで日ソ共同宣言に調印し、ソ連との国交を回復した。これによりソ連の反対がなくなり、日本は国際連合に加盟した。",
+      "en": "Prime Minister Hatoyama signed a joint declaration in Moscow restoring relations with the USSR, which then dropped its veto and Japan joined the United Nations."
+    },
+    "importance": 1,
+    "persons": [
+      "khrushchev"
+    ],
+    "wiki": {
+      "ja": "日ソ共同宣言",
+      "en": "Soviet–Japanese Joint Declaration of 1956"
+    }
+  },
+  {
+    "id": "ghana-independence",
+    "type": "founding",
+    "year": 1957,
+    "year_end": null,
+    "lat": 5.56,
+    "lon": -0.2,
+    "name": {
+      "ja": "ガーナの独立",
+      "en": "Independence of Ghana"
+    },
+    "desc": {
+      "ja": "エンクルマの指導のもと、ガーナがサハラ以南のアフリカで黒人国家として初めて独立した。アフリカ諸国の独立運動を励ました。",
+      "en": "Under Nkrumah's leadership Ghana became the first black African colony south of the Sahara to gain independence, inspiring movements across the continent."
+    },
+    "importance": 3,
+    "persons": [
+      "nkrumah"
+    ],
+    "wiki": {
+      "ja": "ガーナの歴史",
+      "en": "History of Ghana"
+    }
+  },
+  {
+    "id": "treaty-of-rome",
+    "type": "treaty",
+    "year": 1957,
+    "year_end": null,
+    "lat": 41.9,
+    "lon": 12.5,
+    "name": {
+      "ja": "ローマ条約",
+      "en": "Treaty of Rome"
+    },
+    "desc": {
+      "ja": "ECSC加盟6か国がローマ条約に調印し、翌年ヨーロッパ経済共同体(EEC)とヨーロッパ原子力共同体(EURATOM)が発足した。",
+      "en": "The six ECSC members signed the Treaty of Rome, creating the European Economic Community and Euratom, which began operation in 1958."
+    },
+    "importance": 3,
+    "persons": [
+      "adenauer"
+    ],
+    "wiki": {
+      "ja": "ローマ条約",
+      "en": "Treaty of Rome"
+    }
+  },
+  {
+    "id": "malaya-independence",
+    "type": "founding",
+    "year": 1957,
+    "year_end": null,
+    "lat": 3.14,
+    "lon": 101.69,
+    "name": {
+      "ja": "マラヤ連邦の独立",
+      "en": "Independence of Malaya"
+    },
+    "desc": {
+      "ja": "マラヤ連邦がイギリスから独立した。1963年にはシンガポールなどと合わせてマレーシアを結成したが、1965年にシンガポールが分離した。",
+      "en": "The Federation of Malaya gained independence from Britain; it formed Malaysia with Singapore and others in 1963, though Singapore separated in 1965."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "マラヤ連邦",
+      "en": "Federation of Malaya"
+    }
+  },
+  {
+    "id": "sputnik",
+    "type": "culture",
+    "year": 1957,
+    "year_end": null,
+    "lat": 45.92,
+    "lon": 63.34,
+    "name": {
+      "ja": "スプートニク1号の打ち上げ",
+      "en": "Launch of Sputnik 1"
+    },
+    "desc": {
+      "ja": "ソ連が世界初の人工衛星スプートニク1号の打ち上げに成功した。アメリカに衝撃を与え、米ソの宇宙開発競争が始まった。",
+      "en": "The USSR launched Sputnik 1, the world's first artificial satellite, shocking the United States and starting the space race."
+    },
+    "importance": 2,
+    "persons": [
+      "khrushchev"
+    ],
+    "wiki": {
+      "ja": "スプートニク1号",
+      "en": "Sputnik 1"
+    }
+  },
+  {
+    "id": "great-leap-forward",
+    "type": "politics",
+    "year": 1958,
+    "year_end": 1960,
+    "lat": 39.9,
+    "lon": 116.38,
+    "name": {
+      "ja": "大躍進",
+      "en": "Great Leap Forward"
+    },
+    "desc": {
+      "ja": "毛沢東が人民公社を組織して急速な工業化・農業集団化をめざしたが、無理な計画と自然災害で大飢饉が起こり、毛は国家主席を退いた。",
+      "en": "Mao organised people's communes to force rapid industrialisation and collectivisation; the campaign caused a catastrophic famine and Mao stepped down as head of state."
+    },
+    "importance": 2,
+    "persons": [
+      "mao-zedong"
+    ],
+    "wiki": {
+      "ja": "大躍進政策",
+      "en": "Great Leap Forward"
+    }
+  },
+  {
+    "id": "iraqi-revolution-1958",
+    "type": "revolution",
+    "year": 1958,
+    "year_end": null,
+    "lat": 33.34,
+    "lon": 44.4,
+    "name": {
+      "ja": "イラク革命",
+      "en": "Iraqi Revolution of 1958"
+    },
+    "desc": {
+      "ja": "カセム率いる軍部のクーデタで親英的なハーシム家の王政が倒れ、イラクは共和国となった。翌年バグダード条約機構から脱退し、同機構は中央条約機構(CENTO)に改組された。",
+      "en": "A military coup overthrew the pro-British monarchy and Iraq became a republic; it left the Baghdad Pact the following year."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "7月14日革命",
+      "en": "14 July Revolution"
+    }
+  },
+  {
+    "id": "french-fifth-republic",
+    "type": "founding",
+    "year": 1958,
+    "year_end": null,
+    "lat": 48.86,
+    "lon": 2.35,
+    "name": {
+      "ja": "フランス第五共和政の成立",
+      "en": "French Fifth Republic"
+    },
+    "desc": {
+      "ja": "アルジェリア問題で混乱する中、ド＝ゴールが復帰して大統領権限の強い新憲法を制定し第五共和政を樹立した。翌年大統領に就任した。",
+      "en": "Amid the Algerian crisis de Gaulle returned to power and established the Fifth Republic with a strong presidency; he became president in 1959."
+    },
+    "importance": 2,
+    "persons": [
+      "de-gaulle"
+    ],
+    "wiki": {
+      "ja": "フランス第五共和政",
+      "en": "French Fifth Republic"
+    }
+  },
+  {
+    "id": "cuban-revolution",
+    "type": "revolution",
+    "year": 1959,
+    "year_end": null,
+    "lat": 23.13,
+    "lon": -82.38,
+    "name": {
+      "ja": "キューバ革命",
+      "en": "Cuban Revolution"
+    },
+    "desc": {
+      "ja": "カストロとゲバラの率いる革命軍が親米的なバティスタ独裁政権を倒した。革命政権は農地改革とアメリカ資産の国有化を進め、ソ連に接近した。",
+      "en": "Rebels led by Castro and Guevara overthrew the pro-American Batista dictatorship; the new government nationalised US property and turned to the USSR."
+    },
+    "importance": 3,
+    "persons": [
+      "castro",
+      "guevara"
+    ],
+    "wiki": {
+      "ja": "キューバ革命",
+      "en": "Cuban Revolution"
+    }
+  },
+  {
+    "id": "tibet-uprising-1959",
+    "type": "revolution",
+    "year": 1959,
+    "year_end": null,
+    "lat": 29.65,
+    "lon": 91.1,
+    "name": {
+      "ja": "チベット反乱",
+      "en": "Tibetan Uprising"
+    },
+    "desc": {
+      "ja": "中国の支配に対する反乱がラサで起こり、人民解放軍に鎮圧された。ダライ＝ラマ14世はインドに亡命して亡命政府を樹立し、これを機に中国とインドの関係が悪化した。",
+      "en": "An uprising against Chinese rule broke out in Lhasa and was suppressed; the 14th Dalai Lama fled to India, souring Sino-Indian relations."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "チベット動乱",
+      "en": "1959 Tibetan uprising"
+    }
+  },
+  {
+    "id": "year-of-africa",
+    "type": "founding",
+    "year": 1960,
+    "year_end": null,
+    "lat": 6.45,
+    "lon": 3.4,
+    "name": {
+      "ja": "アフリカの年",
+      "en": "Year of Africa"
+    },
+    "desc": {
+      "ja": "ナイジェリアやコンゴなど17か国が一挙に独立し、「アフリカの年」と呼ばれた。国連総会は植民地独立付与宣言を採択した。",
+      "en": "Seventeen African states, including Nigeria and the Congo, gained independence in one year; the UN adopted its Declaration on decolonisation."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "アフリカの年",
+      "en": "Year of Africa"
+    }
+  },
+  {
+    "id": "congo-crisis",
+    "type": "battle",
+    "year": 1960,
+    "year_end": 1965,
+    "lat": -4.32,
+    "lon": 15.31,
+    "name": {
+      "ja": "コンゴ動乱",
+      "en": "Congo Crisis"
+    },
+    "desc": {
+      "ja": "ベルギーから独立した直後のコンゴで、鉱山地帯カタンガの分離独立をベルギーが支援して内乱となった。首相ルムンバは殺害され、モブツが実権を握った。",
+      "en": "Just after independence from Belgium, Belgian-backed secession of mineral-rich Katanga plunged the Congo into conflict; premier Lumumba was murdered and Mobutu took power."
+    },
+    "importance": 2,
+    "persons": [
+      "lumumba"
+    ],
+    "wiki": {
+      "ja": "コンゴ動乱",
+      "en": "Congo Crisis"
+    }
+  },
+  {
+    "id": "opec-founding",
+    "type": "founding",
+    "year": 1960,
+    "year_end": null,
+    "lat": 33.33,
+    "lon": 44.42,
+    "name": {
+      "ja": "OPECの結成",
+      "en": "Founding of OPEC"
+    },
+    "desc": {
+      "ja": "国際石油資本に対抗して、イラン・イラク・サウジアラビアなど産油5か国がバグダードで石油輸出国機構(OPEC)を結成した。",
+      "en": "Five oil-producing states including Iran, Iraq and Saudi Arabia founded the Organization of Petroleum Exporting Countries in Baghdad to counter the oil majors."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "石油輸出国機構",
+      "en": "OPEC"
+    }
+  },
+  {
+    "id": "sino-soviet-split",
+    "type": "politics",
+    "year": 1960,
+    "year_end": null,
+    "lat": 39.92,
+    "lon": 116.42,
+    "name": {
+      "ja": "中ソ対立",
+      "en": "Sino-Soviet Split"
+    },
+    "desc": {
+      "ja": "フルシチョフの平和共存路線をめぐり中ソの対立が表面化し、ソ連は中国への技術者を引き揚げた。1969年には国境で武力衝突が起きた。",
+      "en": "Disputes over Khrushchev's peaceful coexistence brought the Sino-Soviet rift into the open; the USSR withdrew its advisers and border clashes followed in 1969."
+    },
+    "importance": 2,
+    "persons": [
+      "mao-zedong",
+      "khrushchev"
+    ],
+    "wiki": {
+      "ja": "中ソ対立",
+      "en": "Sino-Soviet split"
+    }
+  },
+  {
+    "id": "bay-of-pigs",
+    "type": "battle",
+    "year": 1961,
+    "year_end": null,
+    "lat": 22.2,
+    "lon": -81.15,
+    "name": {
+      "ja": "ピッグス湾事件",
+      "en": "Bay of Pigs Invasion"
+    },
+    "desc": {
+      "ja": "アメリカの支援を受けた亡命キューバ人部隊がキューバに侵攻したが失敗した。カストロは社会主義宣言を行いソ連に接近した。",
+      "en": "A US-backed force of Cuban exiles landed in Cuba but was quickly defeated; Castro then declared Cuba socialist and moved closer to the USSR."
+    },
+    "importance": 1,
+    "persons": [
+      "kennedy",
+      "castro"
+    ],
+    "wiki": {
+      "ja": "ピッグス湾事件",
+      "en": "Bay of Pigs Invasion"
+    }
+  },
+  {
+    "id": "gagarin-spaceflight",
+    "type": "culture",
+    "year": 1961,
+    "year_end": null,
+    "lat": 45.96,
+    "lon": 63.3,
+    "name": {
+      "ja": "ガガーリンの有人宇宙飛行",
+      "en": "Gagarin's Spaceflight"
+    },
+    "desc": {
+      "ja": "ソ連の空軍士官ガガーリンがボストーク1号で地球を1周し、人類初の有人宇宙飛行に成功した。「地球は青かった」の言葉で知られ、宇宙開発競争でソ連が先行していることを示した。",
+      "en": "Soviet cosmonaut Yuri Gagarin made the first human spaceflight aboard Vostok 1, orbiting the Earth."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "ユーリイ・ガガーリン",
+      "en": "Vostok 1"
+    }
+  },
+  {
+    "id": "berlin-wall-built",
+    "type": "politics",
+    "year": 1961,
+    "year_end": null,
+    "lat": 52.53,
+    "lon": 13.39,
+    "name": {
+      "ja": "ベルリンの壁の構築",
+      "en": "Construction of the Berlin Wall"
+    },
+    "desc": {
+      "ja": "西ベルリンへの市民流出を止めるため、東ドイツが東西ベルリンの境界に壁を築いた。壁は冷戦と東西分断の象徴となった。",
+      "en": "To stop the flight of its citizens to the West, East Germany built a wall around West Berlin, which became the symbol of the Cold War divide."
+    },
+    "importance": 3,
+    "persons": [
+      "khrushchev",
+      "kennedy"
+    ],
+    "wiki": {
+      "ja": "ベルリンの壁",
+      "en": "Berlin Wall"
+    }
+  },
+  {
+    "id": "non-aligned-movement",
+    "type": "treaty",
+    "year": 1961,
+    "year_end": null,
+    "lat": 44.8,
+    "lon": 20.47,
+    "name": {
+      "ja": "非同盟諸国首脳会議",
+      "en": "First Non-Aligned Summit"
+    },
+    "desc": {
+      "ja": "ティトー・ネルー・ナセルらの呼びかけでベオグラードに25か国が集まり、東西いずれの軍事ブロックにも属さない非同盟の立場を宣言した。",
+      "en": "At the invitation of Tito, Nehru and Nasser, twenty-five states met in Belgrade and declared their non-alignment with either Cold War bloc."
+    },
+    "importance": 2,
+    "persons": [
+      "tito",
+      "nehru",
+      "nasser",
+      "sukarno"
+    ],
+    "wiki": {
+      "ja": "非同盟運動",
+      "en": "Non-Aligned Movement"
+    }
+  },
+  {
+    "id": "park-chung-hee-coup",
+    "type": "politics",
+    "year": 1961,
+    "year_end": null,
+    "lat": 37.56,
+    "lon": 126.99,
+    "name": {
+      "ja": "朴正熙の軍事クーデタ",
+      "en": "Park Chung-hee's Coup"
+    },
+    "desc": {
+      "ja": "李承晩退陣後の混乱の中、朴正熙ら軍部がクーデタで政権を握った。朴は開発独裁のもとで韓国の高度経済成長を推進した。",
+      "en": "Amid turmoil after Rhee's fall, Park Chung-hee and the military seized power; under his developmental dictatorship South Korea began rapid growth."
+    },
+    "importance": 1,
+    "persons": [
+      "park-chung-hee",
+      "syngman-rhee"
+    ],
+    "wiki": {
+      "ja": "5月16日軍事クーデター",
+      "en": "May 16 coup"
+    }
+  },
+  {
+    "id": "cuban-missile-crisis",
+    "type": "politics",
+    "year": 1962,
+    "year_end": null,
+    "lat": 23.1,
+    "lon": -82.4,
+    "name": {
+      "ja": "キューバ危機",
+      "en": "Cuban Missile Crisis"
+    },
+    "desc": {
+      "ja": "ソ連がキューバにミサイル基地を建設したことが判明し、ケネディは海上封鎖で撤去を要求した。核戦争の危機の末、フルシチョフが撤去に応じた。",
+      "en": "Discovery of Soviet missile bases in Cuba led Kennedy to impose a naval blockade; after days on the brink of nuclear war Khrushchev agreed to remove the missiles."
+    },
+    "importance": 3,
+    "persons": [
+      "kennedy",
+      "khrushchev",
+      "castro"
+    ],
+    "wiki": {
+      "ja": "キューバ危機",
+      "en": "Cuban Missile Crisis"
+    }
+  },
+  {
+    "id": "oau-founding",
+    "type": "founding",
+    "year": 1963,
+    "year_end": null,
+    "lat": 9.03,
+    "lon": 38.74,
+    "name": {
+      "ja": "アフリカ統一機構(OAU)の結成",
+      "en": "Founding of the OAU"
+    },
+    "desc": {
+      "ja": "アフリカ独立諸国30か国がアディスアベバでアフリカ統一機構を結成し、植民地主義の排除とアフリカの連帯をめざした。2002年にアフリカ連合に発展した。",
+      "en": "Thirty independent African states founded the Organisation of African Unity at Addis Ababa to end colonialism and promote African solidarity; it became the African Union in 2002."
+    },
+    "importance": 2,
+    "persons": [
+      "nkrumah"
+    ],
+    "wiki": {
+      "ja": "アフリカ統一機構",
+      "en": "Organisation of African Unity"
+    }
+  },
+  {
+    "id": "partial-test-ban-treaty",
+    "type": "treaty",
+    "year": 1963,
+    "year_end": null,
+    "lat": 55.75,
+    "lon": 37.59,
+    "name": {
+      "ja": "部分的核実験禁止条約",
+      "en": "Partial Nuclear Test Ban Treaty"
+    },
+    "desc": {
+      "ja": "米・英・ソが大気圏内・宇宙空間・水中での核実験を禁止する条約に調印した。地下実験は除外され、フランスと中国は参加しなかった。",
+      "en": "The US, Britain and USSR banned nuclear tests in the atmosphere, outer space and under water; underground tests were excluded and France and China did not join."
+    },
+    "importance": 2,
+    "persons": [
+      "kennedy",
+      "khrushchev"
+    ],
+    "wiki": {
+      "ja": "部分的核実験禁止条約",
+      "en": "Partial Nuclear Test Ban Treaty"
+    }
+  },
+  {
+    "id": "march-on-washington",
+    "type": "politics",
+    "year": 1963,
+    "year_end": null,
+    "lat": 38.89,
+    "lon": -77.05,
+    "name": {
+      "ja": "ワシントン大行進",
+      "en": "March on Washington"
+    },
+    "desc": {
+      "ja": "公民権法の成立を求めて約20万人がワシントンに集まり、リンカン記念堂前でキング牧師が「私には夢がある」と演説した。公民権運動の頂点であり、翌年の公民権法成立を後押しした。",
+      "en": "Some 200,000 people marched on Washington for civil rights legislation, and Martin Luther King Jr. delivered his 'I Have a Dream' speech."
+    },
+    "importance": 1,
+    "persons": [
+      "martin-luther-king",
+      "kennedy"
+    ],
+    "wiki": {
+      "ja": "ワシントン大行進",
+      "en": "March on Washington for Jobs and Freedom"
+    }
+  },
+  {
+    "id": "kennedy-assassinated",
+    "type": "politics",
+    "year": 1963,
+    "year_end": null,
+    "lat": 32.78,
+    "lon": -96.8,
+    "name": {
+      "ja": "ケネディ大統領の暗殺",
+      "en": "Assassination of President Kennedy"
+    },
+    "desc": {
+      "ja": "テキサス州ダラスを遊説中のケネディ大統領が狙撃され死亡した。副大統領ジョンソンが昇格し、公民権法を成立させた。",
+      "en": "President Kennedy was shot dead while visiting Dallas, Texas; Vice-President Johnson succeeded him and carried the Civil Rights Act into law."
+    },
+    "importance": 2,
+    "persons": [
+      "kennedy",
+      "johnson-lb"
+    ],
+    "wiki": {
+      "ja": "ジョン・F・ケネディ暗殺事件",
+      "en": "Assassination of John F. Kennedy"
+    }
+  },
+  {
+    "id": "plo-founding",
+    "type": "founding",
+    "year": 1964,
+    "year_end": null,
+    "lat": 31.78,
+    "lon": 35.23,
+    "name": {
+      "ja": "パレスチナ解放機構(PLO)の結成",
+      "en": "Founding of the PLO"
+    },
+    "desc": {
+      "ja": "パレスチナ人の民族解放組織としてパレスチナ解放機構が結成された。1969年からアラファトが議長となり、対イスラエル闘争を指導した。",
+      "en": "The Palestine Liberation Organization was founded as the Palestinians' national movement; Arafat became its chairman in 1969 and led the struggle against Israel."
+    },
+    "importance": 2,
+    "persons": [
+      "arafat",
+      "nasser"
+    ],
+    "wiki": {
+      "ja": "パレスチナ解放機構",
+      "en": "Palestine Liberation Organization"
+    }
+  },
+  {
+    "id": "civil-rights-act",
+    "type": "politics",
+    "year": 1964,
+    "year_end": null,
+    "lat": 38.9,
+    "lon": -77.02,
+    "name": {
+      "ja": "公民権法",
+      "en": "Civil Rights Act"
+    },
+    "desc": {
+      "ja": "ケネディの遺志を継いだジョンソン大統領のもとで公民権法が成立し、公共施設や雇用における人種差別が法的に禁止された。翌1965年には黒人の選挙権を保障する投票権法も成立した。",
+      "en": "Under President Johnson the Civil Rights Act outlawed racial discrimination; the Voting Rights Act followed in 1965."
+    },
+    "importance": 3,
+    "persons": [
+      "johnson-lb",
+      "martin-luther-king"
+    ],
+    "wiki": {
+      "ja": "1964年公民権法",
+      "en": "Civil Rights Act of 1964"
+    }
+  },
+  {
+    "id": "tonkin-gulf-incident",
+    "type": "politics",
+    "year": 1964,
+    "year_end": null,
+    "lat": 19.5,
+    "lon": 106.5,
+    "name": {
+      "ja": "トンキン湾事件",
+      "en": "Gulf of Tonkin Incident"
+    },
+    "desc": {
+      "ja": "アメリカの駆逐艦が北ベトナムに攻撃されたとされ、議会はジョンソン大統領に軍事行動の全権を与えた。ベトナム戦争本格化の口実となった。",
+      "en": "Alleged North Vietnamese attacks on US destroyers led Congress to authorise President Johnson to use force, opening the way to full-scale war in Vietnam."
+    },
+    "importance": 2,
+    "persons": [
+      "johnson-lb"
+    ],
+    "wiki": {
+      "ja": "トンキン湾事件",
+      "en": "Gulf of Tonkin incident"
+    }
+  },
+  {
+    "id": "vietnam-war",
+    "type": "battle",
+    "year": 1965,
+    "year_end": 1975,
+    "lat": 10.78,
+    "lon": 106.7,
+    "name": {
+      "ja": "ベトナム戦争",
+      "en": "Vietnam War"
+    },
+    "desc": {
+      "ja": "アメリカが北ベトナムへの爆撃(北爆)と地上軍派遣で本格介入した。南ベトナム解放民族戦線と北ベトナムの抵抗で泥沼化し、国内外で反戦運動が高まった。",
+      "en": "The United States began bombing North Vietnam and sent ground troops; stubborn resistance by the NLF and North Vietnam bogged down the war and fuelled a global anti-war movement."
+    },
+    "importance": 3,
+    "persons": [
+      "johnson-lb",
+      "nixon",
+      "ho-chi-minh"
+    ],
+    "wiki": {
+      "ja": "ベトナム戦争",
+      "en": "Vietnam War"
+    }
+  },
+  {
+    "id": "cultural-revolution",
+    "type": "revolution",
+    "year": 1966,
+    "year_end": 1976,
+    "lat": 39.9,
+    "lon": 116.39,
+    "name": {
+      "ja": "プロレタリア文化大革命",
+      "en": "Cultural Revolution"
+    },
+    "desc": {
+      "ja": "毛沢東が劉少奇・鄧小平ら実権派を打倒するため紅衛兵を動員して起こした政治運動。大混乱が10年続き、毛の死後に終結した。",
+      "en": "Mao mobilised the Red Guards to overthrow Liu Shaoqi, Deng Xiaoping and other 'capitalist roaders'; a decade of turmoil ended only with Mao's death."
+    },
+    "importance": 3,
+    "persons": [
+      "mao-zedong",
+      "deng-xiaoping",
+      "zhou-enlai"
+    ],
+    "wiki": {
+      "ja": "文化大革命",
+      "en": "Cultural Revolution"
+    }
+  },
+  {
+    "id": "ec-founding",
+    "type": "founding",
+    "year": 1967,
+    "year_end": null,
+    "lat": 50.85,
+    "lon": 4.35,
+    "name": {
+      "ja": "ヨーロッパ共同体(EC)の発足",
+      "en": "Founding of the European Community"
+    },
+    "desc": {
+      "ja": "ECSC・EEC・EURATOMの機関が統合され、ヨーロッパ共同体(EC)が発足した。1973年にはイギリスなどが加盟し拡大EC となった。",
+      "en": "The institutions of the ECSC, EEC and Euratom were merged into the European Community; Britain and others joined in 1973."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "欧州諸共同体",
+      "en": "European Communities"
+    }
+  },
+  {
+    "id": "six-day-war",
+    "type": "battle",
+    "year": 1967,
+    "year_end": null,
+    "lat": 30.5,
+    "lon": 33.8,
+    "name": {
+      "ja": "第3次中東戦争",
+      "en": "Six-Day War"
+    },
+    "desc": {
+      "ja": "イスラエルが先制攻撃でエジプト・シリア・ヨルダンを6日間で破り、シナイ半島・ガザ・ヨルダン川西岸・ゴラン高原を占領した。",
+      "en": "Israel launched a pre-emptive strike and defeated Egypt, Syria and Jordan in six days, occupying Sinai, Gaza, the West Bank and the Golan Heights."
+    },
+    "importance": 3,
+    "persons": [
+      "nasser"
+    ],
+    "wiki": {
+      "ja": "第三次中東戦争",
+      "en": "Six-Day War"
+    }
+  },
+  {
+    "id": "asean-founding",
+    "type": "founding",
+    "year": 1967,
+    "year_end": null,
+    "lat": 13.75,
+    "lon": 100.5,
+    "name": {
+      "ja": "ASEANの結成",
+      "en": "Founding of ASEAN"
+    },
+    "desc": {
+      "ja": "インドネシア・マレーシア・フィリピン・シンガポール・タイの5か国が東南アジア諸国連合を結成した。地域協力の枠組みとして発展した。",
+      "en": "Indonesia, Malaysia, the Philippines, Singapore and Thailand founded the Association of Southeast Asian Nations as a framework for regional cooperation."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "東南アジア諸国連合",
+      "en": "ASEAN"
+    }
+  },
+  {
+    "id": "biafran-war",
+    "type": "battle",
+    "year": 1967,
+    "year_end": 1970,
+    "lat": 6.45,
+    "lon": 7.5,
+    "name": {
+      "ja": "ビアフラ戦争",
+      "en": "Nigerian Civil War"
+    },
+    "desc": {
+      "ja": "ナイジェリア東部のイボ人がビアフラ共和国として分離独立を宣言し内戦となった。封鎖による飢餓で多数の犠牲者が出た。",
+      "en": "The Igbo of eastern Nigeria declared the Republic of Biafra; the ensuing civil war and blockade caused mass starvation."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "ビアフラ戦争",
+      "en": "Nigerian Civil War"
+    }
+  },
+  {
+    "id": "tet-offensive",
+    "type": "battle",
+    "year": 1968,
+    "year_end": null,
+    "lat": 10.77,
+    "lon": 106.69,
+    "name": {
+      "ja": "テト攻勢",
+      "en": "Tet Offensive"
+    },
+    "desc": {
+      "ja": "旧正月に解放民族戦線と北ベトナム軍がサイゴンなど南ベトナム各地で大攻勢をかけた。アメリカの戦意をくじき、ジョンソンは北爆停止と和平交渉を表明した。",
+      "en": "At the lunar new year the NLF and North Vietnamese attacked cities across South Vietnam; the shock undermined US resolve and Johnson halted bombing and sought talks."
+    },
+    "importance": 2,
+    "persons": [
+      "johnson-lb"
+    ],
+    "wiki": {
+      "ja": "テト攻勢",
+      "en": "Tet Offensive"
+    }
+  },
+  {
+    "id": "mlk-assassinated",
+    "type": "politics",
+    "year": 1968,
+    "year_end": null,
+    "lat": 35.15,
+    "lon": -90.05,
+    "name": {
+      "ja": "キング牧師の暗殺",
+      "en": "Assassination of Martin Luther King Jr."
+    },
+    "desc": {
+      "ja": "公民権運動の指導者キング牧師が、清掃労働者のストライキを支援するため訪れていたメンフィスで白人男性に暗殺された。全米100以上の都市で黒人の暴動が起こった。",
+      "en": "Civil rights leader Martin Luther King Jr. was assassinated in Memphis, sparking riots in cities across the United States."
+    },
+    "importance": 1,
+    "persons": [
+      "martin-luther-king"
+    ],
+    "wiki": {
+      "ja": "マーティン・ルーサー・キング・ジュニア暗殺事件",
+      "en": "Assassination of Martin Luther King Jr."
+    }
+  },
+  {
+    "id": "may-1968",
+    "type": "revolution",
+    "year": 1968,
+    "year_end": null,
+    "lat": 48.85,
+    "lon": 2.34,
+    "name": {
+      "ja": "五月革命",
+      "en": "May 1968 in France"
+    },
+    "desc": {
+      "ja": "パリの学生運動が労働者のゼネストに広がり、ド＝ゴール政権を揺るがした。世界各地の学生運動と連動し、翌年ド＝ゴールは退陣した。",
+      "en": "Student protests in Paris spread into a general strike that shook de Gaulle's government; part of a worldwide wave of youth revolt, it led to his resignation in 1969."
+    },
+    "importance": 2,
+    "persons": [
+      "de-gaulle"
+    ],
+    "wiki": {
+      "ja": "五月革命 (フランス)",
+      "en": "May 68"
+    }
+  },
+  {
+    "id": "npt",
+    "type": "treaty",
+    "year": 1968,
+    "year_end": null,
+    "lat": 40.75,
+    "lon": -73.97,
+    "name": {
+      "ja": "核拡散防止条約",
+      "en": "Nuclear Non-Proliferation Treaty"
+    },
+    "desc": {
+      "ja": "米・英・ソなど核保有5か国以外への核兵器の拡散を防ぐ条約が調印され、1970年に発効した。インド・パキスタン・イスラエルは加盟しなかった。",
+      "en": "The treaty barred the spread of nuclear weapons beyond the five recognised nuclear powers and came into force in 1970; India, Pakistan and Israel stayed outside."
+    },
+    "importance": 2,
+    "persons": [
+      "johnson-lb"
+    ],
+    "wiki": {
+      "ja": "核拡散防止条約",
+      "en": "Treaty on the Non-Proliferation of Nuclear Weapons"
+    }
+  },
+  {
+    "id": "prague-spring",
+    "type": "revolution",
+    "year": 1968,
+    "year_end": null,
+    "lat": 50.09,
+    "lon": 14.42,
+    "name": {
+      "ja": "プラハの春",
+      "en": "Prague Spring"
+    },
+    "desc": {
+      "ja": "チェコスロヴァキアでドプチェクが「人間の顔をした社会主義」を掲げ自由化を進めたが、ワルシャワ条約機構軍が侵攻して弾圧した。",
+      "en": "Dubček's reforms promising 'socialism with a human face' in Czechoslovakia were crushed by an invasion of Warsaw Pact forces."
+    },
+    "importance": 3,
+    "persons": [
+      "dubcek",
+      "brezhnev"
+    ],
+    "wiki": {
+      "ja": "プラハの春",
+      "en": "Prague Spring"
+    }
+  },
+  {
+    "id": "apollo-11",
+    "type": "culture",
+    "year": 1969,
+    "year_end": null,
+    "lat": 28.57,
+    "lon": -80.65,
+    "name": {
+      "ja": "アポロ11号の月面着陸",
+      "en": "Apollo 11 Moon Landing"
+    },
+    "desc": {
+      "ja": "アメリカのアポロ11号が人類初の月面着陸に成功し、アームストロングが月面に降り立った。宇宙開発競争でアメリカがソ連を逆転した。",
+      "en": "Apollo 11 achieved the first crewed landing on the Moon and Neil Armstrong stepped onto its surface, giving the United States the lead in the space race."
+    },
+    "importance": 2,
+    "persons": [
+      "nixon",
+      "kennedy"
+    ],
+    "wiki": {
+      "ja": "アポロ11号",
+      "en": "Apollo 11"
+    }
+  },
+  {
+    "id": "zhenbao-island-incident",
+    "type": "battle",
+    "year": 1969,
+    "year_end": null,
+    "lat": 46.48,
+    "lon": 133.84,
+    "name": {
+      "ja": "中ソ国境紛争",
+      "en": "Sino-Soviet Border Conflict"
+    },
+    "desc": {
+      "ja": "ウスリー川の珍宝島(ダマンスキー島)で中ソ両軍が武力衝突した。中ソ対立は決定的となり、中国はアメリカへの接近を模索した。",
+      "en": "Chinese and Soviet troops clashed on Zhenbao (Damansky) Island in the Ussuri River; the rift became irreparable and China began to seek ties with the US."
+    },
+    "importance": 1,
+    "persons": [
+      "mao-zedong",
+      "brezhnev"
+    ],
+    "wiki": {
+      "ja": "中ソ国境紛争",
+      "en": "Sino-Soviet border conflict"
+    }
+  },
+  {
+    "id": "bangladesh-independence",
+    "type": "founding",
+    "year": 1971,
+    "year_end": null,
+    "lat": 23.72,
+    "lon": 90.41,
+    "name": {
+      "ja": "バングラデシュの独立",
+      "en": "Independence of Bangladesh"
+    },
+    "desc": {
+      "ja": "東パキスタンが独立を求めて蜂起し、インドが介入して第3次インド＝パキスタン戦争が起こった。パキスタン軍は降伏し、バングラデシュが独立した。",
+      "en": "East Pakistan rose for independence and India intervened in the Third Indo-Pakistani War; Pakistani forces surrendered and Bangladesh was born."
+    },
+    "importance": 2,
+    "persons": [
+      "indira-gandhi"
+    ],
+    "wiki": {
+      "ja": "バングラデシュ独立戦争",
+      "en": "Bangladesh Liberation War"
+    }
+  },
+  {
+    "id": "prc-un-seat",
+    "type": "politics",
+    "year": 1971,
+    "year_end": null,
+    "lat": 40.75,
+    "lon": -73.96,
+    "name": {
+      "ja": "中華人民共和国の国連代表権獲得",
+      "en": "PRC Takes China's UN Seat"
+    },
+    "desc": {
+      "ja": "国連総会で中華人民共和国が中国の代表権を獲得し、台湾の中華民国は国連を脱退した。中国は安全保障理事会常任理事国となった。",
+      "en": "The UN General Assembly recognised the People's Republic as China's representative; the Republic of China on Taiwan left the UN and the PRC took the Security Council seat."
+    },
+    "importance": 2,
+    "persons": [
+      "zhou-enlai"
+    ],
+    "wiki": {
+      "ja": "アルバニア決議",
+      "en": "United Nations General Assembly Resolution 2758"
+    }
+  },
+  {
+    "id": "nixon-shock",
+    "type": "politics",
+    "year": 1971,
+    "year_end": null,
+    "lat": 38.9,
+    "lon": -77.04,
+    "name": {
+      "ja": "ドル＝ショック",
+      "en": "Nixon Shock"
+    },
+    "desc": {
+      "ja": "ベトナム戦争の戦費などで財政が悪化したアメリカのニクソン大統領が金とドルの交換停止を発表した。ブレトン＝ウッズ体制は崩れ、1973年に変動相場制へ移行した。",
+      "en": "Facing deficits swollen by the Vietnam War, President Nixon suspended the dollar's convertibility into gold; the Bretton Woods system collapsed and floating rates followed in 1973."
+    },
+    "importance": 3,
+    "persons": [
+      "nixon"
+    ],
+    "wiki": {
+      "ja": "ニクソン・ショック",
+      "en": "Nixon shock"
+    }
+  },
+  {
+    "id": "nixon-visit-china",
+    "type": "politics",
+    "year": 1972,
+    "year_end": null,
+    "lat": 39.92,
+    "lon": 116.39,
+    "name": {
+      "ja": "ニクソン訪中",
+      "en": "Nixon's Visit to China"
+    },
+    "desc": {
+      "ja": "ニクソン大統領が北京を訪れて毛沢東・周恩来と会談し、米中の対立に終止符を打った。ソ連を牽制するねらいがあり、世界に衝撃を与えた。",
+      "en": "President Nixon visited Beijing and met Mao and Zhou Enlai, ending two decades of hostility; the opening to China, aimed partly at the USSR, stunned the world."
+    },
+    "importance": 3,
+    "persons": [
+      "nixon",
+      "mao-zedong",
+      "zhou-enlai"
+    ],
+    "wiki": {
+      "ja": "ニクソン大統領の中国訪問",
+      "en": "1972 visit by Richard Nixon to China"
+    }
+  },
+  {
+    "id": "salt-i",
+    "type": "treaty",
+    "year": 1972,
+    "year_end": null,
+    "lat": 55.75,
+    "lon": 37.61,
+    "name": {
+      "ja": "第1次戦略兵器制限交渉(SALT Ⅰ)",
+      "en": "SALT I"
+    },
+    "desc": {
+      "ja": "ニクソンがモスクワを訪問し、ブレジネフとの間で戦略兵器の数量を制限する協定を結んだ。米ソのデタント(緊張緩和)を象徴した。",
+      "en": "Nixon visited Moscow and signed with Brezhnev an agreement limiting strategic nuclear arms, a landmark of détente."
+    },
+    "importance": 1,
+    "persons": [
+      "nixon",
+      "brezhnev"
+    ],
+    "wiki": {
+      "ja": "戦略兵器制限交渉",
+      "en": "Strategic Arms Limitation Talks"
+    }
+  },
+  {
+    "id": "japan-china-normalization",
+    "type": "treaty",
+    "year": 1972,
+    "year_end": null,
+    "lat": 39.91,
+    "lon": 116.41,
+    "name": {
+      "ja": "日中国交正常化",
+      "en": "Normalisation of Japan–China Relations"
+    },
+    "desc": {
+      "ja": "ニクソン訪中を受けて田中角栄首相が北京を訪れ、周恩来首相と日中共同声明に調印して国交を正常化した。日本は台湾の中華民国と断交し、1978年には日中平和友好条約が結ばれた。",
+      "en": "Prime Minister Tanaka Kakuei visited Beijing and signed a joint communiqué normalising relations; a peace and friendship treaty followed in 1978."
+    },
+    "importance": 2,
+    "persons": [
+      "zhou-enlai"
+    ],
+    "wiki": {
+      "ja": "日中共同声明",
+      "en": "Japan–China Joint Communiqué"
+    }
+  },
+  {
+    "id": "basic-treaty-germany",
+    "type": "treaty",
+    "year": 1972,
+    "year_end": null,
+    "lat": 52.51,
+    "lon": 13.38,
+    "name": {
+      "ja": "東西ドイツ基本条約",
+      "en": "Basic Treaty between East and West Germany"
+    },
+    "desc": {
+      "ja": "ブラント首相の東方外交の成果として、東西ドイツが互いを対等な国家として承認する基本条約を結んだ。翌1973年に両国は国連に同時加盟し、ヨーロッパのデタントが進んだ。",
+      "en": "As the fruit of Brandt's Ostpolitik, the two German states recognised each other in the Basic Treaty; both joined the United Nations in 1973."
+    },
+    "importance": 2,
+    "persons": [
+      "brandt"
+    ],
+    "wiki": {
+      "ja": "東西ドイツ基本条約",
+      "en": "Basic Treaty, 1972"
+    }
+  },
+  {
+    "id": "watergate",
+    "type": "politics",
+    "year": 1972,
+    "year_end": 1974,
+    "lat": 38.9,
+    "lon": -77.06,
+    "name": {
+      "ja": "ウォーターゲート事件",
+      "en": "Watergate Scandal"
+    },
+    "desc": {
+      "ja": "民主党本部への侵入事件にニクソン大統領の関与と隠蔽が明らかになり、1974年に大統領は辞任した。アメリカ大統領の任期中の辞任は初めてであった。",
+      "en": "Revelations of President Nixon's involvement in covering up a break-in at Democratic headquarters forced him to resign in 1974, the first US president to do so."
+    },
+    "importance": 2,
+    "persons": [
+      "nixon"
+    ],
+    "wiki": {
+      "ja": "ウォーターゲート事件",
+      "en": "Watergate scandal"
+    }
+  },
+  {
+    "id": "paris-peace-accords",
+    "type": "treaty",
+    "year": 1973,
+    "year_end": null,
+    "lat": 48.87,
+    "lon": 2.3,
+    "name": {
+      "ja": "パリ和平協定",
+      "en": "Paris Peace Accords"
+    },
+    "desc": {
+      "ja": "アメリカと北ベトナムなどがベトナム和平協定に調印し、アメリカ軍は南ベトナムから撤退した。しかし南北間の戦闘は続いた。",
+      "en": "The United States, North Vietnam and others signed a peace agreement and US forces withdrew from South Vietnam, though fighting between North and South continued."
+    },
+    "importance": 2,
+    "persons": [
+      "nixon"
+    ],
+    "wiki": {
+      "ja": "パリ協定 (ベトナム和平)",
+      "en": "Paris Peace Accords"
+    }
+  },
+  {
+    "id": "chilean-coup",
+    "type": "politics",
+    "year": 1973,
+    "year_end": null,
+    "lat": -33.45,
+    "lon": -70.67,
+    "name": {
+      "ja": "チリ軍事クーデタ",
+      "en": "Chilean Coup"
+    },
+    "desc": {
+      "ja": "選挙で成立したアジェンデの社会主義政権がアメリカの支援を受けたピノチェト将軍のクーデタで倒された。アジェンデは死亡し軍事独裁が始まった。",
+      "en": "The elected socialist government of Allende was overthrown by General Pinochet in a US-backed coup; Allende died and a military dictatorship followed."
+    },
+    "importance": 1,
+    "persons": [
+      "allende",
+      "pinochet"
+    ],
+    "wiki": {
+      "ja": "チリ・クーデター",
+      "en": "1973 Chilean coup d'état"
+    }
+  },
+  {
+    "id": "yom-kippur-war",
+    "type": "battle",
+    "year": 1973,
+    "year_end": null,
+    "lat": 30.59,
+    "lon": 32.27,
+    "name": {
+      "ja": "第4次中東戦争",
+      "en": "Yom Kippur War"
+    },
+    "desc": {
+      "ja": "エジプトとシリアが失地回復をめざしてイスラエルを奇襲した。アラブ産油国は石油戦略を発動し、第1次石油危機を引き起こした。",
+      "en": "Egypt and Syria launched a surprise attack on Israel to recover lost territory; the Arab oil states used the 'oil weapon', triggering the first oil crisis."
+    },
+    "importance": 2,
+    "persons": [
+      "sadat"
+    ],
+    "wiki": {
+      "ja": "第四次中東戦争",
+      "en": "Yom Kippur War"
+    }
+  },
+  {
+    "id": "first-oil-crisis",
+    "type": "politics",
+    "year": 1973,
+    "year_end": null,
+    "lat": 29.37,
+    "lon": 47.98,
+    "name": {
+      "ja": "第1次石油危機",
+      "en": "First Oil Crisis"
+    },
+    "desc": {
+      "ja": "第4次中東戦争に際しアラブ石油輸出国機構(OAPEC)が原油の減産とイスラエル支持国への禁輸を行い、OPECも原油価格を4倍に引き上げた。先進国は不況に陥った。",
+      "en": "During the Yom Kippur War OAPEC cut output and embargoed Israel's supporters while OPEC quadrupled oil prices, plunging the industrial world into recession."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "オイルショック",
+      "en": "1973 oil crisis"
+    }
+  },
+  {
+    "id": "fall-of-saigon",
+    "type": "fall",
+    "year": 1975,
+    "year_end": null,
+    "lat": 10.78,
+    "lon": 106.7,
+    "name": {
+      "ja": "サイゴン陥落",
+      "en": "Fall of Saigon"
+    },
+    "desc": {
+      "ja": "北ベトナム軍と解放民族戦線がサイゴンを占領して南ベトナム政府が崩壊し、ベトナム戦争が終わった。翌年南北を統一したベトナム社会主義共和国が成立した。",
+      "en": "North Vietnamese and NLF forces took Saigon, ending the Vietnam War; the Socialist Republic of Vietnam united North and South in 1976."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "サイゴン陥落",
+      "en": "Fall of Saigon"
+    }
+  },
+  {
+    "id": "khmer-rouge-regime",
+    "type": "politics",
+    "year": 1975,
+    "year_end": 1979,
+    "lat": 11.56,
+    "lon": 104.92,
+    "name": {
+      "ja": "ポル＝ポト政権",
+      "en": "Khmer Rouge Regime"
+    },
+    "desc": {
+      "ja": "ポル＝ポト率いる赤色クメールがプノンペンを占領し、民主カンプチアを樹立した。急進的な農業共産主義のもとで百万人以上が虐殺・餓死した。",
+      "en": "The Khmer Rouge under Pol Pot took Phnom Penh and established Democratic Kampuchea; radical agrarian communism killed well over a million people."
+    },
+    "importance": 2,
+    "persons": [
+      "pol-pot"
+    ],
+    "wiki": {
+      "ja": "民主カンプチア",
+      "en": "Democratic Kampuchea"
+    }
+  },
+  {
+    "id": "angola-mozambique-independence",
+    "type": "founding",
+    "year": 1975,
+    "year_end": null,
+    "lat": -8.84,
+    "lon": 13.23,
+    "name": {
+      "ja": "アンゴラ・モザンビークの独立",
+      "en": "Independence of Angola and Mozambique"
+    },
+    "desc": {
+      "ja": "ポルトガルの独裁政権崩壊を受けてアンゴラとモザンビークが独立した。アンゴラでは米ソが介入する内戦が長く続いた。",
+      "en": "After the fall of Portugal's dictatorship, Angola and Mozambique gained independence; Angola then suffered a long civil war with US and Soviet involvement."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "アンゴラ独立戦争",
+      "en": "Angolan War of Independence"
+    }
+  },
+  {
+    "id": "helsinki-accords",
+    "type": "treaty",
+    "year": 1975,
+    "year_end": null,
+    "lat": 60.17,
+    "lon": 24.94,
+    "name": {
+      "ja": "ヘルシンキ宣言",
+      "en": "Helsinki Accords"
+    },
+    "desc": {
+      "ja": "全欧安全保障協力会議(CSCE)に欧州33か国と米・カナダが参加し、主権尊重・国境不可侵・人権尊重などを宣言した。デタントの頂点とされる。",
+      "en": "Thirty-three European states plus the US and Canada signed the Final Act of the CSCE, pledging respect for sovereignty, borders and human rights, the high point of détente."
+    },
+    "importance": 2,
+    "persons": [
+      "brezhnev"
+    ],
+    "wiki": {
+      "ja": "ヘルシンキ宣言",
+      "en": "Helsinki Accords"
+    }
+  },
+  {
+    "id": "camp-david-accords",
+    "type": "treaty",
+    "year": 1978,
+    "year_end": null,
+    "lat": 39.65,
+    "lon": -77.47,
+    "name": {
+      "ja": "キャンプ＝デーヴィッド合意",
+      "en": "Camp David Accords"
+    },
+    "desc": {
+      "ja": "カーター大統領の仲介でエジプトのサダトとイスラエルのベギンが和平に合意し、翌年エジプト＝イスラエル平和条約が結ばれた。エジプトはアラブ連盟から除名された。",
+      "en": "With President Carter mediating, Sadat and Begin agreed on peace; the Egypt–Israel treaty of 1979 followed and Egypt was expelled from the Arab League."
+    },
+    "importance": 2,
+    "persons": [
+      "sadat",
+      "carter",
+      "begin"
+    ],
+    "wiki": {
+      "ja": "キャンプ・デービッド合意",
+      "en": "Camp David Accords"
+    }
+  },
+  {
+    "id": "deng-reform-opening",
+    "type": "politics",
+    "year": 1978,
+    "year_end": null,
+    "lat": 39.9,
+    "lon": 116.4,
+    "name": {
+      "ja": "改革開放",
+      "en": "Reform and Opening-up"
+    },
+    "desc": {
+      "ja": "中国共産党第11期3中全会で鄧小平が実権を握り、農業・工業・国防・科学技術の「四つの現代化」と対外開放をめざす改革開放路線に転じた。",
+      "en": "At the Third Plenum Deng Xiaoping took control and launched the policy of reform and opening-up, pursuing the 'Four Modernisations' and foreign investment."
+    },
+    "importance": 3,
+    "persons": [
+      "deng-xiaoping"
+    ],
+    "wiki": {
+      "ja": "改革開放",
+      "en": "Chinese economic reform"
+    }
+  },
+  {
+    "id": "iranian-revolution",
+    "type": "revolution",
+    "year": 1979,
+    "year_end": null,
+    "lat": 35.69,
+    "lon": 51.39,
+    "name": {
+      "ja": "イラン＝イスラーム革命",
+      "en": "Iranian Revolution"
+    },
+    "desc": {
+      "ja": "パフレヴィー朝の近代化独裁に反対する運動が高まり国王は亡命、帰国したホメイニのもとでイラン＝イスラーム共和国が成立した。第2次石油危機を引き起こした。",
+      "en": "Mass opposition to the Shah's modernising dictatorship drove him into exile; Khomeini returned and founded the Islamic Republic, sparking the second oil crisis."
+    },
+    "importance": 3,
+    "persons": [
+      "khomeini"
+    ],
+    "wiki": {
+      "ja": "イラン革命",
+      "en": "Iranian Revolution"
+    }
+  },
+  {
+    "id": "soviet-afghan-war",
+    "type": "battle",
+    "year": 1979,
+    "year_end": 1989,
+    "lat": 34.53,
+    "lon": 69.17,
+    "name": {
+      "ja": "ソ連のアフガニスタン侵攻",
+      "en": "Soviet–Afghan War"
+    },
+    "desc": {
+      "ja": "ソ連が親ソ政権を支えるためアフガニスタンに軍事侵攻した。デタントは終わり「新冷戦」となった。イスラーム武装勢力の抵抗に苦しみ、ゴルバチョフが1989年に撤退した。",
+      "en": "The USSR invaded Afghanistan to prop up a pro-Soviet regime, ending détente and opening a 'new Cold War'; worn down by the mujahideen, Gorbachev withdrew in 1989."
+    },
+    "importance": 2,
+    "persons": [
+      "brezhnev",
+      "gorbachev"
+    ],
+    "wiki": {
+      "ja": "ソビエト連邦のアフガニスタン侵攻",
+      "en": "Soviet–Afghan War"
+    }
+  },
+  {
+    "id": "thatcher-government",
+    "type": "politics",
+    "year": 1979,
+    "year_end": null,
+    "lat": 51.5,
+    "lon": -0.13,
+    "name": {
+      "ja": "サッチャー政権の成立",
+      "en": "Thatcher Government"
+    },
+    "desc": {
+      "ja": "イギリスで保守党のサッチャーが初の女性首相となった。「イギリス病」の克服を掲げ、国有企業の民営化や労働組合の抑制、福祉の削減など新自由主義的な政策を強力に進めた。",
+      "en": "Conservative leader Margaret Thatcher became Britain's first woman prime minister and pursued neoliberal policies of privatisation and welfare cuts."
+    },
+    "importance": 2,
+    "persons": [
+      "thatcher"
+    ],
+    "wiki": {
+      "ja": "マーガレット・サッチャー",
+      "en": "Premiership of Margaret Thatcher"
+    }
+  },
+  {
+    "id": "iran-iraq-war",
+    "type": "battle",
+    "year": 1980,
+    "year_end": 1988,
+    "lat": 30.51,
+    "lon": 47.81,
+    "name": {
+      "ja": "イラン＝イラク戦争",
+      "en": "Iran–Iraq War"
+    },
+    "desc": {
+      "ja": "革命後の混乱に乗じてイラクのサダム＝フセインがイランに侵攻した。アメリカなどがイラクを支援し、8年に及ぶ消耗戦の末に停戦した。",
+      "en": "Saddam Hussein's Iraq invaded revolutionary Iran; backed by the US and others, Iraq fought an eight-year war of attrition that ended in a ceasefire."
+    },
+    "importance": 2,
+    "persons": [
+      "saddam-hussein",
+      "khomeini"
+    ],
+    "wiki": {
+      "ja": "イラン・イラク戦争",
+      "en": "Iran–Iraq War"
+    }
+  },
+  {
+    "id": "zimbabwe-independence",
+    "type": "founding",
+    "year": 1980,
+    "year_end": null,
+    "lat": -17.83,
+    "lon": 31.05,
+    "name": {
+      "ja": "ジンバブエの独立",
+      "en": "Independence of Zimbabwe"
+    },
+    "desc": {
+      "ja": "白人政権が一方的に独立を宣言していたローデシアで、長いゲリラ戦の末に黒人多数の支配が実現した。ムガベを首相としてジンバブエが独立し、イギリス連邦に加わった。",
+      "en": "White-ruled Rhodesia gave way to majority rule and became independent Zimbabwe under Prime Minister Robert Mugabe."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "ジンバブエの歴史",
+      "en": "History of Zimbabwe"
+    }
+  },
+  {
+    "id": "solidarity",
+    "type": "politics",
+    "year": 1980,
+    "year_end": null,
+    "lat": 54.35,
+    "lon": 18.65,
+    "name": {
+      "ja": "「連帯」の結成",
+      "en": "Founding of Solidarity"
+    },
+    "desc": {
+      "ja": "ポーランドのグダニスクでワレサを指導者とする自主管理労組「連帯」が結成された。翌年戒厳令で非合法化されたが、1989年の民主化を導いた。",
+      "en": "The independent trade union Solidarity, led by Wałęsa, was founded at Gdańsk; banned under martial law in 1981, it went on to lead Poland's democratisation in 1989."
+    },
+    "importance": 2,
+    "persons": [
+      "walesa"
+    ],
+    "wiki": {
+      "ja": "独立自主管理労働組合「連帯」",
+      "en": "Solidarity (Polish trade union)"
+    }
+  },
+  {
+    "id": "falklands-war",
+    "type": "battle",
+    "year": 1982,
+    "year_end": null,
+    "lat": -51.7,
+    "lon": -57.85,
+    "name": {
+      "ja": "フォークランド戦争",
+      "en": "Falklands War"
+    },
+    "desc": {
+      "ja": "アルゼンチンの軍事政権が領有権を主張するイギリス領フォークランド(マルビナス)諸島を占領したが、サッチャー政権は艦隊を派遣して奪回した。敗北でアルゼンチンの軍政は崩壊した。",
+      "en": "Argentina's military junta seized the British Falkland Islands; Thatcher dispatched a task force and recaptured them."
+    },
+    "importance": 1,
+    "persons": [
+      "thatcher"
+    ],
+    "wiki": {
+      "ja": "フォークランド紛争",
+      "en": "Falklands War"
+    }
+  },
+  {
+    "id": "lebanon-war-1982",
+    "type": "battle",
+    "year": 1982,
+    "year_end": null,
+    "lat": 33.89,
+    "lon": 35.5,
+    "name": {
+      "ja": "イスラエルのレバノン侵攻",
+      "en": "1982 Lebanon War"
+    },
+    "desc": {
+      "ja": "内戦下のレバノンにイスラエルがPLO掃討を掲げて侵攻し、ベイルートを包囲した。PLOは本部をチュニスへ移し、パレスチナ難民キャンプでは大規模な虐殺事件が起こった。",
+      "en": "Israel invaded Lebanon, already torn by civil war, and the PLO was forced to move its headquarters from Beirut to Tunis."
+    },
+    "importance": 1,
+    "persons": [
+      "arafat"
+    ],
+    "wiki": {
+      "ja": "レバノン侵攻 (1982年)",
+      "en": "1982 Lebanon War"
+    }
+  },
+  {
+    "id": "ethiopian-famine",
+    "type": "other",
+    "year": 1984,
+    "year_end": 1985,
+    "lat": 9.03,
+    "lon": 38.74,
+    "name": {
+      "ja": "エチオピア大飢饉",
+      "en": "Ethiopian Famine"
+    },
+    "desc": {
+      "ja": "干ばつと内戦によりエチオピアで大飢饉が起こり、数十万人が死亡した。各国の音楽家による救援活動も行われ、アフリカの飢餓と貧困の問題が世界の関心を集めた。",
+      "en": "Drought and civil war brought famine to Ethiopia, killing hundreds of thousands and drawing world attention to hunger in Africa."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "1983年-1985年のエチオピア飢饉",
+      "en": "1983–1985 famine in Ethiopia"
+    }
+  },
+  {
+    "id": "gorbachev-perestroika",
+    "type": "politics",
+    "year": 1985,
+    "year_end": null,
+    "lat": 55.75,
+    "lon": 37.62,
+    "name": {
+      "ja": "ペレストロイカ",
+      "en": "Perestroika"
+    },
+    "desc": {
+      "ja": "ソ連共産党書記長となったゴルバチョフがペレストロイカ(改革)とグラスノスチ(情報公開)を掲げ、「新思考外交」で西側との関係改善を進めた。",
+      "en": "Gorbachev became Soviet general secretary and launched perestroika (restructuring) and glasnost (openness), seeking better relations with the West through 'new thinking'."
+    },
+    "importance": 3,
+    "persons": [
+      "gorbachev"
+    ],
+    "wiki": {
+      "ja": "ペレストロイカ",
+      "en": "Perestroika"
+    }
+  },
+  {
+    "id": "chernobyl",
+    "type": "other",
+    "year": 1986,
+    "year_end": null,
+    "lat": 51.39,
+    "lon": 30.1,
+    "name": {
+      "ja": "チェルノブイリ原発事故",
+      "en": "Chernobyl Disaster"
+    },
+    "desc": {
+      "ja": "ウクライナのチェルノブイリ原子力発電所で爆発事故が起こり、広範囲に放射性物質が拡散した。ソ連の情報公開の遅れが批判された。",
+      "en": "A reactor at the Chernobyl nuclear plant in Ukraine exploded, spreading radioactive contamination widely; the Soviet delay in disclosure drew heavy criticism."
+    },
+    "importance": 2,
+    "persons": [
+      "gorbachev"
+    ],
+    "wiki": {
+      "ja": "チェルノブイリ原子力発電所事故",
+      "en": "Chernobyl disaster"
+    }
+  },
+  {
+    "id": "inf-treaty",
+    "type": "treaty",
+    "year": 1987,
+    "year_end": null,
+    "lat": 38.9,
+    "lon": -77.03,
+    "name": {
+      "ja": "中距離核戦力(INF)全廃条約",
+      "en": "INF Treaty"
+    },
+    "desc": {
+      "ja": "レーガンとゴルバチョフが中距離核戦力の全廃に合意した。核兵器の削減を定めた史上初の条約で、冷戦終結への道を開いた。",
+      "en": "Reagan and Gorbachev agreed to eliminate all intermediate-range nuclear forces, the first treaty to actually reduce nuclear arsenals and a step toward ending the Cold War."
+    },
+    "importance": 2,
+    "persons": [
+      "reagan",
+      "gorbachev"
+    ],
+    "wiki": {
+      "ja": "中距離核戦力全廃条約",
+      "en": "Intermediate-Range Nuclear Forces Treaty"
+    }
+  },
+  {
+    "id": "first-intifada",
+    "type": "revolution",
+    "year": 1987,
+    "year_end": 1993,
+    "lat": 31.5,
+    "lon": 34.47,
+    "name": {
+      "ja": "インティファーダ",
+      "en": "First Intifada"
+    },
+    "desc": {
+      "ja": "イスラエル占領下のガザとヨルダン川西岸でパレスチナ民衆の抵抗運動(インティファーダ)が始まった。投石で戦車に立ち向かう姿が世界の共感を呼んだ。",
+      "en": "A popular Palestinian uprising began in the occupied Gaza Strip and West Bank; images of youths confronting tanks with stones won worldwide sympathy."
+    },
+    "importance": 2,
+    "persons": [
+      "arafat"
+    ],
+    "wiki": {
+      "ja": "第1次インティファーダ",
+      "en": "First Intifada"
+    }
+  },
+  {
+    "id": "korea-democratization-1987",
+    "type": "politics",
+    "year": 1987,
+    "year_end": null,
+    "lat": 37.57,
+    "lon": 126.98,
+    "name": {
+      "ja": "韓国の民主化宣言",
+      "en": "Democratisation of South Korea"
+    },
+    "desc": {
+      "ja": "大規模な民主化運動を受けて盧泰愚が大統領直接選挙制を受け入れる民主化宣言を行い、軍事政権から民主体制へ移行した。",
+      "en": "Mass protests forced Roh Tae-woo to accept direct presidential elections, ending military rule and beginning South Korea's transition to democracy."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "6月民主抗争",
+      "en": "June Democratic Struggle"
+    }
+  },
+  {
+    "id": "seoul-olympics",
+    "type": "culture",
+    "year": 1988,
+    "year_end": null,
+    "lat": 37.52,
+    "lon": 127.12,
+    "name": {
+      "ja": "ソウル＝オリンピック",
+      "en": "Seoul Olympics"
+    },
+    "desc": {
+      "ja": "民主化を果たした韓国でオリンピックが開かれた。モスクワ・ロサンゼルス両大会でのボイコットを経て東西両陣営がそろって参加し、韓国の経済発展を世界に示した。",
+      "en": "Newly democratic South Korea hosted the Olympic Games, attended by both Cold War blocs, showcasing the country's economic rise."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "1988年ソウルオリンピック",
+      "en": "1988 Summer Olympics"
+    }
+  },
+  {
+    "id": "tiananmen-incident-1989",
+    "type": "politics",
+    "year": 1989,
+    "year_end": null,
+    "lat": 39.9,
+    "lon": 116.39,
+    "name": {
+      "ja": "天安門事件",
+      "en": "Tiananmen Square Incident"
+    },
+    "desc": {
+      "ja": "胡耀邦の死をきっかけに北京の天安門広場で学生らが民主化を要求したが、鄧小平の指導部は軍を投入して武力弾圧した。国際的な非難を浴びた。",
+      "en": "Student-led demands for democracy in Tiananmen Square after Hu Yaobang's death were crushed by the army under Deng's leadership, drawing international condemnation."
+    },
+    "importance": 3,
+    "persons": [
+      "deng-xiaoping"
+    ],
+    "wiki": {
+      "ja": "六四天安門事件",
+      "en": "1989 Tiananmen Square protests and massacre"
+    }
+  },
+  {
+    "id": "fall-of-berlin-wall",
+    "type": "politics",
+    "year": 1989,
+    "year_end": null,
+    "lat": 52.52,
+    "lon": 13.38,
+    "name": {
+      "ja": "ベルリンの壁の崩壊",
+      "en": "Fall of the Berlin Wall"
+    },
+    "desc": {
+      "ja": "東欧諸国の民主化の波の中で東ドイツ政府が出国の自由化を発表し、ベルリンの壁が開放された。東西分断の象徴が崩れ、ドイツ統一へ向かった。",
+      "en": "Amid the wave of East European revolutions, East Germany opened its borders and the Berlin Wall fell, clearing the way to German reunification."
+    },
+    "importance": 3,
+    "persons": [
+      "gorbachev",
+      "kohl"
+    ],
+    "wiki": {
+      "ja": "ベルリンの壁崩壊",
+      "en": "Fall of the Berlin Wall"
+    }
+  },
+  {
+    "id": "romanian-revolution",
+    "type": "revolution",
+    "year": 1989,
+    "year_end": null,
+    "lat": 44.43,
+    "lon": 26.1,
+    "name": {
+      "ja": "ルーマニア革命",
+      "en": "Romanian Revolution"
+    },
+    "desc": {
+      "ja": "東欧の民主化の波の中で、ルーマニアでは独裁者チャウシェスクが民衆の蜂起と軍の離反により打倒され、夫妻ともに処刑された。1989年の東欧革命で唯一の流血の革命となった。",
+      "en": "Romania's was the only violent revolution of 1989 in Eastern Europe; the dictator Ceaușescu was captured and executed."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "ルーマニア革命 (1989年)",
+      "en": "Romanian revolution"
+    }
+  },
+  {
+    "id": "malta-summit",
+    "type": "treaty",
+    "year": 1989,
+    "year_end": null,
+    "lat": 35.9,
+    "lon": 14.51,
+    "name": {
+      "ja": "マルタ会談",
+      "en": "Malta Summit"
+    },
+    "desc": {
+      "ja": "ブッシュ大統領とゴルバチョフ書記長が地中海のマルタ島で会談し、冷戦の終結を宣言した。ヤルタ会談から44年を経て「ヤルタからマルタへ」といわれ、戦後の東西対立に幕が下りた。",
+      "en": "President Bush and Gorbachev met on Malta and declared the Cold War over."
+    },
+    "importance": 2,
+    "persons": [
+      "bush-sr",
+      "gorbachev"
+    ],
+    "wiki": {
+      "ja": "マルタ会談",
+      "en": "Malta Summit"
+    }
+  },
+  {
+    "id": "mandela-released",
+    "type": "politics",
+    "year": 1990,
+    "year_end": null,
+    "lat": -33.92,
+    "lon": 18.42,
+    "name": {
+      "ja": "マンデラの釈放",
+      "en": "Release of Nelson Mandela"
+    },
+    "desc": {
+      "ja": "デクラーク大統領が黒人組織の合法化を宣言し、27年間獄中にあったANC指導者マンデラが釈放された。アパルトヘイト撤廃の交渉が始まった。",
+      "en": "President de Klerk legalised the banned black organisations and ANC leader Mandela was freed after 27 years in prison, opening negotiations to end apartheid."
+    },
+    "importance": 2,
+    "persons": [
+      "mandela",
+      "de-klerk"
+    ],
+    "wiki": {
+      "ja": "ネルソン・マンデラ",
+      "en": "Nelson Mandela"
+    }
+  },
+  {
+    "id": "german-reunification",
+    "type": "politics",
+    "year": 1990,
+    "year_end": null,
+    "lat": 52.52,
+    "lon": 13.4,
+    "name": {
+      "ja": "ドイツ統一",
+      "en": "German Reunification"
+    },
+    "desc": {
+      "ja": "コール首相の主導で東ドイツが西ドイツに編入され、ドイツ統一が実現した。ソ連の同意を得るため統一ドイツはNATOにとどまり、ベルリンがふたたび首都となった。",
+      "en": "Under Chancellor Kohl's leadership East Germany acceded to the Federal Republic, reuniting Germany, which remained within NATO."
+    },
+    "importance": 3,
+    "persons": [
+      "kohl",
+      "gorbachev"
+    ],
+    "wiki": {
+      "ja": "ドイツ再統一",
+      "en": "German reunification"
+    }
+  },
+  {
+    "id": "gulf-war",
+    "type": "battle",
+    "year": 1991,
+    "year_end": null,
+    "lat": 29.37,
+    "lon": 47.97,
+    "name": {
+      "ja": "湾岸戦争",
+      "en": "Gulf War"
+    },
+    "desc": {
+      "ja": "1990年にクウェートを占領したイラクに対し、国連決議に基づきアメリカ中心の多国籍軍が攻撃し、クウェートを解放した。",
+      "en": "After Iraq occupied Kuwait in 1990, a US-led multinational coalition acting under UN resolutions attacked Iraq and liberated Kuwait."
+    },
+    "importance": 3,
+    "persons": [
+      "bush-sr",
+      "saddam-hussein"
+    ],
+    "wiki": {
+      "ja": "湾岸戦争",
+      "en": "Gulf War"
+    }
+  },
+  {
+    "id": "yugoslav-wars",
+    "type": "battle",
+    "year": 1991,
+    "year_end": 1995,
+    "lat": 43.85,
+    "lon": 18.38,
+    "name": {
+      "ja": "ユーゴスラヴィア内戦",
+      "en": "Yugoslav Wars"
+    },
+    "desc": {
+      "ja": "スロヴェニア・クロアティアの独立宣言を機にユーゴスラヴィア連邦が解体し、ボスニア＝ヘルツェゴヴィナでは民族浄化を伴う激しい内戦となった。",
+      "en": "Slovenia's and Croatia's declarations of independence broke up Yugoslavia; in Bosnia-Herzegovina the fighting brought ethnic cleansing until the Dayton accords of 1995."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "ユーゴスラビア紛争",
+      "en": "Yugoslav Wars"
+    }
+  },
+  {
+    "id": "dissolution-of-ussr",
+    "type": "fall",
+    "year": 1991,
+    "year_end": null,
+    "lat": 55.75,
+    "lon": 37.62,
+    "name": {
+      "ja": "ソ連の解体",
+      "en": "Dissolution of the Soviet Union"
+    },
+    "desc": {
+      "ja": "保守派のクーデタ失敗後、バルト3国が独立し、エリツィンらが独立国家共同体(CIS)を結成した。ゴルバチョフは大統領を辞任し、ソ連は消滅した。",
+      "en": "After a failed hardline coup the Baltic states broke away and Yeltsin and others formed the CIS; Gorbachev resigned and the Soviet Union ceased to exist."
+    },
+    "importance": 3,
+    "persons": [
+      "gorbachev",
+      "yeltsin"
+    ],
+    "wiki": {
+      "ja": "ソビエト連邦の崩壊",
+      "en": "Dissolution of the Soviet Union"
+    }
+  },
+  {
+    "id": "world-wide-web",
+    "type": "culture",
+    "year": 1991,
+    "year_end": null,
+    "lat": 46.23,
+    "lon": 6.05,
+    "name": {
+      "ja": "ワールド＝ワイド＝ウェブの公開",
+      "en": "World Wide Web Released"
+    },
+    "desc": {
+      "ja": "CERNのバーナーズ＝リーが開発したワールド＝ワイド＝ウェブが公開され、1990年代にインターネットが世界に急速に普及した。",
+      "en": "The World Wide Web, developed by Tim Berners-Lee at CERN, was released to the public, and the internet spread rapidly around the world in the 1990s."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "World Wide Web",
+      "en": "World Wide Web"
+    }
+  },
+  {
+    "id": "maastricht-treaty",
+    "type": "treaty",
+    "year": 1992,
+    "year_end": null,
+    "lat": 50.85,
+    "lon": 5.69,
+    "name": {
+      "ja": "マーストリヒト条約",
+      "en": "Maastricht Treaty"
+    },
+    "desc": {
+      "ja": "EC加盟国が通貨統合と共通外交・安全保障政策をめざすヨーロッパ連合条約に調印し、翌1993年にヨーロッパ連合(EU)が発足した。",
+      "en": "EC members signed the Treaty on European Union providing for monetary union and a common foreign policy; the European Union came into being in 1993."
+    },
+    "importance": 3,
+    "persons": [
+      "kohl"
+    ],
+    "wiki": {
+      "ja": "マーストリヒト条約",
+      "en": "Maastricht Treaty"
+    }
+  },
+  {
+    "id": "rio-earth-summit",
+    "type": "treaty",
+    "year": 1992,
+    "year_end": null,
+    "lat": -22.91,
+    "lon": -43.17,
+    "name": {
+      "ja": "地球サミット",
+      "en": "Rio Earth Summit"
+    },
+    "desc": {
+      "ja": "リオデジャネイロで国連環境開発会議(地球サミット)が開かれ、「持続可能な開発」を理念として気候変動枠組条約や生物多様性条約が調印された。環境問題が国際政治の主要課題となった。",
+      "en": "The UN Conference on Environment and Development in Rio de Janeiro embraced 'sustainable development' and opened the climate change convention for signature."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "地球サミット",
+      "en": "Earth Summit"
+    }
+  },
+  {
+    "id": "oslo-accords",
+    "type": "treaty",
+    "year": 1993,
+    "year_end": null,
+    "lat": 38.9,
+    "lon": -77.04,
+    "name": {
+      "ja": "パレスチナ暫定自治協定",
+      "en": "Oslo Accords"
+    },
+    "desc": {
+      "ja": "ノルウェーの仲介でイスラエルのラビン首相とPLOのアラファト議長が相互承認し、ワシントンでパレスチナ暫定自治協定に調印した。",
+      "en": "After Norwegian mediation, Israel's Rabin and the PLO's Arafat recognised each other and signed the Declaration of Principles on Palestinian self-rule in Washington."
+    },
+    "importance": 2,
+    "persons": [
+      "rabin",
+      "arafat",
+      "clinton"
+    ],
+    "wiki": {
+      "ja": "オスロ合意",
+      "en": "Oslo Accords"
+    }
+  },
+  {
+    "id": "nafta",
+    "type": "treaty",
+    "year": 1994,
+    "year_end": null,
+    "lat": 38.89,
+    "lon": -77.03,
+    "name": {
+      "ja": "北米自由貿易協定(NAFTA)の発効",
+      "en": "NAFTA Comes into Force"
+    },
+    "desc": {
+      "ja": "アメリカ・カナダ・メキシコの間で北米自由貿易協定が発効し、関税撤廃による巨大な自由貿易圏が成立した。EUなどの地域統合に対抗する動きであった。",
+      "en": "The North American Free Trade Agreement between the US, Canada and Mexico came into force, creating a vast free-trade zone."
+    },
+    "importance": 1,
+    "persons": [
+      "clinton"
+    ],
+    "wiki": {
+      "ja": "北米自由貿易協定",
+      "en": "North American Free Trade Agreement"
+    }
+  },
+  {
+    "id": "end-of-apartheid",
+    "type": "politics",
+    "year": 1994,
+    "year_end": null,
+    "lat": -25.75,
+    "lon": 28.19,
+    "name": {
+      "ja": "アパルトヘイトの撤廃",
+      "en": "End of Apartheid"
+    },
+    "desc": {
+      "ja": "南アフリカで初めて全人種が参加する選挙が行われ、ANCが勝利してマンデラが大統領に就任した。アパルトヘイト体制は完全に終わった。",
+      "en": "South Africa held its first election open to all races; the ANC won and Mandela became president, bringing apartheid to a definitive end."
+    },
+    "importance": 3,
+    "persons": [
+      "mandela",
+      "de-klerk"
+    ],
+    "wiki": {
+      "ja": "アパルトヘイト",
+      "en": "1994 South African general election"
+    }
+  },
+  {
+    "id": "rwandan-genocide",
+    "type": "other",
+    "year": 1994,
+    "year_end": null,
+    "lat": -1.95,
+    "lon": 30.06,
+    "name": {
+      "ja": "ルワンダ内戦(ジェノサイド)",
+      "en": "Rwandan Genocide"
+    },
+    "desc": {
+      "ja": "大統領機撃墜を機にルワンダで多数派フツ人の過激派が少数派ツチ人と穏健派フツ人を大量虐殺し、約100日間に80万人以上が殺害された。国際社会は介入できず、強い批判を浴びた。",
+      "en": "Hutu extremists massacred Tutsis and moderate Hutus in Rwanda; more than 800,000 people were killed in about a hundred days."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "ルワンダ虐殺",
+      "en": "Rwandan genocide"
+    }
+  },
+  {
+    "id": "wto-founding",
+    "type": "founding",
+    "year": 1995,
+    "year_end": null,
+    "lat": 46.22,
+    "lon": 6.14,
+    "name": {
+      "ja": "世界貿易機関(WTO)の発足",
+      "en": "Founding of the WTO"
+    },
+    "desc": {
+      "ja": "GATTを発展させて世界貿易機関が発足し、モノだけでなくサービスや知的財産権も含む貿易の自由化と紛争処理を担うことになった。",
+      "en": "The World Trade Organization succeeded GATT, extending trade liberalisation to services and intellectual property and providing a dispute settlement system."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "世界貿易機関",
+      "en": "World Trade Organization"
+    }
+  },
+  {
+    "id": "hong-kong-handover",
+    "type": "politics",
+    "year": 1997,
+    "year_end": null,
+    "lat": 22.3,
+    "lon": 114.17,
+    "name": {
+      "ja": "香港返還",
+      "en": "Handover of Hong Kong"
+    },
+    "desc": {
+      "ja": "イギリスが香港を中国に返還した。中国は「一国二制度」のもとで香港の資本主義体制を50年間維持すると約束した。1999年にはマカオも返還された。",
+      "en": "Britain returned Hong Kong to China, which promised to preserve its capitalist system for fifty years under 'one country, two systems'; Macau followed in 1999."
+    },
+    "importance": 2,
+    "persons": [
+      "deng-xiaoping"
+    ],
+    "wiki": {
+      "ja": "香港返還",
+      "en": "Handover of Hong Kong"
+    }
+  },
+  {
+    "id": "kyoto-protocol",
+    "type": "treaty",
+    "year": 1997,
+    "year_end": null,
+    "lat": 35.01,
+    "lon": 135.77,
+    "name": {
+      "ja": "京都議定書",
+      "en": "Kyoto Protocol"
+    },
+    "desc": {
+      "ja": "京都で開かれた気候変動枠組条約第3回締約国会議(COP3)で、先進国に温室効果ガスの削減義務を課す京都議定書が採択された。",
+      "en": "At the third conference of the climate convention (COP3) in Kyoto, the parties adopted a protocol binding industrial countries to cut greenhouse gas emissions."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "京都議定書",
+      "en": "Kyoto Protocol"
+    }
+  },
+  {
+    "id": "euro-introduced",
+    "type": "politics",
+    "year": 1999,
+    "year_end": 2002,
+    "lat": 50.11,
+    "lon": 8.68,
+    "name": {
+      "ja": "ユーロの導入",
+      "en": "Introduction of the Euro"
+    },
+    "desc": {
+      "ja": "EUの単一通貨ユーロが11か国で導入され、2002年から紙幣・硬貨の流通が始まった。ヨーロッパ中央銀行がフランクフルトに置かれた。",
+      "en": "The EU's single currency, the euro, was adopted by eleven states, with notes and coins circulating from 2002; the European Central Bank sits in Frankfurt."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "ユーロ",
+      "en": "Euro"
+    }
+  },
+  {
+    "id": "china-wto-accession",
+    "type": "politics",
+    "year": 2001,
+    "year_end": null,
+    "lat": 25.29,
+    "lon": 51.53,
+    "name": {
+      "ja": "中国のWTO加盟",
+      "en": "China Joins the WTO"
+    },
+    "desc": {
+      "ja": "ドーハで開かれたWTO閣僚会議で中国の加盟が承認された。中国は外国資本を受け入れて「世界の工場」となり、2010年には国内総生産で日本を抜いて世界第2位の経済大国となった。",
+      "en": "The WTO ministerial conference at Doha approved China's accession; China went on to become the 'workshop of the world' with explosive growth."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "中華人民共和国の経済",
+      "en": "China and the World Trade Organization"
+    }
+  },
+  {
+    "id": "september-11-attacks",
+    "type": "politics",
+    "year": 2001,
+    "year_end": null,
+    "lat": 40.71,
+    "lon": -74.01,
+    "name": {
+      "ja": "同時多発テロ事件",
+      "en": "September 11 Attacks"
+    },
+    "desc": {
+      "ja": "イスラーム急進派組織アル＝カーイダがハイジャックした旅客機でニューヨークの世界貿易センターなどを攻撃し、約3000人が死亡した。アメリカは「対テロ戦争」を宣言した。",
+      "en": "Al-Qaeda hijackers crashed airliners into the World Trade Center and the Pentagon, killing about 3,000 people; the United States declared a 'war on terror'."
+    },
+    "importance": 3,
+    "persons": [
+      "bush-jr"
+    ],
+    "wiki": {
+      "ja": "アメリカ同時多発テロ事件",
+      "en": "September 11 attacks"
+    }
+  },
+  {
+    "id": "afghanistan-war",
+    "type": "battle",
+    "year": 2001,
+    "year_end": 2021,
+    "lat": 34.52,
+    "lon": 69.18,
+    "name": {
+      "ja": "アフガニスタン戦争",
+      "en": "War in Afghanistan"
+    },
+    "desc": {
+      "ja": "アメリカはアル＝カーイダをかくまうターリバーン政権を攻撃して倒した。しかしターリバーンの抵抗は続き、2021年のアメリカ軍撤退で政権に復帰した。",
+      "en": "The US overthrew the Taliban regime sheltering al-Qaeda, but Taliban resistance continued and they returned to power when US forces withdrew in 2021."
+    },
+    "importance": 2,
+    "persons": [
+      "bush-jr"
+    ],
+    "wiki": {
+      "ja": "アフガニスタン紛争 (2001年-2021年)",
+      "en": "War in Afghanistan (2001–2021)"
+    }
+  },
+  {
+    "id": "iraq-war",
+    "type": "battle",
+    "year": 2003,
+    "year_end": 2011,
+    "lat": 33.34,
+    "lon": 44.4,
+    "name": {
+      "ja": "イラク戦争",
+      "en": "Iraq War"
+    },
+    "desc": {
+      "ja": "アメリカとイギリスは大量破壊兵器の保有を理由にイラクを攻撃してフセイン政権を倒したが、大量破壊兵器は発見されず、占領下のイラクは内乱状態となった。",
+      "en": "The US and Britain invaded Iraq citing weapons of mass destruction and toppled Saddam Hussein; no such weapons were found and occupied Iraq fell into insurgency."
+    },
+    "importance": 2,
+    "persons": [
+      "bush-jr",
+      "saddam-hussein"
+    ],
+    "wiki": {
+      "ja": "イラク戦争",
+      "en": "Iraq War"
+    }
+  },
+  {
+    "id": "eu-enlargement-2004",
+    "type": "politics",
+    "year": 2004,
+    "year_end": null,
+    "lat": 50.85,
+    "lon": 4.35,
+    "name": {
+      "ja": "EUの東方拡大",
+      "en": "EU Eastern Enlargement"
+    },
+    "desc": {
+      "ja": "ポーランド・ハンガリー・チェコ・バルト3国など旧社会主義国を含む10か国がEUに加盟し、加盟国は25か国となった。",
+      "en": "Ten states including Poland, Hungary, the Czech Republic and the Baltic states joined the EU, bringing membership to twenty-five."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "2004年の欧州連合拡大",
+      "en": "2004 enlargement of the European Union"
+    }
+  },
+  {
+    "id": "beijing-olympics",
+    "type": "culture",
+    "year": 2008,
+    "year_end": null,
+    "lat": 39.99,
+    "lon": 116.39,
+    "name": {
+      "ja": "北京オリンピック",
+      "en": "Beijing Olympics"
+    },
+    "desc": {
+      "ja": "北京でオリンピックが開かれ、中国は経済大国としての台頭を世界に示した。2010年には国内総生産で日本を抜き世界第2位となった。",
+      "en": "Beijing hosted the Olympic Games, displaying China's rise as an economic power; in 2010 China overtook Japan as the world's second-largest economy."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "2008年北京オリンピック",
+      "en": "2008 Summer Olympics"
+    }
+  },
+  {
+    "id": "lehman-shock",
+    "type": "politics",
+    "year": 2008,
+    "year_end": null,
+    "lat": 40.76,
+    "lon": -73.98,
+    "name": {
+      "ja": "リーマン＝ショック",
+      "en": "Lehman Shock"
+    },
+    "desc": {
+      "ja": "住宅バブル崩壊でアメリカの大手投資銀行リーマン＝ブラザーズが破綻し、世界金融危機が起きた。各国は協調して対応し、G20首脳会議が始まった。",
+      "en": "The collapse of Lehman Brothers after the US housing bubble burst set off a global financial crisis; coordinated responses led to the first G20 summit."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "リーマン・ショック",
+      "en": "Bankruptcy of Lehman Brothers"
+    }
+  },
+  {
+    "id": "obama-inaugurated",
+    "type": "politics",
+    "year": 2009,
+    "year_end": null,
+    "lat": 38.89,
+    "lon": -77.01,
+    "name": {
+      "ja": "オバマ大統領の就任",
+      "en": "Inauguration of Barack Obama"
+    },
+    "desc": {
+      "ja": "民主党のオバマがアフリカ系として初めてアメリカ大統領に就任した。「核なき世界」を訴え、2015年にはキューバと国交を回復した。",
+      "en": "Democrat Barack Obama became the first African American president of the United States; he called for a world without nuclear weapons and restored relations with Cuba in 2015."
+    },
+    "importance": 1,
+    "persons": [
+      "obama"
+    ],
+    "wiki": {
+      "ja": "バラク・オバマ",
+      "en": "First inauguration of Barack Obama"
+    }
+  },
+  {
+    "id": "arab-spring",
+    "type": "revolution",
+    "year": 2011,
+    "year_end": null,
+    "lat": 36.8,
+    "lon": 10.18,
+    "name": {
+      "ja": "アラブの春",
+      "en": "Arab Spring"
+    },
+    "desc": {
+      "ja": "チュニジアで始まった民主化運動がアラブ諸国に広がり、エジプトのムバラク政権やリビアのカダフィ政権が倒れた。多くの国ではその後混乱が続いた。",
+      "en": "Pro-democracy protests that began in Tunisia spread across the Arab world, toppling Mubarak in Egypt and Gaddafi in Libya, though turmoil followed in many countries."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "アラブの春",
+      "en": "Arab Spring"
+    }
+  },
+  {
+    "id": "syrian-civil-war",
+    "type": "battle",
+    "year": 2011,
+    "year_end": null,
+    "lat": 33.51,
+    "lon": 36.29,
+    "name": {
+      "ja": "シリア内戦",
+      "en": "Syrian Civil War"
+    },
+    "desc": {
+      "ja": "アラブの春の影響でアサド政権に対する反政府運動が内戦に発展した。ロシアやイランの介入もあり長期化し、多数の難民がヨーロッパへ流出した。",
+      "en": "Protests against the Assad regime inspired by the Arab Spring turned into civil war; prolonged by Russian and Iranian intervention, it drove millions of refugees toward Europe."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "シリア内戦",
+      "en": "Syrian civil war"
+    }
+  },
+  {
+    "id": "fukushima-disaster",
+    "type": "other",
+    "year": 2011,
+    "year_end": null,
+    "lat": 37.42,
+    "lon": 141.03,
+    "name": {
+      "ja": "東日本大震災と福島第一原発事故",
+      "en": "Tōhoku Earthquake and Fukushima Nuclear Accident"
+    },
+    "desc": {
+      "ja": "東日本大震災の津波で福島第一原子力発電所が炉心溶融事故を起こし、放射性物質が放出された。世界各国で原子力政策の見直しが進んだ。",
+      "en": "The tsunami of the Tōhoku earthquake caused meltdowns at the Fukushima Daiichi nuclear plant and radioactive releases, prompting reviews of nuclear policy worldwide."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "福島第一原子力発電所事故",
+      "en": "Fukushima nuclear accident"
+    }
+  },
+  {
+    "id": "isis-caliphate",
+    "type": "politics",
+    "year": 2014,
+    "year_end": 2017,
+    "lat": 36.34,
+    "lon": 43.13,
+    "name": {
+      "ja": "「イスラム国」の台頭",
+      "en": "Rise of the Islamic State"
+    },
+    "desc": {
+      "ja": "過激派組織「イスラム国」(IS)がイラク・シリアにまたがる地域を支配してカリフ制国家の樹立を宣言した。有志連合の攻撃で2017年にモスルなどの拠点を失った。",
+      "en": "The extremist Islamic State seized territory across Iraq and Syria and proclaimed a caliphate; a US-led coalition drove it from Mosul and its other strongholds by 2017."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "ISIL",
+      "en": "Islamic State"
+    }
+  },
+  {
+    "id": "crimea-annexation",
+    "type": "politics",
+    "year": 2014,
+    "year_end": null,
+    "lat": 44.95,
+    "lon": 34.1,
+    "name": {
+      "ja": "ロシアのクリミア併合",
+      "en": "Russian Annexation of Crimea"
+    },
+    "desc": {
+      "ja": "親ロシア派のヤヌコヴィチ政権が倒れたウクライナの政変を受けて、ロシアがクリミア半島を併合した。欧米諸国は経済制裁を科し、ウクライナ東部でも紛争が始まった。",
+      "en": "After the Ukrainian revolution Russia annexed the Crimean peninsula; Western sanctions followed and relations with Russia deteriorated sharply."
+    },
+    "importance": 1,
+    "persons": [
+      "putin"
+    ],
+    "wiki": {
+      "ja": "2014年クリミア危機",
+      "en": "Annexation of Crimea by the Russian Federation"
+    }
+  },
+  {
+    "id": "paris-agreement",
+    "type": "treaty",
+    "year": 2015,
+    "year_end": null,
+    "lat": 48.86,
+    "lon": 2.35,
+    "name": {
+      "ja": "パリ協定",
+      "en": "Paris Agreement"
+    },
+    "desc": {
+      "ja": "COP21で先進国・途上国がともに温室効果ガス削減に取り組むパリ協定が採択され、気温上昇を2度未満に抑える目標を定めた。",
+      "en": "At COP21 developed and developing countries alike agreed to cut greenhouse gases, setting the goal of keeping global warming well below 2°C."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "パリ協定 (気候変動)",
+      "en": "Paris Agreement"
+    }
+  },
+  {
+    "id": "brexit",
+    "type": "politics",
+    "year": 2016,
+    "year_end": 2020,
+    "lat": 51.5,
+    "lon": -0.12,
+    "name": {
+      "ja": "イギリスのEU離脱",
+      "en": "Brexit"
+    },
+    "desc": {
+      "ja": "キャメロン政権下の国民投票でEU離脱が過半数を占め、イギリスは長い交渉の末に2020年にEUから離脱した。EU発足以来初めての加盟国の離脱であり、統合の後退となった。",
+      "en": "A referendum produced a majority to leave the EU, and Britain formally withdrew in 2020, the first reversal of European integration."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "イギリスの欧州連合離脱",
+      "en": "Brexit"
+    }
+  },
+  {
+    "id": "trump-inaugurated",
+    "type": "politics",
+    "year": 2017,
+    "year_end": null,
+    "lat": 38.89,
+    "lon": -77,
+    "name": {
+      "ja": "トランプ大統領の就任",
+      "en": "Inauguration of Donald Trump"
+    },
+    "desc": {
+      "ja": "「アメリカ第一」を掲げる共和党のトランプが大統領に就任し、パリ協定離脱や対中貿易戦争など保護主義的政策をとった。",
+      "en": "Republican Donald Trump took office on an 'America First' platform, withdrawing from the Paris Agreement and launching a trade war with China."
+    },
+    "importance": 1,
+    "persons": [
+      "trump"
+    ],
+    "wiki": {
+      "ja": "ドナルド・トランプ",
+      "en": "First inauguration of Donald Trump"
+    }
+  },
+  {
+    "id": "covid-19-pandemic",
+    "type": "other",
+    "year": 2020,
+    "year_end": null,
+    "lat": 30.59,
+    "lon": 114.31,
+    "name": {
+      "ja": "新型コロナウイルス感染症の世界的流行",
+      "en": "COVID-19 Pandemic"
+    },
+    "desc": {
+      "ja": "中国の武漢で確認された新型コロナウイルス感染症が世界に広がり、WHOがパンデミックを宣言した。各国で都市封鎖が行われ、世界経済は深刻な打撃を受けた。",
+      "en": "A novel coronavirus first identified in Wuhan spread worldwide and the WHO declared a pandemic; lockdowns were imposed around the globe and the world economy was hit hard."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "新型コロナウイルス感染症の世界的流行 (2019年-)",
+      "en": "COVID-19 pandemic"
+    }
+  }
+]

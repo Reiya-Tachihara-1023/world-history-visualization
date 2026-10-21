@@ -37,6 +37,8 @@ const UI: Record<string, LText> = {
   'panel.events': { ja: '関連する出来事', en: 'Related events' },
   'panel.persons': { ja: '関連人物', en: 'People' },
   'panel.period': { ja: '時期', en: 'Period' },
+  'panel.localEvents': { ja: 'この地域の出来事(前後)', en: 'Events in this area (around this time)' },
+  'panel.localPersons': { ja: 'この地域の人物', en: 'People in this area' },
   'panel.nodata': { ja: 'この政体の解説はまだありません。', en: 'No description for this polity yet.' },
   'panel.wiki': { ja: 'Wikipedia', en: 'Wikipedia' },
   'panel.jump': { ja: 'この年へ', en: 'Go to year' },

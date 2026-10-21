@@ -19,7 +19,7 @@ async function main() {
   const ds = await loadDataset();
   const hmap = new HistoryMap(document.getElementById('map')!, ds, h.cam);
   initTimeline(ds.index);
-  initPanel(ds, (lon, lat) => hmap.flyTo(lon, lat));
+  initPanel(ds, (lon, lat) => hmap.flyTo(lon, lat), (n, sub) => hmap.territoryGeometries(n, sub));
   const ticker = initTicker(() => hmap.eventsInView());
 
   // ---- language

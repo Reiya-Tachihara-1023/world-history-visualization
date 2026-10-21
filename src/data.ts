@@ -109,3 +109,37 @@ export function nameOf(names: NameMap, en: string | null | undefined): { ja: str
   if (!en) return null;
   return { ja: names[en]?.ja ?? en, en };
 }
+
+// ---------------------------------------------------------------- geometry helpers
+function ringContains(ring: number[][], x: number, y: number): boolean {
+  let inside = false;
+  for (let i = 0, j = ring.length - 1; i < ring.length; j = i++) {
+    const [xi, yi] = ring[i], [xj, yj] = ring[j];
+    if ((yi > y) !== (yj > y) && x < ((xj - xi) * (y - yi)) / (yj - yi) + xi) inside = !inside;
+  }
+  return inside;
+}
+function polygonContains(poly: number[][][], x: number, y: number): boolean {
+  if (!ringContains(poly[0], x, y)) return false;
+  for (let i = 1; i < poly.length; i++) if (ringContains(poly[i], x, y)) return false;
+  return true;
+}
+export function geometryContains(g: GeoJSON.Geometry, lon: number, lat: number): boolean {
+  if (g.type === 'Polygon') return polygonContains(g.coordinates, lon, lat);
+  if (g.type === 'MultiPolygon') return g.coordinates.some((p) => polygonContains(p, lon, lat));
+  return false;
+}
+
+/** Events located inside any of the geometries, within +-span years of `year`. */
+export function eventsInside(events: HistEvent[], geoms: GeoJSON.Geometry[], year: number, span: number): HistEvent[] {
+  const out: HistEvent[] = [];
+  for (const e of events) {
+    if (e.year < year - span) continue;
+    if (e.year > year + span) break;
+    if (geoms.some((g) => geometryContains(g, e.lon, e.lat))) out.push(e);
+  }
+  return out;
+}
+export function personsInside(persons: Person[], geoms: GeoJSON.Geometry[], year: number, span: number): Person[] {
+  return persons.filter((p) => p.active[1] >= year - span && p.active[0] <= year + span && geoms.some((g) => geometryContains(g, p.lon, p.lat)));
+}
