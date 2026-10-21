@@ -1,0 +1,1407 @@
+[
+  {
+    "id": "soviet-russia-1917",
+    "year": 1917,
+    "match": {
+      "n": "Russian Empire"
+    },
+    "set": {
+      "n": "Soviet Russia",
+      "s": "Russia"
+    },
+    "note": {
+      "ja": "ロシア革命、ソヴィエト政権の成立",
+      "en": "Russian Revolution: Soviet government established"
+    }
+  },
+  {
+    "id": "austria-hungary-dissolved-1918",
+    "year": 1918,
+    "match": {
+      "n": "Austro-Hungarian Empire"
+    },
+    "set": {
+      "p": 1
+    },
+    "note": {
+      "ja": "オーストリア＝ハンガリー帝国の解体（オーストリア・ハンガリー・チェコスロヴァキアなどに分裂）",
+      "en": "Dissolution of Austria-Hungary into successor states"
+    }
+  },
+  {
+    "id": "german-empire-to-republic-1918",
+    "year": 1918,
+    "match": {
+      "n": "German Empire"
+    },
+    "set": {
+      "n": "Germany",
+      "s": "Germany"
+    },
+    "note": {
+      "ja": "ドイツ革命、帝政の崩壊（ヴァイマル共和国へ）",
+      "en": "German Revolution: fall of the Empire, Weimar Republic"
+    }
+  },
+  {
+    "id": "ottoman-armistice-1918",
+    "year": 1918,
+    "match": {
+      "n": "Ottoman Empire"
+    },
+    "set": {
+      "p": 1
+    },
+    "note": {
+      "ja": "オスマン帝国の降伏（ムドロス休戦協定）、アラブ地域は英仏の占領下へ",
+      "en": "Ottoman surrender (Armistice of Mudros); Arab provinces under Anglo-French occupation"
+    }
+  },
+  {
+    "id": "tanganyika-british-mandate-1919",
+    "year": 1919,
+    "match": {
+      "n": "German E. Africa (Tanganyika)"
+    },
+    "set": {
+      "n": "Tanganyika",
+      "s": "United Kingdom of Great Britain and Ireland"
+    },
+    "note": {
+      "ja": "ドイツ領東アフリカがイギリス委任統治領タンガニーカに",
+      "en": "German East Africa becomes the British mandate of Tanganyika"
+    }
+  },
+  {
+    "id": "south-west-africa-mandate-1919",
+    "year": 1919,
+    "match": {
+      "n": "German South-West Africa"
+    },
+    "set": {
+      "s": "United Kingdom of Great Britain and Ireland"
+    },
+    "note": {
+      "ja": "ドイツ領南西アフリカが南アフリカ連邦の委任統治領に",
+      "en": "German South-West Africa becomes a mandate under the Union of South Africa"
+    }
+  },
+  {
+    "id": "kamerun-mandate-1919",
+    "year": 1919,
+    "match": {
+      "n": "Kamerun"
+    },
+    "set": {
+      "n": "French Cameroons",
+      "s": "France"
+    },
+    "note": {
+      "ja": "ドイツ領カメルーンが英仏の委任統治領に（大部分はフランス）",
+      "en": "German Kamerun divided into French and British mandates"
+    }
+  },
+  {
+    "id": "togoland-mandate-1919",
+    "year": 1919,
+    "match": {
+      "n": "Togoland"
+    },
+    "set": {
+      "s": "France"
+    },
+    "note": {
+      "ja": "ドイツ領トーゴラントが英仏の委任統治領に",
+      "en": "German Togoland divided into French and British mandates"
+    }
+  },
+  {
+    "id": "russian-civil-war-ends-1921",
+    "year": 1921,
+    "match": {
+      "n": "South Russia"
+    },
+    "set": {
+      "n": "USSR",
+      "s": "USSR"
+    },
+    "note": {
+      "ja": "ロシア内戦の終結、白軍（南ロシア）の敗北",
+      "en": "End of the Russian Civil War: the White South Russia defeated"
+    }
+  },
+  {
+    "id": "hail-conquered-by-nejd-1921",
+    "year": 1921,
+    "match": {
+      "n": "Hail"
+    },
+    "set": {
+      "n": "Nejd",
+      "s": "Nejd"
+    },
+    "note": {
+      "ja": "イブン＝サウード（ネジド）によるハーイル征服",
+      "en": "Ibn Saud of Nejd conquers the Emirate of Hail"
+    }
+  },
+  {
+    "id": "united-kingdom-renamed-sovereign-1922",
+    "year": 1922,
+    "match": {
+      "s": "United Kingdom of Great Britain and Ireland"
+    },
+    "set": {
+      "s": "United Kingdom"
+    },
+    "note": {
+      "ja": "アイルランド自由国の成立、イギリスは「グレートブリテン及び北アイルランド連合王国」へ",
+      "en": "Irish Free State established; the UK becomes the United Kingdom of Great Britain and Northern Ireland"
+    }
+  },
+  {
+    "id": "united-kingdom-renamed-1922",
+    "year": 1922,
+    "match": {
+      "n": "United Kingdom of Great Britain and Ireland"
+    },
+    "set": {
+      "n": "United Kingdom"
+    },
+    "note": {
+      "ja": "アイルランド自由国の成立（英本国はグレートブリテン及び北アイルランド連合王国に）",
+      "en": "Irish Free State established; Britain renamed the United Kingdom of Great Britain and Northern Ireland"
+    }
+  },
+  {
+    "id": "egypt-independence-1922",
+    "year": 1922,
+    "match": {
+      "n": "Egypt"
+    },
+    "set": {
+      "s": "Egypt"
+    },
+    "note": {
+      "ja": "エジプト王国の独立（イギリスが保護権を放棄）",
+      "en": "Kingdom of Egypt gains independence from Britain"
+    }
+  },
+  {
+    "id": "ussr-formed-1922",
+    "year": 1922,
+    "match": {
+      "n": [
+        "Ukraine",
+        "White Russia"
+      ]
+    },
+    "set": {
+      "s": "USSR"
+    },
+    "note": {
+      "ja": "ソヴィエト社会主義共和国連邦（ソ連）の成立",
+      "en": "Formation of the USSR"
+    }
+  },
+  {
+    "id": "far-eastern-republic-merged-1922",
+    "year": 1922,
+    "match": {
+      "n": "Far Eastern SSR"
+    },
+    "set": {
+      "n": "USSR",
+      "s": "USSR"
+    },
+    "note": {
+      "ja": "極東共和国のソヴィエト＝ロシアへの併合",
+      "en": "Far Eastern Republic merged into Soviet Russia"
+    }
+  },
+  {
+    "id": "republic-of-turkey-1923",
+    "year": 1923,
+    "match": {
+      "n": "Ottoman Sultanate"
+    },
+    "set": {
+      "n": "Republic of Turkey",
+      "s": "Turkey"
+    },
+    "note": {
+      "ja": "トルコ共和国の成立（ローザンヌ条約、スルタン制廃止）",
+      "en": "Republic of Turkey proclaimed (Treaty of Lausanne)"
+    }
+  },
+  {
+    "id": "mongolian-peoples-republic-1924",
+    "year": 1924,
+    "match": {
+      "n": "Mongolia"
+    },
+    "set": {
+      "n": "Mongolian People's Republic"
+    },
+    "note": {
+      "ja": "モンゴル人民共和国の成立",
+      "en": "Mongolian People's Republic proclaimed"
+    }
+  },
+  {
+    "id": "hejaz-conquered-by-nejd-1925",
+    "year": 1925,
+    "match": {
+      "n": "Hejaz"
+    },
+    "set": {
+      "s": "Nejd"
+    },
+    "note": {
+      "ja": "イブン＝サウードによるヒジャーズ王国の征服",
+      "en": "Ibn Saud conquers the Kingdom of Hejaz"
+    }
+  },
+  {
+    "id": "northern-expedition-completed-1928",
+    "year": 1928,
+    "match": {
+      "n": "Chinese Warlords"
+    },
+    "set": {
+      "n": "Republic of China",
+      "s": "China"
+    },
+    "note": {
+      "ja": "北伐の完了、国民政府による中国統一",
+      "en": "Northern Expedition completed: Nationalist government unifies China"
+    }
+  },
+  {
+    "id": "manchuria-joins-nationalist-china-1928",
+    "year": 1928,
+    "match": {
+      "n": "Manchuria"
+    },
+    "set": {
+      "s": "China"
+    },
+    "note": {
+      "ja": "張学良の易幟、満洲の国民政府への帰属",
+      "en": "Zhang Xueliang pledges Manchuria to the Nationalist government"
+    }
+  },
+  {
+    "id": "republic-of-china-nationalist-1931",
+    "year": 1931,
+    "match": {
+      "n": "Chinese Warlords"
+    },
+    "set": {
+      "n": "Republic of China",
+      "s": "China"
+    },
+    "note": {
+      "ja": "国民政府下の中華民国（1928年の北伐完了により統一）",
+      "en": "Republic of China under the Nationalist government (unified in 1928)"
+    }
+  },
+  {
+    "id": "manchukuo-1932",
+    "year": 1932,
+    "match": {
+      "n": "Manchuria"
+    },
+    "set": {
+      "n": "Manchukuo",
+      "s": "Empire of Japan"
+    },
+    "note": {
+      "ja": "満洲事変、「満洲国」の建国",
+      "en": "Manchurian Incident: Japan establishes Manchukuo"
+    }
+  },
+  {
+    "id": "iraq-independence-1932",
+    "year": 1932,
+    "match": {
+      "n": "Mesopotamia (GB)"
+    },
+    "set": {
+      "n": "Iraq",
+      "s": "Iraq"
+    },
+    "note": {
+      "ja": "イラク王国の独立（イギリス委任統治の終了）",
+      "en": "Kingdom of Iraq becomes independent from the British mandate"
+    }
+  },
+  {
+    "id": "saudi-arabia-founded-1932",
+    "year": 1932,
+    "match": {
+      "n": [
+        "Hejaz",
+        "Hail"
+      ]
+    },
+    "set": {
+      "n": "Saudi Arabia",
+      "s": "Saudi Arabia"
+    },
+    "note": {
+      "ja": "サウジアラビア王国の成立",
+      "en": "Kingdom of Saudi Arabia founded"
+    }
+  },
+  {
+    "id": "italian-conquest-of-ethiopia-1936",
+    "year": 1936,
+    "match": {
+      "n": "Ethiopia"
+    },
+    "set": {
+      "n": "Ethiopia (Italy)",
+      "s": "Italy"
+    },
+    "note": {
+      "ja": "イタリア＝エチオピア戦争、イタリアのエチオピア併合",
+      "en": "Italo-Ethiopian War: Italy annexes Ethiopia"
+    }
+  },
+  {
+    "id": "anglo-egyptian-treaty-1936",
+    "year": 1936,
+    "match": {
+      "n": "Egypt"
+    },
+    "set": {
+      "s": "Egypt"
+    },
+    "note": {
+      "ja": "エジプト＝イギリス同盟条約（1922年独立のエジプト王国、英軍はスエズ運河地帯に限定）",
+      "en": "Anglo-Egyptian Treaty: British forces confined to the Suez Canal zone"
+    }
+  },
+  {
+    "id": "czechoslovakia-dismembered-1939",
+    "year": 1939,
+    "match": {
+      "n": "Czechoslovakia"
+    },
+    "set": {
+      "s": "Germany",
+      "p": 1
+    },
+    "note": {
+      "ja": "チェコスロヴァキアの解体（ベーメン・メーレン保護領、スロヴァキア独立）",
+      "en": "Dismemberment of Czechoslovakia: Protectorate of Bohemia and Moravia"
+    }
+  },
+  {
+    "id": "albania-annexed-by-italy-1939",
+    "year": 1939,
+    "match": {
+      "n": "Albania"
+    },
+    "set": {
+      "s": "Italy"
+    },
+    "note": {
+      "ja": "イタリアのアルバニア併合",
+      "en": "Italy annexes Albania"
+    }
+  },
+  {
+    "id": "thailand-renamed-1939",
+    "year": 1939,
+    "match": {
+      "n": "Siam"
+    },
+    "set": {
+      "n": "Thailand",
+      "s": "Thailand"
+    },
+    "note": {
+      "ja": "シャムがタイに改称",
+      "en": "Siam renamed Thailand"
+    }
+  },
+  {
+    "id": "poland-partitioned-1939",
+    "year": 1939,
+    "match": {
+      "n": "Poland"
+    },
+    "set": {
+      "s": "Germany",
+      "p": 1
+    },
+    "note": {
+      "ja": "第二次世界大戦の勃発、独ソによるポーランド分割",
+      "en": "Outbreak of World War II: Poland partitioned between Germany and the USSR"
+    }
+  },
+  {
+    "id": "baltic-states-annexed-1940",
+    "year": 1940,
+    "match": {
+      "n": [
+        "Estonia",
+        "Latvia",
+        "Lithuania"
+      ]
+    },
+    "set": {
+      "s": "USSR"
+    },
+    "note": {
+      "ja": "ソ連によるバルト三国の併合",
+      "en": "Soviet annexation of the Baltic states"
+    }
+  },
+  {
+    "id": "german-occupation-western-europe-1940",
+    "year": 1940,
+    "match": {
+      "n": [
+        "Denmark",
+        "Norway",
+        "Netherlands",
+        "Belgium",
+        "Luxembourg"
+      ]
+    },
+    "set": {
+      "s": "Germany"
+    },
+    "note": {
+      "ja": "ドイツ軍による北欧・ベネルクス三国の占領",
+      "en": "German occupation of Denmark, Norway and the Low Countries"
+    }
+  },
+  {
+    "id": "fall-of-france-1940",
+    "year": 1940,
+    "match": {
+      "n": "France"
+    },
+    "set": {
+      "s": "Germany",
+      "p": 1
+    },
+    "note": {
+      "ja": "フランスの降伏（北部はドイツ占領、南部にヴィシー政府）",
+      "en": "Fall of France: German occupation of the north, Vichy regime in the south"
+    }
+  },
+  {
+    "id": "balkan-campaign-1941",
+    "year": 1941,
+    "match": {
+      "n": [
+        "Yugoslavia",
+        "Greece"
+      ]
+    },
+    "set": {
+      "s": "Germany"
+    },
+    "note": {
+      "ja": "ドイツ軍によるユーゴスラヴィア・ギリシア占領",
+      "en": "German occupation of Yugoslavia and Greece"
+    }
+  },
+  {
+    "id": "ethiopia-liberated-1941",
+    "year": 1941,
+    "match": {
+      "n": "Ethiopia (Italy)"
+    },
+    "set": {
+      "n": "Ethiopia",
+      "s": "Ethiopia"
+    },
+    "note": {
+      "ja": "エチオピアの解放、ハイレ＝セラシエの帰国",
+      "en": "Liberation of Ethiopia; Haile Selassie restored"
+    }
+  },
+  {
+    "id": "italian-east-africa-british-occupation-1941",
+    "year": 1941,
+    "match": {
+      "n": [
+        "Eritrea (Italy)",
+        "Italian Somaliland"
+      ]
+    },
+    "set": {
+      "s": "United Kingdom"
+    },
+    "note": {
+      "ja": "イギリス軍によるイタリア領東アフリカの占領",
+      "en": "British occupation of Italian East Africa"
+    }
+  },
+  {
+    "id": "japanese-occupation-southeast-asia-1942",
+    "year": 1942,
+    "match": {
+      "n": [
+        "Hong Kong",
+        "Malaysia",
+        "Philippines",
+        "Dutch East Indies"
+      ]
+    },
+    "set": {
+      "s": "Empire of Japan"
+    },
+    "note": {
+      "ja": "日本軍の東南アジア占領（香港・マレー・フィリピン・蘭印）",
+      "en": "Japanese occupation of Hong Kong, Malaya, the Philippines and the Dutch East Indies"
+    }
+  },
+  {
+    "id": "libya-allied-occupation-1943",
+    "year": 1943,
+    "match": {
+      "n": "Libya"
+    },
+    "set": {
+      "s": "United Kingdom"
+    },
+    "note": {
+      "ja": "北アフリカ戦線の終結、リビアは英仏の軍政下に",
+      "en": "End of the North African campaign: Libya under Allied military administration"
+    }
+  },
+  {
+    "id": "liberation-of-france-1944",
+    "year": 1944,
+    "match": {
+      "n": "France"
+    },
+    "set": {
+      "s": "France"
+    },
+    "note": {
+      "ja": "パリ解放、フランス共和国臨時政府",
+      "en": "Liberation of Paris; Provisional Government of the French Republic"
+    }
+  },
+  {
+    "id": "greece-liberated-1944",
+    "year": 1944,
+    "match": {
+      "n": "Greece"
+    },
+    "set": {
+      "s": "Greece"
+    },
+    "note": {
+      "ja": "ドイツ軍の撤退、ギリシアの解放",
+      "en": "German withdrawal: Greece liberated"
+    }
+  },
+  {
+    "id": "yugoslavia-liberated-1944",
+    "year": 1944,
+    "match": {
+      "n": "Yugoslavia"
+    },
+    "set": {
+      "s": "Yugoslavia"
+    },
+    "note": {
+      "ja": "ベオグラード解放（ティトーのパルチザン）",
+      "en": "Liberation of Belgrade by Tito's partisans"
+    }
+  },
+  {
+    "id": "albania-liberated-1944",
+    "year": 1944,
+    "match": {
+      "n": "Albania"
+    },
+    "set": {
+      "s": "Albania"
+    },
+    "note": {
+      "ja": "アルバニアの解放",
+      "en": "Albania liberated"
+    }
+  },
+  {
+    "id": "taiwan-returned-to-china-1946",
+    "year": 1946,
+    "match": {
+      "n": "Taiwan"
+    },
+    "set": {
+      "s": "China"
+    },
+    "note": {
+      "ja": "台湾の中華民国への返還（1945年）",
+      "en": "Taiwan returned to the Republic of China (1945)"
+    }
+  },
+  {
+    "id": "manchuria-returned-to-china-1946",
+    "year": 1946,
+    "match": {
+      "n": "Manchuria"
+    },
+    "set": {
+      "s": "China"
+    },
+    "note": {
+      "ja": "ソ連軍の撤退、満洲の中国復帰（国共内戦の舞台に）",
+      "en": "Soviet withdrawal: Manchuria returned to China, a battlefield of the civil war"
+    }
+  },
+  {
+    "id": "india-pakistan-independence-1947",
+    "year": 1947,
+    "match": {
+      "n": [
+        "India",
+        "Pakistan"
+      ]
+    },
+    "set": {
+      "p": 3
+    },
+    "note": {
+      "ja": "インド・パキスタンの分離独立",
+      "en": "Independence and partition of India and Pakistan"
+    }
+  },
+  {
+    "id": "east-pakistan-1947",
+    "year": 1947,
+    "match": {
+      "n": "Bangladesh"
+    },
+    "set": {
+      "n": "East Pakistan",
+      "s": "Pakistan"
+    },
+    "note": {
+      "ja": "インド・パキスタン分離独立（東ベンガルは東パキスタンに）",
+      "en": "Partition of India: East Bengal becomes East Pakistan"
+    }
+  },
+  {
+    "id": "republic-of-korea-1948",
+    "year": 1948,
+    "match": {
+      "n": "Korea (USA)"
+    },
+    "set": {
+      "n": "Korea, Republic of",
+      "s": "Korea, Republic of"
+    },
+    "note": {
+      "ja": "大韓民国の成立",
+      "en": "Republic of Korea established"
+    }
+  },
+  {
+    "id": "dprk-founded-1948",
+    "year": 1948,
+    "match": {
+      "n": "Korea (USSR)"
+    },
+    "set": {
+      "n": "Korea, Democratic People's Republic of",
+      "s": "Korea, Democratic People's Republic of"
+    },
+    "note": {
+      "ja": "朝鮮民主主義人民共和国の成立",
+      "en": "Democratic People's Republic of Korea established"
+    }
+  },
+  {
+    "id": "israel-founded-1948",
+    "year": 1948,
+    "match": {
+      "n": "Israel"
+    },
+    "set": {
+      "p": 2
+    },
+    "note": {
+      "ja": "イスラエルの建国、第1次中東戦争（パレスチナ戦争）",
+      "en": "State of Israel proclaimed; First Arab-Israeli War"
+    }
+  },
+  {
+    "id": "prc-founded-1949",
+    "year": 1949,
+    "match": {
+      "n": [
+        "China",
+        "Manchuria"
+      ]
+    },
+    "set": {
+      "n": "People's Republic of China",
+      "s": "China"
+    },
+    "note": {
+      "ja": "中華人民共和国の成立",
+      "en": "People's Republic of China founded"
+    }
+  },
+  {
+    "id": "roc-retreats-to-taiwan-1949",
+    "year": 1949,
+    "match": {
+      "n": "Taiwan"
+    },
+    "set": {
+      "s": "Taiwan"
+    },
+    "note": {
+      "ja": "国民政府の台湾移転",
+      "en": "Nationalist government retreats to Taiwan"
+    }
+  },
+  {
+    "id": "xinjiang-prc-1949",
+    "year": 1949,
+    "match": {
+      "n": "Xinjiang"
+    },
+    "set": {
+      "s": "China"
+    },
+    "note": {
+      "ja": "新疆の中華人民共和国への編入",
+      "en": "Xinjiang incorporated into the People's Republic of China"
+    }
+  },
+  {
+    "id": "west-germany-founded-1949",
+    "year": 1949,
+    "match": {
+      "n": [
+        "Germany (USA)",
+        "Germany (UK)",
+        "Germany (France)"
+      ]
+    },
+    "set": {
+      "n": "West Germany",
+      "s": "West Germany"
+    },
+    "note": {
+      "ja": "ドイツ連邦共和国（西ドイツ）の成立",
+      "en": "Federal Republic of Germany (West Germany) founded"
+    }
+  },
+  {
+    "id": "east-germany-founded-1949",
+    "year": 1949,
+    "match": {
+      "n": "Germany (Soviet)"
+    },
+    "set": {
+      "n": "East Germany",
+      "s": "East Germany"
+    },
+    "note": {
+      "ja": "ドイツ民主共和国（東ドイツ）の成立",
+      "en": "German Democratic Republic (East Germany) founded"
+    }
+  },
+  {
+    "id": "indonesia-independence-recognised-1949",
+    "year": 1949,
+    "match": {
+      "n": "Indonesia"
+    },
+    "set": {
+      "p": 3
+    },
+    "note": {
+      "ja": "ハーグ円卓会議、オランダがインドネシアの独立を承認",
+      "en": "Hague Round Table Conference: the Netherlands recognises Indonesian independence"
+    }
+  },
+  {
+    "id": "tibet-prc-1951",
+    "year": 1951,
+    "match": {
+      "n": "Tibet"
+    },
+    "set": {
+      "s": "China"
+    },
+    "note": {
+      "ja": "中国人民解放軍のチベット進駐（十七条協定）",
+      "en": "People's Liberation Army enters Tibet (Seventeen Point Agreement)"
+    }
+  },
+  {
+    "id": "libya-independence-1951",
+    "year": 1951,
+    "match": {
+      "n": [
+        "Cyraneica (UK Lybia)",
+        "Tripolitana (UK Lybia)",
+        "Fezzan (Frech Lybia)"
+      ]
+    },
+    "set": {
+      "n": "Libya",
+      "s": "Libya"
+    },
+    "note": {
+      "ja": "リビア王国の独立",
+      "en": "Kingdom of Libya becomes independent"
+    }
+  },
+  {
+    "id": "japan-sovereignty-restored-1952",
+    "year": 1952,
+    "match": {
+      "n": "Japan (USA)"
+    },
+    "set": {
+      "n": "Japan",
+      "s": "Japan"
+    },
+    "note": {
+      "ja": "サンフランシスコ平和条約の発効、日本の主権回復",
+      "en": "San Francisco Peace Treaty in force: Japan regains sovereignty"
+    }
+  },
+  {
+    "id": "eritrea-federated-with-ethiopia-1952",
+    "year": 1952,
+    "match": {
+      "n": "Eritrea"
+    },
+    "set": {
+      "s": "Ethiopia"
+    },
+    "note": {
+      "ja": "エリトリアのエチオピアとの連邦化",
+      "en": "Eritrea federated with Ethiopia"
+    }
+  },
+  {
+    "id": "laos-independence-1953",
+    "year": 1953,
+    "match": {
+      "n": "Laos"
+    },
+    "set": {
+      "s": "Laos"
+    },
+    "note": {
+      "ja": "ラオスの独立",
+      "en": "Laos becomes independent"
+    }
+  },
+  {
+    "id": "cambodia-independence-1953",
+    "year": 1953,
+    "match": {
+      "n": "Cambodia"
+    },
+    "set": {
+      "s": "Cambodia"
+    },
+    "note": {
+      "ja": "カンボジアの独立",
+      "en": "Cambodia becomes independent"
+    }
+  },
+  {
+    "id": "north-vietnam-1954",
+    "year": 1954,
+    "match": {
+      "n": "Tonkin"
+    },
+    "set": {
+      "n": "North Vietnam",
+      "s": "North Vietnam"
+    },
+    "note": {
+      "ja": "ジュネーヴ休戦協定、北緯17度線で南北分断（北：ベトナム民主共和国）",
+      "en": "Geneva Accords: Vietnam divided at the 17th parallel (north: Democratic Republic of Vietnam)"
+    }
+  },
+  {
+    "id": "south-vietnam-1954",
+    "year": 1954,
+    "match": {
+      "n": [
+        "Annam",
+        "Cochin China"
+      ]
+    },
+    "set": {
+      "n": "South Vietnam",
+      "s": "South Vietnam"
+    },
+    "note": {
+      "ja": "ジュネーヴ休戦協定による南北分断（南：1955年ベトナム共和国成立）",
+      "en": "Geneva Accords: south of the 17th parallel (Republic of Vietnam from 1955)"
+    }
+  },
+  {
+    "id": "sudan-independence-1956",
+    "year": 1956,
+    "match": {
+      "n": "Sudan"
+    },
+    "set": {
+      "s": "Sudan"
+    },
+    "note": {
+      "ja": "スーダンの独立",
+      "en": "Sudan becomes independent"
+    }
+  },
+  {
+    "id": "morocco-independence-1956",
+    "year": 1956,
+    "match": {
+      "n": "Morocco"
+    },
+    "set": {
+      "s": "Morocco"
+    },
+    "note": {
+      "ja": "モロッコの独立",
+      "en": "Morocco becomes independent"
+    }
+  },
+  {
+    "id": "tunisia-independence-1956",
+    "year": 1956,
+    "match": {
+      "n": "Tunisia"
+    },
+    "set": {
+      "s": "Tunisia"
+    },
+    "note": {
+      "ja": "チュニジアの独立",
+      "en": "Tunisia becomes independent"
+    }
+  },
+  {
+    "id": "ghana-independence-1957",
+    "year": 1957,
+    "match": {
+      "n": "Gold Coast"
+    },
+    "set": {
+      "n": "Ghana",
+      "s": "Ghana"
+    },
+    "note": {
+      "ja": "ガーナの独立（エンクルマ）",
+      "en": "Ghana becomes independent under Nkrumah"
+    }
+  },
+  {
+    "id": "malaya-independence-1957",
+    "year": 1957,
+    "match": {
+      "n": "Malaysia"
+    },
+    "set": {
+      "n": "Malaya",
+      "s": "Malaya"
+    },
+    "note": {
+      "ja": "マラヤ連邦の独立",
+      "en": "Federation of Malaya becomes independent"
+    }
+  },
+  {
+    "id": "guinea-independence-1958",
+    "year": 1958,
+    "match": {
+      "n": "Guinea"
+    },
+    "set": {
+      "s": "Guinea"
+    },
+    "note": {
+      "ja": "ギニアの独立（フランス共同体への参加を拒否）",
+      "en": "Guinea becomes independent, rejecting the French Community"
+    }
+  },
+  {
+    "id": "algeria-independence-1962",
+    "year": 1962,
+    "match": {
+      "n": "Algeria"
+    },
+    "set": {
+      "p": 3
+    },
+    "note": {
+      "ja": "アルジェリアの独立（エヴィアン協定）",
+      "en": "Algeria becomes independent (Évian Accords)"
+    }
+  },
+  {
+    "id": "eritrea-annexed-by-ethiopia-1962",
+    "year": 1962,
+    "match": {
+      "n": "Eritrea"
+    },
+    "set": {
+      "s": "Ethiopia"
+    },
+    "note": {
+      "ja": "エチオピアによるエリトリア併合、エリトリア独立戦争",
+      "en": "Ethiopia annexes Eritrea; Eritrean War of Independence begins"
+    }
+  },
+  {
+    "id": "rhodesia-udi-1965",
+    "year": 1965,
+    "match": {
+      "n": "Zimbabwe"
+    },
+    "set": {
+      "n": "Rhodesia",
+      "s": "Rhodesia"
+    },
+    "note": {
+      "ja": "ローデシアの一方的独立宣言（白人少数派政権）",
+      "en": "Rhodesia's Unilateral Declaration of Independence"
+    }
+  },
+  {
+    "id": "zaire-renamed-1971",
+    "year": 1971,
+    "match": {
+      "n": "Zaire"
+    },
+    "set": {
+      "n": "Zaire"
+    },
+    "note": {
+      "ja": "コンゴ民主共和国がザイールに改称（モブツ政権）",
+      "en": "Democratic Republic of the Congo renamed Zaire under Mobutu"
+    }
+  },
+  {
+    "id": "cyprus-divided-1974",
+    "year": 1974,
+    "match": {
+      "n": "Cyprus"
+    },
+    "set": {
+      "p": 1
+    },
+    "note": {
+      "ja": "トルコ軍のキプロス侵攻、南北分断",
+      "en": "Turkish invasion of Cyprus: the island divided"
+    }
+  },
+  {
+    "id": "portuguese-africa-independence-1975",
+    "year": 1975,
+    "match": {
+      "n": [
+        "Angola",
+        "Mozambique"
+      ]
+    },
+    "set": {
+      "p": 3
+    },
+    "note": {
+      "ja": "アンゴラ・モザンビークの独立（ポルトガル植民地帝国の崩壊）",
+      "en": "Angola and Mozambique independent: end of the Portuguese colonial empire"
+    }
+  },
+  {
+    "id": "vietnam-unified-1976",
+    "year": 1976,
+    "match": {
+      "n": "Vietnam"
+    },
+    "set": {
+      "p": 3
+    },
+    "note": {
+      "ja": "ベトナム社会主義共和国の成立（南北統一）",
+      "en": "Socialist Republic of Vietnam: north and south unified"
+    }
+  },
+  {
+    "id": "democratic-kampuchea-1976",
+    "year": 1976,
+    "match": {
+      "n": "Cambodia"
+    },
+    "set": {
+      "n": "Democratic Kampuchea"
+    },
+    "note": {
+      "ja": "民主カンプチア（ポル＝ポト政権）",
+      "en": "Democratic Kampuchea under Pol Pot"
+    }
+  },
+  {
+    "id": "western-sahara-moroccan-occupation-1976",
+    "year": 1976,
+    "match": {
+      "n": "Western Sahara"
+    },
+    "set": {
+      "s": "Morocco",
+      "p": 1
+    },
+    "note": {
+      "ja": "スペインの撤退、モロッコによる西サハラ占領（ポリサリオ戦線の抵抗）",
+      "en": "Spanish withdrawal: Morocco occupies Western Sahara, resisted by the Polisario Front"
+    }
+  },
+  {
+    "id": "cambodia-vietnamese-intervention-1979",
+    "year": 1979,
+    "match": {
+      "n": "Cambodia"
+    },
+    "set": {
+      "n": "Cambodia"
+    },
+    "note": {
+      "ja": "ベトナム軍の侵攻、ポル＝ポト政権の崩壊（カンボジア人民共和国）",
+      "en": "Vietnamese invasion ends the Pol Pot regime (People's Republic of Kampuchea)"
+    }
+  },
+  {
+    "id": "zimbabwe-independence-1980",
+    "year": 1980,
+    "match": {
+      "n": "Zimbabwe"
+    },
+    "set": {
+      "n": "Zimbabwe",
+      "s": "Zimbabwe"
+    },
+    "note": {
+      "ja": "ジンバブエの独立（黒人多数派政権）",
+      "en": "Zimbabwe becomes independent under majority rule"
+    }
+  },
+  {
+    "id": "namibia-independence-1990",
+    "year": 1990,
+    "match": {
+      "n": "Namibia"
+    },
+    "set": {
+      "p": 3
+    },
+    "note": {
+      "ja": "ナミビアの独立（南アフリカの支配から）",
+      "en": "Namibia becomes independent from South Africa"
+    }
+  },
+  {
+    "id": "iraq-invades-kuwait-1990",
+    "year": 1990,
+    "match": {
+      "n": "Kuwait"
+    },
+    "set": {
+      "s": "Iraq"
+    },
+    "note": {
+      "ja": "イラクのクウェート侵攻",
+      "en": "Iraq invades Kuwait"
+    }
+  },
+  {
+    "id": "yemen-unified-1990",
+    "year": 1990,
+    "match": {
+      "n": "Yemen"
+    },
+    "set": {
+      "p": 3
+    },
+    "note": {
+      "ja": "南北イエメンの統一",
+      "en": "Unification of North and South Yemen"
+    }
+  },
+  {
+    "id": "german-reunification-1990",
+    "year": 1990,
+    "match": {
+      "n": [
+        "East Germany",
+        "West Germany"
+      ]
+    },
+    "set": {
+      "n": "Germany",
+      "s": "Germany"
+    },
+    "note": {
+      "ja": "ドイツ統一",
+      "en": "German reunification"
+    }
+  },
+  {
+    "id": "kuwait-liberated-1991",
+    "year": 1991,
+    "match": {
+      "n": "Kuwait"
+    },
+    "set": {
+      "s": "Kuwait"
+    },
+    "note": {
+      "ja": "湾岸戦争、クウェートの解放",
+      "en": "Gulf War: Kuwait liberated"
+    }
+  },
+  {
+    "id": "yugoslavia-breakup-1991",
+    "year": 1991,
+    "match": {
+      "n": "Yugoslavia"
+    },
+    "set": {
+      "p": 1
+    },
+    "note": {
+      "ja": "ユーゴスラヴィア解体の開始（スロヴェニア・クロアティアの独立宣言）",
+      "en": "Breakup of Yugoslavia begins: Slovenia and Croatia declare independence"
+    }
+  },
+  {
+    "id": "ussr-dissolved-1991",
+    "year": 1991,
+    "match": {
+      "n": "USSR"
+    },
+    "set": {
+      "n": "Russia",
+      "s": "Russia",
+      "p": 1
+    },
+    "note": {
+      "ja": "ソ連の解体、ロシア連邦など諸共和国の独立（CISの成立）",
+      "en": "Dissolution of the USSR: Russian Federation and other republics (CIS)"
+    }
+  },
+  {
+    "id": "czechoslovakia-split-1993",
+    "year": 1993,
+    "match": {
+      "n": "Czechoslovakia"
+    },
+    "set": {
+      "p": 1
+    },
+    "note": {
+      "ja": "チェコとスロヴァキアの分離（ビロード離婚）",
+      "en": "Czechoslovakia splits into the Czech Republic and Slovakia"
+    }
+  },
+  {
+    "id": "eritrea-independence-1993",
+    "year": 1993,
+    "match": {
+      "n": "Eritrea"
+    },
+    "set": {
+      "s": "Eritrea"
+    },
+    "note": {
+      "ja": "エリトリアの独立",
+      "en": "Eritrea becomes independent"
+    }
+  },
+  {
+    "id": "dayton-agreement-1995",
+    "year": 1995,
+    "match": {
+      "n": "Bosnia and Herzegovina"
+    },
+    "set": {
+      "p": 3
+    },
+    "note": {
+      "ja": "デイトン合意、ボスニア内戦の終結",
+      "en": "Dayton Agreement ends the Bosnian War"
+    }
+  },
+  {
+    "id": "hong-kong-returned-1997",
+    "year": 1997,
+    "match": {
+      "n": "Hong Kong"
+    },
+    "set": {
+      "s": "China"
+    },
+    "note": {
+      "ja": "香港の中国返還（一国二制度）",
+      "en": "Hong Kong returned to China (one country, two systems)"
+    }
+  },
+  {
+    "id": "dr-congo-1997",
+    "year": 1997,
+    "match": {
+      "n": "Zaire"
+    },
+    "set": {
+      "n": "Democratic Republic of the Congo",
+      "s": "Democratic Republic of the Congo"
+    },
+    "note": {
+      "ja": "モブツ政権の崩壊、ザイールがコンゴ民主共和国に改称",
+      "en": "Fall of Mobutu: Zaire renamed the Democratic Republic of the Congo"
+    }
+  },
+  {
+    "id": "hong-kong-under-china-2001",
+    "year": 2001,
+    "match": {
+      "n": "Hong Kong"
+    },
+    "set": {
+      "s": "China"
+    },
+    "note": {
+      "ja": "香港（1997年に中国へ返還）",
+      "en": "Hong Kong (returned to China in 1997)"
+    }
+  },
+  {
+    "id": "montenegro-independence-2006",
+    "year": 2006,
+    "match": {
+      "n": "Montenegro"
+    },
+    "set": {
+      "s": "Montenegro",
+      "p": 3
+    },
+    "note": {
+      "ja": "モンテネグロの独立（セルビア＝モンテネグロの解体）",
+      "en": "Montenegro becomes independent, ending Serbia and Montenegro"
+    }
+  }
+]

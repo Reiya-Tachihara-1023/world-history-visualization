@@ -1,2852 +1,1020 @@
 [
   {
-    "id": "sumer",
+    "id": "olmec",
     "name": {
-      "ja": "シュメール都市国家",
-      "en": "Sumerian City-States"
+      "ja": "オルメカ文明",
+      "en": "Olmec civilization"
     },
     "basemap_names": [
-      "Ur"
+      "Olmec"
     ],
     "periods": [
       {
-        "from": -3500,
-        "to": -2900,
+        "from": -1200,
+        "to": -400,
         "government": {
-          "ja": "神殿を中心とする都市国家",
-          "en": "Temple-centred city-states"
+          "ja": "神権政治（首長制）",
+          "en": "Theocratic chiefdoms"
         },
         "capital": {
-          "ja": "ウルク",
-          "en": "Uruk"
+          "ja": "サン＝ロレンソ、ラ＝ベンタ",
+          "en": "San Lorenzo, La Venta"
         },
         "religion": {
-          "ja": "シュメールの多神教",
-          "en": "Sumerian polytheism"
+          "ja": "ジャガー信仰などの多神教",
+          "en": "Polytheism (jaguar cult)"
         },
         "summary": {
-          "ja": "ティグリス・ユーフラテス川下流域でシュメール人が灌漑農業を発達させ、ウルクなどの都市が成立した。神殿を中心に穀物の管理がおこなわれ、楔形文字の原型となる絵文字が生まれた。",
-          "en": "In lower Mesopotamia the Sumerians developed irrigation agriculture and founded cities such as Uruk. Temples managed grain and labour, and the pictographs that became cuneiform appeared."
-        },
-        "rulers": []
-      },
-      {
-        "from": -2900,
-        "to": -2334,
-        "government": {
-          "ja": "都市国家の王政",
-          "en": "City-state kingship"
-        },
-        "capital": {
-          "ja": "ウル・ウルク・ラガシュなど",
-          "en": "Ur, Uruk, Lagash and others"
-        },
-        "religion": {
-          "ja": "シュメールの多神教",
-          "en": "Sumerian polytheism"
-        },
-        "summary": {
-          "ja": "初期王朝時代にはウル・ウルク・ラガシュなどの都市国家が覇権を争った。各都市は守護神を祀るジッグラトを築き、王が神権政治をおこなった。楔形文字や六十進法などの文化がこの時代に発達した。",
-          "en": "In the Early Dynastic period city-states such as Ur, Uruk and Lagash contested hegemony. Each city built a ziggurat to its patron god and was ruled by a king claiming divine sanction. Cuneiform writing and the sexagesimal system matured in this age."
-        },
-        "rulers": [
-          {
-            "from": -2700,
-            "to": -2650,
-            "name": {
-              "ja": "ギルガメシュ",
-              "en": "Gilgamesh"
-            }
-          },
-          {
-            "from": -2500,
-            "to": -2400,
-            "name": {
-              "ja": "ウルナンシェ",
-              "en": "Ur-Nanshe"
-            }
-          },
-          {
-            "from": -2455,
-            "to": -2425,
-            "name": {
-              "ja": "エアンナトゥム",
-              "en": "Eannatum"
-            }
-          },
-          {
-            "from": -2380,
-            "to": -2360,
-            "name": {
-              "ja": "ウルカギナ",
-              "en": "Urukagina"
-            }
-          },
-          {
-            "from": -2358,
-            "to": -2334,
-            "name": {
-              "ja": "ルガルザゲシ",
-              "en": "Lugal-zage-si"
-            }
-          }
-        ]
-      },
-      {
-        "from": -2112,
-        "to": -2004,
-        "government": {
-          "ja": "中央集権的王政",
-          "en": "Centralised monarchy"
-        },
-        "capital": {
-          "ja": "ウル",
-          "en": "Ur"
-        },
-        "religion": {
-          "ja": "シュメールの多神教",
-          "en": "Sumerian polytheism"
-        },
-        "summary": {
-          "ja": "アッカド王国の崩壊後、ウル第3王朝がメソポタミア南部を再統一した。官僚制による統治と最古の法典（ウルナンム法典）、巨大なジッグラト建設で知られるが、アムル人やエラム人の侵入で滅んだ。",
-          "en": "After the fall of Akkad the Third Dynasty of Ur reunited southern Mesopotamia. Known for its bureaucratic rule, the earliest law code (of Ur-Nammu) and the great ziggurat of Ur, it fell to Amorite and Elamite incursions."
-        },
-        "rulers": [
-          {
-            "from": -2112,
-            "to": -2095,
-            "name": {
-              "ja": "ウルナンム",
-              "en": "Ur-Nammu"
-            }
-          },
-          {
-            "from": -2094,
-            "to": -2047,
-            "name": {
-              "ja": "シュルギ",
-              "en": "Shulgi"
-            }
-          },
-          {
-            "from": -2046,
-            "to": -2038,
-            "name": {
-              "ja": "アマル＝シン",
-              "en": "Amar-Sin"
-            }
-          },
-          {
-            "from": -2028,
-            "to": -2004,
-            "name": {
-              "ja": "イビ＝シン",
-              "en": "Ibbi-Sin"
-            }
-          }
-        ]
+          "ja": "前1200年頃からメキシコ湾岸に栄えたメソアメリカ最古の文明。巨石人頭像やジャガー信仰、暦や文字の原型をもち、サン＝ロレンソやラ＝ベンタを中心に祭祀センターを築いた。のちのマヤ文明やテオティワカン文明の母体となった。",
+          "en": "The earliest Mesoamerican civilization, flourishing on the Gulf coast of Mexico from about 1200 BC. Known for colossal stone heads, a jaguar cult and the prototypes of the calendar and writing, it built ceremonial centres at San Lorenzo and La Venta and became the matrix of later Maya and Teotihuacan cultures."
+        }
       }
     ],
     "wiki": {
-      "ja": "シュメール",
-      "en": "Sumer"
+      "ja": "オルメカ",
+      "en": "Olmecs"
     }
   },
   {
-    "id": "akkadian-empire",
+    "id": "teotihuacan",
     "name": {
-      "ja": "アッカド王国",
-      "en": "Akkadian Empire"
+      "ja": "テオティワカン文明",
+      "en": "Teotihuacan"
     },
-    "basemap_names": [],
+    "basemap_names": [
+      "Teotihuacan"
+    ],
     "periods": [
       {
-        "from": -2334,
-        "to": -2154,
+        "from": -100,
+        "to": 650,
         "government": {
-          "ja": "専制王政",
-          "en": "Despotic monarchy"
+          "ja": "神権政治（都市国家）",
+          "en": "Theocratic city-state"
         },
         "capital": {
-          "ja": "アッカド",
-          "en": "Akkad"
+          "ja": "テオティワカン",
+          "en": "Teotihuacan"
         },
         "religion": {
-          "ja": "メソポタミアの多神教",
-          "en": "Mesopotamian polytheism"
+          "ja": "多神教（ケツァルコアトル・雨神トラロック）",
+          "en": "Polytheism (Quetzalcoatl, Tlaloc)"
         },
         "summary": {
-          "ja": "セム語系のアッカド人の王サルゴン1世がシュメールの都市国家を征服し、メソポタミア最初の統一国家を築いた。孫のナラム＝シンの時代に最大領域となったが、グティ人の侵入などで衰え滅亡した。",
-          "en": "Sargon of Akkad, king of the Semitic Akkadians, conquered the Sumerian city-states and created the first unified state in Mesopotamia. The empire peaked under his grandson Naram-Sin but collapsed amid Gutian incursions."
-        },
-        "rulers": [
-          {
-            "from": -2334,
-            "to": -2279,
-            "name": {
-              "ja": "サルゴン1世",
-              "en": "Sargon of Akkad"
-            },
-            "person": "sargon-of-akkad"
-          },
-          {
-            "from": -2278,
-            "to": -2270,
-            "name": {
-              "ja": "リムシュ",
-              "en": "Rimush"
-            }
-          },
-          {
-            "from": -2269,
-            "to": -2255,
-            "name": {
-              "ja": "マニシュトゥシュ",
-              "en": "Manishtushu"
-            }
-          },
-          {
-            "from": -2254,
-            "to": -2218,
-            "name": {
-              "ja": "ナラム＝シン",
-              "en": "Naram-Sin"
-            }
-          },
-          {
-            "from": -2217,
-            "to": -2193,
-            "name": {
-              "ja": "シャル＝カリ＝シャッリ",
-              "en": "Shar-Kali-Sharri"
-            }
-          }
-        ]
+          "ja": "前1世紀頃からメキシコ高原に成立した計画都市文明。太陽のピラミッド・月のピラミッドと「死者の大通り」をもち、最盛期には人口10万を超える大都市となった。黒曜石交易でメソアメリカ全域に影響を及ぼしたが、6〜7世紀に衰退した。",
+          "en": "A planned-city civilization on the Mexican plateau from the 1st century BC. With the Pyramids of the Sun and Moon along the Avenue of the Dead, the city grew to over 100,000 inhabitants at its height. Its obsidian trade spread its influence across Mesoamerica before it collapsed in the 6th–7th centuries."
+        }
       }
     ],
     "wiki": {
-      "ja": "アッカド",
-      "en": "Akkadian Empire"
+      "ja": "テオティワカン",
+      "en": "Teotihuacan"
     }
   },
   {
-    "id": "old-babylonian-kingdom",
+    "id": "maya",
     "name": {
-      "ja": "古バビロニア王国",
-      "en": "Old Babylonian Kingdom"
+      "ja": "マヤ文明",
+      "en": "Maya civilization"
     },
     "basemap_names": [
-      "Babylonia"
+      "Maya chiefdoms and states",
+      "Maya states",
+      "Maya city-states",
+      "Maya Yucateco",
+      "Mayas",
+      "Maya"
     ],
     "periods": [
-      {
-        "from": -1894,
-        "to": -1595,
-        "government": {
-          "ja": "専制王政",
-          "en": "Despotic monarchy"
-        },
-        "capital": {
-          "ja": "バビロン",
-          "en": "Babylon"
-        },
-        "religion": {
-          "ja": "マルドゥク神を主神とする多神教",
-          "en": "Polytheism headed by Marduk"
-        },
-        "summary": {
-          "ja": "セム語系アムル人がバビロンを都として建てたバビロン第1王朝。ハンムラビ王が全メソポタミアを統一し、「目には目を」の復讐法と身分差を特徴とするハンムラビ法典を制定した。ヒッタイトの侵入で滅亡した。",
-          "en": "The First Dynasty of Babylon was founded by the Semitic Amorites. Hammurabi unified all Mesopotamia and issued his famous code, with its principle of retaliation and distinctions by social status. The dynasty fell to a Hittite raid."
-        },
-        "rulers": [
-          {
-            "from": -1894,
-            "to": -1881,
-            "name": {
-              "ja": "スムアブム",
-              "en": "Sumu-abum"
-            }
-          },
-          {
-            "from": -1812,
-            "to": -1793,
-            "name": {
-              "ja": "シン＝ムバリト",
-              "en": "Sin-Muballit"
-            }
-          },
-          {
-            "from": -1792,
-            "to": -1750,
-            "name": {
-              "ja": "ハンムラビ",
-              "en": "Hammurabi"
-            },
-            "person": "hammurabi"
-          },
-          {
-            "from": -1749,
-            "to": -1712,
-            "name": {
-              "ja": "サムス＝イルナ",
-              "en": "Samsu-iluna"
-            }
-          },
-          {
-            "from": -1646,
-            "to": -1626,
-            "name": {
-              "ja": "アンミ＝ツァドゥカ",
-              "en": "Ammi-Saduqa"
-            }
-          },
-          {
-            "from": -1625,
-            "to": -1595,
-            "name": {
-              "ja": "サムス＝ディタナ",
-              "en": "Samsu-Ditana"
-            }
-          }
-        ]
-      },
-      {
-        "from": -1595,
-        "to": -1155,
-        "government": {
-          "ja": "王政（カッシート人支配）",
-          "en": "Monarchy under Kassite rulers"
-        },
-        "capital": {
-          "ja": "バビロン",
-          "en": "Babylon"
-        },
-        "religion": {
-          "ja": "マルドゥク神を主神とする多神教",
-          "en": "Polytheism headed by Marduk"
-        },
-        "summary": {
-          "ja": "ヒッタイトの侵入後、イラン方面から来たカッシート人がバビロニアを支配した。約400年続いたこの王朝はバビロニアの文化を継承し、エジプトやヒッタイトと対等に外交をおこなったが、エラムの侵入で滅びた。",
-          "en": "After the Hittite raid the Kassites from the Zagros took control of Babylonia. Their dynasty of some four centuries preserved Babylonian culture and dealt as equals with Egypt and the Hittites, but was overthrown by Elam."
-        },
-        "rulers": [
-          {
-            "from": -1400,
-            "to": -1375,
-            "name": {
-              "ja": "クリガルズ1世",
-              "en": "Kurigalzu I"
-            }
-          },
-          {
-            "from": -1359,
-            "to": -1333,
-            "name": {
-              "ja": "ブルナブリアシュ2世",
-              "en": "Burna-Buriash II"
-            }
-          },
-          {
-            "from": -1232,
-            "to": -1225,
-            "name": {
-              "ja": "カシュティリアシュ4世",
-              "en": "Kashtiliash IV"
-            }
-          }
-        ]
-      },
-      {
-        "from": -1155,
-        "to": -626,
-        "government": {
-          "ja": "王政（アッシリアの従属国となる）",
-          "en": "Monarchy, later under Assyrian domination"
-        },
-        "capital": {
-          "ja": "バビロン",
-          "en": "Babylon"
-        },
-        "religion": {
-          "ja": "マルドゥク神を主神とする多神教",
-          "en": "Polytheism headed by Marduk"
-        },
-        "summary": {
-          "ja": "カッシート朝の滅亡後、バビロニアは諸王朝の交代と混乱を経て、前8世紀以降はアッシリア帝国の支配下に置かれた。バビロンは宗教・文化の中心として重んじられ、アッシリア王がバビロン王を兼ねることもあった。",
-          "en": "After the Kassites Babylonia passed through a succession of short dynasties and, from the 8th century BC, fell under the Assyrian Empire. Babylon remained a revered religious centre, and Assyrian kings sometimes ruled it directly."
-        },
-        "rulers": [
-          {
-            "from": -1125,
-            "to": -1104,
-            "name": {
-              "ja": "ネブカドネザル1世",
-              "en": "Nebuchadnezzar I"
-            }
-          },
-          {
-            "from": -721,
-            "to": -710,
-            "name": {
-              "ja": "メロダク＝バルアダン2世",
-              "en": "Marduk-apla-iddina II"
-            }
-          },
-          {
-            "from": -667,
-            "to": -648,
-            "name": {
-              "ja": "シャマシュ＝シュム＝ウキン",
-              "en": "Shamash-shum-ukin"
-            }
-          }
-        ]
-      }
-    ],
-    "wiki": {
-      "ja": "バビロン第1王朝",
-      "en": "Babylonia"
-    }
-  },
-  {
-    "id": "hittites",
-    "name": {
-      "ja": "ヒッタイト",
-      "en": "Hittites"
-    },
-    "basemap_names": [
-      "Hittites"
-    ],
-    "periods": [
-      {
-        "from": -1750,
-        "to": -1430,
-        "government": {
-          "ja": "王政（貴族会議パンクス）",
-          "en": "Monarchy with a noble assembly"
-        },
-        "capital": {
-          "ja": "ハットゥシャ",
-          "en": "Hattusa"
-        },
-        "religion": {
-          "ja": "アナトリアの多神教（「千の神々」）",
-          "en": "Anatolian polytheism"
-        },
-        "summary": {
-          "ja": "インド＝ヨーロッパ語系のヒッタイト人がアナトリア高原に建てた王国。ハットゥシャを都とし、前16世紀にはバビロン第1王朝を滅ぼした。早くから鉄器を使用し、馬と戦車による軍事力で知られる。",
-          "en": "The Indo-European Hittites founded a kingdom on the Anatolian plateau with its capital at Hattusa. In the 16th century BC they sacked Babylon. They were early users of iron and of horse-drawn chariots."
-        },
-        "rulers": [
-          {
-            "from": -1650,
-            "to": -1620,
-            "name": {
-              "ja": "ハットゥシリ1世",
-              "en": "Hattusili I"
-            }
-          },
-          {
-            "from": -1620,
-            "to": -1590,
-            "name": {
-              "ja": "ムルシリ1世",
-              "en": "Mursili I"
-            }
-          },
-          {
-            "from": -1525,
-            "to": -1500,
-            "name": {
-              "ja": "テリピヌ",
-              "en": "Telipinu"
-            }
-          }
-        ]
-      },
-      {
-        "from": -1430,
-        "to": -1180,
-        "government": {
-          "ja": "専制王政（帝国）",
-          "en": "Imperial monarchy"
-        },
-        "capital": {
-          "ja": "ハットゥシャ",
-          "en": "Hattusa"
-        },
-        "religion": {
-          "ja": "アナトリアの多神教",
-          "en": "Anatolian polytheism"
-        },
-        "summary": {
-          "ja": "新王国期のヒッタイトはミタンニを破ってシリアに進出し、エジプト新王国と対抗した。カデシュの戦いののち両国は世界最古の国際条約を結んだ。前12世紀初め「海の民」の侵入などで王国は崩壊した。",
-          "en": "The Hittite New Kingdom crushed Mitanni, expanded into Syria and rivalled Egypt's New Kingdom. After the Battle of Kadesh the two powers concluded the world's oldest known peace treaty. Around 1180 BC the kingdom collapsed amid the Sea Peoples' invasions."
-        },
-        "rulers": [
-          {
-            "from": -1344,
-            "to": -1322,
-            "name": {
-              "ja": "シュッピルリウマ1世",
-              "en": "Suppiluliuma I"
-            }
-          },
-          {
-            "from": -1321,
-            "to": -1295,
-            "name": {
-              "ja": "ムルシリ2世",
-              "en": "Mursili II"
-            }
-          },
-          {
-            "from": -1295,
-            "to": -1272,
-            "name": {
-              "ja": "ムワタリ2世",
-              "en": "Muwatalli II"
-            }
-          },
-          {
-            "from": -1267,
-            "to": -1237,
-            "name": {
-              "ja": "ハットゥシリ3世",
-              "en": "Hattusili III"
-            }
-          },
-          {
-            "from": -1237,
-            "to": -1209,
-            "name": {
-              "ja": "トゥドハリヤ4世",
-              "en": "Tudhaliya IV"
-            }
-          },
-          {
-            "from": -1207,
-            "to": -1178,
-            "name": {
-              "ja": "シュッピルリウマ2世",
-              "en": "Suppiluliuma II"
-            }
-          }
-        ]
-      },
-      {
-        "from": -1180,
-        "to": -700,
-        "government": {
-          "ja": "小王国群（シリア＝ヒッタイト諸国）",
-          "en": "Syro-Hittite petty kingdoms"
-        },
-        "capital": {
-          "ja": "カルケミシュなど",
-          "en": "Carchemish and others"
-        },
-        "religion": {
-          "ja": "アナトリア・シリアの多神教",
-          "en": "Anatolian and Syrian polytheism"
-        },
-        "summary": {
-          "ja": "ヒッタイト帝国の崩壊後、南東アナトリアと北シリアにはカルケミシュなどヒッタイト文化を継ぐ小王国が残った。これらの「後期ヒッタイト」諸国は前8世紀までにアッシリアに併合された。",
-          "en": "After the empire's fall, petty kingdoms such as Carchemish in south-east Anatolia and north Syria kept Hittite traditions alive. These Neo-Hittite states were absorbed by Assyria by the 8th century BC."
-        },
-        "rulers": []
-      }
-    ],
-    "wiki": {
-      "ja": "ヒッタイト",
-      "en": "Hittites"
-    }
-  },
-  {
-    "id": "mitanni",
-    "name": {
-      "ja": "ミタンニ",
-      "en": "Mitanni"
-    },
-    "basemap_names": [
-      "Hurrian Kingdoms"
-    ],
-    "periods": [
-      {
-        "from": -3000,
-        "to": -1550,
-        "government": {
-          "ja": "フルリ人の諸小王国",
-          "en": "Hurrian petty kingdoms"
-        },
-        "capital": {
-          "ja": "ウルケシュなど",
-          "en": "Urkesh and others"
-        },
-        "religion": {
-          "ja": "フルリ人の多神教",
-          "en": "Hurrian polytheism"
-        },
-        "summary": {
-          "ja": "北メソポタミアからシリア北部にかけて、フルリ人が小王国を形成していた。彼らは独自の言語をもち、メソポタミア文明の影響を受けつつアナトリアやシリアに文化を伝えた。",
-          "en": "Across northern Mesopotamia and Syria the Hurrians formed small kingdoms. Speaking their own language, they absorbed Mesopotamian culture and transmitted it to Anatolia and Syria."
-        },
-        "rulers": []
-      },
-      {
-        "from": -1550,
-        "to": -1270,
-        "government": {
-          "ja": "王政（戦車戦士層マリヤンヌに支えられる）",
-          "en": "Monarchy backed by chariot-warrior elite"
-        },
-        "capital": {
-          "ja": "ワシュカンニ",
-          "en": "Washukanni"
-        },
-        "religion": {
-          "ja": "フルリ人の多神教（インド＝イラン系の神も信仰）",
-          "en": "Hurrian polytheism with Indo-Iranian deities"
-        },
-        "summary": {
-          "ja": "フルリ人が北メソポタミアに建てたミタンニ王国は、前15世紀にアッシリアを従属させ、エジプトと並ぶ強国となった。しかしヒッタイトのシュッピルリウマ1世に敗れて衰え、アッシリアに併合された。",
-          "en": "The Hurrian kingdom of Mitanni in northern Mesopotamia subdued Assyria in the 15th century BC and ranked beside Egypt as a great power. Defeated by the Hittite king Suppiluliuma I, it declined and was annexed by Assyria."
-        },
-        "rulers": [
-          {
-            "from": -1500,
-            "to": -1470,
-            "name": {
-              "ja": "パラッタルナ",
-              "en": "Parattarna"
-            }
-          },
-          {
-            "from": -1450,
-            "to": -1420,
-            "name": {
-              "ja": "サウシュタタル",
-              "en": "Shaushtatar"
-            }
-          },
-          {
-            "from": -1380,
-            "to": -1370,
-            "name": {
-              "ja": "シュッタルナ2世",
-              "en": "Shuttarna II"
-            }
-          },
-          {
-            "from": -1370,
-            "to": -1340,
-            "name": {
-              "ja": "トゥシュラッタ",
-              "en": "Tushratta"
-            }
-          },
-          {
-            "from": -1340,
-            "to": -1320,
-            "name": {
-              "ja": "シャッティワザ",
-              "en": "Shattiwaza"
-            }
-          }
-        ]
-      }
-    ],
-    "wiki": {
-      "ja": "ミタンニ",
-      "en": "Mitanni"
-    }
-  },
-  {
-    "id": "assyria",
-    "name": {
-      "ja": "アッシリア",
-      "en": "Assyria"
-    },
-    "basemap_names": [
-      "Assyria"
-    ],
-    "periods": [
-      {
-        "from": -2000,
-        "to": -1400,
-        "government": {
-          "ja": "都市国家（商業国家）",
-          "en": "City-state and merchant polity"
-        },
-        "capital": {
-          "ja": "アッシュル",
-          "en": "Ashur"
-        },
-        "religion": {
-          "ja": "アッシュル神信仰（メソポタミアの多神教）",
-          "en": "Cult of Ashur within Mesopotamian polytheism"
-        },
-        "summary": {
-          "ja": "ティグリス川中流の都市アッシュルを中心とするセム語系アッシリア人の国家。前2千年紀初めにはアナトリアとの交易で栄えたが、やがてミタンニに従属した。",
-          "en": "The Semitic Assyrians centred on the city of Ashur on the middle Tigris. Early in the 2nd millennium BC they prospered from trade with Anatolia, but later fell under Mitanni's control."
-        },
-        "rulers": [
-          {
-            "from": -1808,
-            "to": -1776,
-            "name": {
-              "ja": "シャムシ＝アダド1世",
-              "en": "Shamshi-Adad I"
-            }
-          }
-        ]
-      },
-      {
-        "from": -1400,
-        "to": -1000,
-        "government": {
-          "ja": "王政",
-          "en": "Monarchy"
-        },
-        "capital": {
-          "ja": "アッシュル",
-          "en": "Ashur"
-        },
-        "religion": {
-          "ja": "アッシュル神信仰",
-          "en": "Cult of Ashur"
-        },
-        "summary": {
-          "ja": "ミタンニの衰退に乗じてアッシリアは独立を回復し、中アッシリア王国として北メソポタミアの強国となった。バビロニアを一時征服し、アラム人の侵入に苦しみつつも鉄器と軍事技術を発展させた。",
-          "en": "Exploiting Mitanni's decline, Assyria regained independence and, as the Middle Assyrian kingdom, became the leading power of northern Mesopotamia. It briefly conquered Babylonia and, though pressed by the Arameans, developed iron weapons and military organisation."
-        },
-        "rulers": [
-          {
-            "from": -1363,
-            "to": -1328,
-            "name": {
-              "ja": "アッシュル＝ウバリト1世",
-              "en": "Ashur-uballit I"
-            }
-          },
-          {
-            "from": -1233,
-            "to": -1197,
-            "name": {
-              "ja": "トゥクルティ＝ニヌルタ1世",
-              "en": "Tukulti-Ninurta I"
-            }
-          },
-          {
-            "from": -1114,
-            "to": -1076,
-            "name": {
-              "ja": "ティグラト＝ピレセル1世",
-              "en": "Tiglath-Pileser I"
-            }
-          }
-        ]
-      },
       {
         "from": -1000,
-        "to": -612,
+        "to": 250,
         "government": {
-          "ja": "専制王政（世界帝国）",
-          "en": "Despotic monarchy (world empire)"
+          "ja": "首長制・初期都市国家",
+          "en": "Chiefdoms and early city-states"
         },
         "capital": {
-          "ja": "ニネヴェ",
-          "en": "Nineveh"
+          "ja": "エル＝ミラドール、カミナルフユ",
+          "en": "El Mirador, Kaminaljuyu"
         },
         "religion": {
-          "ja": "アッシュル神信仰",
-          "en": "Cult of Ashur"
+          "ja": "多神教",
+          "en": "Polytheism"
         },
         "summary": {
-          "ja": "鉄製武器と戦車・騎兵を備えた強力な軍隊でアッシリアは前7世紀前半にエジプトを含む全オリエントを初めて統一した。駅伝制や州制を整えたが、重税と強制移住などの圧政で諸民族の反乱を招き、前612年ニネヴェが陥落して滅亡した。",
-          "en": "With iron weapons, chariots and cavalry Assyria unified the whole Orient including Egypt for the first time in the early 7th century BC. It organised provinces and a courier system, but harsh taxation and deportations provoked revolts, and Nineveh fell in 612 BC."
-        },
-        "rulers": [
-          {
-            "from": -883,
-            "to": -859,
-            "name": {
-              "ja": "アッシュルナシルパル2世",
-              "en": "Ashurnasirpal II"
-            }
-          },
-          {
-            "from": -744,
-            "to": -727,
-            "name": {
-              "ja": "ティグラト＝ピレセル3世",
-              "en": "Tiglath-Pileser III"
-            }
-          },
-          {
-            "from": -721,
-            "to": -705,
-            "name": {
-              "ja": "サルゴン2世",
-              "en": "Sargon II"
-            }
-          },
-          {
-            "from": -704,
-            "to": -681,
-            "name": {
-              "ja": "センナケリブ",
-              "en": "Sennacherib"
-            }
-          },
-          {
-            "from": -680,
-            "to": -669,
-            "name": {
-              "ja": "エサルハドン",
-              "en": "Esarhaddon"
-            }
-          },
-          {
-            "from": -668,
-            "to": -627,
-            "name": {
-              "ja": "アッシュルバニパル",
-              "en": "Ashurbanipal"
-            },
-            "person": "ashurbanipal"
-          }
-        ]
-      }
-    ],
-    "wiki": {
-      "ja": "アッシリア",
-      "en": "Assyria"
-    }
-  },
-  {
-    "id": "neo-babylonian-empire",
-    "name": {
-      "ja": "新バビロニア",
-      "en": "Neo-Babylonian Empire"
-    },
-    "basemap_names": [],
-    "periods": [
+          "ja": "ユカタン半島とグアテマラ高地で村落からピラミッドをもつ都市が生まれた先古典期。オルメカ文明の影響を受けつつ、暦や文字、階段ピラミッドなどマヤ文明の基礎が形成された。エル＝ミラドールには巨大な神殿群が築かれた。",
+          "en": "The Preclassic period, when villages in the Yucatán and Guatemalan highlands grew into cities with pyramids. Under Olmec influence the foundations of Maya civilization — the calendar, writing and stepped pyramids — took shape, and huge temple complexes rose at El Mirador."
+        }
+      },
       {
-        "from": -625,
-        "to": -539,
+        "from": 250,
+        "to": 900,
         "government": {
-          "ja": "専制王政",
-          "en": "Despotic monarchy"
+          "ja": "都市国家（神聖王）",
+          "en": "City-states under divine kings"
         },
         "capital": {
-          "ja": "バビロン",
-          "en": "Babylon"
+          "ja": "ティカル、パレンケ、コパン",
+          "en": "Tikal, Palenque, Copán"
         },
         "religion": {
-          "ja": "マルドゥク神を主神とする多神教",
-          "en": "Polytheism headed by Marduk"
+          "ja": "多神教",
+          "en": "Polytheism"
         },
         "summary": {
-          "ja": "カルデア人のナボポラッサルがアッシリアから独立し、メディアと結んでニネヴェを攻略した。ネブカドネザル2世はユダ王国を滅ぼしてバビロン捕囚をおこない、バビロンに城壁や空中庭園を築いて繁栄したが、前539年アケメネス朝のキュロス2世に征服された。",
-          "en": "The Chaldean Nabopolassar broke from Assyria and, allied with Media, took Nineveh. Nebuchadnezzar II destroyed Judah, deported its people to Babylon and adorned the city with walls and the Hanging Gardens. In 539 BC the empire fell to Cyrus II of Persia."
+          "ja": "ティカル・パレンケ・コパンなど多数の都市国家が競合した古典期の最盛期。二十進法による数学、精密な太陽暦、マヤ文字、石碑建立など高度な文化を発達させた。9世紀に南部低地の諸都市は相次いで放棄され衰退した。",
+          "en": "The Classic peak, when rival city-states such as Tikal, Palenque and Copán flourished. The Maya developed vigesimal mathematics, a precise solar calendar, hieroglyphic writing and monumental stelae. In the 9th century the southern lowland cities were abandoned one after another."
         },
         "rulers": [
           {
-            "from": -625,
-            "to": -605,
+            "from": 426,
+            "to": 437,
             "name": {
-              "ja": "ナボポラッサル",
-              "en": "Nabopolassar"
+              "ja": "ヤシュ＝クック＝モ（コパン）",
+              "en": "K'inich Yax K'uk' Mo' (Copán)"
             }
           },
           {
-            "from": -604,
-            "to": -562,
+            "from": 615,
+            "to": 683,
             "name": {
-              "ja": "ネブカドネザル2世",
-              "en": "Nebuchadnezzar II"
-            },
-            "person": "nebuchadnezzar-ii"
-          },
-          {
-            "from": -562,
-            "to": -560,
-            "name": {
-              "ja": "アメル＝マルドゥク",
-              "en": "Amel-Marduk"
+              "ja": "パカル（パレンケ）",
+              "en": "K'inich Janaab' Pakal (Palenque)"
             }
           },
           {
-            "from": -560,
-            "to": -556,
+            "from": 682,
+            "to": 734,
             "name": {
-              "ja": "ネリグリッサル",
-              "en": "Neriglissar"
+              "ja": "ハサウ＝チャン＝カウィール1世（ティカル）",
+              "en": "Jasaw Chan K'awiil I (Tikal)"
             }
           },
           {
-            "from": -556,
-            "to": -539,
+            "from": 695,
+            "to": 738,
             "name": {
-              "ja": "ナボニドゥス",
-              "en": "Nabonidus"
+              "ja": "18ウサギ（コパン）",
+              "en": "Waxaklajuun Ub'aah K'awiil (Copán)"
             }
           }
         ]
+      },
+      {
+        "from": 900,
+        "to": 1521,
+        "government": {
+          "ja": "都市国家（都市同盟）",
+          "en": "City-states and leagues"
+        },
+        "capital": {
+          "ja": "チチェン＝イツァ、マヤパン",
+          "en": "Chichén Itzá, Mayapán"
+        },
+        "religion": {
+          "ja": "多神教（ククルカン信仰）",
+          "en": "Polytheism (Kukulkan cult)"
+        },
+        "summary": {
+          "ja": "文明の中心がユカタン半島北部へ移った後古典期。トルテカの影響を受けたチチェン＝イツァ、ついでマヤパンが覇権を握ったが、15世紀半ばに同盟が崩壊し、小国が分立する状態のまま16世紀にスペイン人の到来を迎えた。",
+          "en": "The Postclassic period, when the centre shifted to northern Yucatán. Toltec-influenced Chichén Itzá and then Mayapán held sway, but the league collapsed in the mid-15th century, leaving a patchwork of small states when the Spaniards arrived."
+        }
+      },
+      {
+        "from": 1521,
+        "to": 1697,
+        "government": {
+          "ja": "スペインの征服と残存諸国",
+          "en": "Spanish conquest and surviving polities"
+        },
+        "capital": {
+          "ja": "タヤサル（ペテン＝イツァ）",
+          "en": "Tayasal (Petén Itzá)"
+        },
+        "religion": {
+          "ja": "多神教・カトリック",
+          "en": "Polytheism / Catholicism"
+        },
+        "summary": {
+          "ja": "1520年代からスペインの征服が進み、ユカタンは1540年代にモンテホ父子によって制圧された。ペテンの湖上都市タヤサルなど内陸の諸国は抵抗を続けたが、1697年に最後のマヤ王国イツァが降伏し、マヤの独立政体は消滅した。",
+          "en": "Spanish conquest advanced from the 1520s and Yucatán was subdued by the 1540s. Inland states such as Tayasal on Lake Petén Itzá resisted until 1697, when the last Maya kingdom of the Itza fell and independent Maya rule ended."
+        }
       }
     ],
     "wiki": {
-      "ja": "新バビロニア",
-      "en": "Neo-Babylonian Empire"
+      "ja": "マヤ文明",
+      "en": "Maya civilization"
     }
   },
   {
-    "id": "egypt",
+    "id": "toltec",
     "name": {
-      "ja": "エジプト",
-      "en": "Egypt"
+      "ja": "トルテカ文明",
+      "en": "Toltec civilization"
     },
     "basemap_names": [
-      "Egypt"
+      "Toltec Empire"
     ],
     "periods": [
       {
-        "from": -3000,
-        "to": -2686,
+        "from": 900,
+        "to": 1180,
         "government": {
-          "ja": "神権的王政（ファラオ）",
-          "en": "Divine kingship (pharaoh)"
+          "ja": "王政（軍事国家）",
+          "en": "Militaristic monarchy"
         },
         "capital": {
-          "ja": "メンフィス",
-          "en": "Memphis"
+          "ja": "トゥーラ",
+          "en": "Tula"
         },
         "religion": {
-          "ja": "エジプトの多神教",
-          "en": "Egyptian polytheism"
+          "ja": "多神教（ケツァルコアトル）",
+          "en": "Polytheism (Quetzalcoatl)"
         },
         "summary": {
-          "ja": "ナイル川流域に成立した多くのノモス（州）が、前3000年ごろ上エジプトの王によって統一された。王は神の化身ファラオとして君臨し、神聖文字（ヒエログリフ）やパピルスなどの文化が形成された。",
-          "en": "The nomes along the Nile were unified around 3000 BC by a king of Upper Egypt. The king ruled as pharaoh, a living god, and hieroglyphic writing and papyrus culture took shape."
+          "ja": "テオティワカン衰退後、10世紀からメキシコ中央高原で栄えた軍事的な国家。首都トゥーラには戦士像の石柱が並び、その文化はユカタンのチチェン＝イツァにも伝わった。12世紀に崩壊したが、のちのアステカはトルテカを文化の祖と仰いだ。",
+          "en": "A militaristic state that rose on the central Mexican plateau in the 10th century after Teotihuacan's decline. Its capital Tula is famous for warrior columns, and its culture reached Chichén Itzá in Yucatán. It collapsed in the 12th century, but the Aztecs later revered the Toltecs as their cultural ancestors."
         },
         "rulers": [
           {
-            "from": -3000,
-            "to": -2970,
+            "from": 968,
+            "to": 987,
             "name": {
-              "ja": "ナルメル（メネス）",
-              "en": "Narmer (Menes)"
-            }
-          }
-        ]
-      },
-      {
-        "from": -2686,
-        "to": -2181,
-        "government": {
-          "ja": "神権的王政（ファラオ）",
-          "en": "Divine kingship (pharaoh)"
-        },
-        "capital": {
-          "ja": "メンフィス",
-          "en": "Memphis"
-        },
-        "religion": {
-          "ja": "太陽神ラーを中心とする多神教",
-          "en": "Polytheism centred on the sun god Ra"
-        },
-        "summary": {
-          "ja": "古王国時代はメンフィスを都とし、クフ王らがギザに巨大なピラミッドを建設した。ファラオは太陽神ラーの子とされ強大な権力をもったが、末期には州の有力者が自立して王権は衰えた。",
-          "en": "In the Old Kingdom, ruled from Memphis, Khufu and his successors built the great pyramids at Giza. The pharaoh, son of Ra, wielded immense power, but late in the period provincial nobles grew independent and royal authority waned."
-        },
-        "rulers": [
-          {
-            "from": -2670,
-            "to": -2650,
-            "name": {
-              "ja": "ジェセル",
-              "en": "Djoser"
-            }
-          },
-          {
-            "from": -2613,
-            "to": -2589,
-            "name": {
-              "ja": "スネフル",
-              "en": "Sneferu"
-            }
-          },
-          {
-            "from": -2589,
-            "to": -2566,
-            "name": {
-              "ja": "クフ",
-              "en": "Khufu"
-            },
-            "person": "khufu"
-          },
-          {
-            "from": -2558,
-            "to": -2532,
-            "name": {
-              "ja": "カフラー",
-              "en": "Khafre"
-            }
-          },
-          {
-            "from": -2532,
-            "to": -2503,
-            "name": {
-              "ja": "メンカウラー",
-              "en": "Menkaure"
-            }
-          },
-          {
-            "from": -2278,
-            "to": -2184,
-            "name": {
-              "ja": "ペピ2世",
-              "en": "Pepi II"
-            }
-          }
-        ]
-      },
-      {
-        "from": -2055,
-        "to": -1650,
-        "government": {
-          "ja": "神権的王政（ファラオ）",
-          "en": "Divine kingship (pharaoh)"
-        },
-        "capital": {
-          "ja": "テーベ",
-          "en": "Thebes"
-        },
-        "religion": {
-          "ja": "アモン＝ラー信仰を中心とする多神教",
-          "en": "Polytheism centred on Amun-Ra"
-        },
-        "summary": {
-          "ja": "第1中間期の分裂をテーベの王が収拾し、中王国が成立した。ファイユームの開発やヌビア遠征がおこなわれ、文学も栄えた。末期にはシリア方面から馬と戦車をもつヒクソスが侵入し、下エジプトを支配した。",
-          "en": "Kings of Thebes ended the First Intermediate Period and founded the Middle Kingdom, which developed the Fayum, campaigned in Nubia and produced classic literature. Toward its end the Hyksos, bringing horses and chariots from Syria, seized Lower Egypt."
-        },
-        "rulers": [
-          {
-            "from": -2055,
-            "to": -2004,
-            "name": {
-              "ja": "メンチュヘテプ2世",
-              "en": "Mentuhotep II"
-            }
-          },
-          {
-            "from": -1985,
-            "to": -1956,
-            "name": {
-              "ja": "アメンエムハト1世",
-              "en": "Amenemhat I"
-            }
-          },
-          {
-            "from": -1956,
-            "to": -1911,
-            "name": {
-              "ja": "センウセレト1世",
-              "en": "Senusret I"
-            }
-          },
-          {
-            "from": -1878,
-            "to": -1839,
-            "name": {
-              "ja": "センウセレト3世",
-              "en": "Senusret III"
-            }
-          },
-          {
-            "from": -1831,
-            "to": -1786,
-            "name": {
-              "ja": "アメンエムハト3世",
-              "en": "Amenemhat III"
-            }
-          }
-        ]
-      },
-      {
-        "from": -1550,
-        "to": -1070,
-        "government": {
-          "ja": "神権的王政（ファラオ）",
-          "en": "Divine kingship (pharaoh)"
-        },
-        "capital": {
-          "ja": "テーベ",
-          "en": "Thebes"
-        },
-        "religion": {
-          "ja": "アモン＝ラー信仰（アマルナ期はアトン一神教）",
-          "en": "Amun-Ra cult (Aten monotheism in the Amarna period)"
-        },
-        "summary": {
-          "ja": "ヒクソスを追放して成立した新王国は、シリアやヌビアに遠征してエジプト史上最大の領土を築いた。アメンホテプ4世はアトン一神教の改革をおこない、ラメス2世はヒッタイトとカデシュで戦った。やがて「海の民」の侵入と神官勢力の台頭で衰退した。",
-          "en": "The New Kingdom, founded after expelling the Hyksos, campaigned in Syria and Nubia and reached Egypt's greatest extent. Amenhotep IV imposed worship of Aten alone, and Ramesses II fought the Hittites at Kadesh. The Sea Peoples' attacks and the rising power of the Amun priesthood brought decline."
-        },
-        "rulers": [
-          {
-            "from": -1550,
-            "to": -1525,
-            "name": {
-              "ja": "イアフメス1世",
-              "en": "Ahmose I"
-            }
-          },
-          {
-            "from": -1479,
-            "to": -1458,
-            "name": {
-              "ja": "ハトシェプスト",
-              "en": "Hatshepsut"
-            }
-          },
-          {
-            "from": -1479,
-            "to": -1425,
-            "name": {
-              "ja": "トトメス3世",
-              "en": "Thutmose III"
-            }
-          },
-          {
-            "from": -1390,
-            "to": -1353,
-            "name": {
-              "ja": "アメンホテプ3世",
-              "en": "Amenhotep III"
-            }
-          },
-          {
-            "from": -1353,
-            "to": -1336,
-            "name": {
-              "ja": "アメンホテプ4世（イクナートン）",
-              "en": "Akhenaten (Amenhotep IV)"
-            },
-            "person": "akhenaten"
-          },
-          {
-            "from": -1332,
-            "to": -1323,
-            "name": {
-              "ja": "ツタンカーメン",
-              "en": "Tutankhamun"
-            }
-          },
-          {
-            "from": -1279,
-            "to": -1213,
-            "name": {
-              "ja": "ラメス2世",
-              "en": "Ramesses II"
-            },
-            "person": "ramesses-ii"
-          },
-          {
-            "from": -1186,
-            "to": -1155,
-            "name": {
-              "ja": "ラメス3世",
-              "en": "Ramesses III"
-            }
-          }
-        ]
-      },
-      {
-        "from": -1070,
-        "to": -664,
-        "government": {
-          "ja": "分裂した王政（リビア系・クシュ系王朝）",
-          "en": "Divided kingship (Libyan and Kushite dynasties)"
-        },
-        "capital": {
-          "ja": "タニス（テーベ・ナパタ）",
-          "en": "Tanis (also Thebes, Napata)"
-        },
-        "religion": {
-          "ja": "アモン＝ラー信仰を中心とする多神教",
-          "en": "Polytheism centred on Amun-Ra"
-        },
-        "summary": {
-          "ja": "新王国の衰退後、エジプトはテーベの神官団と下エジプトの王朝に分裂し、リビア系の王朝が続いた。前8世紀にはナイル上流のクシュ王国がエジプトを征服して第25王朝を立てたが、アッシリアの侵攻で撤退した。",
-          "en": "After the New Kingdom Egypt split between the priests of Thebes and Delta dynasties of Libyan origin. In the 8th century BC the Kingdom of Kush conquered Egypt as the 25th Dynasty, until Assyrian invasions drove it back south."
-        },
-        "rulers": [
-          {
-            "from": -945,
-            "to": -924,
-            "name": {
-              "ja": "シェションク1世",
-              "en": "Shoshenq I"
-            }
-          },
-          {
-            "from": -744,
-            "to": -714,
-            "name": {
-              "ja": "ピイ",
-              "en": "Piye"
-            }
-          },
-          {
-            "from": -690,
-            "to": -664,
-            "name": {
-              "ja": "タハルカ",
-              "en": "Taharqa"
-            }
-          }
-        ]
-      },
-      {
-        "from": -664,
-        "to": -332,
-        "government": {
-          "ja": "王政（前525年以降ペルシアの属州）",
-          "en": "Monarchy, a Persian satrapy after 525 BC"
-        },
-        "capital": {
-          "ja": "サイス",
-          "en": "Sais"
-        },
-        "religion": {
-          "ja": "エジプトの多神教",
-          "en": "Egyptian polytheism"
-        },
-        "summary": {
-          "ja": "アッシリアの撤退後、サイスを都とする第26王朝がエジプトを再統一しギリシア人傭兵や商人を受け入れた。前525年アケメネス朝のカンビュセス2世に征服され、一時独立を回復したが、前332年アレクサンドロス大王に征服された。",
-          "en": "After Assyria withdrew, the 26th Dynasty at Sais reunified Egypt and welcomed Greek mercenaries and traders. Egypt was conquered by Cambyses II of Persia in 525 BC, briefly regained independence, and in 332 BC fell to Alexander the Great."
-        },
-        "rulers": [
-          {
-            "from": -664,
-            "to": -610,
-            "name": {
-              "ja": "プサメティコス1世",
-              "en": "Psamtik I"
-            }
-          },
-          {
-            "from": -610,
-            "to": -595,
-            "name": {
-              "ja": "ネコ2世",
-              "en": "Necho II"
-            }
-          },
-          {
-            "from": -570,
-            "to": -526,
-            "name": {
-              "ja": "アマシス",
-              "en": "Amasis II"
-            }
-          },
-          {
-            "from": -526,
-            "to": -525,
-            "name": {
-              "ja": "プサメティコス3世",
-              "en": "Psamtik III"
-            }
-          },
-          {
-            "from": -360,
-            "to": -343,
-            "name": {
-              "ja": "ネクタネボ2世",
-              "en": "Nectanebo II"
-            }
-          }
-        ]
-      },
-      {
-        "from": 1517,
-        "to": 1805,
-        "government": {
-          "ja": "オスマン帝国の州（マムルーク系ベイが実権）",
-          "en": "Ottoman province dominated by Mamluk beys"
-        },
-        "capital": {
-          "ja": "カイロ",
-          "en": "Cairo"
-        },
-        "religion": {
-          "ja": "スンナ派イスラーム",
-          "en": "Sunni Islam"
-        },
-        "summary": {
-          "ja": "1517年マムルーク朝を滅ぼしたオスマン帝国はエジプトを州として総督を派遣したが、実際にはマムルーク系の有力者（ベイ）が実権を握り続けた。1798年ナポレオンの遠征でフランス軍が占領し、西欧の衝撃がエジプト近代化の契機となった。",
-          "en": "After destroying the Mamluk Sultanate in 1517 the Ottomans governed Egypt as a province, but real power stayed with Mamluk beys. Napoleon's expedition of 1798 brought French occupation and the shock that triggered Egypt's modernisation."
-        },
-        "rulers": [
-          {
-            "from": 1768,
-            "to": 1773,
-            "name": {
-              "ja": "アリー＝ベイ",
-              "en": "Ali Bey al-Kabir"
-            }
-          },
-          {
-            "from": 1798,
-            "to": 1799,
-            "name": {
-              "ja": "ナポレオン＝ボナパルト（占領）",
-              "en": "Napoleon Bonaparte (occupation)"
-            }
-          }
-        ]
-      },
-      {
-        "from": 1805,
-        "to": 1882,
-        "government": {
-          "ja": "世襲総督（ヘディーヴ）による君主政",
-          "en": "Hereditary viceroyalty (Khedivate)"
-        },
-        "capital": {
-          "ja": "カイロ",
-          "en": "Cairo"
-        },
-        "religion": {
-          "ja": "スンナ派イスラーム",
-          "en": "Sunni Islam"
-        },
-        "summary": {
-          "ja": "ムハンマド＝アリーはマムルークを一掃してエジプト総督となり、富国強兵と殖産興業の改革を進めてオスマン帝国と戦った。王朝の世襲は認められたが、スエズ運河建設などで財政が破綻し、英仏の財政管理下に置かれた。ウラービー運動は1882年イギリスに鎮圧された。",
-          "en": "Muhammad Ali crushed the Mamluks, became governor and pursued modernisation and military reform, even fighting the Ottomans. His dynasty won hereditary rule, but the Suez Canal and other projects bankrupted the state, bringing Anglo-French financial control. The Urabi revolt was crushed by Britain in 1882."
-        },
-        "rulers": [
-          {
-            "from": 1805,
-            "to": 1848,
-            "name": {
-              "ja": "ムハンマド＝アリー",
-              "en": "Muhammad Ali"
-            }
-          },
-          {
-            "from": 1848,
-            "to": 1854,
-            "name": {
-              "ja": "アッバース1世",
-              "en": "Abbas I"
-            }
-          },
-          {
-            "from": 1854,
-            "to": 1863,
-            "name": {
-              "ja": "サイード",
-              "en": "Sa'id"
-            }
-          },
-          {
-            "from": 1863,
-            "to": 1879,
-            "name": {
-              "ja": "イスマーイール",
-              "en": "Isma'il"
-            }
-          },
-          {
-            "from": 1879,
-            "to": 1892,
-            "name": {
-              "ja": "タウフィーク",
-              "en": "Tewfik"
-            }
-          },
-          {
-            "from": 1881,
-            "to": 1882,
-            "name": {
-              "ja": "ウラービー（アラービー）",
-              "en": "Ahmed Urabi"
-            }
-          }
-        ]
-      },
-      {
-        "from": 1882,
-        "to": 1922,
-        "government": {
-          "ja": "イギリス占領下の君主政（1914年から保護国）",
-          "en": "Monarchy under British occupation; protectorate from 1914"
-        },
-        "capital": {
-          "ja": "カイロ",
-          "en": "Cairo"
-        },
-        "religion": {
-          "ja": "スンナ派イスラーム",
-          "en": "Sunni Islam"
-        },
-        "summary": {
-          "ja": "ウラービー運動の鎮圧後、イギリスはエジプトを軍事占領し、総領事クローマーが実権を握った。第一次世界大戦でオスマン帝国と開戦すると保護国化し、戦後はワフド党が独立運動を展開した。",
-          "en": "After suppressing the Urabi revolt Britain occupied Egypt, where Consul-General Cromer held real power. When war with the Ottomans began in 1914 Egypt became a British protectorate, and after the war the Wafd Party led the independence movement."
-        },
-        "rulers": [
-          {
-            "from": 1883,
-            "to": 1907,
-            "name": {
-              "ja": "クローマー（総領事）",
-              "en": "Lord Cromer (Consul-General)"
-            }
-          },
-          {
-            "from": 1892,
-            "to": 1914,
-            "name": {
-              "ja": "アッバース2世",
-              "en": "Abbas II"
-            }
-          },
-          {
-            "from": 1914,
-            "to": 1917,
-            "name": {
-              "ja": "フセイン＝カーミル",
-              "en": "Hussein Kamel"
-            }
-          },
-          {
-            "from": 1917,
-            "to": 1922,
-            "name": {
-              "ja": "フアード1世（スルタン）",
-              "en": "Fuad I (Sultan)"
-            }
-          }
-        ]
-      },
-      {
-        "from": 1922,
-        "to": 1952,
-        "government": {
-          "ja": "立憲君主政（エジプト王国）",
-          "en": "Constitutional monarchy (Kingdom of Egypt)"
-        },
-        "capital": {
-          "ja": "カイロ",
-          "en": "Cairo"
-        },
-        "religion": {
-          "ja": "スンナ派イスラーム",
-          "en": "Sunni Islam"
-        },
-        "summary": {
-          "ja": "1922年イギリスは条件付きで独立を認め、エジプト王国が成立した。ワフド党のザグルールらが完全独立を求め、1936年のエジプト＝イギリス同盟条約でスエズ運河地帯を除く駐兵が撤廃された。第一次中東戦争の敗北で王政への不満が高まった。",
-          "en": "In 1922 Britain granted conditional independence and the Kingdom of Egypt was proclaimed. Zaghlul's Wafd pressed for full sovereignty, and the 1936 treaty confined British troops to the Suez Canal zone. Defeat in the 1948 war discredited the monarchy."
-        },
-        "rulers": [
-          {
-            "from": 1922,
-            "to": 1936,
-            "name": {
-              "ja": "フアード1世",
-              "en": "Fuad I"
-            }
-          },
-          {
-            "from": 1924,
-            "to": 1924,
-            "name": {
-              "ja": "サアド＝ザグルール（首相）",
-              "en": "Saad Zaghloul (Prime Minister)"
-            }
-          },
-          {
-            "from": 1936,
-            "to": 1952,
-            "name": {
-              "ja": "ファールーク1世",
-              "en": "Farouk I"
-            }
-          }
-        ]
-      },
-      {
-        "from": 1952,
-        "to": 2026,
-        "government": {
-          "ja": "共和政（大統領制）",
-          "en": "Republic (presidential)"
-        },
-        "capital": {
-          "ja": "カイロ",
-          "en": "Cairo"
-        },
-        "religion": {
-          "ja": "スンナ派イスラーム",
-          "en": "Sunni Islam"
-        },
-        "summary": {
-          "ja": "1952年ナセルら自由将校団の革命で王政が倒れ共和国となった。ナセルはスエズ運河を国有化してアラブ民族主義の指導者となり、サダトはイスラエルと平和条約を結んだ。ムバラクの長期政権は2011年「アラブの春」で崩壊し、軍出身のシーシーが政権を握った。",
-          "en": "The 1952 Free Officers' revolution under Nasser ended the monarchy. Nasser nationalised the Suez Canal and led Arab nationalism; Sadat made peace with Israel. Mubarak's long rule fell in the Arab Spring of 2011, and the military-backed Sisi took power."
-        },
-        "rulers": [
-          {
-            "from": 1953,
-            "to": 1954,
-            "name": {
-              "ja": "ナギブ",
-              "en": "Muhammad Naguib"
-            }
-          },
-          {
-            "from": 1954,
-            "to": 1970,
-            "name": {
-              "ja": "ナセル",
-              "en": "Gamal Abdel Nasser"
-            }
-          },
-          {
-            "from": 1970,
-            "to": 1981,
-            "name": {
-              "ja": "サダト",
-              "en": "Anwar Sadat"
-            }
-          },
-          {
-            "from": 1981,
-            "to": 2011,
-            "name": {
-              "ja": "ムバラク",
-              "en": "Hosni Mubarak"
-            }
-          },
-          {
-            "from": 2012,
-            "to": 2013,
-            "name": {
-              "ja": "ムルシー",
-              "en": "Mohamed Morsi"
-            }
-          },
-          {
-            "from": 2014,
-            "to": 2026,
-            "name": {
-              "ja": "シーシー",
-              "en": "Abdel Fattah el-Sisi"
+              "ja": "トピルツィン＝ケツァルコアトル（伝説上の王）",
+              "en": "Topiltzin Ce Acatl Quetzalcoatl (legendary)"
             }
           }
         ]
       }
     ],
     "wiki": {
-      "ja": "エジプト",
-      "en": "Egypt"
+      "ja": "トルテカ",
+      "en": "Toltec Empire"
     }
   },
   {
-    "id": "phoenicia",
+    "id": "aztec-empire",
     "name": {
-      "ja": "フェニキア",
-      "en": "Phoenicia"
+      "ja": "アステカ王国",
+      "en": "Aztec Empire"
     },
     "basemap_names": [
-      "Canaan"
+      "Aztec Empire"
     ],
     "periods": [
       {
-        "from": -2000,
-        "to": -1200,
+        "from": 1325,
+        "to": 1428,
         "government": {
-          "ja": "都市国家（王政）",
-          "en": "City-state monarchies"
+          "ja": "王政（都市国家、テパネカに従属）",
+          "en": "Monarchy (city-state under Tepanec overlordship)"
         },
         "capital": {
-          "ja": "ビブロス・ウガリット",
-          "en": "Byblos, Ugarit"
+          "ja": "テノチティトラン",
+          "en": "Tenochtitlan"
         },
         "religion": {
-          "ja": "バアル・アスタルテ信仰（カナン宗教）",
-          "en": "Canaanite religion (Baal, Astarte)"
+          "ja": "多神教（太陽神ウィツィロポチトリ）",
+          "en": "Polytheism (Huitzilopochtli)"
         },
         "summary": {
-          "ja": "東地中海沿岸のカナーンにはセム語系のカナーン人が都市国家を築き、エジプトやメソポタミアとの中継交易で栄えた。ビブロスやウガリットでは表音文字の原型が生まれ、のちのアルファベットにつながった。",
-          "en": "The Semitic Canaanites built city-states along the eastern Mediterranean coast and prospered from trade between Egypt and Mesopotamia. At Byblos and Ugarit early phonetic scripts emerged, ancestors of the alphabet."
-        },
-        "rulers": []
-      },
-      {
-        "from": -1200,
-        "to": -539,
-        "government": {
-          "ja": "都市国家（王政）",
-          "en": "City-state monarchies"
-        },
-        "capital": {
-          "ja": "シドン・ティルス",
-          "en": "Sidon, Tyre"
-        },
-        "religion": {
-          "ja": "バアル・メルカルト信仰",
-          "en": "Cult of Baal and Melqart"
-        },
-        "summary": {
-          "ja": "「海の民」の侵入後、シドンやティルスなどフェニキア人の都市国家が地中海交易を独占した。レバノン杉やガラス・紫染料を輸出し、カルタゴなど多くの植民市を建設した。彼らの表音文字はギリシア人に伝わりアルファベットの起源となった。",
-          "en": "After the Sea Peoples' invasions the Phoenician city-states of Sidon and Tyre dominated Mediterranean trade, exporting cedar, glass and purple dye and founding colonies such as Carthage. Their phonetic script, adopted by the Greeks, became the alphabet."
+          "ja": "北方から南下したアステカ人（メシカ）が1325年頃テスココ湖の島にテノチティトランを建設した。当初は湖畔の強国テパネカに従属する傭兵的な存在であったが、湖上に人工島（チナンパ）を広げて農業と都市を発展させた。",
+          "en": "The Aztecs (Mexica), migrants from the north, founded Tenochtitlan on an island in Lake Texcoco around 1325. At first vassals and mercenaries of the Tepanec power on the lakeshore, they expanded the city with artificial chinampa islands."
         },
         "rulers": [
           {
-            "from": -969,
-            "to": -936,
+            "from": 1376,
+            "to": 1395,
             "name": {
-              "ja": "ヒラム1世",
-              "en": "Hiram I"
+              "ja": "アカマピチトリ",
+              "en": "Acamapichtli"
             }
           },
           {
-            "from": -878,
-            "to": -847,
+            "from": 1396,
+            "to": 1417,
             "name": {
-              "ja": "イトバアル1世",
-              "en": "Ithobaal I"
+              "ja": "ウィツィリウィトル",
+              "en": "Huitzilihuitl"
             }
           },
           {
-            "from": -831,
-            "to": -785,
+            "from": 1417,
+            "to": 1427,
             "name": {
-              "ja": "ピュグマリオン",
-              "en": "Pygmalion"
+              "ja": "チマルポポカ",
+              "en": "Chimalpopoca"
             }
           }
         ]
       },
       {
-        "from": -539,
-        "to": -332,
+        "from": 1428,
+        "to": 1521,
         "government": {
-          "ja": "ペルシア支配下の都市国家",
-          "en": "City-states under Persian rule"
+          "ja": "王政（三都市同盟による貢納帝国）",
+          "en": "Monarchy (Triple Alliance tributary empire)"
         },
         "capital": {
-          "ja": "シドン・ティルス",
-          "en": "Sidon, Tyre"
+          "ja": "テノチティトラン",
+          "en": "Tenochtitlan"
         },
         "religion": {
-          "ja": "バアル・メルカルト信仰",
-          "en": "Cult of Baal and Melqart"
+          "ja": "多神教（人身供犠をともなう太陽信仰）",
+          "en": "Polytheism (sun cult with human sacrifice)"
         },
         "summary": {
-          "ja": "アケメネス朝の支配下でもフェニキア諸都市は自治を保ち、ペルシア海軍の中核として地中海で活動した。前332年アレクサンドロス大王がティルスを攻略すると、フェニキアはヘレニズム世界に組み込まれた。",
-          "en": "Under the Achaemenids the Phoenician cities kept autonomy and supplied the core of the Persian fleet. When Alexander the Great took Tyre in 332 BC Phoenicia was absorbed into the Hellenistic world."
+          "ja": "1428年にテスココ・トラコパンと三都市同盟を結んでテパネカを倒し、メキシコ中央高原の大部分を貢納国として支配した。首都テノチティトランは人口20万を超える大都市となったが、1521年にスペインのコルテスに征服され滅亡した。",
+          "en": "In 1428 the Triple Alliance with Texcoco and Tlacopan overthrew the Tepanecs, and the Aztecs came to dominate most of central Mexico as tributary territory. Tenochtitlan grew to over 200,000 people, but in 1521 the empire was conquered by Hernán Cortés."
         },
         "rulers": [
           {
-            "from": -365,
-            "to": -352,
+            "from": 1427,
+            "to": 1440,
             "name": {
-              "ja": "テンネス（シドン王）",
-              "en": "Tennes of Sidon"
+              "ja": "イツコアトル",
+              "en": "Itzcoatl"
             }
           },
           {
-            "from": -340,
-            "to": -332,
+            "from": 1440,
+            "to": 1469,
             "name": {
-              "ja": "アゼミルコス（ティルス王）",
-              "en": "Azemilcus of Tyre"
+              "ja": "モクテスマ1世",
+              "en": "Moctezuma I"
+            }
+          },
+          {
+            "from": 1469,
+            "to": 1481,
+            "name": {
+              "ja": "アシャヤカトル",
+              "en": "Axayacatl"
+            }
+          },
+          {
+            "from": 1486,
+            "to": 1502,
+            "name": {
+              "ja": "アウィツォトル",
+              "en": "Ahuitzotl"
+            }
+          },
+          {
+            "from": 1502,
+            "to": 1520,
+            "name": {
+              "ja": "モクテスマ2世",
+              "en": "Moctezuma II"
+            }
+          },
+          {
+            "from": 1520,
+            "to": 1520,
+            "name": {
+              "ja": "クイトラワク",
+              "en": "Cuitláhuac"
+            }
+          },
+          {
+            "from": 1520,
+            "to": 1521,
+            "name": {
+              "ja": "クアウテモク",
+              "en": "Cuauhtémoc"
             }
           }
         ]
       }
     ],
     "wiki": {
-      "ja": "フェニキア",
-      "en": "Phoenicia"
+      "ja": "アステカ",
+      "en": "Aztec Empire"
     }
   },
   {
-    "id": "hebrew-kingdom",
+    "id": "chavin",
     "name": {
-      "ja": "ヘブライ王国",
-      "en": "Hebrew Kingdom (Israel and Judah)"
+      "ja": "チャビン文化",
+      "en": "Chavín culture"
     },
     "basemap_names": [
-      "Kingdom of David and Solomon",
-      "Judea"
+      "Chavin"
     ],
     "periods": [
       {
-        "from": -1020,
-        "to": -922,
+        "from": -1000,
+        "to": -200,
         "government": {
-          "ja": "統一王政",
-          "en": "United monarchy"
+          "ja": "神権政治（祭祀センター）",
+          "en": "Theocratic ceremonial centre"
         },
         "capital": {
-          "ja": "イェルサレム",
-          "en": "Jerusalem"
+          "ja": "チャビン＝デ＝ワンタル",
+          "en": "Chavín de Huántar"
         },
         "religion": {
-          "ja": "ヤハウェ信仰（ユダヤ教の原型）",
-          "en": "Worship of Yahweh (proto-Judaism)"
+          "ja": "ジャガーや蛇をかたどる神々への信仰",
+          "en": "Cult of feline and serpent deities"
         },
         "summary": {
-          "ja": "モーセに率いられてエジプトを脱出したとされるヘブライ人は、パレスチナに定住して前1000年ごろ王国を建てた。ダヴィデ王はイェルサレムを都とし、ソロモン王は神殿を建設して繁栄を極めたが、その死後王国は南北に分裂した。",
-          "en": "The Hebrews, said to have left Egypt under Moses, settled in Palestine and founded a kingdom around 1000 BC. David made Jerusalem his capital and Solomon built the Temple and brought prosperity, but after his death the kingdom split in two."
-        },
-        "rulers": [
-          {
-            "from": -1020,
-            "to": -1000,
-            "name": {
-              "ja": "サウル",
-              "en": "Saul"
-            }
-          },
-          {
-            "from": -1000,
-            "to": -961,
-            "name": {
-              "ja": "ダヴィデ",
-              "en": "David"
-            },
-            "person": "david"
-          },
-          {
-            "from": -961,
-            "to": -922,
-            "name": {
-              "ja": "ソロモン",
-              "en": "Solomon"
-            }
-          }
-        ]
-      },
-      {
-        "from": -922,
-        "to": -586,
-        "government": {
-          "ja": "分裂王政（イスラエル王国・ユダ王国）",
-          "en": "Divided monarchies of Israel and Judah"
-        },
-        "capital": {
-          "ja": "イェルサレム（ユダ）・サマリア（イスラエル）",
-          "en": "Jerusalem (Judah), Samaria (Israel)"
-        },
-        "religion": {
-          "ja": "ヤハウェ信仰（預言者運動）",
-          "en": "Yahwism and the prophetic movement"
-        },
-        "summary": {
-          "ja": "ソロモンの死後、北のイスラエル王国と南のユダ王国に分裂した。イスラエル王国は前722年アッシリアに滅ぼされ、ユダ王国は前586年新バビロニアに滅ぼされて住民がバビロンに連行された（バビロン捕囚）。この苦難のなかで預言者が活動し、ユダヤ教が形成された。",
-          "en": "After Solomon the realm split into Israel in the north and Judah in the south. Israel fell to Assyria in 722 BC; Judah was destroyed by Babylon in 586 BC and its people deported (the Babylonian Captivity). Amid these trials the prophets preached and Judaism took shape."
-        },
-        "rulers": [
-          {
-            "from": -922,
-            "to": -901,
-            "name": {
-              "ja": "ヤロブアム1世（イスラエル）",
-              "en": "Jeroboam I (Israel)"
-            }
-          },
-          {
-            "from": -874,
-            "to": -853,
-            "name": {
-              "ja": "アハブ（イスラエル）",
-              "en": "Ahab (Israel)"
-            }
-          },
-          {
-            "from": -715,
-            "to": -687,
-            "name": {
-              "ja": "ヒゼキヤ（ユダ）",
-              "en": "Hezekiah (Judah)"
-            }
-          },
-          {
-            "from": -640,
-            "to": -609,
-            "name": {
-              "ja": "ヨシヤ（ユダ）",
-              "en": "Josiah (Judah)"
-            }
-          },
-          {
-            "from": -597,
-            "to": -586,
-            "name": {
-              "ja": "ゼデキヤ（ユダ）",
-              "en": "Zedekiah (Judah)"
-            }
-          }
-        ]
-      },
-      {
-        "from": -142,
-        "to": 70,
-        "government": {
-          "ja": "ハスモン朝・ヘロデ朝（ローマの従属王国）",
-          "en": "Hasmonean and Herodian kingdoms under Roman overlordship"
-        },
-        "capital": {
-          "ja": "イェルサレム",
-          "en": "Jerusalem"
-        },
-        "religion": {
-          "ja": "ユダヤ教",
-          "en": "Judaism"
-        },
-        "summary": {
-          "ja": "セレウコス朝のギリシア化政策に抵抗したマカベア戦争ののち、ハスモン朝のユダヤ王国が独立した。前63年ローマの支配下に入り、ヘロデ大王が従属王として神殿を再建した。この時代にイエスが活動し、後70年ユダヤ戦争でイェルサレム神殿は破壊された。",
-          "en": "After the Maccabean revolt against Seleucid Hellenisation the Hasmonean kingdom of Judea became independent. It fell under Rome in 63 BC, and Herod the Great ruled as a client king and rebuilt the Temple. Jesus preached in this period, and in AD 70 the Temple was destroyed in the Jewish War."
-        },
-        "rulers": [
-          {
-            "from": -142,
-            "to": -135,
-            "name": {
-              "ja": "シモン＝マカバイ",
-              "en": "Simon Thassi"
-            }
-          },
-          {
-            "from": -134,
-            "to": -104,
-            "name": {
-              "ja": "ヨハネ＝ヒルカノス",
-              "en": "John Hyrcanus"
-            }
-          },
-          {
-            "from": -103,
-            "to": -76,
-            "name": {
-              "ja": "アレクサンドロス＝ヤンナイオス",
-              "en": "Alexander Jannaeus"
-            }
-          },
-          {
-            "from": -37,
-            "to": -4,
-            "name": {
-              "ja": "ヘロデ大王",
-              "en": "Herod the Great"
-            }
-          },
-          {
-            "from": 41,
-            "to": 44,
-            "name": {
-              "ja": "アグリッパ1世",
-              "en": "Herod Agrippa I"
-            }
-          }
-        ]
+          "ja": "前1000年頃からペルー北部の高地に栄えたアンデス最古の広域文化。祭祀センターのチャビン＝デ＝ワンタルを中心に、ジャガー神の信仰と独特の石彫・土器・金細工が広まった。アンデス文明の宗教と美術の原型となった。",
+          "en": "The earliest wide-ranging culture of the Andes, flourishing in the northern Peruvian highlands from about 1000 BC. Centred on the ceremonial complex of Chavín de Huántar, its feline cult and distinctive stone carving, pottery and goldwork spread widely and shaped later Andean religion and art."
+        }
       }
     ],
     "wiki": {
-      "ja": "イスラエル王国",
-      "en": "Kingdom of Israel (united monarchy)"
+      "ja": "チャビン文化",
+      "en": "Chavín culture"
     }
   },
   {
-    "id": "aramaean-kingdoms",
+    "id": "nazca",
     "name": {
-      "ja": "アラム人諸王国",
-      "en": "Aramaean Kingdoms"
+      "ja": "ナスカ文化",
+      "en": "Nazca culture"
     },
     "basemap_names": [
-      "Arameans",
-      "state societies and Aramaean kingdoms"
+      "Nazca"
     ],
     "periods": [
       {
-        "from": -1500,
-        "to": -1200,
+        "from": -200,
+        "to": 600,
         "government": {
-          "ja": "部族社会",
-          "en": "Tribal society"
+          "ja": "神権政治（首長制）",
+          "en": "Theocratic chiefdoms"
         },
         "capital": {
-          "ja": "（定住以前）",
-          "en": "(pre-settlement)"
+          "ja": "カワチ",
+          "en": "Cahuachi"
         },
         "religion": {
-          "ja": "セム系の多神教",
-          "en": "Semitic polytheism"
+          "ja": "自然神への信仰",
+          "en": "Nature cults"
         },
         "summary": {
-          "ja": "セム語系のアラム人はシリアの砂漠周縁で遊牧生活を送り、前2千年紀後半に定住を始めた。彼らは後期青銅器時代の諸国家の周辺で勢力を拡大し、「海の民」の混乱後に各地で王国を建てた。",
-          "en": "The Semitic Arameans lived as nomads on the fringes of the Syrian desert and began settling in the later 2nd millennium BC. They expanded around the Late Bronze Age states and after the Sea Peoples' upheaval founded kingdoms across Syria."
-        },
-        "rulers": []
-      },
-      {
-        "from": -1200,
-        "to": -732,
-        "government": {
-          "ja": "部族的王政（都市国家群）",
-          "en": "Tribal monarchies of city-states"
-        },
-        "capital": {
-          "ja": "ダマスクス",
-          "en": "Damascus"
-        },
-        "religion": {
-          "ja": "ハダド（バアル）信仰",
-          "en": "Cult of Hadad (Baal)"
-        },
-        "summary": {
-          "ja": "アラム人はダマスクスを中心に内陸交易で栄え、アラム語とアラム文字は西アジアの共通語・共通文字として広まった。ダマスクス王国はイスラエル王国と抗争したが、前732年アッシリアのティグラト＝ピレセル3世に滅ぼされた。",
-          "en": "Centred on Damascus, the Arameans grew rich from overland trade, and Aramaic language and script spread as the common tongue of West Asia. The kingdom of Damascus fought Israel but was destroyed by Tiglath-Pileser III of Assyria in 732 BC."
-        },
-        "rulers": [
-          {
-            "from": -885,
-            "to": -865,
-            "name": {
-              "ja": "ベン＝ハダド1世",
-              "en": "Ben-Hadad I"
-            }
-          },
-          {
-            "from": -842,
-            "to": -800,
-            "name": {
-              "ja": "ハザエル",
-              "en": "Hazael"
-            }
-          },
-          {
-            "from": -800,
-            "to": -775,
-            "name": {
-              "ja": "ベン＝ハダド3世",
-              "en": "Ben-Hadad III"
-            }
-          },
-          {
-            "from": -754,
-            "to": -732,
-            "name": {
-              "ja": "レツィン",
-              "en": "Rezin"
-            }
-          }
-        ]
+          "ja": "前200年頃からペルー南海岸の乾燥地帯に栄えた文化。砂漠に描かれたハチドリや猿などの巨大な地上絵、多彩色の土器、地下水路による灌漑技術で知られる。祭祀センターのカワチを中心としたが、6世紀頃に衰退した。",
+          "en": "A culture of the arid southern coast of Peru from about 200 BC. It is famous for the giant geoglyphs of hummingbirds and monkeys drawn on the desert, polychrome pottery and underground aqueducts. Centred on the ceremonial site of Cahuachi, it declined around the 6th century."
+        }
       }
     ],
     "wiki": {
-      "ja": "アラム人",
-      "en": "Aram-Damascus"
+      "ja": "ナスカ",
+      "en": "Nazca culture"
     }
   },
   {
-    "id": "lydia",
+    "id": "moche",
     "name": {
-      "ja": "リディア",
-      "en": "Lydia"
-    },
-    "basemap_names": [],
-    "periods": [
-      {
-        "from": -680,
-        "to": -546,
-        "government": {
-          "ja": "王政（メルムナス朝）",
-          "en": "Monarchy (Mermnad dynasty)"
-        },
-        "capital": {
-          "ja": "サルデス",
-          "en": "Sardis"
-        },
-        "religion": {
-          "ja": "アナトリアの多神教（キュベレ信仰）",
-          "en": "Anatolian polytheism (cult of Cybele)"
-        },
-        "summary": {
-          "ja": "アッシリア滅亡後のオリエント4王国の一つで、アナトリア西部を支配した。金銀合金による世界最古の鋳造貨幣をつくったことで知られる。クロイソス王の時代に最盛期を迎えたが、前546年アケメネス朝のキュロス2世に滅ぼされた。",
-          "en": "One of the four kingdoms that divided the Orient after Assyria's fall, Lydia ruled western Anatolia and minted the world's first coins from electrum. At its height under Croesus, it was conquered by Cyrus II of Persia in 546 BC."
-        },
-        "rulers": [
-          {
-            "from": -680,
-            "to": -644,
-            "name": {
-              "ja": "ギュゲス",
-              "en": "Gyges"
-            }
-          },
-          {
-            "from": -644,
-            "to": -625,
-            "name": {
-              "ja": "アルデュス",
-              "en": "Ardys"
-            }
-          },
-          {
-            "from": -610,
-            "to": -560,
-            "name": {
-              "ja": "アリュアッテス",
-              "en": "Alyattes"
-            }
-          },
-          {
-            "from": -560,
-            "to": -546,
-            "name": {
-              "ja": "クロイソス",
-              "en": "Croesus"
-            }
-          }
-        ]
-      }
-    ],
-    "wiki": {
-      "ja": "リディア",
-      "en": "Lydia"
-    }
-  },
-  {
-    "id": "media",
-    "name": {
-      "ja": "メディア",
-      "en": "Media"
+      "ja": "モチェ文化",
+      "en": "Moche culture"
     },
     "basemap_names": [
-      "Iranian pastoralists"
+      "Moche"
     ],
     "periods": [
       {
-        "from": -1500,
-        "to": -728,
+        "from": 100,
+        "to": 700,
         "government": {
-          "ja": "部族連合",
-          "en": "Tribal confederation"
+          "ja": "神権政治（王・祭司による谷ごとの支配）",
+          "en": "Theocratic valley polities"
         },
         "capital": {
-          "ja": "（定住以前）",
-          "en": "(pre-state)"
+          "ja": "モチェ（太陽のワカ）",
+          "en": "Moche (Huaca del Sol)"
         },
         "religion": {
-          "ja": "イラン系の多神教",
-          "en": "Iranian polytheism"
+          "ja": "人身供犠をともなう神々への信仰",
+          "en": "Deity cults with human sacrifice"
         },
         "summary": {
-          "ja": "前2千年紀後半、インド＝ヨーロッパ語系のイラン人がイラン高原に移住し、牧畜を営みながら部族社会を形成した。そのうちメディア人は高原北西部に定住し、アッシリアの圧迫を受けつつ部族の統合を進めた。",
-          "en": "In the later 2nd millennium BC Indo-European Iranians migrated onto the Iranian plateau as pastoral tribes. Among them the Medes settled the north-west and, under Assyrian pressure, gradually unified."
-        },
-        "rulers": []
-      },
-      {
-        "from": -728,
-        "to": -550,
-        "government": {
-          "ja": "王政",
-          "en": "Monarchy"
-        },
-        "capital": {
-          "ja": "エクバタナ",
-          "en": "Ecbatana"
-        },
-        "religion": {
-          "ja": "イラン系の多神教（ゾロアスター教の萌芽）",
-          "en": "Iranian polytheism (early Zoroastrianism)"
-        },
-        "summary": {
-          "ja": "イラン人の一派メディア人がエクバタナを都に王国を建てた。キュアクサレス王は新バビロニアと結んでアッシリアを滅ぼし、イラン高原から小アジア東部を支配するオリエント4王国の一つとなったが、前550年配下のペルシア人キュロス2世に倒された。",
-          "en": "The Medes, an Iranian people, founded a kingdom at Ecbatana. Cyaxares joined Babylon in destroying Assyria, and Media became one of the four Oriental kingdoms, ruling from Iran to eastern Anatolia, until the Persian vassal Cyrus II overthrew it in 550 BC."
-        },
-        "rulers": [
-          {
-            "from": -728,
-            "to": -675,
-            "name": {
-              "ja": "デイオケス",
-              "en": "Deioces"
-            }
-          },
-          {
-            "from": -675,
-            "to": -653,
-            "name": {
-              "ja": "フラオルテス",
-              "en": "Phraortes"
-            }
-          },
-          {
-            "from": -625,
-            "to": -585,
-            "name": {
-              "ja": "キュアクサレス",
-              "en": "Cyaxares"
-            }
-          },
-          {
-            "from": -585,
-            "to": -550,
-            "name": {
-              "ja": "アステュアゲス",
-              "en": "Astyages"
-            }
-          }
-        ]
+          "ja": "1世紀頃からペルー北海岸に栄えた文化。日干しレンガの巨大なピラミッド「太陽のワカ」、人物や動物を写実的に表した土器、シパン王墓に代表される金細工で知られる。灌漑農業を基盤としたが、8世紀頃に気候変動の影響もあって衰退した。",
+          "en": "A culture of the northern coast of Peru from about the 1st century AD, known for the huge adobe pyramid Huaca del Sol, realistic portrait pottery and the goldwork of the royal tombs of Sipán. Based on irrigation agriculture, it declined around the 8th century."
+        }
       }
     ],
     "wiki": {
-      "ja": "メディア王国",
-      "en": "Medes"
+      "ja": "モチェ文化",
+      "en": "Moche culture"
     }
   },
   {
-    "id": "achaemenid-empire",
+    "id": "tiwanaku",
     "name": {
-      "ja": "アケメネス朝",
-      "en": "Achaemenid Empire"
+      "ja": "ティワナク文化",
+      "en": "Tiwanaku"
     },
     "basemap_names": [
-      "Achaemenid Empire"
+      "Tiahuanaco Empire"
     ],
     "periods": [
       {
-        "from": -550,
-        "to": -486,
+        "from": 500,
+        "to": 1000,
         "government": {
-          "ja": "専制王政（サトラップ制）",
-          "en": "Despotic monarchy with satrapies"
+          "ja": "神権政治（祭祀都市国家）",
+          "en": "Theocratic city-state"
         },
         "capital": {
-          "ja": "スサ（ペルセポリス）",
-          "en": "Susa (Persepolis)"
+          "ja": "ティワナク",
+          "en": "Tiwanaku"
         },
         "religion": {
-          "ja": "ゾロアスター教",
-          "en": "Zoroastrianism"
+          "ja": "太陽神・創造神ビラコチャへの信仰",
+          "en": "Cult of the sun and the creator god Viracocha"
         },
         "summary": {
-          "ja": "キュロス2世はメディア・リディア・新バビロニアを征服し、カンビュセス2世がエジプトを加えて全オリエントを統一した。ダレイオス1世は全国を州に分けてサトラップを置き、「王の目」「王の耳」で監督し、「王の道」と駅伝制を整えた。服属民の宗教や文化には寛容であった。",
-          "en": "Cyrus II conquered Media, Lydia and Babylon, and Cambyses II added Egypt, unifying the whole Orient. Darius I divided the empire into satrapies supervised by the 'King's Eyes and Ears', built the Royal Road and a courier system, and tolerated subject peoples' religions and cultures."
-        },
-        "rulers": [
-          {
-            "from": -559,
-            "to": -530,
-            "name": {
-              "ja": "キュロス2世",
-              "en": "Cyrus II"
-            },
-            "person": "cyrus-ii"
-          },
-          {
-            "from": -530,
-            "to": -522,
-            "name": {
-              "ja": "カンビュセス2世",
-              "en": "Cambyses II"
-            }
-          },
-          {
-            "from": -522,
-            "to": -486,
-            "name": {
-              "ja": "ダレイオス1世",
-              "en": "Darius I"
-            },
-            "person": "darius-i"
-          }
-        ]
-      },
-      {
-        "from": -486,
-        "to": -330,
-        "government": {
-          "ja": "専制王政（サトラップ制）",
-          "en": "Despotic monarchy with satrapies"
-        },
-        "capital": {
-          "ja": "スサ（ペルセポリス）",
-          "en": "Susa (Persepolis)"
-        },
-        "religion": {
-          "ja": "ゾロアスター教",
-          "en": "Zoroastrianism"
-        },
-        "summary": {
-          "ja": "クセルクセス1世はギリシア遠征に失敗し（ペルシア戦争）、以後帝国はギリシア諸ポリスの対立を利用して影響力を保った。サトラップの反乱やエジプトの離反で動揺し、前330年アレクサンドロス大王の東方遠征によってダレイオス3世が敗死し滅亡した。",
-          "en": "Xerxes I failed to conquer Greece in the Persian Wars, after which the empire kept its influence by playing Greek cities against one another. Satrap revolts and Egypt's secession weakened it, and in 330 BC Darius III perished before Alexander the Great's invasion."
-        },
-        "rulers": [
-          {
-            "from": -486,
-            "to": -465,
-            "name": {
-              "ja": "クセルクセス1世",
-              "en": "Xerxes I"
-            },
-            "person": "xerxes-i"
-          },
-          {
-            "from": -465,
-            "to": -424,
-            "name": {
-              "ja": "アルタクセルクセス1世",
-              "en": "Artaxerxes I"
-            }
-          },
-          {
-            "from": -423,
-            "to": -404,
-            "name": {
-              "ja": "ダレイオス2世",
-              "en": "Darius II"
-            }
-          },
-          {
-            "from": -404,
-            "to": -358,
-            "name": {
-              "ja": "アルタクセルクセス2世",
-              "en": "Artaxerxes II"
-            }
-          },
-          {
-            "from": -358,
-            "to": -338,
-            "name": {
-              "ja": "アルタクセルクセス3世",
-              "en": "Artaxerxes III"
-            }
-          },
-          {
-            "from": -336,
-            "to": -330,
-            "name": {
-              "ja": "ダレイオス3世",
-              "en": "Darius III"
-            }
-          }
-        ]
+          "ja": "ティティカカ湖南岸の高地に栄えた祭祀都市。「太陽の門」などの巨石建築と精緻な石組みで知られ、アンデス南部一帯に宗教的・経済的な影響を及ぼした。10世紀頃に衰退し、のちのインカはその神話と建築技術を受け継いだ。",
+          "en": "A ceremonial city on the southern shore of Lake Titicaca. Known for megalithic monuments such as the Gateway of the Sun and precise stonework, it exerted religious and economic influence over the southern Andes. It declined around the 10th century; the later Incas inherited its myths and building techniques."
+        }
       }
     ],
     "wiki": {
-      "ja": "アケメネス朝",
-      "en": "Achaemenid Empire"
+      "ja": "ティワナク",
+      "en": "Tiwanaku"
     }
   },
   {
-    "id": "seleucid-empire",
+    "id": "inca-empire",
     "name": {
-      "ja": "セレウコス朝",
-      "en": "Seleucid Empire"
+      "ja": "インカ帝国",
+      "en": "Inca Empire"
     },
     "basemap_names": [
-      "Seleucid Kingdom"
+      "Inca Empire"
     ],
     "periods": [
       {
-        "from": -312,
-        "to": -188,
+        "from": 1200,
+        "to": 1438,
         "government": {
-          "ja": "ヘレニズム王政",
-          "en": "Hellenistic monarchy"
+          "ja": "王政（クスコ王国）",
+          "en": "Monarchy (Kingdom of Cusco)"
         },
         "capital": {
-          "ja": "アンティオキア",
-          "en": "Antioch"
+          "ja": "クスコ",
+          "en": "Cusco"
         },
         "religion": {
-          "ja": "ギリシアとオリエントの諸宗教",
-          "en": "Greek and Oriental religions"
+          "ja": "太陽神インティの信仰",
+          "en": "Sun cult (Inti)"
         },
         "summary": {
-          "ja": "アレクサンドロス大王の部将セレウコス1世がシリアからイランに至る広大な領域を継承し、アンティオキアを都とした。各地にギリシア風都市を建設してヘレニズム文化を広めたが、前3世紀半ばには東方でバクトリアとパルティアが独立した。",
-          "en": "Alexander's general Seleucus I inherited a vast realm from Syria to Iran and made Antioch his capital. Greek-style cities spread Hellenistic culture, but in the mid-3rd century BC Bactria and Parthia broke away in the east."
+          "ja": "伝説上の始祖マンコ＝カパックがクスコに建てたとされる小王国の時代。周辺の諸部族と争いながら勢力を広げ、太陽神の子孫とする王を中心に国家の基礎を固めた。ケチュア語を話す人々が高地の段々畑で農耕を営んだ。",
+          "en": "The era of the small kingdom said to have been founded at Cusco by the legendary Manco Cápac. Contending with neighbouring peoples, it laid the foundations of the state under kings regarded as descendants of the sun god, while Quechua-speaking farmers worked terraced fields in the highlands."
         },
         "rulers": [
           {
-            "from": -305,
-            "to": -281,
+            "from": 1200,
+            "to": 1230,
             "name": {
-              "ja": "セレウコス1世",
-              "en": "Seleucus I Nicator"
+              "ja": "マンコ＝カパック（伝説上の始祖）",
+              "en": "Manco Cápac (legendary founder)"
             }
           },
           {
-            "from": -281,
-            "to": -261,
+            "from": 1400,
+            "to": 1438,
             "name": {
-              "ja": "アンティオコス1世",
-              "en": "Antiochus I Soter"
-            }
-          },
-          {
-            "from": -261,
-            "to": -246,
-            "name": {
-              "ja": "アンティオコス2世",
-              "en": "Antiochus II Theos"
-            }
-          },
-          {
-            "from": -223,
-            "to": -187,
-            "name": {
-              "ja": "アンティオコス3世",
-              "en": "Antiochus III the Great"
+              "ja": "ビラコチャ＝インカ",
+              "en": "Viracocha Inca"
             }
           }
         ]
       },
       {
-        "from": -188,
-        "to": -63,
+        "from": 1438,
+        "to": 1532,
         "government": {
-          "ja": "ヘレニズム王政",
-          "en": "Hellenistic monarchy"
+          "ja": "専制王政（神聖王サパ＝インカ）",
+          "en": "Absolute monarchy (divine Sapa Inca)"
         },
         "capital": {
-          "ja": "アンティオキア",
-          "en": "Antioch"
+          "ja": "クスコ",
+          "en": "Cusco"
         },
         "religion": {
-          "ja": "ギリシアとオリエントの諸宗教",
-          "en": "Greek and Oriental religions"
+          "ja": "太陽神インティの信仰",
+          "en": "Sun cult (Inti)"
         },
         "summary": {
-          "ja": "アンティオコス3世はローマに敗れて小アジアを失い、以後王朝は衰退した。アンティオコス4世のギリシア化政策はユダヤ人のマカベア戦争を招き、東方はパルティアに奪われた。王位争いで小国化し、前63年ポンペイウスによってローマの属州シリアとなった。",
-          "en": "Defeated by Rome, Antiochus III lost Asia Minor and the dynasty declined. Antiochus IV's Hellenising policy provoked the Maccabean revolt, while Parthia seized the east. Reduced by civil wars to a petty state, Syria was made a Roman province by Pompey in 63 BC."
+          "ja": "パチャクティ以降、急速に領土を広げ、15世紀末には現在のエクアドルからチリに至る大帝国となった。皇帝は太陽の子として絶対的権力をもち、駅伝制の道路網、キープ（結縄）による記録、マチュ＝ピチュに見られる石造建築で知られる。",
+          "en": "From Pachacuti onward the state expanded rapidly into an empire stretching from present-day Ecuador to Chile by the late 15th century. The emperor ruled absolutely as son of the sun; the Incas are famed for their road and relay system, quipu record-keeping and stone architecture such as Machu Picchu."
         },
         "rulers": [
           {
-            "from": -175,
-            "to": -164,
+            "from": 1438,
+            "to": 1471,
             "name": {
-              "ja": "アンティオコス4世",
-              "en": "Antiochus IV Epiphanes"
+              "ja": "パチャクティ",
+              "en": "Pachacuti"
             }
           },
           {
-            "from": -162,
-            "to": -150,
+            "from": 1471,
+            "to": 1493,
             "name": {
-              "ja": "デメトリオス1世",
-              "en": "Demetrius I Soter"
+              "ja": "トゥパック＝インカ＝ユパンキ",
+              "en": "Túpac Inca Yupanqui"
             }
           },
           {
-            "from": -138,
-            "to": -129,
+            "from": 1493,
+            "to": 1527,
             "name": {
-              "ja": "アンティオコス7世",
-              "en": "Antiochus VII Sidetes"
+              "ja": "ワイナ＝カパック",
+              "en": "Huayna Cápac"
             }
           },
           {
-            "from": -69,
-            "to": -64,
+            "from": 1527,
+            "to": 1532,
             "name": {
-              "ja": "アンティオコス13世",
-              "en": "Antiochus XIII Asiaticus"
-            }
-          }
-        ]
-      }
-    ],
-    "wiki": {
-      "ja": "セレウコス朝",
-      "en": "Seleucid Empire"
-    }
-  },
-  {
-    "id": "ptolemaic-egypt",
-    "name": {
-      "ja": "プトレマイオス朝",
-      "en": "Ptolemaic Kingdom"
-    },
-    "basemap_names": [
-      "Ptolemaic Kingdom"
-    ],
-    "periods": [
-      {
-        "from": -305,
-        "to": -180,
-        "government": {
-          "ja": "ヘレニズム王政（ファラオを兼ねる）",
-          "en": "Hellenistic monarchy (kings as pharaohs)"
-        },
-        "capital": {
-          "ja": "アレクサンドリア",
-          "en": "Alexandria"
-        },
-        "religion": {
-          "ja": "ギリシアの宗教とエジプトの多神教（セラピス信仰）",
-          "en": "Greek religion and Egyptian polytheism (cult of Serapis)"
-        },
-        "summary": {
-          "ja": "アレクサンドロス大王の部将プトレマイオス1世がエジプトに建てた王朝。都アレクサンドリアはムセイオン（王立研究所）と大図書館を擁するヘレニズム世界最大の学術・商業都市となり、王はファラオとして国土を直接支配して富を集めた。",
-          "en": "Founded in Egypt by Alexander's general Ptolemy I. Its capital Alexandria, with the Museum and the great Library, became the leading city of learning and commerce in the Hellenistic world, while the kings ruled as pharaohs and drew great wealth from the land."
-        },
-        "rulers": [
-          {
-            "from": -305,
-            "to": -282,
-            "name": {
-              "ja": "プトレマイオス1世",
-              "en": "Ptolemy I Soter"
+              "ja": "ワスカル",
+              "en": "Huáscar"
             }
           },
           {
-            "from": -282,
-            "to": -246,
+            "from": 1532,
+            "to": 1533,
             "name": {
-              "ja": "プトレマイオス2世",
-              "en": "Ptolemy II Philadelphus"
-            }
-          },
-          {
-            "from": -246,
-            "to": -222,
-            "name": {
-              "ja": "プトレマイオス3世",
-              "en": "Ptolemy III Euergetes"
-            }
-          },
-          {
-            "from": -222,
-            "to": -204,
-            "name": {
-              "ja": "プトレマイオス4世",
-              "en": "Ptolemy IV Philopator"
-            }
-          },
-          {
-            "from": -204,
-            "to": -180,
-            "name": {
-              "ja": "プトレマイオス5世",
-              "en": "Ptolemy V Epiphanes"
+              "ja": "アタワルパ",
+              "en": "Atahualpa"
             }
           }
         ]
       },
       {
-        "from": -180,
-        "to": -30,
+        "from": 1532,
+        "to": 1572,
         "government": {
-          "ja": "ヘレニズム王政（ローマの影響下）",
-          "en": "Hellenistic monarchy under growing Roman influence"
+          "ja": "スペインの征服と新インカ国家",
+          "en": "Spanish conquest and Neo-Inca state"
         },
         "capital": {
-          "ja": "アレクサンドリア",
-          "en": "Alexandria"
+          "ja": "ビルカバンバ",
+          "en": "Vilcabamba"
         },
         "religion": {
-          "ja": "ギリシアの宗教とエジプトの多神教",
-          "en": "Greek religion and Egyptian polytheism"
+          "ja": "太陽神インティの信仰",
+          "en": "Sun cult (Inti)"
         },
         "summary": {
-          "ja": "王位をめぐる内紛と民衆の反乱で王朝は弱体化し、ローマの保護に依存するようになった。クレオパトラ7世はカエサル、ついでアントニウスと結んで独立を保とうとしたが、前31年アクティウムの海戦に敗れ、翌年エジプトはローマの属州となった。",
-          "en": "Dynastic feuds and popular revolts weakened the kingdom, which came to depend on Roman protection. Cleopatra VII allied with Caesar and then Antony to preserve independence, but after defeat at Actium in 31 BC Egypt became a Roman province."
+          "ja": "王位をめぐる内戦の直後、1532年にピサロ率いるスペイン人がアタワルパを捕らえ、翌年処刑して帝国を滅ぼした。マンコ＝インカらはビルカバンバで抵抗を続けたが、1572年にトゥパック＝アマルが処刑され、インカの王統は絶えた。",
+          "en": "Right after a civil war over the throne, Pizarro's Spaniards captured Atahualpa in 1532 and executed him the next year, destroying the empire. Manco Inca and his successors resisted from Vilcabamba until Túpac Amaru was executed in 1572, ending the Inca line."
         },
         "rulers": [
           {
-            "from": -180,
-            "to": -145,
+            "from": 1533,
+            "to": 1544,
             "name": {
-              "ja": "プトレマイオス6世",
-              "en": "Ptolemy VI Philometor"
+              "ja": "マンコ＝インカ",
+              "en": "Manco Inca Yupanqui"
             }
           },
           {
-            "from": -145,
-            "to": -116,
+            "from": 1557,
+            "to": 1571,
             "name": {
-              "ja": "プトレマイオス8世",
-              "en": "Ptolemy VIII Physcon"
+              "ja": "ティトゥ＝クシ",
+              "en": "Titu Cusi"
             }
           },
           {
-            "from": -80,
-            "to": -51,
+            "from": 1571,
+            "to": 1572,
             "name": {
-              "ja": "プトレマイオス12世",
-              "en": "Ptolemy XII Auletes"
-            }
-          },
-          {
-            "from": -51,
-            "to": -30,
-            "name": {
-              "ja": "クレオパトラ7世",
-              "en": "Cleopatra VII"
+              "ja": "トゥパック＝アマル",
+              "en": "Túpac Amaru"
             }
           }
         ]
       }
     ],
     "wiki": {
-      "ja": "プトレマイオス朝",
-      "en": "Ptolemaic Kingdom"
+      "ja": "インカ帝国",
+      "en": "Inca Empire"
     }
   },
   {
-    "id": "parthia",
+    "id": "new-spain",
     "name": {
-      "ja": "パルティア",
-      "en": "Parthian Empire"
+      "ja": "ヌエバ＝エスパーニャ副王領",
+      "en": "Viceroyalty of New Spain"
     },
     "basemap_names": [
-      "Parthia",
-      "Parthian Empire"
+      "Viceroyalty of New Spain",
+      "Hispaniola (Spain)",
+      "Santo Domingo (Spain)",
+      "Florida (Spain)"
     ],
     "periods": [
       {
-        "from": -247,
-        "to": -124,
+        "from": 1521,
+        "to": 1600,
         "government": {
-          "ja": "王政（アルサケス朝）",
-          "en": "Monarchy (Arsacid dynasty)"
+          "ja": "副王制（スペイン植民地）",
+          "en": "Viceroyalty (Spanish colony)"
         },
         "capital": {
-          "ja": "ヘカトンピュロス",
-          "en": "Hecatompylos"
+          "ja": "メキシコシティ",
+          "en": "Mexico City"
         },
         "religion": {
-          "ja": "ゾロアスター教・ギリシアの宗教",
-          "en": "Zoroastrianism and Greek religion"
+          "ja": "カトリック",
+          "en": "Catholicism"
         },
         "summary": {
-          "ja": "イラン系遊牧民パルニ族の族長アルサケスがセレウコス朝から自立して建てた王国。中国では安息と呼ばれた。ミトラダテス1世はメソポタミアまで征服し、セレウコス朝を圧倒して西アジアの大国となった。",
-          "en": "Founded when Arsaces, chief of the nomadic Parni, broke away from the Seleucids; known to the Chinese as Anxi. Mithridates I conquered Mesopotamia and overshadowed the Seleucids, making Parthia the great power of West Asia."
+          "ja": "コルテスによるアステカ征服ののち、1535年に副王領が設置された。エンコミエンダ制のもとで先住民は酷使され、疫病もあって人口が激減した。ラス＝カサスは先住民の保護を訴え、サカテカスの銀山開発が始まった。",
+          "en": "After Cortés's conquest of the Aztecs the viceroyalty was established in 1535. Under the encomienda system the indigenous population was exploited and, together with epidemics, collapsed. Las Casas pleaded for their protection, and the silver mines of Zacatecas were opened."
         },
         "rulers": [
           {
-            "from": -247,
-            "to": -217,
+            "from": 1521,
+            "to": 1528,
             "name": {
-              "ja": "アルサケス1世",
-              "en": "Arsaces I"
+              "ja": "コルテス（征服者・総督）",
+              "en": "Hernán Cortés (conqueror, governor)"
             }
           },
           {
-            "from": -171,
-            "to": -138,
+            "from": 1535,
+            "to": 1550,
             "name": {
-              "ja": "ミトラダテス1世",
-              "en": "Mithridates I"
+              "ja": "アントニオ＝デ＝メンドーサ（初代副王）",
+              "en": "Antonio de Mendoza (first viceroy)"
             }
           },
           {
-            "from": -138,
-            "to": -127,
+            "from": 1550,
+            "to": 1564,
             "name": {
-              "ja": "フラーテス2世",
-              "en": "Phraates II"
+              "ja": "ルイス＝デ＝ベラスコ",
+              "en": "Luis de Velasco"
             }
           }
         ]
       },
       {
-        "from": -124,
-        "to": 224,
+        "from": 1600,
+        "to": 1760,
         "government": {
-          "ja": "王政（貴族連合的）",
-          "en": "Monarchy with powerful nobility"
+          "ja": "副王制（スペイン植民地）",
+          "en": "Viceroyalty (Spanish colony)"
         },
         "capital": {
-          "ja": "クテシフォン",
-          "en": "Ctesiphon"
+          "ja": "メキシコシティ",
+          "en": "Mexico City"
         },
         "religion": {
-          "ja": "ゾロアスター教（諸宗教に寛容）",
-          "en": "Zoroastrianism, with religious tolerance"
+          "ja": "カトリック",
+          "en": "Catholicism"
         },
         "summary": {
-          "ja": "ミトラダテス2世の時代に最盛期を迎え、クテシフォンを都として東西交易の中継で栄えた。前53年カルラエの戦いでローマ軍を破るなど、ローマと長く抗争した。当初はヘレニズム文化を受容したが、しだいにイランの伝統文化が復興した。224年ササン朝のアルダシール1世に滅ぼされた。",
-          "en": "At its height under Mithridates II, Parthia ruled from Ctesiphon and prospered as the intermediary of East-West trade. It fought Rome for centuries, crushing a Roman army at Carrhae in 53 BC. Hellenistic influence gave way to an Iranian cultural revival. In 224 the last king fell to Ardashir I of the Sasanians."
+          "ja": "大農園（アシエンダ）と銀山を基盤に植民地社会が成熟した。本国生まれの白人（ペニンスラール）が要職を独占し、植民地生まれの白人（クリオーリョ）やメスティーソとの間に身分差が固定した。銀はマニラ経由でアジアにも流れた。",
+          "en": "Colonial society matured on the basis of haciendas and silver mines. Peninsular-born Spaniards monopolized high office, fixing a hierarchy above creoles and mestizos. Mexican silver flowed to Asia through Manila as well as to Europe."
         },
         "rulers": [
           {
-            "from": -124,
-            "to": -88,
+            "from": 1640,
+            "to": 1642,
             "name": {
-              "ja": "ミトラダテス2世",
-              "en": "Mithridates II"
+              "ja": "パラフォックス（司教・副王）",
+              "en": "Juan de Palafox y Mendoza"
             }
           },
           {
-            "from": -57,
-            "to": -37,
+            "from": 1673,
+            "to": 1680,
             "name": {
-              "ja": "オロデス2世",
-              "en": "Orodes II"
-            }
-          },
-          {
-            "from": -37,
-            "to": -2,
-            "name": {
-              "ja": "フラーテス4世",
-              "en": "Phraates IV"
-            }
-          },
-          {
-            "from": 51,
-            "to": 78,
-            "name": {
-              "ja": "ヴォロガセス1世",
-              "en": "Vologases I"
-            }
-          },
-          {
-            "from": 213,
-            "to": 224,
-            "name": {
-              "ja": "アルタバノス4世",
-              "en": "Artabanus IV"
-            }
-          }
-        ]
-      }
-    ],
-    "wiki": {
-      "ja": "パルティア",
-      "en": "Parthian Empire"
-    }
-  },
-  {
-    "id": "greco-bactria",
-    "name": {
-      "ja": "バクトリア",
-      "en": "Greco-Bactrian Kingdom"
-    },
-    "basemap_names": [
-      "Bactria"
-    ],
-    "periods": [
-      {
-        "from": -255,
-        "to": -130,
-        "government": {
-          "ja": "ヘレニズム王政",
-          "en": "Hellenistic monarchy"
-        },
-        "capital": {
-          "ja": "バクトラ",
-          "en": "Bactra"
-        },
-        "religion": {
-          "ja": "ギリシアの宗教・ゾロアスター教・仏教",
-          "en": "Greek religion, Zoroastrianism and Buddhism"
-        },
-        "summary": {
-          "ja": "アム川上流のバクトリア地方でギリシア人の総督ディオドトスがセレウコス朝から独立して建てた王国。ギリシア人支配層がヘレニズム文化を中央アジアに伝え、インド北西部にも進出した。前2世紀後半、北方からの遊牧民（トハラ人・大月氏）の侵入で滅んだ。",
-          "en": "Founded when the Greek governor Diodotus declared independence from the Seleucids in Bactria on the upper Oxus. Its Greek elite carried Hellenistic culture into Central Asia and pushed into north-west India. In the later 2nd century BC nomads from the north (the Tocharians or Yuezhi) overran it."
-        },
-        "rulers": [
-          {
-            "from": -255,
-            "to": -235,
-            "name": {
-              "ja": "ディオドトス1世",
-              "en": "Diodotus I"
-            }
-          },
-          {
-            "from": -230,
-            "to": -200,
-            "name": {
-              "ja": "エウテュデモス1世",
-              "en": "Euthydemus I"
-            }
-          },
-          {
-            "from": -200,
-            "to": -180,
-            "name": {
-              "ja": "デメトリオス1世",
-              "en": "Demetrius I"
-            }
-          },
-          {
-            "from": -171,
-            "to": -145,
-            "name": {
-              "ja": "エウクラティデス1世",
-              "en": "Eucratides I"
-            }
-          },
-          {
-            "from": -145,
-            "to": -130,
-            "name": {
-              "ja": "ヘリオクレス1世",
-              "en": "Heliocles I"
-            }
-          }
-        ]
-      }
-    ],
-    "wiki": {
-      "ja": "グレコ・バクトリア王国",
-      "en": "Greco-Bactrian Kingdom"
-    }
-  },
-  {
-    "id": "sasanian-empire",
-    "name": {
-      "ja": "ササン朝",
-      "en": "Sasanian Empire"
-    },
-    "basemap_names": [
-      "Sasanian Empire",
-      "Sasanian dependencies",
-      "Persi"
-    ],
-    "periods": [
-      {
-        "from": 224,
-        "to": 531,
-        "government": {
-          "ja": "専制王政（諸王の王）",
-          "en": "Despotic monarchy (King of Kings)"
-        },
-        "capital": {
-          "ja": "クテシフォン",
-          "en": "Ctesiphon"
-        },
-        "religion": {
-          "ja": "ゾロアスター教（国教）",
-          "en": "Zoroastrianism (state religion)"
-        },
-        "summary": {
-          "ja": "ペルシア人のアルダシール1世がパルティアを倒して建国し、ゾロアスター教を国教とした。シャープール1世はローマ皇帝ウァレリアヌスを捕虜とし、東はクシャーナ朝を破った。マニ教が生まれたが弾圧され、5世紀末にはマズダク教の運動も起こった。",
-          "en": "Ardashir I, a Persian, overthrew Parthia and made Zoroastrianism the state religion. Shapur I captured the Roman emperor Valerian and defeated the Kushans in the east. Manichaeism arose but was suppressed, and the Mazdakite movement shook the state in the late 5th century."
-        },
-        "rulers": [
-          {
-            "from": 224,
-            "to": 241,
-            "name": {
-              "ja": "アルダシール1世",
-              "en": "Ardashir I"
-            }
-          },
-          {
-            "from": 241,
-            "to": 272,
-            "name": {
-              "ja": "シャープール1世",
-              "en": "Shapur I"
-            }
-          },
-          {
-            "from": 273,
-            "to": 276,
-            "name": {
-              "ja": "バハラーム1世",
-              "en": "Bahram I"
-            }
-          },
-          {
-            "from": 309,
-            "to": 379,
-            "name": {
-              "ja": "シャープール2世",
-              "en": "Shapur II"
-            }
-          },
-          {
-            "from": 420,
-            "to": 438,
-            "name": {
-              "ja": "バハラーム5世",
-              "en": "Bahram V"
-            }
-          },
-          {
-            "from": 488,
-            "to": 531,
-            "name": {
-              "ja": "カワード1世",
-              "en": "Kavad I"
+              "ja": "フライ＝パヨ＝エンリケス",
+              "en": "Payo Enríquez de Rivera"
             }
           }
         ]
       },
       {
-        "from": 531,
-        "to": 651,
+        "from": 1760,
+        "to": 1821,
         "government": {
-          "ja": "専制王政（諸王の王）",
-          "en": "Despotic monarchy (King of Kings)"
+          "ja": "副王制（ブルボン改革）",
+          "en": "Viceroyalty under the Bourbon reforms"
         },
         "capital": {
-          "ja": "クテシフォン",
-          "en": "Ctesiphon"
+          "ja": "メキシコシティ",
+          "en": "Mexico City"
         },
         "religion": {
-          "ja": "ゾロアスター教（国教）",
-          "en": "Zoroastrianism (state religion)"
+          "ja": "カトリック",
+          "en": "Catholicism"
         },
         "summary": {
-          "ja": "ホスロー1世は突厥と結んでエフタルを滅ぼし、ビザンツ帝国のユスティニアヌスと抗争して最盛期を築いた。ホスロー2世はシリア・エジプトを一時占領したがヘラクレイオスに敗れ、以後内紛で衰退した。642年ニハーヴァンドの戦いでアラブ軍に敗れ、651年滅亡した。",
-          "en": "Khosrow I allied with the Turks to destroy the Hephthalites and fought Justinian's Byzantium, bringing the empire to its height. Khosrow II briefly held Syria and Egypt but was defeated by Heraclius, and civil strife followed. Defeated by the Arabs at Nihavand in 642, the empire ended in 651."
+          "ja": "ブルボン朝の改革で本国の統制が強まり、クリオーリョの不満が高まった。ナポレオンのスペイン占領を機に1810年イダルゴが蜂起し、モレロスが独立運動を継いだ。1821年イトゥルビデの下で独立を達成し、副王領は終わった。",
+          "en": "Bourbon reforms tightened metropolitan control and fuelled creole resentment. When Napoleon occupied Spain, Hidalgo rose in 1810 and Morelos carried on the independence struggle. Independence was won in 1821 under Iturbide, ending the viceroyalty."
         },
         "rulers": [
           {
-            "from": 531,
-            "to": 579,
+            "from": 1765,
+            "to": 1771,
             "name": {
-              "ja": "ホスロー1世",
-              "en": "Khosrow I"
+              "ja": "ホセ＝デ＝ガルベス（巡察官）",
+              "en": "José de Gálvez (visitador)"
             }
           },
           {
-            "from": 579,
-            "to": 590,
+            "from": 1789,
+            "to": 1794,
             "name": {
-              "ja": "ホルミズド4世",
-              "en": "Hormizd IV"
+              "ja": "レビリャヒヘド伯",
+              "en": "Count of Revillagigedo"
             }
           },
           {
-            "from": 590,
-            "to": 628,
+            "from": 1810,
+            "to": 1811,
             "name": {
-              "ja": "ホスロー2世",
-              "en": "Khosrow II"
+              "ja": "イダルゴ（独立運動指導者）",
+              "en": "Miguel Hidalgo (independence leader)"
             }
           },
           {
-            "from": 632,
-            "to": 651,
+            "from": 1811,
+            "to": 1815,
             "name": {
-              "ja": "ヤズデギルド3世",
-              "en": "Yazdegerd III"
+              "ja": "モレロス（独立運動指導者）",
+              "en": "José María Morelos (independence leader)"
+            }
+          },
+          {
+            "from": 1821,
+            "to": 1821,
+            "name": {
+              "ja": "イトゥルビデ",
+              "en": "Agustín de Iturbide"
             }
           }
         ]
       }
     ],
     "wiki": {
-      "ja": "サーサーン朝",
-      "en": "Sasanian Empire"
+      "ja": "ヌエバ・エスパーニャ",
+      "en": "New Spain"
+    }
+  },
+  {
+    "id": "viceroyalty-of-peru",
+    "name": {
+      "ja": "ペルー副王領",
+      "en": "Viceroyalty of Peru"
+    },
+    "basemap_names": [
+      "Viceroyalty of Peru"
+    ],
+    "periods": [
+      {
+        "from": 1532,
+        "to": 1600,
+        "government": {
+          "ja": "副王制（スペイン植民地）",
+          "en": "Viceroyalty (Spanish colony)"
+        },
+        "capital": {
+          "ja": "リマ",
+          "en": "Lima"
+        },
+        "religion": {
+          "ja": "カトリック",
+          "en": "Catholicism"
+        },
+        "summary": {
+          "ja": "ピサロのインカ征服ののち、1542年にリマを首都とする副王領が置かれ、南アメリカのスペイン領を統轄した。征服者同士の内戦を経て、副王トレドはミタ制による強制労働を組織し、ポトシ銀山の開発を本格化させた。",
+          "en": "After Pizarro's conquest of the Incas the viceroyalty was founded in 1542 with Lima as capital, governing Spanish South America. Following civil wars among the conquistadors, Viceroy Toledo organized forced labour (mita) and launched full-scale mining at Potosí."
+        },
+        "rulers": [
+          {
+            "from": 1532,
+            "to": 1541,
+            "name": {
+              "ja": "ピサロ（征服者・総督）",
+              "en": "Francisco Pizarro (conqueror, governor)"
+            }
+          },
+          {
+            "from": 1544,
+            "to": 1546,
+            "name": {
+              "ja": "ヌニェス＝ベラ（初代副王）",
+              "en": "Blasco Núñez Vela (first viceroy)"
+            }
+          },
+          {
+            "from": 1569,
+            "to": 1581,
+            "name": {
+              "ja": "フランシスコ＝デ＝トレド",
+              "en": "Francisco de Toledo"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1600,
+        "to": 1780,
+        "government": {
+          "ja": "副王制（スペイン植民地）",
+          "en": "Viceroyalty (Spanish colony)"
+        },
+        "capital": {
+          "ja": "リマ",
+          "en": "Lima"
+        },
+        "religion": {
+          "ja": "カトリック",
+          "en": "Catholicism"
+        },
+        "summary": {
+          "ja": "ポトシ銀山の銀を軸にリマは南米最大の都市として繁栄した。一方で先住民はミタ制のもとで鉱山労働を強いられた。18世紀にはヌエバ＝グラナダ副王領（1739年）、リオ＝デ＝ラ＝プラタ副王領（1776年）が分離され、領域は縮小した。",
+          "en": "Lima prospered as the largest city of South America on the silver of Potosí, while indigenous people were forced into mine labour under the mita. In the 18th century the viceroyalties of New Granada (1739) and Río de la Plata (1776) were split off, shrinking its territory."
+        },
+        "rulers": [
+          {
+            "from": 1724,
+            "to": 1736,
+            "name": {
+              "ja": "カステルフエルテ侯",
+              "en": "Marquis of Castelfuerte"
+            }
+          },
+          {
+            "from": 1761,
+            "to": 1776,
+            "name": {
+              "ja": "マヌエル＝デ＝アマト",
+              "en": "Manuel de Amat y Junyent"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1780,
+        "to": 1824,
+        "government": {
+          "ja": "副王制（反乱と独立戦争）",
+          "en": "Viceroyalty during revolt and independence wars"
+        },
+        "capital": {
+          "ja": "リマ",
+          "en": "Lima"
+        },
+        "religion": {
+          "ja": "カトリック",
+          "en": "Catholicism"
+        },
+        "summary": {
+          "ja": "1780年にトゥパック＝アマル2世が先住民の大反乱を起こしたが鎮圧された。スペイン王党派の拠点であったペルーは、1821年サン＝マルティンが独立を宣言し、1824年ボリバル派のアヤクーチョの戦いの勝利で副王領は消滅した。",
+          "en": "The great indigenous revolt of Túpac Amaru II in 1780 was crushed. Peru remained the royalist stronghold until San Martín proclaimed independence in 1821 and Bolívar's forces won at Ayacucho in 1824, ending the viceroyalty."
+        },
+        "rulers": [
+          {
+            "from": 1780,
+            "to": 1781,
+            "name": {
+              "ja": "トゥパック＝アマル2世（反乱指導者）",
+              "en": "Túpac Amaru II (rebel leader)"
+            }
+          },
+          {
+            "from": 1806,
+            "to": 1816,
+            "name": {
+              "ja": "アバスカル",
+              "en": "José Fernando de Abascal"
+            }
+          },
+          {
+            "from": 1821,
+            "to": 1824,
+            "name": {
+              "ja": "ラ＝セルナ（最後の副王）",
+              "en": "José de la Serna (last viceroy)"
+            }
+          },
+          {
+            "from": 1821,
+            "to": 1822,
+            "name": {
+              "ja": "サン＝マルティン（護国官）",
+              "en": "José de San Martín (Protector of Peru)"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "ペルー副王領",
+      "en": "Viceroyalty of Peru"
     }
   },
   {
@@ -6469,7 +4637,7 @@
           "en": "Islam and traditional religion"
         },
         "summary": {
-          "ja": "1076年頃、モロッコのムラービト朝の攻撃を受けて首都を奪われ、王はイスラームに改宗した。以後、交易路の変化と属国の離反で衰退し、13世紀前半にソソ王国、ついでマリ王国に併合された。",
+          "ja": "1076年頃、モロッコのムラービト朝の攻撃を受けて首都を奪われ、王はイスラームに改宗した。以後、交易路の変化と属国の離反で衰退し、13世紀前半にソソ王国、ついでスンジャタのマリ王国に併合されて消滅した。",
           "en": "Around 1076 the Almoravids of Morocco attacked and took the capital, and the king converted to Islam. Shifting trade routes and the defection of vassal states weakened the empire, which was absorbed by the Sosso kingdom and then by Mali in the early 13th century."
         }
       }
@@ -6908,7 +5076,7 @@
           "en": "Traditional religion"
         },
         "summary": {
-          "ja": "14世紀末頃、コンゴ川下流の南岸にバントゥー系のコンゴ人が建てた王国。王は「マニコンゴ」と呼ばれ、諸州の首長を統轄した。貝貨を用いた交易と鉄・銅の加工で栄え、中央アフリカ最大の国家に成長した。",
+          "ja": "14世紀末頃、コンゴ川下流の南岸にバントゥー系のコンゴ人が建てた王国。王は「マニコンゴ」と呼ばれ、6つの州の首長を統轄した。貝貨を用いた交易と鉄・銅の加工、織物で栄え、中央アフリカ最大の国家に成長した。",
           "en": "A kingdom founded around the late 14th century by the Bantu-speaking Kongo people south of the lower Congo River. The king, the manikongo, ruled over provincial chiefs. Trade using shell money and iron and copper working made it the largest state of Central Africa."
         }
       },

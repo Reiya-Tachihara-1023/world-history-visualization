@@ -1,0 +1,499 @@
+[
+  {
+    "id": "treaty-of-luneville-austrian-netherlands-1801",
+    "year": 1801,
+    "match": { "n": "Austrian Netherlands" },
+    "set": { "s": "France" },
+    "note": { "ja": "リュネヴィル条約でオーストリア領ネーデルラントのフランス併合が承認される", "en": "Treaty of Lunéville confirms French annexation of the Austrian Netherlands" }
+  },
+  {
+    "id": "act-of-union-ireland-uk-1801",
+    "year": 1801,
+    "match": { "s": "UK" },
+    "set": { "s": "United Kingdom of Great Britain and Ireland" },
+    "note": { "ja": "グレートブリテン＝アイルランド連合王国の成立", "en": "Act of Union creates the United Kingdom of Great Britain and Ireland" }
+  },
+  {
+    "id": "act-of-union-ireland-1801",
+    "year": 1801,
+    "match": { "n": "Kingdom of Ireland" },
+    "set": { "n": "United Kingdom of Great Britain and Ireland" },
+    "note": { "ja": "アイルランド併合（グレートブリテン＝アイルランド連合王国の成立）", "en": "Ireland merged into the United Kingdom of Great Britain and Ireland" }
+  },
+  {
+    "id": "louisiana-purchase-1803",
+    "year": 1803,
+    "match": { "n": "Luisiana" },
+    "set": { "n": "Louisiana", "s": "United States of America", "p": 2 },
+    "note": { "ja": "アメリカ合衆国がフランスからルイジアナを買収", "en": "Louisiana Purchase: the United States buys Louisiana from France" }
+  },
+  {
+    "id": "swiss-act-of-mediation-1803",
+    "year": 1803,
+    "match": { "n": "Helvetic Republic" },
+    "set": { "n": "Switzerland", "s": "Switzerland" },
+    "note": { "ja": "ナポレオンの調停法によりヘルヴェティア共和国が解体、スイス連邦が復活", "en": "Act of Mediation ends the Helvetic Republic and restores the Swiss Confederation" }
+  },
+  {
+    "id": "napoleonic-kingdom-of-italy-1805",
+    "year": 1805,
+    "match": { "n": "Lombardy" },
+    "set": { "s": "France" },
+    "note": { "ja": "ナポレオンがイタリア王に即位（イタリア王国、フランスの衛星国）", "en": "Napoleon crowned King of Italy; Lombardy becomes a French satellite kingdom" }
+  },
+  {
+    "id": "confederation-of-the-rhine-1806",
+    "year": 1806,
+    "match": { "n": ["Bavaria", "Württemberg", "Baden", "Hohenzollern", "Saxony", "Thuringia", "Anhalt", "Lippe-Detmold", "Schaumburg-Lippe", "Waldeck"] },
+    "set": { "s": "Confederation of the Rhine" },
+    "note": { "ja": "ライン同盟の結成、神聖ローマ帝国の消滅", "en": "Confederation of the Rhine formed under Napoleon; the Holy Roman Empire is dissolved" }
+  },
+  {
+    "id": "kingdom-of-holland-1806",
+    "year": 1806,
+    "match": { "n": "Batavian Republic" },
+    "set": { "n": "Kingdom of Holland", "s": "France" },
+    "note": { "ja": "ホラント王国の成立（ナポレオンの弟ルイが国王、フランスの衛星国）", "en": "Kingdom of Holland created under Louis Bonaparte as a French satellite" }
+  },
+  {
+    "id": "venetia-to-napoleonic-italy-1806",
+    "year": 1806,
+    "match": { "n": "Venetia" },
+    "set": { "s": "France" },
+    "note": { "ja": "プレスブルク条約でヴェネツィアがナポレオンのイタリア王国に編入", "en": "Treaty of Pressburg transfers Venetia to Napoleon's Kingdom of Italy" }
+  },
+  {
+    "id": "tuscany-annexed-by-france-1808",
+    "year": 1808,
+    "match": { "n": "Tuscany" },
+    "set": { "s": "France" },
+    "note": { "ja": "トスカナ（エトルリア王国）のフランス併合", "en": "Tuscany (Kingdom of Etruria) annexed by the French Empire" }
+  },
+  {
+    "id": "papal-states-annexed-by-france-1809",
+    "year": 1809,
+    "match": { "n": "Papal States" },
+    "set": { "s": "France" },
+    "note": { "ja": "教皇領のフランス併合", "en": "Papal States annexed by the French Empire" }
+  },
+  {
+    "id": "kingdom-of-sardinia-restored-1814",
+    "year": 1814,
+    "match": { "n": "Kingdom of Sardinia", "s": "France" },
+    "set": { "s": "Kingdom of Sardinia" },
+    "note": { "ja": "ナポレオン退位によりピエモンテがサルデーニャ王国に復帰", "en": "Piedmont restored to the Kingdom of Sardinia after Napoleon's abdication" }
+  },
+  {
+    "id": "tuscany-restored-1814",
+    "year": 1814,
+    "match": { "n": "Tuscany" },
+    "set": { "s": "Tuscany" },
+    "note": { "ja": "トスカナ大公国の復活", "en": "Grand Duchy of Tuscany restored" }
+  },
+  {
+    "id": "papal-states-restored-1814",
+    "year": 1814,
+    "match": { "n": "Papal States" },
+    "set": { "s": "Papal States" },
+    "note": { "ja": "教皇領の復活", "en": "Papal States restored" }
+  },
+  {
+    "id": "lombardy-venetia-to-austria-1814",
+    "year": 1814,
+    "match": { "n": ["Lombardy", "Venetia"] },
+    "set": { "s": "Austrian Empire" },
+    "note": { "ja": "ロンバルディア・ヴェネツィアがオーストリア領となる（ウィーン会議）", "en": "Lombardy and Venetia pass to the Austrian Empire (Congress of Vienna)" }
+  },
+  {
+    "id": "argentina-independence-1816",
+    "year": 1816,
+    "match": { "n": "United Provinces of the Río de la Plata" },
+    "set": { "n": "Argentina", "s": "Argentina", "p": 2 },
+    "note": { "ja": "アルゼンチン（ラプラタ連邦）の独立宣言", "en": "Argentina (United Provinces of the Río de la Plata) declares independence from Spain" }
+  },
+  {
+    "id": "maratha-confederacy-defeated-1818",
+    "year": 1818,
+    "match": { "n": "Maratha Confederacy" },
+    "set": { "s": "British East India Company" },
+    "note": { "ja": "マラーター戦争の終結、マラーター同盟がイギリス東インド会社に屈服", "en": "Third Anglo-Maratha War ends; the Maratha Confederacy falls under East India Company control" }
+  },
+  {
+    "id": "gran-colombia-independence-1819",
+    "year": 1819,
+    "match": { "n": "Viceroyalty of New Granada" },
+    "set": { "n": "Gran Colombia", "s": "Gran Colombia", "p": 2 },
+    "note": { "ja": "シモン＝ボリバルが大コロンビア共和国を樹立", "en": "Simón Bolívar founds the Republic of Gran Colombia" }
+  },
+  {
+    "id": "mexican-independence-1821",
+    "year": 1821,
+    "match": { "n": "Viceroyalty of New Spain" },
+    "set": { "n": "Mexico", "s": "Mexico", "p": 2 },
+    "note": { "ja": "メキシコの独立", "en": "Mexican independence from Spain" }
+  },
+  {
+    "id": "peru-independence-1821",
+    "year": 1821,
+    "match": { "n": "Viceroyalty of Peru" },
+    "set": { "n": "Peru", "s": "Peru", "p": 2 },
+    "note": { "ja": "ペルーの独立宣言（サン＝マルティン）", "en": "Peru declares independence (San Martín)" }
+  },
+  {
+    "id": "brazil-independence-1822",
+    "year": 1822,
+    "match": { "n": "Viceroyalty of Brazil" },
+    "set": { "n": "Empire of Brazil", "s": "Kingdom of Brazil", "p": 2 },
+    "note": { "ja": "ブラジル帝国の独立（ペドロ1世）", "en": "Brazil declares independence from Portugal as an empire under Pedro I" }
+  },
+  {
+    "id": "first-anglo-burmese-war-1826",
+    "year": 1826,
+    "match": { "n": ["Arakan", "Assam"] },
+    "set": { "s": "British East India Company" },
+    "note": { "ja": "第1次ビルマ戦争でアッサム・アラカンがイギリス領となる", "en": "First Anglo-Burmese War: Assam and Arakan ceded to the British East India Company" }
+  },
+  {
+    "id": "french-conquest-of-algeria-1830",
+    "year": 1830,
+    "match": { "n": "Algiers" },
+    "set": { "n": "Algeria (FR)", "s": "France", "p": 1 },
+    "note": { "ja": "フランスのアルジェリア出兵・占領", "en": "France invades and occupies Algiers" }
+  },
+  {
+    "id": "treaty-of-waitangi-new-zealand-1840",
+    "year": 1840,
+    "match": { "n": "Maori" },
+    "set": { "n": "New Zealand", "s": "United Kingdom of Great Britain and Ireland" },
+    "note": { "ja": "ワイタンギ条約でニュージーランドがイギリス植民地となる", "en": "Treaty of Waitangi makes New Zealand a British colony" }
+  },
+  {
+    "id": "hong-kong-ceded-to-britain-1842",
+    "year": 1842,
+    "match": { "n": "Hong Kong" },
+    "set": { "s": "United Kingdom" },
+    "note": { "ja": "南京条約で清がイギリスに香港を割譲", "en": "Treaty of Nanking: Qing cedes Hong Kong to Britain" }
+  },
+  {
+    "id": "krakow-annexed-by-austria-1846",
+    "year": 1846,
+    "match": { "n": "Republic of Kraków" },
+    "set": { "s": "Austrian Empire" },
+    "note": { "ja": "クラクフ共和国のオーストリア併合", "en": "Free City of Kraków annexed by the Austrian Empire" }
+  },
+  {
+    "id": "oudh-annexed-by-east-india-company-1856",
+    "year": 1856,
+    "match": { "n": "Oudh" },
+    "set": { "s": "British East India Company" },
+    "note": { "ja": "イギリス東インド会社によるアワド藩王国の併合", "en": "East India Company annexes the Kingdom of Oudh" }
+  },
+  {
+    "id": "british-raj-1858",
+    "year": 1858,
+    "match": { "n": "British East India Company" },
+    "set": { "n": "British Raj", "s": "United Kingdom" },
+    "note": { "ja": "インド大反乱後、東インド会社が解散しインドはイギリス政府の直接統治下に", "en": "After the Indian Mutiny the East India Company is dissolved and India passes to direct British rule" }
+  },
+  {
+    "id": "british-raj-former-company-territories-1858",
+    "year": 1858,
+    "match": { "n": ["Maratha Confederacy", "Arakan", "Assam", "Oudh"] },
+    "set": { "s": "United Kingdom" },
+    "note": { "ja": "東インド会社領がイギリス政府の直接統治下に（イギリス領インド）", "en": "Former East India Company territories pass to direct British rule" }
+  },
+  {
+    "id": "lombardy-to-sardinia-1859",
+    "year": 1859,
+    "match": { "n": "Lombardy" },
+    "set": { "s": "Kingdom of Sardinia" },
+    "note": { "ja": "イタリア統一戦争でサルデーニャ王国がロンバルディアを獲得", "en": "Sardinia gains Lombardy from Austria in the Second Italian War of Independence" }
+  },
+  {
+    "id": "central-italy-to-sardinia-1860",
+    "year": 1860,
+    "match": { "n": ["Tuscany", "Parma", "Modena", "Lucca", "Massa", "Fivizzano", "Pontremoli"] },
+    "set": { "s": "Kingdom of Sardinia" },
+    "note": { "ja": "中部イタリア諸国が住民投票でサルデーニャ王国に併合", "en": "Tuscany, Parma and Modena join the Kingdom of Sardinia by plebiscite" }
+  },
+  {
+    "id": "kingdom-of-italy-1861",
+    "year": 1861,
+    "match": { "n": ["Kingdom of Sardinia", "Lombardy", "Tuscany", "Parma", "Modena", "Lucca", "Massa", "Fivizzano", "Pontremoli", "Kingdom of the Two Sicilies"] },
+    "set": { "n": "Italy", "s": "Italy" },
+    "note": { "ja": "イタリア王国の成立（ヴィットーリオ＝エマヌエーレ2世）", "en": "Kingdom of Italy proclaimed under Victor Emmanuel II, including the former Two Sicilies" }
+  },
+  {
+    "id": "cochinchina-to-france-1862",
+    "year": 1862,
+    "match": { "n": "Cochin China" },
+    "set": { "s": "France" },
+    "note": { "ja": "サイゴン条約でフランスがコーチシナ東部を獲得", "en": "Treaty of Saigon: France acquires eastern Cochinchina" }
+  },
+  {
+    "id": "cambodia-french-protectorate-1863",
+    "year": 1863,
+    "match": { "n": "Cambodia" },
+    "set": { "s": "France" },
+    "note": { "ja": "カンボジアのフランス保護国化", "en": "Cambodia becomes a French protectorate" }
+  },
+  {
+    "id": "schleswig-to-prussia-1864",
+    "year": 1864,
+    "match": { "n": "Schleswig" },
+    "set": { "s": "Prussia" },
+    "note": { "ja": "デンマーク戦争でシュレスヴィヒがプロイセンの管理下に", "en": "Second Schleswig War: Schleswig placed under Prussian administration" }
+  },
+  {
+    "id": "holstein-to-austria-1864",
+    "year": 1864,
+    "match": { "n": "Holstein" },
+    "set": { "s": "Austrian Empire" },
+    "note": { "ja": "デンマーク戦争でホルシュタインがオーストリアの管理下に", "en": "Second Schleswig War: Holstein placed under Austrian administration" }
+  },
+  {
+    "id": "holstein-to-prussia-1866",
+    "year": 1866,
+    "match": { "n": "Holstein" },
+    "set": { "s": "Prussia" },
+    "note": { "ja": "普墺戦争でホルシュタインがプロイセン領に", "en": "Austro-Prussian War: Holstein annexed by Prussia" }
+  },
+  {
+    "id": "prussia-annexes-hanover-hesse-nassau-1866",
+    "year": 1866,
+    "match": { "n": ["Hanover", "Electoral Hesse", "Nassau"] },
+    "set": { "s": "Prussia" },
+    "note": { "ja": "普墺戦争後、プロイセンがハノーヴァー・ヘッセン選帝侯国・ナッサウを併合", "en": "After the Austro-Prussian War, Prussia annexes Hanover, Electoral Hesse and Nassau" }
+  },
+  {
+    "id": "venetia-to-italy-1866",
+    "year": 1866,
+    "match": { "n": "Venetia" },
+    "set": { "n": "Italy", "s": "Italy" },
+    "note": { "ja": "普墺戦争に乗じてイタリアがヴェネツィアを併合", "en": "Italy gains Venetia from Austria after the Austro-Prussian War" }
+  },
+  {
+    "id": "austria-hungary-compromise-1867",
+    "year": 1867,
+    "match": { "n": ["Austrian Empire", "Republic of Kraków"] },
+    "set": { "n": "Austria Hungary", "s": "Austria Hungary" },
+    "note": { "ja": "アウスグライヒによりオーストリア＝ハンガリー帝国が成立", "en": "Ausgleich: the Austrian Empire becomes Austria-Hungary" }
+  },
+  {
+    "id": "north-german-confederation-1867",
+    "year": 1867,
+    "match": { "n": ["Prussia", "Saxony", "Hanover", "Electoral Hesse", "Nassau", "Wetzlar", "Hohenzollern", "Mecklenburg-Schwerin", "Mecklenburg-Strelitz", "Oldenburg", "Brunswick", "Anhalt", "Thuringia", "Lippe-Detmold", "Schaumburg-Lippe", "Waldeck", "Hamburg", "Bremen", "Lübeck", "Cuxhaven", "Holstein", "Schleswig"] },
+    "set": { "s": "North German Confederation" },
+    "note": { "ja": "プロイセンを盟主とする北ドイツ連邦の成立", "en": "North German Confederation formed under Prussian leadership" }
+  },
+  {
+    "id": "dominion-of-canada-1867",
+    "year": 1867,
+    "match": { "n": "Canada" },
+    "set": { "p": 3 },
+    "note": { "ja": "カナダ自治領の成立（イギリス最初の自治領）", "en": "Confederation creates the Dominion of Canada, the first British dominion" }
+  },
+  {
+    "id": "meiji-restoration-1868",
+    "year": 1868,
+    "match": { "n": "Japan" },
+    "set": { "n": "Imperial Japan", "s": "Imperial Japan" },
+    "note": { "ja": "明治維新", "en": "Meiji Restoration" }
+  },
+  {
+    "id": "rome-to-italy-1870",
+    "year": 1870,
+    "match": { "n": "Papal States" },
+    "set": { "n": "Italy", "s": "Italy" },
+    "note": { "ja": "イタリア王国が教皇領（ローマ）を占領・併合、イタリア統一の完成", "en": "Italy occupies Rome and annexes the Papal States, completing unification" }
+  },
+  {
+    "id": "german-empire-1871",
+    "year": 1871,
+    "match": { "n": ["Prussia", "Bavaria", "Württemberg", "Baden", "Grand Duchy of Hesse", "Palatinate", "Saxony", "Hanover", "Electoral Hesse", "Nassau", "Wetzlar", "Hohenzollern", "Mecklenburg-Schwerin", "Mecklenburg-Strelitz", "Oldenburg", "Brunswick", "Anhalt", "Thuringia", "Lippe-Detmold", "Schaumburg-Lippe", "Waldeck", "Hamburg", "Bremen", "Lübeck", "Cuxhaven", "Holstein", "Schleswig"] },
+    "set": { "s": "Germany" },
+    "note": { "ja": "ドイツ帝国の成立（ヴィルヘルム1世の皇帝即位）", "en": "German Empire proclaimed with Wilhelm I as emperor" }
+  },
+  {
+    "id": "kuril-islands-to-japan-1875",
+    "year": 1875,
+    "match": { "n": "Kuril Islands" },
+    "set": { "s": "Imperial Japan" },
+    "note": { "ja": "樺太・千島交換条約で千島列島が日本領に", "en": "Treaty of Saint Petersburg: the Kuril Islands pass to Japan in exchange for Sakhalin" }
+  },
+  {
+    "id": "russian-conquest-of-central-asia-1876",
+    "year": 1876,
+    "match": { "n": ["central Asian khanates", "Turan"] },
+    "set": { "s": "Russian Empire", "p": 1 },
+    "note": { "ja": "ロシアの中央アジア征服（コーカンド＝ハン国併合、ブハラ・ヒヴァの保護国化）", "en": "Russian conquest of Central Asia: Kokand annexed, Bukhara and Khiva made protectorates" }
+  },
+  {
+    "id": "bosnia-austro-hungarian-occupation-1879",
+    "year": 1879,
+    "match": { "n": "Bosnia-Herzegovina" },
+    "set": { "s": "Austria Hungary" },
+    "note": { "ja": "ベルリン条約（1878）によりボスニア・ヘルツェゴビナがオーストリア＝ハンガリーの管理下に", "en": "Treaty of Berlin (1878) places Bosnia-Herzegovina under Austro-Hungarian administration" }
+  },
+  {
+    "id": "bosnia-austro-hungarian-administration-1881",
+    "year": 1881,
+    "match": { "n": "Bosnia-Herzegovina" },
+    "set": { "s": "Austria Hungary" },
+    "note": { "ja": "ボスニア・ヘルツェゴビナはオーストリア＝ハンガリーの管理下（1878年ベルリン条約）", "en": "Bosnia-Herzegovina under Austro-Hungarian administration since the 1878 Treaty of Berlin" }
+  },
+  {
+    "id": "british-occupation-of-egypt-1882",
+    "year": 1882,
+    "match": { "n": "Egypt" },
+    "set": { "s": "United Kingdom of Great Britain and Ireland" },
+    "note": { "ja": "ウラービー運動を鎮圧したイギリスがエジプトを占領、事実上の保護国化", "en": "Britain occupies Egypt after suppressing the Urabi revolt" }
+  },
+  {
+    "id": "annam-tonkin-french-protectorate-1883",
+    "year": 1883,
+    "match": { "n": "Annam" },
+    "set": { "s": "France" },
+    "note": { "ja": "ユエ条約でフランスがベトナム（安南・トンキン）を保護国化", "en": "Treaty of Hué makes Annam and Tonkin French protectorates" }
+  },
+  {
+    "id": "french-indochina-1887",
+    "year": 1887,
+    "match": { "n": "Annam" },
+    "set": { "n": "French Indochina" },
+    "note": { "ja": "フランス領インドシナ連邦の成立", "en": "French Indochina federation established" }
+  },
+  {
+    "id": "brazil-republic-1889",
+    "year": 1889,
+    "match": { "n": "Kingdom of Brazil" },
+    "set": { "n": "Brazil", "s": "Brazil" },
+    "note": { "ja": "ブラジルで帝政が倒れ共和政に", "en": "Brazilian monarchy overthrown; republic proclaimed" }
+  },
+  {
+    "id": "zanzibar-british-protectorate-1890",
+    "year": 1890,
+    "match": { "n": "Sultanate of Zanzibar" },
+    "set": { "s": "United Kingdom" },
+    "note": { "ja": "ザンジバルのイギリス保護国化（ヘルゴランド＝ザンジバル協定）", "en": "Zanzibar becomes a British protectorate (Heligoland–Zanzibar Treaty)" }
+  },
+  {
+    "id": "taiwan-ceded-to-japan-1895",
+    "year": 1895,
+    "match": { "n": "Taiwan" },
+    "set": { "s": "Imperial Japan" },
+    "note": { "ja": "下関条約で清が日本に台湾を割譲", "en": "Treaty of Shimonoseki: Qing cedes Taiwan to Japan" }
+  },
+  {
+    "id": "rhodesia-1895",
+    "year": 1895,
+    "match": { "n": ["Ndebele", "Shona"] },
+    "set": { "n": "Rhodesia", "s": "United Kingdom of Great Britain and Ireland", "p": 1 },
+    "note": { "ja": "セシル＝ローズのイギリス南アフリカ会社が支配するローデシアの成立", "en": "Rhodesia established under Cecil Rhodes's British South Africa Company" }
+  },
+  {
+    "id": "madagascar-french-colony-1896",
+    "year": 1896,
+    "match": { "n": ["Madagascar", "Imerina"] },
+    "set": { "s": "France" },
+    "note": { "ja": "フランスのマダガスカル領有", "en": "France annexes Madagascar" }
+  },
+  {
+    "id": "korean-empire-1897",
+    "year": 1897,
+    "match": { "n": "Korea" },
+    "set": { "n": "Korean Empire" },
+    "note": { "ja": "朝鮮が国号を大韓帝国と改める", "en": "Korea proclaims itself the Korean Empire" }
+  },
+  {
+    "id": "philippines-to-united-states-1898",
+    "year": 1898,
+    "match": { "n": "Philippines" },
+    "set": { "s": "United States of America" },
+    "note": { "ja": "アメリカ＝スペイン戦争の結果、フィリピンがアメリカ領に", "en": "Spanish–American War: the Philippines pass to the United States" }
+  },
+  {
+    "id": "hawaii-annexation-1898",
+    "year": 1898,
+    "match": { "n": "Kingdom of Hawaii" },
+    "set": { "s": "United States of America" },
+    "note": { "ja": "アメリカ合衆国のハワイ併合", "en": "United States annexes Hawaii" }
+  },
+  {
+    "id": "commonwealth-of-australia-1901",
+    "year": 1901,
+    "match": { "n": ["New South Wales (UK)", "Victoria (UK)", "Queensland (UK)", "South Australia (UK)", "Western Australia (UK)", "Northern Territory (UK)"] },
+    "set": { "s": "Australia" },
+    "note": { "ja": "オーストラリア連邦の成立（イギリス自治領）", "en": "Commonwealth of Australia formed as a British dominion" }
+  },
+  {
+    "id": "bosnia-austro-hungarian-administration-1901",
+    "year": 1901,
+    "match": { "n": "Bosnia-Herzegovina" },
+    "set": { "s": "Austria Hungary" },
+    "note": { "ja": "ボスニア・ヘルツェゴビナはオーストリア＝ハンガリーの管理下（1878年ベルリン条約）", "en": "Bosnia-Herzegovina under Austro-Hungarian administration since the 1878 Treaty of Berlin" }
+  },
+  {
+    "id": "boer-republics-annexed-1902",
+    "year": 1902,
+    "match": { "n": ["Transvaal", "Orange Free State"] },
+    "set": { "s": "United Kingdom of Great Britain and Ireland" },
+    "note": { "ja": "南アフリカ戦争に勝利したイギリスがトランスヴァール・オレンジ両国を併合", "en": "Britain annexes the Transvaal and Orange Free State after the South African War" }
+  },
+  {
+    "id": "dominion-of-new-zealand-1907",
+    "year": 1907,
+    "match": { "n": "Māori" },
+    "set": { "n": "New Zealand", "s": "United Kingdom of Great Britain and Ireland" },
+    "note": { "ja": "ニュージーランドがイギリス自治領となる", "en": "New Zealand becomes a British dominion" }
+  },
+  {
+    "id": "bosnia-annexation-1908",
+    "year": 1908,
+    "match": { "n": "Bosnia-Herzegovina" },
+    "set": { "s": "Austria Hungary", "p": 3 },
+    "note": { "ja": "オーストリア＝ハンガリーによるボスニア・ヘルツェゴビナ併合", "en": "Austria-Hungary annexes Bosnia-Herzegovina" }
+  },
+  {
+    "id": "bulgaria-independence-1908",
+    "year": 1908,
+    "match": { "n": "Bulgaria" },
+    "set": { "p": 3 },
+    "note": { "ja": "ブルガリアがオスマン帝国からの独立を宣言", "en": "Bulgaria declares full independence from the Ottoman Empire" }
+  },
+  {
+    "id": "korea-annexed-by-japan-1910",
+    "year": 1910,
+    "match": { "n": "Korea" },
+    "set": { "s": "Imperial Japan" },
+    "note": { "ja": "韓国併合", "en": "Japan annexes Korea" }
+  },
+  {
+    "id": "union-of-south-africa-1910",
+    "year": 1910,
+    "match": { "n": ["Cape Colony", "Natal", "Transvaal", "Orange Free State"] },
+    "set": { "n": "Union of South Africa", "s": "United Kingdom of Great Britain and Ireland" },
+    "note": { "ja": "南アフリカ連邦の成立（イギリス自治領）", "en": "Union of South Africa formed as a British dominion" }
+  },
+  {
+    "id": "morocco-french-protectorate-1912",
+    "year": 1912,
+    "match": { "n": "Morocco" },
+    "set": { "s": "France" },
+    "note": { "ja": "フェス条約によるモロッコのフランス保護国化", "en": "Treaty of Fez makes Morocco a French protectorate" }
+  },
+  {
+    "id": "republic-of-china-1912",
+    "year": 1912,
+    "match": { "n": "Manchu Empire" },
+    "set": { "n": "Republic of China", "s": "Republic of China" },
+    "note": { "ja": "辛亥革命により中華民国が成立、清朝滅亡", "en": "Xinhai Revolution: the Republic of China is founded and the Qing dynasty falls" }
+  },
+  {
+    "id": "egypt-british-protectorate-1914",
+    "year": 1914,
+    "match": { "n": "Egypt" },
+    "set": { "s": "United Kingdom of Great Britain and Ireland" },
+    "note": { "ja": "第一次世界大戦勃発に伴いイギリスがエジプトを正式に保護国化", "en": "Britain formally declares Egypt a protectorate at the outbreak of the First World War" }
+  }
+]
