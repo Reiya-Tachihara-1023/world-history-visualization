@@ -145,7 +145,18 @@ a { color: var(--accent-2); }
 .help-card kbd { background: rgba(255,255,255,0.12); padding: 0 5px; border-radius: 4px; font-family: inherit; }
 
 @media (max-width: 720px) {
-  .brand .snapshot { display: none; }
+  #topbar { flex-direction: column; align-items: stretch; gap: 6px; padding: 6px 8px; }
+  .brand { justify-content: space-between; }
+  .brand .title { font-size: 15px; white-space: nowrap; }
+  .brand .snapshot { display: inline; font-size: 10px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .controls { justify-content: flex-start; gap: 6px; }
+  .seg button, .toggle { padding: 4px 7px; font-size: 12px; }
+  #search input { width: 110px; }
+  #btn-help { display: none; }
+  #timebar { padding: 6px 10px 8px; }
+  .step button { padding: 3px 5px; font-size: 11px; }
+  #year-input { width: 76px; font-size: 14px; }
+  #slider-ticks span:not(.major) { display: none; }
   #panel { top: auto; bottom: 100px; right: 8px; left: 8px; width: auto; max-height: 45vh; }
   #ticker { width: auto; left: 8px; right: 8px; top: 92px; max-height: 30vh; }
   #legend, #attribution { display: none; }

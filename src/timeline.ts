@@ -81,8 +81,10 @@ export function initTimeline(index: TerritoryIndex) {
     }
     ticks.innerHTML = '';
     const major = [-10000, -3000, -1000, -500, 1, 500, 1000, 1500, 1700, 1800, 1900, 1950, 2000];
+    const phone = [-10000, -1000, 1, 1000, 1500, 1800, 1900, 2000];
     for (const y of major) {
       const s = document.createElement('span');
+      if (phone.includes(y)) s.className = 'major';
       s.style.left = `${yearToPos(y) * 100}%`;
       s.textContent = primaryLang() === 'ja' ? (y < 0 ? `前${-y}` : `${y}`) : y < 0 ? `${-y}BC` : `${y}`;
       ticks.appendChild(s);
