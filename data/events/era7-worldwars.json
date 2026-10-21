@@ -137,7 +137,7 @@
    "ja": "1915年5月、イギリスの客船ルシタニア号がアイルランド沖でドイツ潜水艦に撃沈され、米国人128人を含む約1200人が死亡した。アメリカの対独世論が悪化した。",
    "en": "In May 1915 a German U-boat sank the British liner Lusitania off Ireland, killing about 1,200 people including 128 Americans, and turning American opinion sharply against Germany."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [],
   "wiki": {
    "ja": "ルシタニア (客船)",
@@ -183,7 +183,7 @@
    "ja": "1915年、イギリスの駐エジプト高等弁務官マクマホンがメッカの太守フセインに、オスマン帝国への反乱と引き換えに戦後のアラブ人国家の独立を約束した。",
    "en": "In 1915 Britain's high commissioner in Egypt, McMahon, promised Hussein, Sharif of Mecca, support for Arab independence after the war in return for an Arab revolt against the Ottomans."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [],
   "wiki": {
    "ja": "フサイン＝マクマホン協定",
@@ -205,7 +205,7 @@
    "ja": "1916年2月から12月、ドイツ軍がフランスの要塞都市ヴェルダンを攻撃し、ペタン指揮下のフランス軍が死守した。両軍合わせて約70万人の死傷者を出した消耗戦。",
    "en": "From February to December 1916 the Germans assaulted the French fortress city of Verdun, which French forces under Pétain held at the cost of some 700,000 casualties on both sides."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "petain"
   ],
@@ -229,7 +229,7 @@
    "ja": "1916年7月から11月、英仏軍がソンム川流域でドイツ軍に大攻勢をかけた。イギリス軍が戦車を初めて実戦に投入したが戦線はほとんど動かず、死傷者は100万人を超えた。",
    "en": "From July to November 1916 British and French forces attacked along the Somme. Britain used tanks in combat for the first time, yet the front barely moved and casualties exceeded one million."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [],
   "wiki": {
    "ja": "ソンムの戦い",
@@ -273,7 +273,7 @@
    "ja": "1916年、イギリス・フランス・ロシアがオスマン帝国領の分割を定めた秘密協定。フセイン＝マクマホン協定と矛盾し、ロシア革命後にソヴィエト政権が暴露した。",
    "en": "A secret 1916 agreement among Britain, France and Russia to partition Ottoman territory. It contradicted the promises to Hussein and was exposed by the Soviet government after the Russian Revolution."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [],
   "wiki": {
    "ja": "サイクス・ピコ協定",
@@ -295,7 +295,7 @@
    "ja": "1916年復活祭の週、シン＝フェイン党系の急進派がダブリンで武装蜂起し、アイルランド共和国の独立を宣言した。鎮圧されたが指導者の処刑は独立運動を激化させた。",
    "en": "During Easter week 1916 Irish republicans rose in Dublin and proclaimed a republic. The rising was crushed, but the execution of its leaders inflamed the independence movement."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [],
   "wiki": {
    "ja": "イースター蜂起",
@@ -339,7 +339,7 @@
    "ja": "1917年4月、無制限潜水艦作戦を理由にウィルソン大統領は対独宣戦を議会に求め、アメリカは協商国側で参戦した。その巨大な経済力と兵力が戦局を決定づけた。",
    "en": "In April 1917, citing unrestricted submarine warfare, President Wilson asked Congress to declare war on Germany. American economic power and manpower proved decisive for the Entente."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "wilson"
   ],
@@ -385,7 +385,7 @@
    "ja": "メキシコ革命のなかでカランサ政権が制定した民主的憲法。土地改革、地下資源の国有、労働者の権利保護など当時最も進歩的な内容を盛り込み、革命の成果を定着させた。",
    "en": "Drafted under Carranza during the Mexican Revolution, the constitution provided for land reform, national ownership of subsoil resources and labor rights, among the most progressive provisions of its time."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [],
   "wiki": {
    "ja": "1917年メキシコ憲法",
@@ -468,30 +468,6 @@
   }
  },
  {
-  "id": "decree-on-peace",
-  "type": "politics",
-  "year": 1917,
-  "year_end": null,
-  "lat": 59.92,
-  "lon": 30.36,
-  "name": {
-   "ja": "平和に関する布告",
-   "en": "Decree on Peace"
-  },
-  "desc": {
-   "ja": "十月革命直後、ソヴィエト政権が全交戦国に無併合・無償金・民族自決にもとづく即時講和を呼びかけた布告。秘密外交の廃止も掲げ、ウィルソンの十四カ条にも影響を与えた。",
-   "en": "Issued immediately after the October Revolution, the decree called on all belligerents for an immediate peace without annexations or indemnities and based on self-determination, and renounced secret diplomacy."
-  },
-  "importance": 2,
-  "persons": [
-   "lenin"
-  ],
-  "wiki": {
-   "ja": "平和に関する布告",
-   "en": "Decree on Peace"
-  }
- },
- {
   "id": "constituent-assembly-dissolved",
   "type": "politics",
   "year": 1918,
@@ -506,7 +482,7 @@
    "ja": "1917年11月の選挙で社会革命党が第一党となった憲法制定議会を、ボリシェヴィキは1918年1月の開会翌日に武力で解散させ、一党独裁体制への道を開いた。",
    "en": "When the Socialist Revolutionaries won the November 1917 elections, the Bolsheviks forcibly dissolved the Constituent Assembly the day after it convened in January 1918, opening the way to one-party rule."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [
    "lenin"
   ],
@@ -530,7 +506,7 @@
    "ja": "1918年3月、ソヴィエト政権がドイツなど同盟国と結んだ単独講和条約。ポーランド・バルト地方・ウクライナなど広大な領土を失ったが、革命政権は戦争から離脱した。",
    "en": "In March 1918 Soviet Russia made a separate peace with Germany and its allies, surrendering Poland, the Baltic lands, Ukraine and other vast territories in order to leave the war."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "lenin",
    "trotsky"
@@ -604,7 +580,7 @@
    "ja": "1918年11月11日、ドイツ共和国政府がコンピエーニュの森で休戦協定に調印し、第一次世界大戦は終結した。ブルガリア、オスマン帝国、オーストリアはすでに降伏していた。",
    "en": "On 11 November 1918 the new German republic signed an armistice in the forest of Compiègne, ending the First World War. Bulgaria, the Ottoman Empire and Austria-Hungary had already capitulated."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [],
   "wiki": {
    "ja": "第一次世界大戦の休戦協定",
@@ -648,7 +624,7 @@
    "ja": "1919年1月、ドイツ共産党（スパルタクス団）がベルリンで武装蜂起したが、社会民主党のエーベルト政府は軍と義勇軍で鎮圧し、指導者ローザ＝ルクセンブルクとカール＝リープクネヒトは殺害された。",
    "en": "In January 1919 the German Communist Party (Spartacus League) rose in Berlin. Ebert's Social Democratic government crushed it with the army and Freikorps, and Rosa Luxemburg and Karl Liebknecht were murdered."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [
    "rosa-luxemburg",
    "ebert"
@@ -697,7 +673,7 @@
    "ja": "1920年、合衆国憲法修正第19条が成立し、全国で女性の参政権が認められた。大戦中の女性の社会進出が背景にあり、1920年代の大衆社会の形成を促した。",
    "en": "The Nineteenth Amendment, ratified in 1920, guaranteed women the vote nationwide. It reflected women's wartime entry into public life and fed the mass society of the 1920s."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [],
   "wiki": {
    "ja": "アメリカ合衆国憲法修正第19条",
@@ -719,7 +695,7 @@
    "ja": "ソヴィエト政権に対し反革命軍（白軍）が各地で蜂起し、英・仏・米・日などが干渉戦争を行った。トロツキーの組織した赤軍が勝利し、政権は戦時共産主義と赤色テロで乗り切った。",
    "en": "Counter-revolutionary White armies rose against the Soviet regime while Britain, France, the United States and Japan intervened. Trotsky's Red Army prevailed, and the regime survived through War Communism and terror."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "lenin",
    "trotsky"
@@ -744,35 +720,11 @@
    "ja": "1918年、チェコ軍団救出を名目に日・米・英・仏がシベリアに出兵した。日本は最大の7万余を派遣し、他国撤兵後の1922年まで駐留して国際的な非難を浴びた。",
    "en": "In 1918 Japan, the United States, Britain and France sent troops to Siberia, ostensibly to rescue the Czech Legion. Japan dispatched over 70,000 men and stayed until 1922, long after the others withdrew."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [],
   "wiki": {
    "ja": "シベリア出兵",
    "en": "Siberian intervention"
-  }
- },
- {
-  "id": "war-communism",
-  "type": "politics",
-  "year": 1918,
-  "year_end": 1921,
-  "lat": 55.76,
-  "lon": 37.6,
-  "name": {
-   "ja": "戦時共産主義",
-   "en": "War Communism"
-  },
-  "desc": {
-   "ja": "内戦期にソヴィエト政権がとった経済政策。工業の国有化、農民からの穀物の強制徴発、配給制などを実施したが、生産は激減し農民の反乱を招いた。",
-   "en": "The Soviet regime's civil-war economic policy of nationalized industry, forced grain requisitioning and rationing. Output collapsed and peasant revolts followed."
-  },
-  "importance": 2,
-  "persons": [
-   "lenin"
-  ],
-  "wiki": {
-   "ja": "戦時共産主義",
-   "en": "War communism"
   }
  },
  {
@@ -821,28 +773,6 @@
   "wiki": {
    "ja": "ネップ",
    "en": "New Economic Policy"
-  }
- },
- {
-  "id": "treaty-of-rapallo",
-  "type": "treaty",
-  "year": 1922,
-  "year_end": null,
-  "lat": 44.35,
-  "lon": 9.23,
-  "name": {
-   "ja": "ラパロ条約",
-   "en": "Treaty of Rapallo"
-  },
-  "desc": {
-   "ja": "1922年、ジェノヴァ会議の最中にドイツとソヴィエト＝ロシアがイタリアのラパロで結んだ条約。相互に国交を回復し賠償を放棄した。ソヴィエト政権が大国に承認された最初の例。",
-   "en": "Signed in 1922 during the Genoa Conference, the treaty between Germany and Soviet Russia restored relations and waived mutual claims, the first recognition of the Soviet regime by a major power."
-  },
-  "importance": 2,
-  "persons": [],
-  "wiki": {
-   "ja": "ラパッロ条約 (1922年)",
-   "en": "Treaty of Rapallo (1922)"
   }
  },
  {
@@ -1057,7 +987,7 @@
    "ja": "1920年6月、連合国とハンガリーの講和条約。ハンガリーは旧領土の約3分の2をチェコスロヴァキア・ルーマニア・ユーゴスラヴィアなどに割譲した。ブルガリアとは前年ヌイイ条約が結ばれた。",
    "en": "The June 1920 peace with Hungary transferred about two-thirds of the old kingdom's territory to Czechoslovakia, Romania, Yugoslavia and others. Bulgaria had signed the Treaty of Neuilly the year before."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [],
   "wiki": {
    "ja": "トリアノン条約",
@@ -1149,7 +1079,7 @@
    "ja": "1919年からの独立戦争を経て1921年に英愛条約が結ばれ、1922年、北部アルスター6州を除くアイルランドが自治領アイルランド自由国となった。1937年にエールと改称し事実上独立した。",
    "en": "After the war of independence from 1919, the Anglo-Irish Treaty of 1921 created the Irish Free State as a dominion in 1922, excluding six Ulster counties. In 1937 it became Éire, effectively independent."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [],
   "wiki": {
    "ja": "アイルランド自由国",
@@ -1217,7 +1147,7 @@
    "ja": "1923年7月、ムスタファ＝ケマルのトルコ政府が連合国と結びセーヴル条約を改めた条約。イズミルや東トラキアを回復し、治外法権を廃止して主権を確保した。",
    "en": "In July 1923 Mustafa Kemal's government replaced the Treaty of Sèvres with a new settlement that recovered Izmir and eastern Thrace and abolished the capitulations, securing Turkish sovereignty."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "mustafa-kemal"
   ],
@@ -1241,7 +1171,7 @@
    "ja": "1924年、アメリカの銀行家ドーズを委員長とする委員会が、ドイツの賠償支払い方法を緩和し、アメリカ資本の貸付でドイツ経済を再建する案をまとめた。ルール撤兵と相対的安定期をもたらした。",
    "en": "In 1924 a committee chaired by the American banker Dawes eased Germany's reparations schedule and arranged American loans to rebuild its economy, leading to evacuation of the Ruhr and a period of relative stability."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "stresemann"
   ],
@@ -1314,7 +1244,7 @@
    "ja": "1929年、アメリカの実業家ヤングを委員長とする委員会がドイツの賠償総額を約358億金マルクに減額し、59年の分割払いを定めた。世界恐慌により翌年以降は事実上停止した。",
    "en": "In 1929 a committee under the American industrialist Owen Young cut Germany's reparations to about 35.8 billion gold marks payable over 59 years. The Depression soon made payment impossible."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [],
   "wiki": {
    "ja": "ヤング案",
@@ -1336,7 +1266,7 @@
    "ja": "1930年、米・英・日が補助艦の保有比率をほぼ10：10：7と定めた条約。日本では条約調印をめぐり統帥権干犯問題がおこり、海軍や右翼の反発を招いた。",
    "en": "In 1930 the United States, Britain and Japan limited auxiliary warships at a ratio of roughly 10:10:7. In Japan the treaty provoked a controversy over the emperor's prerogative of supreme command."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [],
   "wiki": {
    "ja": "ロンドン海軍軍縮会議",
@@ -1455,7 +1385,7 @@
    "ja": "1925年5月30日、上海の日本人経営の紡績工場での労働争議を発端とするデモにイギリス租界警察が発砲し、反帝国主義の労働者・学生の運動が全国に拡大した。",
    "en": "On 30 May 1925 British concession police fired on demonstrators in Shanghai protesting a labor dispute at a Japanese-owned mill, igniting a nationwide anti-imperialist movement of workers and students."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [],
   "wiki": {
    "ja": "五・三〇事件",
@@ -1501,7 +1431,7 @@
    "ja": "1927年4月12日、蔣介石が浙江財閥や列強の支持を得て上海で共産党員や労働者を弾圧し、国共合作を破棄した。共産党は地下に潜り、武装闘争に転じた。",
    "en": "On 12 April 1927 Chiang Kai-shek, backed by Shanghai financiers and the foreign powers, massacred Communists and workers in Shanghai, ending the United Front. The Communists went underground and turned to armed struggle."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "chiang-kai-shek"
   ],
@@ -1525,7 +1455,7 @@
    "ja": "上海クーデタ直後の1927年4月、蔣介石は南京に国民政府を樹立した。汪兆銘の武漢政府も合流し、北伐完成後は中国を代表する政権となって関税自主権の回復などを進めた。",
    "en": "Right after the Shanghai coup, in April 1927, Chiang Kai-shek set up a Nationalist government at Nanjing. Wang Jingwei's Wuhan government soon merged with it, and it became China's recognized regime, regaining tariff autonomy."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "chiang-kai-shek",
    "wang-jingwei"
@@ -1533,30 +1463,6 @@
   "wiki": {
    "ja": "国民政府",
    "en": "Nationalist government"
-  }
- },
- {
-  "id": "zhang-zuolin-assassination",
-  "type": "politics",
-  "year": 1928,
-  "year_end": null,
-  "lat": 41.8,
-  "lon": 123.43,
-  "name": {
-   "ja": "張作霖爆殺事件",
-   "en": "Assassination of Zhang Zuolin"
-  },
-  "desc": {
-   "ja": "1928年6月、北伐軍に敗れて北京から奉天へ戻る途中の軍閥張作霖を、日本の関東軍が列車ごと爆殺した。子の張学良は同年末、国民政府に合流し（易幟）、全国統一が達成された。",
-   "en": "In June 1928 Japan's Kwantung Army blew up the train carrying the warlord Zhang Zuolin back to Mukden after his defeat by the Northern Expedition. His son Zhang Xueliang joined the Nationalists at year's end."
-  },
-  "importance": 2,
-  "persons": [
-   "zhang-xueliang"
-  ],
-  "wiki": {
-   "ja": "張作霖爆殺事件",
-   "en": "Huanggutun incident"
   }
  },
  {
@@ -1574,7 +1480,7 @@
    "ja": "1931年11月、毛沢東を主席として江西省瑞金に中華ソヴィエト共和国臨時政府が成立した。農村根拠地で土地革命を進めたが、国民政府軍の包囲攻撃を受けた。",
    "en": "In November 1931 the Chinese Soviet Republic was proclaimed at Ruijin in Jiangxi with Mao Zedong as chairman. It pursued land revolution in its rural base but faced repeated Nationalist encirclement campaigns."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "mao-zedong",
    "zhou-enlai"
@@ -1650,7 +1556,7 @@
    "ja": "盧溝橋事件後の1937年9月、国民党と共産党は抗日民族統一戦線を正式に結成した。紅軍は国民革命軍第八路軍・新四軍に改編され、日中戦争を共同で戦った。",
    "en": "After the Marco Polo Bridge Incident, in September 1937 the Nationalists and Communists formally established an anti-Japanese national united front. The Red Army was reorganized as the Eighth Route and New Fourth Armies."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "chiang-kai-shek",
    "mao-zedong"
@@ -1721,7 +1627,7 @@
    "ja": "中国の提訴を受け国際連盟が派遣したリットン調査団は1932年10月に報告書を提出し、日本の軍事行動を自衛とは認めず満州国を否認した。連盟総会は翌年これを採択した。",
    "en": "Sent by the League of Nations after China's appeal, the Lytton Commission reported in October 1932 that Japan's actions were not self-defense and refused to recognize Manchukuo. The League Assembly adopted the report in 1933."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [],
   "wiki": {
    "ja": "リットン調査団",
@@ -1743,7 +1649,7 @@
    "ja": "1933年2月、国際連盟総会がリットン報告書にもとづき日本軍の満州撤退を勧告すると、松岡洋右ら日本代表は退場し、3月に正式に脱退を通告した。日本は国際的に孤立した。",
    "en": "When the League Assembly in February 1933 adopted the Lytton report and called for Japan's withdrawal from Manchuria, the Japanese delegation under Matsuoka walked out; Japan formally quit in March, isolating itself."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [],
   "wiki": {
    "ja": "国際連盟",
@@ -1837,7 +1743,7 @@
    "ja": "1940年3月、重慶を脱出した汪兆銘が日本の支援で南京に国民政府を樹立した。日本は傀儡政権として承認したが、中国民衆の支持を得られず、重慶の蔣介石政権は抗戦を続けた。",
    "en": "In March 1940 Wang Jingwei, who had fled Chongqing, established a Japanese-sponsored national government at Nanjing. Japan recognized the puppet regime, but it won little support and Chiang's Chongqing government fought on."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [
    "wang-jingwei"
   ],
@@ -1895,31 +1801,6 @@
   }
  },
  {
-  "id": "lahore-purna-swaraj",
-  "type": "politics",
-  "year": 1929,
-  "year_end": null,
-  "lat": 31.55,
-  "lon": 74.34,
-  "name": {
-   "ja": "プールナ＝スワラージの決議",
-   "en": "Purna Swaraj Resolution"
-  },
-  "desc": {
-   "ja": "1929年末、ネルーが議長を務める国民会議派ラホール大会は、自治領ではなく完全独立（プールナ＝スワラージ）を目標とすることを決議し、翌年から不服従運動を再開した。",
-   "en": "At its Lahore session in late 1929, under Nehru's presidency, the Indian National Congress resolved to seek complete independence (purna swaraj) rather than dominion status and renewed civil disobedience the next year."
-  },
-  "importance": 2,
-  "persons": [
-   "nehru",
-   "gandhi"
-  ],
-  "wiki": {
-   "ja": "プールナ・スワラージ",
-   "en": "Purna Swaraj"
-  }
- },
- {
   "id": "salt-march",
   "type": "revolution",
   "year": 1930,
@@ -1934,7 +1815,7 @@
    "ja": "1930年3月、ガンディーはイギリスの塩専売に抗議して支持者とともに約380kmを歩いて海岸に至り、塩をつくった。第2次非暴力・不服従運動の象徴となり、全国に広がった。",
    "en": "In March 1930 Gandhi and his followers walked some 380 km to the sea at Dandi and made salt in defiance of the British salt monopoly. The march became the symbol of the second civil disobedience campaign."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "gandhi"
   ],
@@ -1958,7 +1839,7 @@
    "ja": "イギリス政府がインドの憲法改革を協議するためロンドンで3回開いた会議。第2回にはガンディーも出席したが、ヒンドゥーとムスリムの対立もあって成果は乏しかった。",
    "en": "Three conferences held in London by the British government to discuss Indian constitutional reform. Gandhi attended the second, but Hindu–Muslim differences and British reluctance kept results meager."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [
    "gandhi"
   ],
@@ -1982,7 +1863,7 @@
    "ja": "各州の自治と連邦制を認めた新インド統治法。1937年の州選挙で国民会議派が圧勝したが、中央の権限はイギリスが握り、完全独立の要求には応えなかった。",
    "en": "The act granted provincial autonomy and envisaged an Indian federation. Congress swept the 1937 provincial elections, but Britain retained central power and the act fell far short of independence."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [],
   "wiki": {
    "ja": "1935年インド統治法",
@@ -2038,30 +1919,6 @@
   }
  },
  {
-  "id": "caliphate-abolished",
-  "type": "religion",
-  "year": 1924,
-  "year_end": null,
-  "lat": 39.94,
-  "lon": 32.87,
-  "name": {
-   "ja": "カリフ制の廃止",
-   "en": "Abolition of the Caliphate"
-  },
-  "desc": {
-   "ja": "1924年3月、トルコ大国民議会はカリフ制を廃止し、オスマン家をトルコから追放した。これによりイスラーム世界の名目上の統一の象徴が消滅し、政教分離が決定的となった。",
-   "en": "In March 1924 the Turkish Grand National Assembly abolished the caliphate and expelled the Ottoman dynasty, ending the symbolic unity of the Islamic world and sealing the separation of religion and state."
-  },
-  "importance": 2,
-  "persons": [
-   "mustafa-kemal"
-  ],
-  "wiki": {
-   "ja": "カリフ制の廃止",
-   "en": "Abolition of the Ottoman Caliphate"
-  }
- },
- {
   "id": "reza-khan-pahlavi",
   "type": "founding",
   "year": 1925,
@@ -2100,7 +1957,7 @@
    "ja": "ワフド党の独立運動を受けてイギリスは1922年に保護権を廃止し、エジプト王国が成立した。ただしスエズ運河の管理やイギリス軍の駐留は続き、1936年の英エジプト条約でも完全独立は達成されなかった。",
    "en": "Faced with the Wafd independence movement, Britain ended its protectorate in 1922 and the Kingdom of Egypt was proclaimed. Britain kept control of the Suez Canal and its garrison, limits that the 1936 treaty did not remove."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [],
   "wiki": {
    "ja": "エジプト王国",
@@ -2146,7 +2003,7 @@
    "ja": "第一次世界大戦後イギリスの委任統治領となったイラクは、フセインの子ファイサルを国王として1932年に独立し、国際連盟に加入した。石油利権などでイギリスの影響は残った。",
    "en": "Mandated to Britain after the war, Iraq became independent in 1932 under King Faisal, son of Hussein, and joined the League of Nations, though British influence over oil and defense remained."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [],
   "wiki": {
    "ja": "イラク王国",
@@ -2168,7 +2025,7 @@
    "ja": "1927年、スカルノを中心にインドネシア国民党（PNI）が結成され、オランダからの独立を掲げた。1928年の青年会議では「一つの祖国・一つの民族・一つの言語」が宣言された。",
    "en": "In 1927 Sukarno and others founded the Indonesian Nationalist Party (PNI), demanding independence from the Netherlands. The 1928 Youth Congress proclaimed one homeland, one nation and one language."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [
    "sukarno"
   ],
@@ -2216,7 +2073,7 @@
    "ja": "1934年のフィリピン独立法で10年後の独立が約束され、1935年にケソンを大統領とする独立準備政府（コモンウェルス）が発足した。独立は日本占領を経て1946年に実現した。",
    "en": "The 1934 Tydings–McDuffie Act promised independence in ten years, and in 1935 the Commonwealth of the Philippines was inaugurated with Quezon as president. Independence came in 1946 after the Japanese occupation."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [],
   "wiki": {
    "ja": "フィリピン・コモンウェルス",
@@ -2262,7 +2119,7 @@
    "ja": "1930年、アメリカが国内産業保護のため関税を史上最高水準に引き上げた法律。各国の報復関税を招いて世界貿易を激減させ、恐慌を深刻化させた。1931年にはフーヴァー＝モラトリアムが出された。",
    "en": "In 1930 the United States raised tariffs to record levels to protect domestic industry. Retaliatory tariffs followed, world trade shrank drastically and the Depression deepened; the Hoover Moratorium of 1931 suspended war debts and reparations."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [
    "hoover"
   ],
@@ -2308,7 +2165,7 @@
    "ja": "1932年、イギリス連邦の経済会議がオタワで開かれ、連邦内の特恵関税と域外への高関税を定めた。スターリング＝ブロックの形成は、各国のブロック経済への道を開いた。",
    "en": "At the 1932 Ottawa conference the British Commonwealth adopted imperial preference, with low tariffs inside the empire and high ones outside. The sterling bloc led other powers to form their own economic blocs."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [],
   "wiki": {
    "ja": "オタワ会議",
@@ -2378,7 +2235,7 @@
    "ja": "ファシズムの台頭に対抗して社会党・共産党・急進社会党が人民戦線を結成し、1936年の選挙に勝利して社会党のブルムが内閣を組織した。週40時間労働制などを実現したが、1937年に倒れた。",
    "en": "Socialists, Communists and Radicals formed a Popular Front against fascism and won the 1936 election; the Socialist Léon Blum became premier and enacted the forty-hour week, but the government fell in 1937."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [
    "leon-blum"
   ],
@@ -2426,7 +2283,7 @@
    "ja": "1923年11月、ヒトラー率いるナチ党がルーデンドルフとともにミュンヘンで武装蜂起を企てたが失敗した。獄中でヒトラーは『わが闘争』を口述し、以後は合法的な権力獲得をめざした。",
    "en": "In November 1923 Hitler's Nazi Party, with Ludendorff, attempted a coup in Munich that quickly failed. In prison Hitler dictated Mein Kampf and thereafter sought power by legal means."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [
    "hitler",
    "ludendorff"
@@ -2451,7 +2308,7 @@
    "ja": "1929年、ムッソリーニ政権とローマ教皇庁が結んだ条約。ヴァチカン市国の独立を認め、イタリア統一以来対立していた国家と教会の関係を正常化した。",
    "en": "In 1929 Mussolini's government and the Holy See recognized Vatican City as a sovereign state, ending the conflict between the Italian state and the papacy that had lasted since unification."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [
    "mussolini"
   ],
@@ -2500,7 +2357,7 @@
    "ja": "1933年2月の国会議事堂放火事件を口実に共産党を弾圧したヒトラーは、3月に政府に立法権を委ねる全権委任法を成立させた。他の政党は解散させられ、ナチ党の一党独裁が確立した。",
    "en": "Using the Reichstag fire of February 1933 to crush the Communists, Hitler in March pushed through the Enabling Act, which gave the government legislative power. Other parties were dissolved and one-party rule established."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "hitler"
   ],
@@ -2524,7 +2381,7 @@
    "ja": "1933年に国際連盟を脱退したドイツは、1935年3月、ヴェルサイユ条約の軍備制限条項を破棄し、徴兵制の復活と再軍備を宣言した。同年イギリスは英独海軍協定でこれを事実上容認した。",
    "en": "Having left the League in 1933, Germany in March 1935 repudiated the Versailles arms limits and announced conscription and rearmament. Britain tacitly accepted this in the Anglo-German Naval Agreement that year."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [
    "hitler"
   ],
@@ -2572,7 +2429,7 @@
    "ja": "1935年10月、ムッソリーニのイタリアはエチオピアに侵攻し、翌年首都アディスアベバを占領して併合した。国際連盟の経済制裁は効果がなく、連盟の無力を露呈した。",
    "en": "In October 1935 Mussolini's Italy invaded Ethiopia and in 1936 took Addis Ababa and annexed the country. The League's economic sanctions proved ineffective, exposing its impotence."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "mussolini",
    "haile-selassie"
@@ -2597,7 +2454,7 @@
    "ja": "1936年3月、ヒトラーはロカルノ条約とヴェルサイユ条約を破棄して非武装地帯ラインラントに軍を進駐させた。英仏は宥和政策をとって対抗措置をとらなかった。",
    "en": "In March 1936 Hitler repudiated the Locarno and Versailles treaties and sent troops into the demilitarized Rhineland. Britain and France, pursuing appeasement, did nothing."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "hitler"
   ],
@@ -2670,7 +2527,7 @@
    "ja": "1936年11月、日本とドイツがコミンテルンの活動に対抗する協定を結び、1937年にイタリアが加わって日独伊三国防共協定となった。同年のベルリン＝ローマ枢軸とあわせ、枢軸国の結束が形成された。",
    "en": "In November 1936 Japan and Germany agreed to cooperate against the Comintern; Italy joined in 1937. Together with the Rome–Berlin Axis of 1936, it bound the future Axis powers together."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "hitler",
    "mussolini"
@@ -2695,7 +2552,7 @@
    "ja": "1938年3月、ヒトラーはドイツ軍を進駐させてオーストリアを併合した。サン＝ジェルマン条約で禁じられていたが、英仏は黙認し、ドイツ民族の統合を掲げる侵略が加速した。",
    "en": "In March 1938 Hitler sent troops into Austria and annexed it, in violation of the Treaty of Saint-Germain. Britain and France acquiesced, and German expansion in the name of uniting all Germans accelerated."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "hitler"
   ],
@@ -2745,7 +2602,7 @@
    "ja": "1938年11月9日夜、ドイツ全土でナチ党の扇動によりユダヤ人の商店やシナゴーグが襲撃・放火され、多数のユダヤ人が殺害・収容所送りとなった。ユダヤ人迫害は暴力的段階に入った。",
    "en": "On the night of 9 November 1938 Nazi-instigated mobs across Germany smashed Jewish shops and burned synagogues; many Jews were killed or sent to camps. Persecution entered its violent phase."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [
    "hitler"
   ],
@@ -2769,7 +2626,7 @@
    "ja": "1939年3月、ドイツはミュンヘン協定を無視してチェコスロヴァキアの残部に進駐し、ベーメン・メーレンを保護領とし、スロヴァキアを保護国とした。英仏は宥和政策を放棄した。",
    "en": "In March 1939, ignoring the Munich agreement, Germany occupied the rest of Czechoslovakia, making Bohemia and Moravia a protectorate and Slovakia a client state. Britain and France abandoned appeasement."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [
    "hitler"
   ],
@@ -2845,7 +2702,7 @@
    "ja": "ポーランド東部を占領したソ連は1939年11月にフィンランドに侵攻し、国際連盟から除名された。翌年フィンランドは領土を割譲して講和した。ソ連は1940年にバルト三国も併合した。",
    "en": "After seizing eastern Poland, the USSR invaded Finland in November 1939 and was expelled from the League of Nations. Finland ceded territory in 1940; that year the USSR also annexed the Baltic states."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [
    "stalin"
   ],
@@ -2869,7 +2726,7 @@
    "ja": "1940年5月、ドイツ軍はオランダ・ベルギーを経てフランスに侵入し、英仏軍はダンケルクから辛うじて撤退した。6月にパリが陥落し、フランスは休戦協定に調印してドイツに降伏した。",
    "en": "In May 1940 German forces struck through the Netherlands and Belgium into France; the British and French armies barely escaped from Dunkirk. Paris fell in June and France signed an armistice with Germany."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "hitler",
    "petain",
@@ -2895,7 +2752,7 @@
    "ja": "降伏後、ペタンを首班とするヴィシー政府がドイツに協力して南半分を統治した。一方ド＝ゴールはロンドンで自由フランス政府を組織して徹底抗戦を呼びかけ、国内ではレジスタンスが展開された。",
    "en": "After the surrender, Pétain's Vichy regime governed the unoccupied south in collaboration with Germany, while de Gaulle formed the Free French in London and called for continued resistance, which grew within France."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "petain",
    "de-gaulle"
@@ -2944,7 +2801,7 @@
    "ja": "1940年9月、日本・ドイツ・イタリアがベルリンで軍事同盟を結び、ヨーロッパとアジアにおける相互の指導的地位を認め合った。アメリカを仮想敵とし、日米対立を決定的にした。",
    "en": "In September 1940 Japan, Germany and Italy signed a military alliance in Berlin recognizing each other's leadership in Europe and Asia. Aimed at the United States, it made confrontation with America almost inevitable."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "hitler",
    "mussolini",
@@ -2995,7 +2852,7 @@
    "ja": "1941年8月、ローズヴェルト米大統領とチャーチル英首相が大西洋上で会談し、領土不拡大、民族自決、貿易の自由、恒久的な安全保障体制など戦後の構想を発表した。国際連合の理念の基礎となった。",
    "en": "In August 1941 Roosevelt and Churchill met at sea and announced principles for the postwar world: no territorial gains, self-determination, free trade and a permanent system of security, foundations of the United Nations."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "franklin-roosevelt",
    "churchill"
@@ -3069,7 +2926,7 @@
    "ja": "1942年2月、マレー半島を南下した日本軍がイギリス東洋支配の拠点シンガポールを占領した。日本は3月にはジャワ・スマトラなどを占領し、東南アジアのほぼ全域を支配下においた。",
    "en": "In February 1942 Japanese forces advancing down the Malay peninsula captured Singapore, the bastion of British power in Asia. By March Japan had taken Java and Sumatra and controlled almost all of Southeast Asia."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [],
   "wiki": {
    "ja": "シンガポールの戦い",
@@ -3091,7 +2948,7 @@
    "ja": "ナチス＝ドイツは1942年1月のヴァンゼー会議でユダヤ人問題の「最終解決」を決定し、アウシュヴィッツなどの絶滅収容所で組織的な大量殺害を行った。犠牲者は約600万人にのぼった。",
    "en": "At the Wannsee Conference in January 1942 Nazi Germany organized the 'final solution', and in extermination camps such as Auschwitz carried out the systematic murder of some six million Jews."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "hitler"
   ],
@@ -3115,7 +2972,7 @@
    "ja": "1942年6月、日本海軍はミッドウェー島攻略をめざしたが、暗号を解読していたアメリカ海軍の待ち伏せにあい、主力空母4隻を失った。太平洋戦争の転換点となり、以後日本は守勢に回った。",
    "en": "In June 1942 the Japanese navy moved to seize Midway but, its codes broken, was ambushed by the US fleet and lost four fleet carriers. The battle was the turning point of the Pacific War."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [],
   "wiki": {
    "ja": "ミッドウェー海戦",
@@ -3137,7 +2994,7 @@
    "ja": "1942年8月から翌年2月、ソロモン諸島のガダルカナル島をめぐり日米が激戦を展開した。日本軍は補給を断たれて多数の餓死者を出して撤退し、連合軍の反攻が本格化した。",
    "en": "From August 1942 to February 1943 Japanese and American forces fought over Guadalcanal in the Solomons. Cut off from supply, the Japanese withdrew after heavy losses, and the Allied counteroffensive began in earnest."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [],
   "wiki": {
    "ja": "ガダルカナル島の戦い",
@@ -3206,7 +3063,7 @@
    "ja": "1943年1月、ローズヴェルトとチャーチルがモロッコのカサブランカで会談し、枢軸国に無条件降伏を要求する方針とイタリア本土上陸（シチリア作戦）を決定した。",
    "en": "In January 1943 Roosevelt and Churchill met at Casablanca in Morocco and agreed to demand unconditional surrender from the Axis and to invade Sicily and Italy."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [
    "franklin-roosevelt",
    "churchill"
@@ -3231,7 +3088,7 @@
    "ja": "1943年7月の連合軍のシチリア上陸後、ムッソリーニは失脚・逮捕され、バドリオ政府が9月に無条件降伏した。ドイツに救出されたムッソリーニは北イタリアに傀儡政権を立てたが、1945年に処刑された。",
    "en": "After the Allied landing in Sicily in July 1943 Mussolini was deposed and arrested, and Badoglio's government surrendered unconditionally in September. Rescued by the Germans, Mussolini led a puppet state in the north until he was executed in 1945."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "mussolini"
   ],
@@ -3255,7 +3112,7 @@
    "ja": "1943年11月、ローズヴェルト、チャーチル、蔣介石がカイロで会談し、日本の無条件降伏まで戦うこと、満州・台湾の中国返還、朝鮮の独立など対日処理方針を示したカイロ宣言を発表した。",
    "en": "In November 1943 Roosevelt, Churchill and Chiang Kai-shek met at Cairo and issued the Cairo Declaration, pledging to fight until Japan's unconditional surrender, to return Manchuria and Taiwan to China and to free Korea."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "franklin-roosevelt",
    "churchill",
@@ -3281,7 +3138,7 @@
    "ja": "1943年11〜12月、ローズヴェルト、チャーチル、スターリンがテヘランで初めて会談し、翌年の北フランス上陸作戦（第二戦線）の実施を決定した。ソ連は対日参戦の意向も示した。",
    "en": "In November–December 1943 Roosevelt, Churchill and Stalin met for the first time at Tehran and agreed to open a second front in northern France the following year. Stalin also indicated the USSR would eventually fight Japan."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "franklin-roosevelt",
    "churchill",
@@ -3307,7 +3164,7 @@
    "ja": "1944年6月6日、アイゼンハワーを最高司令官とする連合軍が北フランスのノルマンディー海岸に上陸し、第二戦線が開かれた。8月にはパリが解放され、ド＝ゴールが凱旋した。",
    "en": "On 6 June 1944 Allied forces under Eisenhower landed on the Normandy beaches, opening the second front. Paris was liberated in August and de Gaulle entered the capital in triumph."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "eisenhower",
    "de-gaulle"
@@ -3332,7 +3189,7 @@
    "ja": "1944年8月、ソ連軍の接近にあわせてポーランド国内軍がワルシャワでドイツ軍に対して蜂起した。ソ連軍は進撃を止めて支援せず、蜂起は2カ月で鎮圧され、ワルシャワは徹底的に破壊された。",
    "en": "In August 1944, as the Red Army approached, the Polish Home Army rose against the Germans in Warsaw. The Soviets halted and gave no help; the rising was crushed after two months and the city razed."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [],
   "wiki": {
    "ja": "ワルシャワ蜂起",
@@ -3354,7 +3211,7 @@
    "ja": "1944年7月、連合国44カ国がアメリカのブレトン＝ウッズで戦後の国際経済体制を協議し、国際通貨基金（IMF）と国際復興開発銀行（世界銀行）の設立を決めた。ドルを基軸とする固定相場制が成立した。",
    "en": "In July 1944 forty-four Allied nations met at Bretton Woods, New Hampshire, to plan the postwar economy and agreed to create the IMF and the World Bank, establishing a dollar-based system of fixed exchange rates."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "keynes"
   ],
@@ -3378,7 +3235,7 @@
    "ja": "1944年10月、フィリピン奪回をめざす米軍のレイテ島上陸を阻止しようとした日本海軍が史上最大の海戦で壊滅した。日本は特攻作戦を開始し、サイパン陥落後は本土空襲も本格化した。",
    "en": "In October 1944 the Japanese navy was destroyed in history's largest naval battle while trying to stop the American landing on Leyte in the Philippines. Japan began kamikaze attacks; after Saipan's fall its homeland came under air raids."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [],
   "wiki": {
    "ja": "レイテ沖海戦",
@@ -3426,7 +3283,7 @@
    "ja": "1945年3月10日、米軍のB29による焼夷弾の無差別爆撃で東京の下町は焼き尽くされ、約10万人が死亡した。同年2月のドレスデン爆撃とともに、都市への戦略爆撃の惨禍を象徴する。",
    "en": "On 10 March 1945 American B-29s firebombed Tokyo's crowded eastern districts, killing about 100,000 people. Together with the bombing of Dresden in February, it epitomized the devastation of strategic bombing of cities."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [],
   "wiki": {
    "ja": "東京大空襲",
@@ -3470,7 +3327,7 @@
    "ja": "ソ連軍のベルリン攻略のさなか、1945年4月30日にヒトラーが自殺し、5月7〜8日にドイツは連合国に無条件降伏した。ヨーロッパの戦争は終結し、ドイツは米英仏ソの4カ国に分割占領された。",
    "en": "As the Red Army stormed Berlin, Hitler killed himself on 30 April 1945 and Germany surrendered unconditionally on 7–8 May. The war in Europe ended and Germany was divided into American, British, French and Soviet occupation zones."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "hitler"
   ],
@@ -3569,7 +3426,7 @@
    "ja": "1945年8月8日、ソ連はヤルタ協定にもとづき日ソ中立条約を破棄して日本に宣戦し、満州・朝鮮北部・南樺太・千島に侵攻した。多数の日本人がシベリアに抑留された。",
    "en": "On 8 August 1945, as promised at Yalta, the USSR renounced its neutrality pact and declared war on Japan, invading Manchuria, northern Korea, South Sakhalin and the Kurils. Hundreds of thousands of Japanese were interned in Siberia."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "stalin"
   ],
@@ -3593,7 +3450,7 @@
    "ja": "1945年8月9日、アメリカは長崎に2発目の原子爆弾を投下し、その年のうちに約7万人が死亡した。ソ連参戦と相まって日本政府はポツダム宣言受諾を決断した。",
    "en": "On 9 August 1945 the United States dropped a second atomic bomb on Nagasaki, killing about 70,000 people by year's end. Together with the Soviet attack, it drove the Japanese government to accept the Potsdam Declaration."
   },
-  "importance": 3,
+  "importance": 2,
   "persons": [
    "truman"
   ],
@@ -3641,7 +3498,7 @@
    "ja": "1905年の特殊相対性理論に続き、アインシュタインは1915年にベルリンで一般相対性理論を完成させた。時間・空間の概念を根本から変え、量子力学とともに20世紀の物理学の基礎となった。",
    "en": "Following his special relativity of 1905, Einstein completed the general theory of relativity in Berlin in 1915. It transformed the concepts of space and time and, with quantum mechanics, founded twentieth-century physics."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [
    "einstein"
   ],
@@ -3665,7 +3522,7 @@
    "ja": "1919年、建築家グロピウスがヴァイマルに設立した造形学校。芸術と技術の統合をめざし、機能的で合理的なデザインは近代建築に大きな影響を与えた。1933年ナチスにより閉鎖された。",
    "en": "Founded at Weimar in 1919 by the architect Gropius, the Bauhaus sought to unite art and technology. Its functional, rational design shaped modern architecture until the Nazis closed the school in 1933."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [
    "gropius"
   ],
@@ -3689,7 +3546,7 @@
    "ja": "1920年代のアメリカでは、フォードの流れ作業による自動車の大量生産、ラジオ放送や映画などの大衆文化が広がり、「永遠の繁栄」が謳われた。一方で禁酒法や移民法など保守的な風潮も強まった。",
    "en": "In the 1920s Ford's assembly-line cars, radio broadcasting and the cinema spread through American life amid talk of permanent prosperity, even as Prohibition and restrictive immigration laws reflected a conservative mood."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [],
   "wiki": {
    "ja": "狂騒の20年代",
@@ -3711,7 +3568,7 @@
    "ja": "1928年、イギリスの細菌学者フレミングがアオカビから抗生物質ペニシリンを発見した。第二次世界大戦中に量産化され、多くの負傷者や感染症患者の命を救った。",
    "en": "In 1928 the British bacteriologist Fleming discovered the antibiotic penicillin in a mold. Mass-produced during the Second World War, it saved countless lives from wounds and infection."
   },
-  "importance": 2,
+  "importance": 1,
   "persons": [
    "fleming"
   ],

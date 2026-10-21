@@ -30,6 +30,8 @@ const UI: Record<string, LText> = {
   'type.other': { ja: 'その他', en: 'Other' },
   'attrib.portrait': { ja: '肖像: Wikipedia', en: 'Portraits: Wikipedia' },
   snapshot: { ja: '地図は{y}の状態', en: 'map as of {y}' },
+  snapshotGap: { ja: '地図は{y}の状態(次の地図は{n})', en: 'map as of {y} (next map: {n})' },
+  'speed.unit': { ja: '{n}年/秒', en: '{n} yr/s' },
   'panel.sovereign': { ja: '宗主', en: 'Sovereign' },
   'panel.partof': { ja: '文化圏', en: 'Part of' },
   'panel.precision1': { ja: '境界は概略', en: 'approximate border' },

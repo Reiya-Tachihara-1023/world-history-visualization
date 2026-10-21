@@ -50,7 +50,18 @@ async function main() {
 
   // ---- year
   const note = document.getElementById('snapshot-note')!;
-  const updateSnapshotNote = () => { note.textContent = ui('snapshot', { y: formatYear(snapshotFor(ds.index, state.year)) }); };
+  const updateSnapshotNote = () => {
+    const snap = snapshotFor(ds.index, state.year);
+    const next = ds.index.years.find((y) => y > snap);
+    const gap = state.year - snap;
+    const wide = next !== undefined && gap > (state.year >= 1800 ? 15 : state.year >= 1000 ? 40 : 150);
+    note.textContent = wide ? ui('snapshotGap', { y: formatYear(snap), n: formatYear(next!) }) : ui('snapshot', { y: formatYear(snap) });
+    note.classList.toggle('warn', wide);
+  };
+  const speedSel = document.getElementById('speed') as HTMLSelectElement;
+  const renderSpeed = () => { for (const o of Array.from(speedSel.options)) o.textContent = ui('speed.unit', { n: o.value }); };
+  renderSpeed();
+  state.on('lang', renderSpeed);
   let raf = 0;
   state.on('year', () => {
     if (!raf) raf = requestAnimationFrame(() => { raf = 0; hmap.refresh(); updateSnapshotNote(); ticker.update(); writeHash(hmap.camera()); });
