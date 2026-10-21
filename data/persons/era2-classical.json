@@ -1,562 +1,1242 @@
 [
   {
     "id": "ptolemy-i",
-    "name": {"ja": "プトレマイオス1世", "en": "Ptolemy I Soter"},
+    "name": {
+      "ja": "プトレマイオス1世",
+      "en": "Ptolemy I Soter"
+    },
     "born": -367,
     "died": -282,
-    "active": [-323, -282],
-    "role": {"ja": "プトレマイオス朝エジプトの創始者", "en": "Founder of Ptolemaic Egypt"},
+    "active": [
+      -323,
+      -282
+    ],
+    "role": {
+      "ja": "プトレマイオス朝エジプトの創始者",
+      "en": "Founder of Ptolemaic Egypt"
+    },
     "lat": 31.2,
     "lon": 29.92,
-    "desc": {"ja": "アレクサンドロス大王の部将。大王の死後エジプトを確保して王となり、プトレマイオス朝を開いた。アレクサンドリアにムセイオンを設けた。", "en": "General of Alexander who secured Egypt after the king's death, became its ruler and founded the Ptolemaic dynasty, establishing the Mouseion at Alexandria."},
+    "desc": {
+      "ja": "アレクサンドロス大王の部将。大王の死後エジプトを確保して王となり、プトレマイオス朝を開いた。アレクサンドリアにムセイオンを設けた。",
+      "en": "General of Alexander who secured Egypt after the king's death, became its ruler and founded the Ptolemaic dynasty, establishing the Mouseion at Alexandria."
+    },
     "importance": 2,
-    "wiki": {"ja": "プトレマイオス1世", "en": "Ptolemy I Soter"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "プトレマイオス1世",
+      "en": "Ptolemy I Soter"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "seleucus-i",
-    "name": {"ja": "セレウコス1世", "en": "Seleucus I Nicator"},
+    "name": {
+      "ja": "セレウコス1世",
+      "en": "Seleucus I Nicator"
+    },
     "born": -358,
     "died": -281,
-    "active": [-312, -281],
-    "role": {"ja": "セレウコス朝シリアの創始者", "en": "Founder of the Seleucid Empire"},
+    "active": [
+      -312,
+      -281
+    ],
+    "role": {
+      "ja": "セレウコス朝シリアの創始者",
+      "en": "Founder of the Seleucid Empire"
+    },
     "lat": 36.2,
     "lon": 36.16,
-    "desc": {"ja": "アレクサンドロス大王の部将。ディアドコイ戦争でバビロニアを拠点に勢力を広げ、シリアからイランに及ぶセレウコス朝を建てた。", "en": "General of Alexander who, from a base in Babylonia, expanded his power during the Wars of the Diadochi and founded the Seleucid Empire from Syria to Iran."},
+    "desc": {
+      "ja": "アレクサンドロス大王の部将。ディアドコイ戦争でバビロニアを拠点に勢力を広げ、シリアからイランに及ぶセレウコス朝を建てた。",
+      "en": "General of Alexander who, from a base in Babylonia, expanded his power during the Wars of the Diadochi and founded the Seleucid Empire from Syria to Iran."
+    },
     "importance": 2,
-    "wiki": {"ja": "セレウコス1世", "en": "Seleucus I Nicator"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "セレウコス1世",
+      "en": "Seleucus I Nicator"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "archimedes",
-    "name": {"ja": "アルキメデス", "en": "Archimedes"},
+    "name": {
+      "ja": "アルキメデス",
+      "en": "Archimedes"
+    },
     "born": -287,
     "died": -212,
-    "active": [-260, -212],
-    "role": {"ja": "数学者・物理学者", "en": "Mathematician and physicist"},
+    "active": [
+      -260,
+      -212
+    ],
+    "role": {
+      "ja": "数学者・物理学者",
+      "en": "Mathematician and physicist"
+    },
     "lat": 37.08,
     "lon": 15.29,
-    "desc": {"ja": "シラクサ出身のヘレニズム最大の科学者。浮力の原理やてこの原理を発見し、円周率の近似値を求めた。第2回ポエニ戦争でローマ兵に殺された。", "en": "Syracusan scientist, the greatest of the Hellenistic age, who discovered the principles of buoyancy and the lever and approximated pi; killed by a Roman soldier."},
+    "desc": {
+      "ja": "シラクサ出身のヘレニズム最大の科学者。浮力の原理やてこの原理を発見し、円周率の近似値を求めた。第2回ポエニ戦争でローマ兵に殺された。",
+      "en": "Syracusan scientist, the greatest of the Hellenistic age, who discovered the principles of buoyancy and the lever and approximated pi; killed by a Roman soldier."
+    },
     "importance": 2,
-    "wiki": {"ja": "アルキメデス", "en": "Archimedes"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "アルキメデス",
+      "en": "Archimedes"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "chandragupta-maurya",
-    "name": {"ja": "チャンドラグプタ", "en": "Chandragupta Maurya"},
+    "name": {
+      "ja": "チャンドラグプタ",
+      "en": "Chandragupta Maurya"
+    },
     "born": null,
     "died": -297,
-    "active": [-321, -297],
-    "role": {"ja": "マウリヤ朝の創始者", "en": "Founder of the Maurya Empire"},
+    "active": [
+      -321,
+      -297
+    ],
+    "role": {
+      "ja": "マウリヤ朝の創始者",
+      "en": "Founder of the Maurya Empire"
+    },
     "lat": 25.61,
     "lon": 85.14,
-    "desc": {"ja": "ナンダ朝を倒してマウリヤ朝を建てた王。パータリプトラを都とし、セレウコス朝の侵入を退けて西北インドからデカンまで支配した。", "en": "King who overthrew the Nanda dynasty and founded the Maurya Empire at Pataliputra, repelling the Seleucids and ruling from the northwest to the Deccan."},
+    "desc": {
+      "ja": "ナンダ朝を倒してマウリヤ朝を建てた王。パータリプトラを都とし、セレウコス朝の侵入を退けて西北インドからデカンまで支配した。",
+      "en": "King who overthrew the Nanda dynasty and founded the Maurya Empire at Pataliputra, repelling the Seleucids and ruling from the northwest to the Deccan."
+    },
     "importance": 2,
-    "wiki": {"ja": "チャンドラグプタ (マウリヤ朝)", "en": "Chandragupta Maurya"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "チャンドラグプタ (マウリヤ朝)",
+      "en": "Chandragupta Maurya"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "ashoka",
-    "name": {"ja": "アショーカ王", "en": "Ashoka"},
+    "name": {
+      "ja": "アショーカ王",
+      "en": "Ashoka"
+    },
     "born": -304,
     "died": -232,
-    "active": [-268, -232],
-    "role": {"ja": "マウリヤ朝第3代の王", "en": "Third Mauryan emperor"},
+    "active": [
+      -268,
+      -232
+    ],
+    "role": {
+      "ja": "マウリヤ朝第3代の王",
+      "en": "Third Mauryan emperor"
+    },
     "lat": 25.61,
     "lon": 85.14,
-    "desc": {"ja": "マウリヤ朝最盛期の王。カリンガ征服の惨禍を悔いて仏教に帰依し、ダルマによる統治を磨崖碑・石柱碑に刻んだ。仏典結集やセイロン布教も行った。", "en": "Mauryan emperor at the empire's height who, remorseful after the conquest of Kalinga, embraced Buddhism, proclaimed rule by dharma in rock and pillar edicts and spread the faith to Ceylon."},
+    "desc": {
+      "ja": "マウリヤ朝最盛期の王。カリンガ征服の惨禍を悔いて仏教に帰依し、ダルマによる統治を磨崖碑・石柱碑に刻んだ。仏典結集やセイロン布教も行った。",
+      "en": "Mauryan emperor at the empire's height who, remorseful after the conquest of Kalinga, embraced Buddhism, proclaimed rule by dharma in rock and pillar edicts and spread the faith to Ceylon."
+    },
     "importance": 3,
-    "wiki": {"ja": "アショーカ", "en": "Ashoka"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "アショーカ",
+      "en": "Ashoka"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "kanishka",
-    "name": {"ja": "カニシカ王", "en": "Kanishka"},
+    "name": {
+      "ja": "カニシカ王",
+      "en": "Kanishka"
+    },
     "born": null,
     "died": null,
-    "active": [127, 150],
-    "role": {"ja": "クシャーナ朝の王", "en": "Kushan emperor"},
+    "active": [
+      127,
+      150
+    ],
+    "role": {
+      "ja": "クシャーナ朝の王",
+      "en": "Kushan emperor"
+    },
     "lat": 34.01,
     "lon": 71.58,
-    "desc": {"ja": "クシャーナ朝最盛期の王。プルシャプラを都に中央アジアからガンジス川中流域までを支配した。仏教を保護し、ガンダーラ美術が栄えた。", "en": "Kushan emperor at the dynasty's peak who ruled from Central Asia to the middle Ganges from Purushapura, patronized Buddhism and fostered Gandhara art."},
+    "desc": {
+      "ja": "クシャーナ朝最盛期の王。プルシャプラを都に中央アジアからガンジス川中流域までを支配した。仏教を保護し、ガンダーラ美術が栄えた。",
+      "en": "Kushan emperor at the dynasty's peak who ruled from Central Asia to the middle Ganges from Purushapura, patronized Buddhism and fostered Gandhara art."
+    },
     "importance": 3,
-    "wiki": {"ja": "カニシカ1世", "en": "Kanishka"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "カニシカ1世",
+      "en": "Kanishka"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "nagarjuna",
-    "name": {"ja": "ナーガールジュナ（竜樹）", "en": "Nagarjuna"},
+    "name": {
+      "ja": "ナーガールジュナ（竜樹）",
+      "en": "Nagarjuna"
+    },
     "born": null,
     "died": null,
-    "active": [150, 250],
-    "role": {"ja": "大乗仏教の思想家", "en": "Mahayana Buddhist philosopher"},
+    "active": [
+      150,
+      250
+    ],
+    "role": {
+      "ja": "大乗仏教の思想家",
+      "en": "Mahayana Buddhist philosopher"
+    },
     "lat": 16.52,
     "lon": 79.24,
-    "desc": {"ja": "南インド出身の仏教思想家。空の思想を理論化して大乗仏教の教理を確立し、中観派の祖とされる。東アジアでは八宗の祖と仰がれた。", "en": "South Indian Buddhist thinker who systematized the doctrine of emptiness, establishing Mahayana philosophy and founding the Madhyamaka school."},
+    "desc": {
+      "ja": "南インド出身の仏教思想家。空の思想を理論化して大乗仏教の教理を確立し、中観派の祖とされる。東アジアでは八宗の祖と仰がれた。",
+      "en": "South Indian Buddhist thinker who systematized the doctrine of emptiness, establishing Mahayana philosophy and founding the Madhyamaka school."
+    },
     "importance": 2,
-    "wiki": {"ja": "龍樹", "en": "Nagarjuna"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "龍樹",
+      "en": "Nagarjuna"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "chandragupta-ii",
-    "name": {"ja": "チャンドラグプタ2世", "en": "Chandragupta II"},
+    "name": {
+      "ja": "チャンドラグプタ2世",
+      "en": "Chandragupta II"
+    },
     "born": null,
     "died": 415,
-    "active": [376, 414],
-    "role": {"ja": "グプタ朝第3代の王", "en": "Third Gupta emperor"},
+    "active": [
+      376,
+      414
+    ],
+    "role": {
+      "ja": "グプタ朝第3代の王",
+      "en": "Third Gupta emperor"
+    },
     "lat": 25.61,
     "lon": 85.14,
-    "desc": {"ja": "グプタ朝最盛期の王で、超日王とも呼ばれる。北インドの大半を支配し、サンスクリット文学やヒンドゥー教を保護した。法顕が訪れた時代の王である。", "en": "Gupta emperor at the dynasty's zenith, known as Vikramaditya, who ruled most of northern India and patronized Sanskrit literature and Hinduism; Faxian visited India in his reign."},
+    "desc": {
+      "ja": "グプタ朝最盛期の王で、超日王とも呼ばれる。北インドの大半を支配し、サンスクリット文学やヒンドゥー教を保護した。法顕が訪れた時代の王である。",
+      "en": "Gupta emperor at the dynasty's zenith, known as Vikramaditya, who ruled most of northern India and patronized Sanskrit literature and Hinduism; Faxian visited India in his reign."
+    },
     "importance": 3,
-    "wiki": {"ja": "チャンドラグプタ2世", "en": "Chandragupta II"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "チャンドラグプタ2世",
+      "en": "Chandragupta II"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "kalidasa",
-    "name": {"ja": "カーリダーサ", "en": "Kalidasa"},
+    "name": {
+      "ja": "カーリダーサ",
+      "en": "Kalidasa"
+    },
     "born": null,
     "died": null,
-    "active": [380, 450],
-    "role": {"ja": "サンスクリット詩人・劇作家", "en": "Sanskrit poet and dramatist"},
+    "active": [
+      380,
+      450
+    ],
+    "role": {
+      "ja": "サンスクリット詩人・劇作家",
+      "en": "Sanskrit poet and dramatist"
+    },
     "lat": 23.18,
     "lon": 75.78,
-    "desc": {"ja": "グプタ朝の宮廷詩人。戯曲『シャクンタラー』や叙情詩『メーガドゥータ』を著し、サンスクリット文学の最高峰とされる。", "en": "Court poet of the Gupta age whose drama Shakuntala and lyric poem Meghaduta represent the summit of Sanskrit literature."},
+    "desc": {
+      "ja": "グプタ朝の宮廷詩人。戯曲『シャクンタラー』や叙情詩『メーガドゥータ』を著し、サンスクリット文学の最高峰とされる。",
+      "en": "Court poet of the Gupta age whose drama Shakuntala and lyric poem Meghaduta represent the summit of Sanskrit literature."
+    },
     "importance": 2,
-    "wiki": {"ja": "カーリダーサ", "en": "Kalidasa"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "カーリダーサ",
+      "en": "Kalidasa"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "faxian",
-    "name": {"ja": "法顕", "en": "Faxian"},
+    "name": {
+      "ja": "法顕",
+      "en": "Faxian"
+    },
     "born": 337,
     "died": 422,
-    "active": [399, 422],
-    "role": {"ja": "東晋の僧", "en": "Eastern Jin Buddhist monk"},
+    "active": [
+      399,
+      422
+    ],
+    "role": {
+      "ja": "東晋の僧",
+      "en": "Eastern Jin Buddhist monk"
+    },
     "lat": 34.27,
     "lon": 108.94,
-    "desc": {"ja": "東晋の僧。仏典を求めて399年に長安を出発し、陸路でインドに至りグプタ朝治下を見聞した後、海路で帰国した。旅行記『仏国記』を残した。", "en": "Eastern Jin monk who left Chang'an in 399 for India in search of scriptures, observed Gupta India and returned by sea, leaving the travelogue Record of Buddhist Kingdoms."},
+    "desc": {
+      "ja": "東晋の僧。仏典を求めて399年に長安を出発し、陸路でインドに至りグプタ朝治下を見聞した後、海路で帰国した。旅行記『仏国記』を残した。",
+      "en": "Eastern Jin monk who left Chang'an in 399 for India in search of scriptures, observed Gupta India and returned by sea, leaving the travelogue Record of Buddhist Kingdoms."
+    },
     "importance": 2,
-    "wiki": {"ja": "法顕", "en": "Faxian"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "法顕",
+      "en": "Faxian"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "qin-shi-huang",
-    "name": {"ja": "始皇帝", "en": "Qin Shi Huang"},
+    "name": {
+      "ja": "始皇帝",
+      "en": "Qin Shi Huang"
+    },
     "born": -259,
     "died": -210,
-    "active": [-246, -210],
-    "role": {"ja": "秦の初代皇帝", "en": "First Emperor of Qin"},
+    "active": [
+      -246,
+      -210
+    ],
+    "role": {
+      "ja": "秦の初代皇帝",
+      "en": "First Emperor of Qin"
+    },
     "lat": 34.33,
     "lon": 108.71,
-    "desc": {"ja": "前221年に六国を滅ぼして中国を統一し、初めて皇帝を称した。郡県制を全国に施行し、文字・度量衡・貨幣を統一、焚書坑儒で思想を統制し、万里の長城を修築した。", "en": "Unified China in 221 BC and took the title of First Emperor; he imposed commanderies nationwide, standardized script, measures and coinage, suppressed dissent and built the Great Wall."},
+    "desc": {
+      "ja": "前221年に六国を滅ぼして中国を統一し、初めて皇帝を称した。郡県制を全国に施行し、文字・度量衡・貨幣を統一、焚書坑儒で思想を統制し、万里の長城を修築した。",
+      "en": "Unified China in 221 BC and took the title of First Emperor; he imposed commanderies nationwide, standardized script, measures and coinage, suppressed dissent and built the Great Wall."
+    },
     "importance": 3,
-    "wiki": {"ja": "始皇帝", "en": "Qin Shi Huang"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "始皇帝",
+      "en": "Qin Shi Huang"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "liu-bang",
-    "name": {"ja": "劉邦（高祖）", "en": "Liu Bang (Emperor Gaozu of Han)"},
+    "name": {
+      "ja": "劉邦（高祖）",
+      "en": "Liu Bang (Emperor Gaozu of Han)"
+    },
     "born": -256,
     "died": -195,
-    "active": [-209, -195],
-    "role": {"ja": "前漢の初代皇帝", "en": "Founding emperor of the Han"},
+    "active": [
+      -209,
+      -195
+    ],
+    "role": {
+      "ja": "前漢の初代皇帝",
+      "en": "Founding emperor of the Han"
+    },
     "lat": 34.27,
     "lon": 108.94,
-    "desc": {"ja": "農民出身で秦末の反乱に加わり、秦を滅ぼした後、垓下の戦いで項羽を破って皇帝となった。長安を都とし、郡国制を採用して前漢の基礎を築いた。", "en": "Peasant-born rebel who toppled the Qin, defeated Xiang Yu at Gaixia and became emperor, founding the Han at Chang'an with a mixed commandery-kingdom system."},
+    "desc": {
+      "ja": "農民出身で秦末の反乱に加わり、秦を滅ぼした後、垓下の戦いで項羽を破って皇帝となった。長安を都とし、郡国制を採用して前漢の基礎を築いた。",
+      "en": "Peasant-born rebel who toppled the Qin, defeated Xiang Yu at Gaixia and became emperor, founding the Han at Chang'an with a mixed commandery-kingdom system."
+    },
     "importance": 3,
-    "wiki": {"ja": "劉邦", "en": "Emperor Gaozu of Han"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "劉邦",
+      "en": "Emperor Gaozu of Han"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "emperor-wu-of-han",
-    "name": {"ja": "武帝", "en": "Emperor Wu of Han"},
+    "name": {
+      "ja": "武帝",
+      "en": "Emperor Wu of Han"
+    },
     "born": -156,
     "died": -87,
-    "active": [-141, -87],
-    "role": {"ja": "前漢第7代皇帝", "en": "Seventh emperor of the Han"},
+    "active": [
+      -141,
+      -87
+    ],
+    "role": {
+      "ja": "前漢第7代皇帝",
+      "en": "Seventh emperor of the Han"
+    },
     "lat": 34.27,
     "lon": 108.94,
-    "desc": {"ja": "前漢最盛期の皇帝。匈奴を討ち、南越・衛氏朝鮮を征服して領土を広げた。張騫を西域に派遣し、儒学を官学化、塩・鉄の専売などで財政を立て直した。", "en": "Han emperor at the dynasty's peak who fought the Xiongnu, conquered Nanyue and Korea, sent Zhang Qian to the west, made Confucianism state doctrine and imposed salt and iron monopolies."},
+    "desc": {
+      "ja": "前漢最盛期の皇帝。匈奴を討ち、南越・衛氏朝鮮を征服して領土を広げた。張騫を西域に派遣し、儒学を官学化、塩・鉄の専売などで財政を立て直した。",
+      "en": "Han emperor at the dynasty's peak who fought the Xiongnu, conquered Nanyue and Korea, sent Zhang Qian to the west, made Confucianism state doctrine and imposed salt and iron monopolies."
+    },
     "importance": 3,
-    "wiki": {"ja": "武帝 (漢)", "en": "Emperor Wu of Han"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "武帝 (漢)",
+      "en": "Emperor Wu of Han"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "zhang-qian",
-    "name": {"ja": "張騫", "en": "Zhang Qian"},
+    "name": {
+      "ja": "張騫",
+      "en": "Zhang Qian"
+    },
     "born": null,
     "died": -114,
-    "active": [-139, -114],
-    "role": {"ja": "前漢の外交使節", "en": "Han envoy to the Western Regions"},
+    "active": [
+      -139,
+      -114
+    ],
+    "role": {
+      "ja": "前漢の外交使節",
+      "en": "Han envoy to the Western Regions"
+    },
     "lat": 34.27,
     "lon": 108.94,
-    "desc": {"ja": "武帝の命で匈奴挟撃の同盟を求めて大月氏に派遣された。匈奴に捕らえられながらも西域を踏査し、帰国後その知識が漢の西域進出と絹の道の発展をもたらした。", "en": "Sent by Emperor Wu to seek an alliance with the Yuezhi against the Xiongnu; captured on the way, he nonetheless explored the Western Regions and his reports opened the Silk Road."},
+    "desc": {
+      "ja": "武帝の命で匈奴挟撃の同盟を求めて大月氏に派遣された。匈奴に捕らえられながらも西域を踏査し、帰国後その知識が漢の西域進出と絹の道の発展をもたらした。",
+      "en": "Sent by Emperor Wu to seek an alliance with the Yuezhi against the Xiongnu; captured on the way, he nonetheless explored the Western Regions and his reports opened the Silk Road."
+    },
     "importance": 3,
-    "wiki": {"ja": "張騫", "en": "Zhang Qian"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "張騫",
+      "en": "Zhang Qian"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "sima-qian",
-    "name": {"ja": "司馬遷", "en": "Sima Qian"},
+    "name": {
+      "ja": "司馬遷",
+      "en": "Sima Qian"
+    },
     "born": -145,
     "died": -86,
-    "active": [-108, -86],
-    "role": {"ja": "前漢の歴史家", "en": "Han historian"},
+    "active": [
+      -108,
+      -86
+    ],
+    "role": {
+      "ja": "前漢の歴史家",
+      "en": "Han historian"
+    },
     "lat": 34.27,
     "lon": 108.94,
-    "desc": {"ja": "武帝に仕えた歴史家。李陵を弁護して宮刑に処されたが、父の遺志を継いで黄帝から武帝までの通史『史記』を完成させ、紀伝体の祖となった。", "en": "Historian under Emperor Wu who, though castrated for defending Li Ling, completed the Shiji, a history from the Yellow Emperor to his own day, establishing the annals-biography form."},
+    "desc": {
+      "ja": "武帝に仕えた歴史家。李陵を弁護して宮刑に処されたが、父の遺志を継いで黄帝から武帝までの通史『史記』を完成させ、紀伝体の祖となった。",
+      "en": "Historian under Emperor Wu who, though castrated for defending Li Ling, completed the Shiji, a history from the Yellow Emperor to his own day, establishing the annals-biography form."
+    },
     "importance": 3,
-    "wiki": {"ja": "司馬遷", "en": "Sima Qian"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "司馬遷",
+      "en": "Sima Qian"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "wang-mang",
-    "name": {"ja": "王莽", "en": "Wang Mang"},
+    "name": {
+      "ja": "王莽",
+      "en": "Wang Mang"
+    },
     "born": -45,
     "died": 23,
-    "active": [8, 23],
-    "role": {"ja": "新の皇帝", "en": "Emperor of the Xin dynasty"},
+    "active": [
+      8,
+      23
+    ],
+    "role": {
+      "ja": "新の皇帝",
+      "en": "Emperor of the Xin dynasty"
+    },
     "lat": 34.27,
     "lon": 108.94,
-    "desc": {"ja": "前漢の外戚として実権を握り、8年に帝位を奪って新を建てた。『周礼』に基づく復古的な改革を強行したが社会を混乱させ、赤眉の乱の中で殺された。", "en": "Han imperial in-law who seized the throne in AD 8 and founded the Xin; his archaizing reforms based on the Rites of Zhou caused chaos and he died in the Red Eyebrows uprising."},
+    "desc": {
+      "ja": "前漢の外戚として実権を握り、8年に帝位を奪って新を建てた。『周礼』に基づく復古的な改革を強行したが社会を混乱させ、赤眉の乱の中で殺された。",
+      "en": "Han imperial in-law who seized the throne in AD 8 and founded the Xin; his archaizing reforms based on the Rites of Zhou caused chaos and he died in the Red Eyebrows uprising."
+    },
     "importance": 2,
-    "wiki": {"ja": "王莽", "en": "Wang Mang"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "王莽",
+      "en": "Wang Mang"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "guangwu",
-    "name": {"ja": "光武帝", "en": "Emperor Guangwu of Han"},
+    "name": {
+      "ja": "光武帝",
+      "en": "Emperor Guangwu of Han"
+    },
     "born": -5,
     "died": 57,
-    "active": [25, 57],
-    "role": {"ja": "後漢の初代皇帝", "en": "Founding emperor of the Later Han"},
+    "active": [
+      25,
+      57
+    ],
+    "role": {
+      "ja": "後漢の初代皇帝",
+      "en": "Founding emperor of the Later Han"
+    },
     "lat": 34.68,
     "lon": 112.45,
-    "desc": {"ja": "漢の一族劉秀。新の滅亡後の混乱を収めて25年に帝位につき、洛陽を都に後漢を建てた。57年には倭の奴国王に印綬を授けた。", "en": "Liu Xiu, a Han scion, who restored order after the fall of Xin, took the throne in 25 and founded the Later Han at Luoyang; in 57 he granted a seal to the king of Na in Wa."},
+    "desc": {
+      "ja": "漢の一族劉秀。新の滅亡後の混乱を収めて25年に帝位につき、洛陽を都に後漢を建てた。57年には倭の奴国王に印綬を授けた。",
+      "en": "Liu Xiu, a Han scion, who restored order after the fall of Xin, took the throne in 25 and founded the Later Han at Luoyang; in 57 he granted a seal to the king of Na in Wa."
+    },
     "importance": 2,
-    "wiki": {"ja": "光武帝", "en": "Emperor Guangwu of Han"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "光武帝",
+      "en": "Emperor Guangwu of Han"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "cai-lun",
-    "name": {"ja": "蔡倫", "en": "Cai Lun"},
+    "name": {
+      "ja": "蔡倫",
+      "en": "Cai Lun"
+    },
     "born": null,
     "died": 121,
-    "active": [89, 121],
-    "role": {"ja": "後漢の宦官・製紙法の改良者", "en": "Han eunuch, improver of papermaking"},
+    "active": [
+      89,
+      121
+    ],
+    "role": {
+      "ja": "後漢の宦官・製紙法の改良者",
+      "en": "Han eunuch, improver of papermaking"
+    },
     "lat": 34.68,
     "lon": 112.45,
-    "desc": {"ja": "後漢の宦官。樹皮・麻くず・ぼろ布を原料とする製紙法を改良して105年に和帝に献上した。紙は木簡・竹簡に代わって広まり、やがて西方に伝わった。", "en": "Han eunuch who improved papermaking with bark, hemp and rags and presented it to Emperor He in 105; paper replaced bamboo and wooden slips and later spread westward."},
+    "desc": {
+      "ja": "後漢の宦官。樹皮・麻くず・ぼろ布を原料とする製紙法を改良して105年に和帝に献上した。紙は木簡・竹簡に代わって広まり、やがて西方に伝わった。",
+      "en": "Han eunuch who improved papermaking with bark, hemp and rags and presented it to Emperor He in 105; paper replaced bamboo and wooden slips and later spread westward."
+    },
     "importance": 2,
-    "wiki": {"ja": "蔡倫", "en": "Cai Lun"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "蔡倫",
+      "en": "Cai Lun"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "cao-cao",
-    "name": {"ja": "曹操", "en": "Cao Cao"},
+    "name": {
+      "ja": "曹操",
+      "en": "Cao Cao"
+    },
     "born": 155,
     "died": 220,
-    "active": [184, 220],
-    "role": {"ja": "後漢末の武将・魏の基礎を築いた政治家", "en": "Warlord and founder of the basis of Cao Wei"},
+    "active": [
+      184,
+      220
+    ],
+    "role": {
+      "ja": "後漢末の武将・魏の基礎を築いた政治家",
+      "en": "Warlord and founder of the basis of Cao Wei"
+    },
     "lat": 34.04,
     "lon": 113.85,
-    "desc": {"ja": "黄巾の乱の鎮圧で頭角を現し、献帝を擁して華北を統一した。赤壁の戦いで孫権・劉備に敗れて天下統一はならず、死後に子の曹丕が魏を建てた。", "en": "Rose in suppressing the Yellow Turbans, took control of the Han emperor and unified the north; defeated at Red Cliffs, he never won all of China, and his son Cao Pi founded Wei after his death."},
+    "desc": {
+      "ja": "黄巾の乱の鎮圧で頭角を現し、献帝を擁して華北を統一した。赤壁の戦いで孫権・劉備に敗れて天下統一はならず、死後に子の曹丕が魏を建てた。",
+      "en": "Rose in suppressing the Yellow Turbans, took control of the Han emperor and unified the north; defeated at Red Cliffs, he never won all of China, and his son Cao Pi founded Wei after his death."
+    },
     "importance": 2,
-    "wiki": {"ja": "曹操", "en": "Cao Cao"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "曹操",
+      "en": "Cao Cao"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "himiko",
-    "name": {"ja": "卑弥呼", "en": "Himiko"},
+    "name": {
+      "ja": "卑弥呼",
+      "en": "Himiko"
+    },
     "born": null,
     "died": 248,
-    "active": [239, 248],
-    "role": {"ja": "邪馬台国の女王", "en": "Queen of Yamatai"},
+    "active": [
+      239,
+      248
+    ],
+    "role": {
+      "ja": "邪馬台国の女王",
+      "en": "Queen of Yamatai"
+    },
     "lat": 34.5,
     "lon": 135.8,
-    "desc": {"ja": "『魏志』倭人伝に記される邪馬台国の女王。鬼道をよくして諸国を従え、239年に魏に使者を送って「親魏倭王」の称号と金印を授けられた。", "en": "Queen of Yamatai described in the Wei chronicle, who ruled through shamanic authority and in 239 sent envoys to Wei, receiving the title 'Queen of Wa, Friend of Wei' and a gold seal."},
+    "desc": {
+      "ja": "『魏志』倭人伝に記される邪馬台国の女王。鬼道をよくして諸国を従え、239年に魏に使者を送って「親魏倭王」の称号と金印を授けられた。",
+      "en": "Queen of Yamatai described in the Wei chronicle, who ruled through shamanic authority and in 239 sent envoys to Wei, receiving the title 'Queen of Wa, Friend of Wei' and a gold seal."
+    },
     "importance": 2,
-    "wiki": {"ja": "卑弥呼", "en": "Himiko"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "卑弥呼",
+      "en": "Himiko"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "emperor-xiaowen",
-    "name": {"ja": "孝文帝", "en": "Emperor Xiaowen of Northern Wei"},
+    "name": {
+      "ja": "孝文帝",
+      "en": "Emperor Xiaowen of Northern Wei"
+    },
     "born": 467,
     "died": 499,
-    "active": [471, 499],
-    "role": {"ja": "北魏第6代皇帝", "en": "Sixth emperor of the Northern Wei"},
+    "active": [
+      471,
+      499
+    ],
+    "role": {
+      "ja": "北魏第6代皇帝",
+      "en": "Sixth emperor of the Northern Wei"
+    },
     "lat": 34.68,
     "lon": 112.45,
-    "desc": {"ja": "北魏の皇帝。均田制・三長制を施行して統治を整え、494年に洛陽へ遷都し、鮮卑の服装・言語を禁じる漢化政策を進めた。", "en": "Northern Wei emperor who instituted the equal-field and three-elder systems, moved the capital to Luoyang in 494 and pursued sinicization, banning Xianbei dress and language."},
+    "desc": {
+      "ja": "北魏の皇帝。均田制・三長制を施行して統治を整え、494年に洛陽へ遷都し、鮮卑の服装・言語を禁じる漢化政策を進めた。",
+      "en": "Northern Wei emperor who instituted the equal-field and three-elder systems, moved the capital to Luoyang in 494 and pursued sinicization, banning Xianbei dress and language."
+    },
     "importance": 3,
-    "wiki": {"ja": "孝文帝", "en": "Emperor Xiaowen of Northern Wei"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "孝文帝",
+      "en": "Emperor Xiaowen of Northern Wei"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "yang-jian",
-    "name": {"ja": "楊堅（文帝）", "en": "Yang Jian (Emperor Wen of Sui)"},
+    "name": {
+      "ja": "楊堅（文帝）",
+      "en": "Yang Jian (Emperor Wen of Sui)"
+    },
     "born": 541,
     "died": 604,
-    "active": [581, 604],
-    "role": {"ja": "隋の初代皇帝", "en": "Founding emperor of the Sui"},
+    "active": [
+      581,
+      604
+    ],
+    "role": {
+      "ja": "隋の初代皇帝",
+      "en": "Founding emperor of the Sui"
+    },
     "lat": 34.27,
     "lon": 108.94,
-    "desc": {"ja": "北周の外戚から帝位を奪って581年に隋を建て、589年に陳を滅ぼして南北朝の分裂を終わらせた。均田制・府兵制を整え、科挙を始めた。", "en": "Northern Zhou in-law who seized the throne to found the Sui in 581 and conquered Chen in 589, ending the north-south division; he organized the equal-field, militia and examination systems."},
+    "desc": {
+      "ja": "北周の外戚から帝位を奪って581年に隋を建て、589年に陳を滅ぼして南北朝の分裂を終わらせた。均田制・府兵制を整え、科挙を始めた。",
+      "en": "Northern Zhou in-law who seized the throne to found the Sui in 581 and conquered Chen in 589, ending the north-south division; he organized the equal-field, militia and examination systems."
+    },
     "importance": 3,
-    "wiki": {"ja": "文帝 (隋)", "en": "Emperor Wen of Sui"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "文帝 (隋)",
+      "en": "Emperor Wen of Sui"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "ardashir-i",
-    "name": {"ja": "アルダシール1世", "en": "Ardashir I"},
+    "name": {
+      "ja": "アルダシール1世",
+      "en": "Ardashir I"
+    },
     "born": null,
     "died": 242,
-    "active": [224, 242],
-    "role": {"ja": "ササン朝ペルシアの創始者", "en": "Founder of the Sasanian Empire"},
+    "active": [
+      224,
+      242
+    ],
+    "role": {
+      "ja": "ササン朝ペルシアの創始者",
+      "en": "Founder of the Sasanian Empire"
+    },
     "lat": 33.09,
     "lon": 44.58,
-    "desc": {"ja": "ファールス地方の領主から身を起こし、224年にパルティアを倒してササン朝を建てた。クテシフォンを都とし、ゾロアスター教を国教とした。", "en": "Lord of Fars who overthrew the Parthians in 224 and founded the Sasanian Empire, ruling from Ctesiphon and making Zoroastrianism the state religion."},
+    "desc": {
+      "ja": "ファールス地方の領主から身を起こし、224年にパルティアを倒してササン朝を建てた。クテシフォンを都とし、ゾロアスター教を国教とした。",
+      "en": "Lord of Fars who overthrew the Parthians in 224 and founded the Sasanian Empire, ruling from Ctesiphon and making Zoroastrianism the state religion."
+    },
     "importance": 2,
-    "wiki": {"ja": "アルダシール1世", "en": "Ardashir I"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "アルダシール1世",
+      "en": "Ardashir I"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "shapur-i",
-    "name": {"ja": "シャープール1世", "en": "Shapur I"},
+    "name": {
+      "ja": "シャープール1世",
+      "en": "Shapur I"
+    },
     "born": null,
     "died": 272,
-    "active": [241, 272],
-    "role": {"ja": "ササン朝第2代の王", "en": "Second Sasanian king"},
+    "active": [
+      241,
+      272
+    ],
+    "role": {
+      "ja": "ササン朝第2代の王",
+      "en": "Second Sasanian king"
+    },
     "lat": 33.09,
     "lon": 44.58,
-    "desc": {"ja": "ササン朝第2代の王。東方のクシャーナ朝を討ち、260年のエデッサの戦いでローマ皇帝ウァレリアヌスを捕虜にした。マニを保護した。", "en": "Second Sasanian king who defeated the Kushans in the east, captured the Roman emperor Valerian at Edessa in 260 and protected the prophet Mani."},
+    "desc": {
+      "ja": "ササン朝第2代の王。東方のクシャーナ朝を討ち、260年のエデッサの戦いでローマ皇帝ウァレリアヌスを捕虜にした。マニを保護した。",
+      "en": "Second Sasanian king who defeated the Kushans in the east, captured the Roman emperor Valerian at Edessa in 260 and protected the prophet Mani."
+    },
     "importance": 2,
-    "wiki": {"ja": "シャープール1世", "en": "Shapur I"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "シャープール1世",
+      "en": "Shapur I"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "khosrow-i",
-    "name": {"ja": "ホスロー1世", "en": "Khosrow I"},
+    "name": {
+      "ja": "ホスロー1世",
+      "en": "Khosrow I"
+    },
     "born": null,
     "died": 579,
-    "active": [531, 579],
-    "role": {"ja": "ササン朝最盛期の王", "en": "Sasanian king at the empire's height"},
+    "active": [
+      531,
+      579
+    ],
+    "role": {
+      "ja": "ササン朝最盛期の王",
+      "en": "Sasanian king at the empire's height"
+    },
     "lat": 33.09,
     "lon": 44.58,
-    "desc": {"ja": "ササン朝最盛期の王。税制・軍制を改革し、ビザンツのユスティニアヌス帝と争った。突厥と結んでエフタルを滅ぼし、文化を保護した。", "en": "Sasanian king at the empire's zenith who reformed taxation and the army, fought Justinian, destroyed the Hephthalites in alliance with the Türks and patronized learning."},
+    "desc": {
+      "ja": "ササン朝最盛期の王。税制・軍制を改革し、ビザンツのユスティニアヌス帝と争った。突厥と結んでエフタルを滅ぼし、文化を保護した。",
+      "en": "Sasanian king at the empire's zenith who reformed taxation and the army, fought Justinian, destroyed the Hephthalites in alliance with the Türks and patronized learning."
+    },
     "importance": 3,
-    "wiki": {"ja": "ホスロー1世", "en": "Khosrow I"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ホスロー1世",
+      "en": "Khosrow I"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "mani",
-    "name": {"ja": "マニ", "en": "Mani"},
+    "name": {
+      "ja": "マニ",
+      "en": "Mani"
+    },
     "born": 216,
     "died": 274,
-    "active": [242, 274],
-    "role": {"ja": "マニ教の開祖", "en": "Founder of Manichaeism"},
+    "active": [
+      242,
+      274
+    ],
+    "role": {
+      "ja": "マニ教の開祖",
+      "en": "Founder of Manichaeism"
+    },
     "lat": 33.09,
     "lon": 44.58,
-    "desc": {"ja": "ササン朝のもとでゾロアスター教・仏教・キリスト教を融合した二元論のマニ教を説いた。シャープール1世に保護されたが、のち弾圧されて処刑された。", "en": "Preached under the Sasanians a dualist religion blending Zoroastrian, Buddhist and Christian elements; protected by Shapur I, he was later persecuted and executed."},
+    "desc": {
+      "ja": "ササン朝のもとでゾロアスター教・仏教・キリスト教を融合した二元論のマニ教を説いた。シャープール1世に保護されたが、のち弾圧されて処刑された。",
+      "en": "Preached under the Sasanians a dualist religion blending Zoroastrian, Buddhist and Christian elements; protected by Shapur I, he was later persecuted and executed."
+    },
     "importance": 2,
-    "wiki": {"ja": "マニ (預言者)", "en": "Mani (prophet)"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "マニ (預言者)",
+      "en": "Mani (prophet)"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "hannibal",
-    "name": {"ja": "ハンニバル", "en": "Hannibal"},
+    "name": {
+      "ja": "ハンニバル",
+      "en": "Hannibal"
+    },
     "born": -247,
     "died": -183,
-    "active": [-221, -183],
-    "role": {"ja": "カルタゴの将軍", "en": "Carthaginian general"},
+    "active": [
+      -221,
+      -183
+    ],
+    "role": {
+      "ja": "カルタゴの将軍",
+      "en": "Carthaginian general"
+    },
     "lat": 36.85,
     "lon": 10.32,
-    "desc": {"ja": "第2回ポエニ戦争でアルプスを越えてイタリアに侵入し、カンネーの戦いでローマ軍を殲滅した。ザマの戦いでスキピオに敗れ、のち亡命先で自殺した。", "en": "Carthaginian general who crossed the Alps in the Second Punic War and annihilated the Romans at Cannae; defeated by Scipio at Zama, he later died in exile by his own hand."},
+    "desc": {
+      "ja": "第2回ポエニ戦争でアルプスを越えてイタリアに侵入し、カンネーの戦いでローマ軍を殲滅した。ザマの戦いでスキピオに敗れ、のち亡命先で自殺した。",
+      "en": "Carthaginian general who crossed the Alps in the Second Punic War and annihilated the Romans at Cannae; defeated by Scipio at Zama, he later died in exile by his own hand."
+    },
     "importance": 3,
-    "wiki": {"ja": "ハンニバル", "en": "Hannibal"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ハンニバル",
+      "en": "Hannibal"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "tiberius-gracchus",
-    "name": {"ja": "ティベリウス=グラックス", "en": "Tiberius Gracchus"},
+    "name": {
+      "ja": "ティベリウス=グラックス",
+      "en": "Tiberius Gracchus"
+    },
     "born": -163,
     "died": -133,
-    "active": [-133, -133],
-    "role": {"ja": "ローマの護民官", "en": "Roman tribune of the plebs"},
+    "active": [
+      -133,
+      -133
+    ],
+    "role": {
+      "ja": "ローマの護民官",
+      "en": "Roman tribune of the plebs"
+    },
     "lat": 41.89,
     "lon": 12.48,
-    "desc": {"ja": "前133年に護民官となり、中小農民の没落を防ぐため大土地所有を制限する農地法を提案した。元老院派の反対を受け、暴動の中で殺された。", "en": "Tribune in 133 BC who proposed an agrarian law limiting large landholdings to save the small farmers; opposed by the senatorial faction, he was killed in a riot."},
+    "desc": {
+      "ja": "前133年に護民官となり、中小農民の没落を防ぐため大土地所有を制限する農地法を提案した。元老院派の反対を受け、暴動の中で殺された。",
+      "en": "Tribune in 133 BC who proposed an agrarian law limiting large landholdings to save the small farmers; opposed by the senatorial faction, he was killed in a riot."
+    },
     "importance": 3,
-    "wiki": {"ja": "ティベリウス・センプロニウス・グラックス", "en": "Tiberius Gracchus"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ティベリウス・センプロニウス・グラックス",
+      "en": "Tiberius Gracchus"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "julius-caesar",
-    "name": {"ja": "カエサル", "en": "Julius Caesar"},
+    "name": {
+      "ja": "カエサル",
+      "en": "Julius Caesar"
+    },
     "born": -100,
     "died": -44,
-    "active": [-60, -44],
-    "role": {"ja": "ローマの政治家・将軍", "en": "Roman statesman and general"},
+    "active": [
+      -60,
+      -44
+    ],
+    "role": {
+      "ja": "ローマの政治家・将軍",
+      "en": "Roman statesman and general"
+    },
     "lat": 41.89,
     "lon": 12.48,
-    "desc": {"ja": "第1回三頭政治を結び、ガリアを征服して名声を得た。ポンペイウスを倒して終身独裁官となり、ユリウス暦を制定したが、共和派のブルートゥスらに暗殺された。", "en": "Formed the First Triumvirate and won fame conquering Gaul; after defeating Pompey he became dictator for life and introduced the Julian calendar, but was assassinated by Brutus and other republicans."},
+    "desc": {
+      "ja": "第1回三頭政治を結び、ガリアを征服して名声を得た。ポンペイウスを倒して終身独裁官となり、ユリウス暦を制定したが、共和派のブルートゥスらに暗殺された。",
+      "en": "Formed the First Triumvirate and won fame conquering Gaul; after defeating Pompey he became dictator for life and introduced the Julian calendar, but was assassinated by Brutus and other republicans."
+    },
     "importance": 3,
-    "wiki": {"ja": "ガイウス・ユリウス・カエサル", "en": "Julius Caesar"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ガイウス・ユリウス・カエサル",
+      "en": "Julius Caesar"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "augustus",
-    "name": {"ja": "オクタウィアヌス（アウグストゥス）", "en": "Augustus"},
+    "name": {
+      "ja": "オクタウィアヌス（アウグストゥス）",
+      "en": "Augustus"
+    },
     "born": -63,
     "died": 14,
-    "active": [-43, 14],
-    "role": {"ja": "ローマ初代皇帝", "en": "First Roman emperor"},
+    "active": [
+      -43,
+      14
+    ],
+    "role": {
+      "ja": "ローマ初代皇帝",
+      "en": "First Roman emperor"
+    },
     "lat": 41.89,
     "lon": 12.48,
-    "desc": {"ja": "カエサルの養子。第2回三頭政治を経てアクティウムの海戦でアントニウスを破り、前27年に元老院からアウグストゥスの称号を受けて元首政を始めた。", "en": "Caesar's adopted heir who, after the Second Triumvirate, defeated Antony at Actium and in 27 BC received the title Augustus, founding the Principate."},
+    "desc": {
+      "ja": "カエサルの養子。第2回三頭政治を経てアクティウムの海戦でアントニウスを破り、前27年に元老院からアウグストゥスの称号を受けて元首政を始めた。",
+      "en": "Caesar's adopted heir who, after the Second Triumvirate, defeated Antony at Actium and in 27 BC received the title Augustus, founding the Principate."
+    },
     "importance": 3,
-    "wiki": {"ja": "アウグストゥス", "en": "Augustus"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "アウグストゥス",
+      "en": "Augustus"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "jesus",
-    "name": {"ja": "イエス", "en": "Jesus"},
+    "name": {
+      "ja": "イエス",
+      "en": "Jesus"
+    },
     "born": -4,
     "died": 30,
-    "active": [27, 30],
-    "role": {"ja": "キリスト教の開祖", "en": "Founder of Christianity"},
+    "active": [
+      27,
+      30
+    ],
+    "role": {
+      "ja": "キリスト教の開祖",
+      "en": "Founder of Christianity"
+    },
     "lat": 31.78,
     "lon": 35.23,
-    "desc": {"ja": "パレスチナで神の愛と隣人愛を説き、形式化したユダヤ教の律法主義を批判した。ローマ総督ピラトのもとで十字架刑に処され、弟子たちは復活を信じて教団を形成した。", "en": "Preached God's love and love of neighbor in Palestine and criticized Jewish legalism; crucified under the governor Pilate, he was proclaimed risen by his disciples, who formed the Church."},
+    "desc": {
+      "ja": "パレスチナで神の愛と隣人愛を説き、形式化したユダヤ教の律法主義を批判した。ローマ総督ピラトのもとで十字架刑に処され、弟子たちは復活を信じて教団を形成した。",
+      "en": "Preached God's love and love of neighbor in Palestine and criticized Jewish legalism; crucified under the governor Pilate, he was proclaimed risen by his disciples, who formed the Church."
+    },
     "importance": 3,
-    "wiki": {"ja": "イエス・キリスト", "en": "Jesus"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "イエス・キリスト",
+      "en": "Jesus"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "paul-the-apostle",
-    "name": {"ja": "パウロ", "en": "Paul the Apostle"},
+    "name": {
+      "ja": "パウロ",
+      "en": "Paul the Apostle"
+    },
     "born": 5,
     "died": 64,
-    "active": [36, 64],
-    "role": {"ja": "キリスト教の使徒", "en": "Christian apostle"},
+    "active": [
+      36,
+      64
+    ],
+    "role": {
+      "ja": "キリスト教の使徒",
+      "en": "Christian apostle"
+    },
     "lat": 36.2,
     "lon": 36.16,
-    "desc": {"ja": "はじめキリスト教徒を迫害したが回心し、小アジア・ギリシアを巡って異邦人に伝道した。その書簡は『新約聖書』に収められ、キリスト教を世界宗教に広げた。", "en": "Former persecutor who converted and preached to the gentiles across Asia Minor and Greece; his epistles in the New Testament helped make Christianity a universal religion."},
+    "desc": {
+      "ja": "はじめキリスト教徒を迫害したが回心し、小アジア・ギリシアを巡って異邦人に伝道した。その書簡は『新約聖書』に収められ、キリスト教を世界宗教に広げた。",
+      "en": "Former persecutor who converted and preached to the gentiles across Asia Minor and Greece; his epistles in the New Testament helped make Christianity a universal religion."
+    },
     "importance": 3,
-    "wiki": {"ja": "パウロ", "en": "Paul the Apostle"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "パウロ",
+      "en": "Paul the Apostle"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "trajan",
-    "name": {"ja": "トラヤヌス", "en": "Trajan"},
+    "name": {
+      "ja": "トラヤヌス",
+      "en": "Trajan"
+    },
     "born": 53,
     "died": 117,
-    "active": [98, 117],
-    "role": {"ja": "ローマ皇帝（五賢帝の一人）", "en": "Roman emperor, one of the Five Good Emperors"},
+    "active": [
+      98,
+      117
+    ],
+    "role": {
+      "ja": "ローマ皇帝（五賢帝の一人）",
+      "en": "Roman emperor, one of the Five Good Emperors"
+    },
     "lat": 41.89,
     "lon": 12.48,
-    "desc": {"ja": "属州ヒスパニア出身で初の属州出身皇帝。ダキアを征服し、パルティア遠征でメソポタミアに達して帝国の領土を最大にした。", "en": "First emperor born in a province (Hispania); he conquered Dacia and campaigned to Mesopotamia against Parthia, bringing the empire to its greatest extent."},
+    "desc": {
+      "ja": "属州ヒスパニア出身で初の属州出身皇帝。ダキアを征服し、パルティア遠征でメソポタミアに達して帝国の領土を最大にした。",
+      "en": "First emperor born in a province (Hispania); he conquered Dacia and campaigned to Mesopotamia against Parthia, bringing the empire to its greatest extent."
+    },
     "importance": 2,
-    "wiki": {"ja": "トラヤヌス", "en": "Trajan"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "トラヤヌス",
+      "en": "Trajan"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "diocletian",
-    "name": {"ja": "ディオクレティアヌス", "en": "Diocletian"},
+    "name": {
+      "ja": "ディオクレティアヌス",
+      "en": "Diocletian"
+    },
     "born": 244,
     "died": 311,
-    "active": [284, 305],
-    "role": {"ja": "ローマ皇帝", "en": "Roman emperor"},
+    "active": [
+      284,
+      305
+    ],
+    "role": {
+      "ja": "ローマ皇帝",
+      "en": "Roman emperor"
+    },
     "lat": 40.77,
     "lon": 29.92,
-    "desc": {"ja": "軍人皇帝時代の混乱を収め、四帝分治制を採用して帝国を再建した。皇帝崇拝を強要する専制君主政を始め、303年にキリスト教徒を大迫害した。", "en": "Ended the third-century crisis and restored the empire through the Tetrarchy; he founded the Dominate with emperor worship and launched the great persecution of Christians in 303."},
+    "desc": {
+      "ja": "軍人皇帝時代の混乱を収め、四帝分治制を採用して帝国を再建した。皇帝崇拝を強要する専制君主政を始め、303年にキリスト教徒を大迫害した。",
+      "en": "Ended the third-century crisis and restored the empire through the Tetrarchy; he founded the Dominate with emperor worship and launched the great persecution of Christians in 303."
+    },
     "importance": 3,
-    "wiki": {"ja": "ディオクレティアヌス", "en": "Diocletian"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ディオクレティアヌス",
+      "en": "Diocletian"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "constantine-i",
-    "name": {"ja": "コンスタンティヌス帝", "en": "Constantine the Great"},
+    "name": {
+      "ja": "コンスタンティヌス帝",
+      "en": "Constantine the Great"
+    },
     "born": 272,
     "died": 337,
-    "active": [306, 337],
-    "role": {"ja": "ローマ皇帝", "en": "Roman emperor"},
+    "active": [
+      306,
+      337
+    ],
+    "role": {
+      "ja": "ローマ皇帝",
+      "en": "Roman emperor"
+    },
     "lat": 41.01,
     "lon": 28.98,
-    "desc": {"ja": "313年のミラノ勅令でキリスト教を公認し、325年にニケーア公会議を開いた。330年にコンスタンティノープルに遷都し、コロヌスの土地緊縛や専制支配を強めた。", "en": "Legalized Christianity by the Edict of Milan in 313, convened the Council of Nicaea in 325 and moved the capital to Constantinople in 330, strengthening autocratic rule."},
+    "desc": {
+      "ja": "313年のミラノ勅令でキリスト教を公認し、325年にニケーア公会議を開いた。330年にコンスタンティノープルに遷都し、コロヌスの土地緊縛や専制支配を強めた。",
+      "en": "Legalized Christianity by the Edict of Milan in 313, convened the Council of Nicaea in 325 and moved the capital to Constantinople in 330, strengthening autocratic rule."
+    },
     "importance": 3,
-    "wiki": {"ja": "コンスタンティヌス1世", "en": "Constantine the Great"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "コンスタンティヌス1世",
+      "en": "Constantine the Great"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "theodosius-i",
-    "name": {"ja": "テオドシウス帝", "en": "Theodosius I"},
+    "name": {
+      "ja": "テオドシウス帝",
+      "en": "Theodosius I"
+    },
     "born": 347,
     "died": 395,
-    "active": [379, 395],
-    "role": {"ja": "ローマ皇帝", "en": "Roman emperor"},
+    "active": [
+      379,
+      395
+    ],
+    "role": {
+      "ja": "ローマ皇帝",
+      "en": "Roman emperor"
+    },
     "lat": 41.01,
     "lon": 28.98,
-    "desc": {"ja": "アドリアノープルの敗戦後に即位し、西ゴート人と和した。392年にキリスト教を国教とし、他の宗教を禁じた。死に際して帝国を2子に分け、東西分裂が決定的となった。", "en": "Came to power after Adrianople and settled with the Visigoths; in 392 he made Christianity the sole state religion, and at his death divided the empire between his two sons."},
+    "desc": {
+      "ja": "アドリアノープルの敗戦後に即位し、西ゴート人と和した。392年にキリスト教を国教とし、他の宗教を禁じた。死に際して帝国を2子に分け、東西分裂が決定的となった。",
+      "en": "Came to power after Adrianople and settled with the Visigoths; in 392 he made Christianity the sole state religion, and at his death divided the empire between his two sons."
+    },
     "importance": 3,
-    "wiki": {"ja": "テオドシウス1世", "en": "Theodosius I"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "テオドシウス1世",
+      "en": "Theodosius I"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "attila",
-    "name": {"ja": "アッティラ", "en": "Attila"},
+    "name": {
+      "ja": "アッティラ",
+      "en": "Attila"
+    },
     "born": 406,
     "died": 453,
-    "active": [434, 453],
-    "role": {"ja": "フン人の王", "en": "King of the Huns"},
-    "lat": 47.0,
-    "lon": 20.0,
-    "desc": {"ja": "パンノニアを中心に東西ゲルマン諸族を従えた大帝国を築いた。ガリアに侵入したが451年のカタラウヌムの戦いで敗れ、翌年イタリアに侵入後に急死し、帝国は崩壊した。", "en": "Built a vast empire centered on Pannonia that dominated the Germanic peoples; checked at the Catalaunian Plains in 451, he invaded Italy the next year and died suddenly, after which his empire collapsed."},
+    "active": [
+      434,
+      453
+    ],
+    "role": {
+      "ja": "フン人の王",
+      "en": "King of the Huns"
+    },
+    "lat": 47,
+    "lon": 20,
+    "desc": {
+      "ja": "パンノニアを中心に東西ゲルマン諸族を従えた大帝国を築いた。ガリアに侵入したが451年のカタラウヌムの戦いで敗れ、翌年イタリアに侵入後に急死し、帝国は崩壊した。",
+      "en": "Built a vast empire centered on Pannonia that dominated the Germanic peoples; checked at the Catalaunian Plains in 451, he invaded Italy the next year and died suddenly, after which his empire collapsed."
+    },
     "importance": 2,
-    "wiki": {"ja": "アッティラ", "en": "Attila"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "アッティラ",
+      "en": "Attila"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "augustine-of-hippo",
-    "name": {"ja": "アウグスティヌス", "en": "Augustine of Hippo"},
+    "name": {
+      "ja": "アウグスティヌス",
+      "en": "Augustine of Hippo"
+    },
     "born": 354,
     "died": 430,
-    "active": [386, 430],
-    "role": {"ja": "教父・ヒッポ司教", "en": "Church Father and bishop of Hippo"},
+    "active": [
+      386,
+      430
+    ],
+    "role": {
+      "ja": "教父・ヒッポ司教",
+      "en": "Church Father and bishop of Hippo"
+    },
     "lat": 36.9,
     "lon": 7.75,
-    "desc": {"ja": "北アフリカ出身の最大の教父。マニ教から回心してヒッポの司教となり、『告白』『神の国』を著した。その思想は中世西欧の神学の基礎となった。", "en": "North African bishop and greatest of the Latin Church Fathers who converted from Manichaeism and wrote the Confessions and The City of God, shaping medieval Western theology."},
+    "desc": {
+      "ja": "北アフリカ出身の最大の教父。マニ教から回心してヒッポの司教となり、『告白』『神の国』を著した。その思想は中世西欧の神学の基礎となった。",
+      "en": "North African bishop and greatest of the Latin Church Fathers who converted from Manichaeism and wrote the Confessions and The City of God, shaping medieval Western theology."
+    },
     "importance": 3,
-    "wiki": {"ja": "アウグスティヌス", "en": "Augustine of Hippo"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "アウグスティヌス",
+      "en": "Augustine of Hippo"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "clovis-i",
-    "name": {"ja": "クローヴィス", "en": "Clovis I"},
+    "name": {
+      "ja": "クローヴィス",
+      "en": "Clovis I"
+    },
     "born": 466,
     "died": 511,
-    "active": [481, 511],
-    "role": {"ja": "フランク王国メロヴィング朝の創始者", "en": "Founder of the Merovingian Frankish kingdom"},
+    "active": [
+      481,
+      511
+    ],
+    "role": {
+      "ja": "フランク王国メロヴィング朝の創始者",
+      "en": "Founder of the Merovingian Frankish kingdom"
+    },
     "lat": 48.86,
     "lon": 2.35,
-    "desc": {"ja": "フランク人の諸部族を統一してガリアの大半を征服し、メロヴィング朝を開いた。496年に正統派のアタナシウス派に改宗し、ローマ系住民と教会の支持を得た。", "en": "United the Frankish tribes, conquered most of Gaul and founded the Merovingian dynasty; his conversion to Catholic (Athanasian) Christianity in 496 won the support of the Gallo-Romans and the Church."},
+    "desc": {
+      "ja": "フランク人の諸部族を統一してガリアの大半を征服し、メロヴィング朝を開いた。496年に正統派のアタナシウス派に改宗し、ローマ系住民と教会の支持を得た。",
+      "en": "United the Frankish tribes, conquered most of Gaul and founded the Merovingian dynasty; his conversion to Catholic (Athanasian) Christianity in 496 won the support of the Gallo-Romans and the Church."
+    },
     "importance": 3,
-    "wiki": {"ja": "クロヴィス1世", "en": "Clovis I"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "クロヴィス1世",
+      "en": "Clovis I"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "justinian-i",
-    "name": {"ja": "ユスティニアヌス1世", "en": "Justinian I"},
+    "name": {
+      "ja": "ユスティニアヌス1世",
+      "en": "Justinian I"
+    },
     "born": 482,
     "died": 565,
-    "active": [527, 565],
-    "role": {"ja": "ビザンツ皇帝", "en": "Byzantine emperor"},
+    "active": [
+      527,
+      565
+    ],
+    "role": {
+      "ja": "ビザンツ皇帝",
+      "en": "Byzantine emperor"
+    },
     "lat": 41.01,
     "lon": 28.98,
-    "desc": {"ja": "ビザンツ帝国最盛期の皇帝。ヴァンダル・東ゴート王国を滅ぼして地中海をほぼ回復し、『ローマ法大全』を編纂させ、ハギア=ソフィア聖堂を建立した。", "en": "Byzantine emperor at the empire's height who reconquered the Vandal and Ostrogothic kingdoms, had Roman law codified in the Corpus Juris Civilis and built Hagia Sophia."},
+    "desc": {
+      "ja": "ビザンツ帝国最盛期の皇帝。ヴァンダル・東ゴート王国を滅ぼして地中海をほぼ回復し、『ローマ法大全』を編纂させ、ハギア=ソフィア聖堂を建立した。",
+      "en": "Byzantine emperor at the empire's height who reconquered the Vandal and Ostrogothic kingdoms, had Roman law codified in the Corpus Juris Civilis and built Hagia Sophia."
+    },
     "importance": 3,
-    "wiki": {"ja": "ユスティニアヌス1世", "en": "Justinian I"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ユスティニアヌス1世",
+      "en": "Justinian I"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   }
 ]

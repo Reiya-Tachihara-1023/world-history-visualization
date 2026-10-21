@@ -1,202 +1,1459 @@
 [
-{"id":"lenin","name":{"ja":"レーニン","en":"Vladimir Lenin"},"born":1870,"died":1924,"active":[1917,1924],
- "role":{"ja":"ボリシェヴィキの指導者・ソヴィエト政権の創設者","en":"Bolshevik leader and founder of the Soviet state"},"lat":55.75,"lon":37.62,
- "desc":{"ja":"ロシアのマルクス主義者。四月テーゼで社会主義革命を訴え、十月革命を指導して史上初の社会主義政権を樹立した。コミンテルンを創設し、内戦後に新経済政策を導入した。","en":"Russian Marxist who led the Bolsheviks in the October Revolution of 1917 and founded the first socialist state. He created the Comintern and, after the civil war, introduced the New Economic Policy."},
- "importance":3,"wiki":{"ja":"ウラジーミル・レーニン","en":"Vladimir Lenin"},"portrait":{"provider":"wikipedia"}},
-{"id":"trotsky","name":{"ja":"トロツキー","en":"Leon Trotsky"},"born":1879,"died":1940,"active":[1917,1929],
- "role":{"ja":"ロシアの革命家・赤軍の創設者","en":"Russian revolutionary and founder of the Red Army"},"lat":55.76,"lon":37.6,
- "desc":{"ja":"十月革命をレーニンとともに指導し、ブレスト＝リトフスク条約交渉を担当、赤軍を組織して内戦に勝利した。世界革命論を唱えてスターリンと対立し、1929年に国外追放、1940年メキシコで暗殺された。","en":"Co-leader of the October Revolution, negotiator at Brest-Litovsk and organizer of the Red Army that won the civil war. His doctrine of permanent revolution lost to Stalin; he was exiled in 1929 and assassinated in Mexico in 1940."},
- "importance":2,"wiki":{"ja":"レフ・トロツキー","en":"Leon Trotsky"},"portrait":{"provider":"wikipedia"}},
-{"id":"stalin","name":{"ja":"スターリン","en":"Joseph Stalin"},"born":1878,"died":1953,"active":[1924,1953],
- "role":{"ja":"ソ連共産党書記長・ソ連の独裁者","en":"General Secretary of the Soviet Communist Party"},"lat":55.75,"lon":37.63,
- "desc":{"ja":"レーニンの死後、一国社会主義論を掲げてトロツキーらを排除し独裁権力を確立した。五カ年計画で工業化と農業集団化を強行し、大粛清で反対派を抹殺。第二次世界大戦では連合国の一員としてドイツを破った。","en":"After Lenin's death he defeated Trotsky with the doctrine of socialism in one country and built a dictatorship. He forced industrialization and collectivization through the Five-Year Plans, purged opponents, and led the USSR to victory over Germany."},
- "importance":3,"wiki":{"ja":"ヨシフ・スターリン","en":"Joseph Stalin"},"portrait":{"provider":"wikipedia"}},
-{"id":"nicholas-ii","name":{"ja":"ニコライ2世","en":"Nicholas II"},"born":1868,"died":1918,"active":[1894,1917],
- "role":{"ja":"ロシア皇帝（ロマノフ朝最後の皇帝）","en":"Last Emperor of Russia"},"lat":59.93,"lon":30.33,
- "desc":{"ja":"ロマノフ朝最後の皇帝。日露戦争と1905年革命を経ても専制を維持し、第一次世界大戦の敗北と食糧難のなかで二月革命により退位した。1918年、家族とともにボリシェヴィキに処刑された。","en":"The last Romanov tsar, who clung to autocracy through the Russo-Japanese War and the 1905 revolution. Defeat and hunger in the First World War brought the February Revolution and his abdication; the Bolsheviks shot him and his family in 1918."},
- "importance":2,"wiki":{"ja":"ニコライ2世 (ロシア皇帝)","en":"Nicholas II of Russia"},"portrait":{"provider":"wikipedia"}},
-{"id":"kerensky","name":{"ja":"ケレンスキー","en":"Alexander Kerensky"},"born":1881,"died":1970,"active":[1917,1917],
- "role":{"ja":"ロシア臨時政府の首相","en":"Prime Minister of the Russian Provisional Government"},"lat":59.94,"lon":30.32,
- "desc":{"ja":"社会革命党の政治家。二月革命後の臨時政府で法相・陸海相を経て首相となったが、戦争を継続して民衆の支持を失い、十月革命でボリシェヴィキに倒されて亡命した。","en":"A Socialist Revolutionary who rose from justice minister to prime minister of the Provisional Government after the February Revolution. His decision to continue the war cost him support, and the Bolsheviks overthrew him in October 1917."},
- "importance":2,"wiki":{"ja":"アレクサンドル・ケレンスキー","en":"Alexander Kerensky"},"portrait":{"provider":"wikipedia"}},
-{"id":"wilson","name":{"ja":"ウィルソン","en":"Woodrow Wilson"},"born":1856,"died":1924,"active":[1913,1921],
- "role":{"ja":"アメリカ合衆国第28代大統領","en":"28th President of the United States"},"lat":38.9,"lon":-77.04,
- "desc":{"ja":"民主党の大統領。「新しい自由」を掲げて国内改革を行い、1917年に第一次世界大戦に参戦した。十四カ条で民族自決と国際平和機構を提唱したが、国際連盟へのアメリカ加入は上院に拒否された。","en":"Democratic president who pursued domestic reform under the New Freedom and took the United States into the First World War in 1917. His Fourteen Points proposed self-determination and a league of nations, but the Senate rejected American membership."},
- "importance":3,"wiki":{"ja":"ウッドロウ・ウィルソン","en":"Woodrow Wilson"},"portrait":{"provider":"wikipedia"}},
-{"id":"franklin-roosevelt","name":{"ja":"フランクリン＝ローズヴェルト","en":"Franklin D. Roosevelt"},"born":1882,"died":1945,"active":[1933,1945],
- "role":{"ja":"アメリカ合衆国第32代大統領","en":"32nd President of the United States"},"lat":38.9,"lon":-77.04,
- "desc":{"ja":"世界恐慌のさなかに就任し、ニューディールで政府による経済への積極介入を進めた。第二次世界大戦では連合国の中心として大西洋憲章や各首脳会談を主導し、史上唯一4選されたが、戦争終結直前に死去した。","en":"Elected in the depths of the Depression, he launched the New Deal of active government intervention. In the Second World War he led the Allies through the Atlantic Charter and the wartime summits, won an unprecedented fourth term and died just before victory."},
- "importance":3,"wiki":{"ja":"フランクリン・ルーズベルト","en":"Franklin D. Roosevelt"},"portrait":{"provider":"wikipedia"}},
-{"id":"churchill","name":{"ja":"チャーチル","en":"Winston Churchill"},"born":1874,"died":1965,"active":[1940,1945],
- "role":{"ja":"イギリス首相","en":"Prime Minister of the United Kingdom"},"lat":51.5,"lon":-0.13,
- "desc":{"ja":"保守党の政治家。宥和政策を批判し、1940年に首相に就任してドイツとの徹底抗戦を指導した。ローズヴェルト、スターリンと大西洋憲章や各会談で戦後構想を協議し、1946年には「鉄のカーテン」演説を行った。","en":"Conservative statesman who opposed appeasement and became prime minister in 1940, leading Britain's defiance of Germany. With Roosevelt and Stalin he shaped the postwar order at the wartime conferences; in 1946 he gave the Iron Curtain speech."},
- "importance":3,"wiki":{"ja":"ウィンストン・チャーチル","en":"Winston Churchill"},"portrait":{"provider":"wikipedia"}},
-{"id":"lloyd-george","name":{"ja":"ロイド＝ジョージ","en":"David Lloyd George"},"born":1863,"died":1945,"active":[1916,1922],
- "role":{"ja":"イギリス首相","en":"Prime Minister of the United Kingdom"},"lat":51.5,"lon":-0.13,
- "desc":{"ja":"自由党の政治家。蔵相として社会保障政策を進め、1916年に挙国一致内閣の首相として第一次世界大戦を勝利に導いた。パリ講和会議ではウィルソン、クレマンソーとともに講和を主導した。","en":"Liberal statesman who introduced social insurance as chancellor and, as prime minister of a coalition from 1916, led Britain to victory in the First World War. At Paris he shaped the peace with Wilson and Clemenceau."},
- "importance":2,"wiki":{"ja":"デビッド・ロイド・ジョージ","en":"David Lloyd George"},"portrait":{"provider":"wikipedia"}},
-{"id":"clemenceau","name":{"ja":"クレマンソー","en":"Georges Clemenceau"},"born":1841,"died":1929,"active":[1917,1920],
- "role":{"ja":"フランス首相","en":"Prime Minister of France"},"lat":48.86,"lon":2.35,
- "desc":{"ja":"急進派の政治家で「虎」と呼ばれた。1917年に首相となり、徹底抗戦でフランスを勝利に導いた。パリ講和会議ではドイツへの厳しい制裁と安全保障を主張し、ヴェルサイユ条約を主導した。","en":"Radical politician nicknamed the Tiger, who became premier in 1917 and drove France to victory. At the Paris Peace Conference he demanded harsh terms and security guarantees against Germany, shaping the Treaty of Versailles."},
- "importance":2,"wiki":{"ja":"ジョルジュ・クレマンソー","en":"Georges Clemenceau"},"portrait":{"provider":"wikipedia"}},
-{"id":"hitler","name":{"ja":"ヒトラー","en":"Adolf Hitler"},"born":1889,"died":1945,"active":[1933,1945],
- "role":{"ja":"ナチス＝ドイツの総統","en":"Führer of Nazi Germany"},"lat":52.52,"lon":13.38,
- "desc":{"ja":"ナチ党の指導者。世界恐慌下の混乱に乗じて1933年に首相となり、全権委任法で独裁を確立した。ヴェルサイユ体制を破壊して侵略を重ね第二次世界大戦を引き起こし、ユダヤ人の大量虐殺を行った。ベルリン陥落時に自殺した。","en":"Leader of the Nazi Party who exploited the Depression to become chancellor in 1933 and built a dictatorship through the Enabling Act. He dismantled the Versailles system, launched the Second World War and ordered the murder of Europe's Jews, killing himself as Berlin fell."},
- "importance":3,"wiki":{"ja":"アドルフ・ヒトラー","en":"Adolf Hitler"},"portrait":{"provider":"wikipedia"}},
-{"id":"mussolini","name":{"ja":"ムッソリーニ","en":"Benito Mussolini"},"born":1883,"died":1945,"active":[1922,1943],
- "role":{"ja":"イタリアのファシスト党党首・首相","en":"Fascist leader and Prime Minister of Italy"},"lat":41.9,"lon":12.5,
- "desc":{"ja":"ファシスト党を創設し、1922年のローマ進軍で政権を獲得して一党独裁を確立した。ラテラノ条約で教皇庁と和解し、エチオピアを侵略してドイツと枢軸を結んだ。1943年に失脚し、1945年パルチザンに処刑された。","en":"Founder of the Fascist Party who took power through the March on Rome in 1922 and built a one-party dictatorship. He reconciled with the papacy, invaded Ethiopia and allied with Hitler; deposed in 1943, he was executed by partisans in 1945."},
- "importance":3,"wiki":{"ja":"ベニート・ムッソリーニ","en":"Benito Mussolini"},"portrait":{"provider":"wikipedia"}},
-{"id":"de-gaulle","name":{"ja":"ド＝ゴール","en":"Charles de Gaulle"},"born":1890,"died":1970,"active":[1940,1946],
- "role":{"ja":"自由フランスの指導者・フランス臨時政府首班","en":"Leader of Free France"},"lat":48.86,"lon":2.35,
- "desc":{"ja":"フランスの軍人・政治家。1940年の降伏後ロンドンに亡命して自由フランスを組織し、レジスタンスを指導した。1944年パリ解放後に臨時政府首班となり、戦後は第五共和政の初代大統領となった。","en":"French soldier and statesman who fled to London after the 1940 surrender, organized the Free French and led the resistance. He headed the provisional government after the liberation of Paris in 1944 and later founded the Fifth Republic."},
- "importance":3,"wiki":{"ja":"シャルル・ド・ゴール","en":"Charles de Gaulle"},"portrait":{"provider":"wikipedia"}},
-{"id":"petain","name":{"ja":"ペタン","en":"Philippe Pétain"},"born":1856,"died":1951,"active":[1916,1944],
- "role":{"ja":"フランスの軍人・ヴィシー政府の国家主席","en":"French marshal and head of the Vichy regime"},"lat":46.13,"lon":3.43,
- "desc":{"ja":"ヴェルダンの戦いの英雄として国民的名声を得た軍人。1940年の敗北後に首相となってドイツと休戦し、ヴィシー政府の国家主席として対独協力を行った。戦後、反逆罪で死刑判決を受け終身刑に減刑された。","en":"Marshal celebrated as the hero of Verdun. After the defeat of 1940 he became premier, made an armistice with Germany and headed the collaborationist Vichy regime. Sentenced to death for treason after the war, he was reprieved to life imprisonment."},
- "importance":2,"wiki":{"ja":"フィリップ・ペタン","en":"Philippe Pétain"},"portrait":{"provider":"wikipedia"}},
-{"id":"chamberlain","name":{"ja":"ネヴィル＝チェンバレン","en":"Neville Chamberlain"},"born":1869,"died":1940,"active":[1937,1940],
- "role":{"ja":"イギリス首相","en":"Prime Minister of the United Kingdom"},"lat":51.5,"lon":-0.13,
- "desc":{"ja":"保守党の首相。ヒトラーに対する宥和政策を推進し、1938年のミュンヘン会談でズデーテン地方の割譲を認めた。1939年のポーランド侵攻で対独宣戦したが、翌年ノルウェー作戦の失敗で辞任した。","en":"Conservative prime minister who pursued appeasement of Hitler and conceded the Sudetenland at Munich in 1938. He declared war when Germany invaded Poland in 1939 but resigned in 1940 after the Norwegian fiasco."},
- "importance":2,"wiki":{"ja":"ネヴィル・チェンバレン","en":"Neville Chamberlain"},"portrait":{"provider":"wikipedia"}},
-{"id":"stresemann","name":{"ja":"シュトレーゼマン","en":"Gustav Stresemann"},"born":1878,"died":1929,"active":[1923,1929],
- "role":{"ja":"ヴァイマル共和国の首相・外相","en":"Chancellor and Foreign Minister of the Weimar Republic"},"lat":52.52,"lon":13.38,
- "desc":{"ja":"ドイツ人民党の政治家。1923年に首相としてレンテンマルクでインフレを収束させ、以後外相としてドーズ案の受け入れ、ロカルノ条約、国際連盟加入を実現する協調外交を進めた。1926年ノーベル平和賞。","en":"German People's Party leader who as chancellor in 1923 ended hyperinflation with the Rentenmark and as foreign minister pursued reconciliation through the Dawes Plan, Locarno and League membership. Nobel Peace Prize 1926."},
- "importance":2,"wiki":{"ja":"グスタフ・シュトレーゼマン","en":"Gustav Stresemann"},"portrait":{"provider":"wikipedia"}},
-{"id":"briand","name":{"ja":"ブリアン","en":"Aristide Briand"},"born":1862,"died":1932,"active":[1925,1932],
- "role":{"ja":"フランス外相・首相","en":"French Foreign Minister and Prime Minister"},"lat":48.86,"lon":2.35,
- "desc":{"ja":"フランスの政治家。11回首相を務め、1925年以降外相としてシュトレーゼマンと協調してロカルノ条約を実現し、ケロッグとともに不戦条約を提唱した。ヨーロッパ統合構想も唱えた。1926年ノーベル平和賞。","en":"French statesman, eleven times premier, who as foreign minister from 1925 worked with Stresemann on the Locarno treaties and with Kellogg on the pact renouncing war. He also proposed a European union. Nobel Peace Prize 1926."},
- "importance":2,"wiki":{"ja":"アリスティード・ブリアン","en":"Aristide Briand"},"portrait":{"provider":"wikipedia"}},
-{"id":"franco","name":{"ja":"フランコ","en":"Francisco Franco"},"born":1892,"died":1975,"active":[1936,1975],
- "role":{"ja":"スペインの軍人・独裁者","en":"Spanish general and dictator"},"lat":40.42,"lon":-3.7,
- "desc":{"ja":"スペインの軍人。1936年に人民戦線政府に対して反乱をおこし、独・伊の支援を受けて内戦に勝利した。第二次世界大戦では中立を保ち、1975年に死去するまで独裁体制を維持した。","en":"Spanish general who rose against the Popular Front government in 1936 and won the civil war with German and Italian aid. He kept Spain neutral in the Second World War and ruled as dictator until his death in 1975."},
- "importance":3,"wiki":{"ja":"フランシスコ・フランコ","en":"Francisco Franco"},"portrait":{"provider":"wikipedia"}},
-{"id":"chiang-kai-shek","name":{"ja":"蔣介石","en":"Chiang Kai-shek"},"born":1887,"died":1975,"active":[1926,1949],
- "role":{"ja":"中国国民党の指導者・国民政府主席","en":"Leader of the Kuomintang and Nationalist government"},"lat":32.06,"lon":118.78,
- "desc":{"ja":"孫文の後継者として北伐を指揮し、上海クーデタで共産党を弾圧して南京国民政府を樹立した。西安事件を経て抗日戦を指導し、カイロ会談に出席。戦後は国共内戦に敗れて台湾に逃れた。","en":"Sun Yat-sen's successor who led the Northern Expedition, crushed the Communists in the Shanghai coup and founded the Nanjing government. After the Xi'an Incident he led the war against Japan and attended the Cairo Conference; defeated in the civil war, he withdrew to Taiwan."},
- "importance":3,"wiki":{"ja":"蔣介石","en":"Chiang Kai-shek"},"portrait":{"provider":"wikipedia"}},
-{"id":"mao-zedong","name":{"ja":"毛沢東","en":"Mao Zedong"},"born":1893,"died":1976,"active":[1927,1976],
- "role":{"ja":"中国共産党の指導者","en":"Leader of the Chinese Communist Party"},"lat":36.59,"lon":109.49,
- "desc":{"ja":"中国共産党の創立に参加し、農村根拠地での革命を主張して井崗山・瑞金に拠った。長征途上の遵義会議で指導権を握り、延安を拠点に抗日戦を戦った。1949年に中華人民共和国を建国した。","en":"A founding member of the Chinese Communist Party who built rural bases at Jinggangshan and Ruijin. He took control of the party at Zunyi during the Long March, directed the war against Japan from Yan'an and proclaimed the People's Republic in 1949."},
- "importance":3,"wiki":{"ja":"毛沢東","en":"Mao Zedong"},"portrait":{"provider":"wikipedia"}},
-{"id":"zhou-enlai","name":{"ja":"周恩来","en":"Zhou Enlai"},"born":1898,"died":1976,"active":[1924,1976],
- "role":{"ja":"中国共産党の指導者・のち中華人民共和国首相","en":"Chinese Communist leader, later Premier of the PRC"},"lat":36.59,"lon":109.5,
- "desc":{"ja":"フランス留学中に共産党に入り、黄埔軍官学校政治部主任を務めた。長征に参加し、西安事件では蔣介石との交渉にあたって第2次国共合作を実現した。建国後は首相として外交を担った。","en":"Joined the Communists while studying in France and served as political director at Whampoa. He took part in the Long March and negotiated with Chiang during the Xi'an Incident to forge the second United Front; after 1949 he was premier and chief diplomat."},
- "importance":2,"wiki":{"ja":"周恩来","en":"Zhou Enlai"},"portrait":{"provider":"wikipedia"}},
-{"id":"wang-jingwei","name":{"ja":"汪兆銘","en":"Wang Jingwei"},"born":1883,"died":1944,"active":[1925,1944],
- "role":{"ja":"中国国民党左派の指導者・南京政府主席","en":"Kuomintang leader, head of the Japanese-sponsored Nanjing regime"},"lat":32.07,"lon":118.76,
- "desc":{"ja":"孫文の側近で国民党左派の指導者。1927年に武漢政府を率いたが蔣介石と合流した。日中戦争中に重慶を脱出し、1940年日本の支援で南京に国民政府を樹立して対日協力の道を選んだ。","en":"Close associate of Sun Yat-sen and leader of the Kuomintang left who headed the Wuhan government in 1927 before joining Chiang. During the war with Japan he fled Chongqing and in 1940 set up a collaborationist government at Nanjing."},
- "importance":2,"wiki":{"ja":"汪兆銘","en":"Wang Jingwei"},"portrait":{"provider":"wikipedia"}},
-{"id":"sun-yat-sen","name":{"ja":"孫文","en":"Sun Yat-sen"},"born":1866,"died":1925,"active":[1905,1925],
- "role":{"ja":"中国の革命家・中国国民党の創設者","en":"Chinese revolutionary and founder of the Kuomintang"},"lat":23.13,"lon":113.26,
- "desc":{"ja":"三民主義を唱えて辛亥革命を導いた中国革命の父。1919年に中国国民党を結成し、1924年にはソ連と結んで第1次国共合作を成立させた。1925年、「革命いまだ成らず」と遺言して北京で病死した。","en":"Father of the Chinese revolution who advanced the Three Principles of the People and inspired the 1911 revolution. He founded the Kuomintang in 1919 and in 1924 allied with the USSR and the Communists; he died in Beijing in 1925."},
- "importance":3,"wiki":{"ja":"孫文","en":"Sun Yat-sen"},"portrait":{"provider":"wikipedia"}},
-{"id":"zhang-xueliang","name":{"ja":"張学良","en":"Zhang Xueliang"},"born":1901,"died":2001,"active":[1928,1936],
- "role":{"ja":"中国の軍人・東北軍の指導者","en":"Chinese warlord, commander of the Northeastern Army"},"lat":41.8,"lon":123.43,
- "desc":{"ja":"張作霖の子。父の爆殺後、1928年末に国民政府に合流して全国統一を完成させた。満州事変で東北を失い、1936年に西安で蔣介石を監禁して内戦停止と抗日を迫った。以後半世紀にわたり軟禁された。","en":"Son of Zhang Zuolin who joined the Nationalists after his father's murder in 1928, completing China's unification. Driven from Manchuria in 1931, he detained Chiang at Xi'an in 1936 to force a united front against Japan and was held under house arrest for decades."},
- "importance":2,"wiki":{"ja":"張学良","en":"Zhang Xueliang"},"portrait":{"provider":"wikipedia"}},
-{"id":"chen-duxiu","name":{"ja":"陳独秀","en":"Chen Duxiu"},"born":1879,"died":1942,"active":[1915,1927],
- "role":{"ja":"新文化運動の指導者・中国共産党初代委員長","en":"Leader of the New Culture Movement and first head of the CCP"},"lat":31.23,"lon":121.47,
- "desc":{"ja":"1915年に雑誌『新青年』を創刊して儒教批判と民主・科学を唱え、新文化運動を指導した。五・四運動を経て1921年に中国共産党を創設し初代委員長となったが、1927年の国共分裂の責任を問われて失脚した。","en":"Founded the magazine New Youth in 1915, attacking Confucianism and championing democracy and science in the New Culture Movement. After May Fourth he founded the Chinese Communist Party in 1921 and led it until blamed for the 1927 split."},
- "importance":2,"wiki":{"ja":"陳独秀","en":"Chen Duxiu"},"portrait":{"provider":"wikipedia"}},
-{"id":"gandhi","name":{"ja":"ガンディー","en":"Mahatma Gandhi"},"born":1869,"died":1948,"active":[1919,1948],
- "role":{"ja":"インド独立運動の指導者","en":"Leader of the Indian independence movement"},"lat":23.02,"lon":72.57,
- "desc":{"ja":"南アフリカで人種差別と闘ったのち帰国し、非暴力・不服従（サティヤーグラハ）を掲げて国民会議派の反英運動を指導した。塩の行進などで民衆を動員し「マハトマ（偉大な魂）」と呼ばれた。独立直後の1948年に暗殺された。","en":"After fighting discrimination in South Africa he led the Indian National Congress in non-violent resistance (satyagraha) against British rule, mobilizing the masses in campaigns such as the Salt March. Called Mahatma, he was assassinated in 1948 soon after independence."},
- "importance":3,"wiki":{"ja":"マハトマ・ガンディー","en":"Mahatma Gandhi"},"portrait":{"provider":"wikipedia"}},
-{"id":"nehru","name":{"ja":"ネルー","en":"Jawaharlal Nehru"},"born":1889,"died":1964,"active":[1929,1964],
- "role":{"ja":"インド国民会議派の指導者・初代インド首相","en":"Congress leader and first Prime Minister of India"},"lat":28.61,"lon":77.21,
- "desc":{"ja":"ガンディーの後継者として国民会議派の急進派を率い、1929年のラホール大会でプールナ＝スワラージ（完全独立）を決議した。1947年の独立後は初代首相として非同盟外交と計画経済を進めた。","en":"Gandhi's successor who led the radical wing of Congress and at Lahore in 1929 pushed through the demand for complete independence. As India's first prime minister from 1947 he pursued non-alignment and planned development."},
- "importance":3,"wiki":{"ja":"ジャワハルラール・ネルー","en":"Jawaharlal Nehru"},"portrait":{"provider":"wikipedia"}},
-{"id":"jinnah","name":{"ja":"ジンナー","en":"Muhammad Ali Jinnah"},"born":1876,"died":1948,"active":[1934,1948],
- "role":{"ja":"全インド＝ムスリム連盟の指導者・パキスタン建国の父","en":"Leader of the Muslim League and founder of Pakistan"},"lat":24.86,"lon":67.0,
- "desc":{"ja":"当初は国民会議派とムスリム連盟の協調を説いたが、1930年代にムスリム連盟の指導者となり、1940年にムスリム国家パキスタンの建設を要求した。1947年の分離独立でパキスタン初代総督となった。","en":"Initially an advocate of Hindu–Muslim unity, he led the Muslim League from the 1930s and in 1940 demanded a separate Muslim state. He became Pakistan's first governor-general at partition in 1947."},
- "importance":2,"wiki":{"ja":"ムハンマド・アリー・ジンナー","en":"Muhammad Ali Jinnah"},"portrait":{"provider":"wikipedia"}},
-{"id":"mustafa-kemal","name":{"ja":"ムスタファ＝ケマル","en":"Mustafa Kemal Atatürk"},"born":1881,"died":1938,"active":[1919,1938],
- "role":{"ja":"トルコ共和国の初代大統領","en":"First President of the Republic of Turkey"},"lat":39.93,"lon":32.86,
- "desc":{"ja":"ガリポリの戦いで名を上げた軍人。セーヴル条約に反対してアンカラに政府を樹立し、ギリシア軍を撃退してスルタン制を廃止した。1923年にトルコ共和国を建て、政教分離や文字改革などの近代化を断行し「アタテュルク（トルコの父）」と称された。","en":"Officer who won fame at Gallipoli, then organized resistance at Ankara against the Treaty of Sèvres, expelled the Greeks and abolished the sultanate. Founding the Republic in 1923, he secularized and modernized Turkey and was honored as Atatürk, father of the Turks."},
- "importance":3,"wiki":{"ja":"ムスタファ・ケマル・アタテュルク","en":"Mustafa Kemal Atatürk"},"portrait":{"provider":"wikipedia"}},
-{"id":"reza-shah","name":{"ja":"レザー＝ハーン","en":"Reza Shah Pahlavi"},"born":1878,"died":1944,"active":[1921,1941],
- "role":{"ja":"パフレヴィー朝の創始者・イラン国王","en":"Founder of the Pahlavi dynasty and Shah of Iran"},"lat":35.69,"lon":51.39,
- "desc":{"ja":"コサック旅団出身の軍人。1921年のクーデタで実権を握り、1925年にカージャール朝を廃してパフレヴィー朝を開いた。トルコにならって近代化を進め、1935年に国号をイランと改めた。1941年英ソ両軍の進駐で退位した。","en":"A Cossack Brigade officer who seized power in a 1921 coup and in 1925 replaced the Qajars with his own Pahlavi dynasty. He modernized the country on the Turkish model and renamed it Iran in 1935, but was forced to abdicate when Britain and the USSR occupied Iran in 1941."},
- "importance":2,"wiki":{"ja":"レザー・シャー","en":"Reza Shah"},"portrait":{"provider":"wikipedia"}},
-{"id":"ibn-saud","name":{"ja":"イブン＝サウード","en":"Ibn Saud"},"born":1875,"died":1953,"active":[1924,1953],
- "role":{"ja":"サウジアラビア王国の建国者","en":"Founder and first King of Saudi Arabia"},"lat":24.69,"lon":46.72,
- "desc":{"ja":"ワッハーブ派と結んでアラビア半島の統一を進め、1924〜25年にヒジャーズ王国を征服してメッカ・メディナを支配した。1932年にサウジアラビア王国を建国し、1938年の油田発見でアメリカとの関係を深めた。","en":"Allied with the Wahhabis, he unified most of Arabia, conquering the Hejaz with Mecca and Medina in 1924–25. He proclaimed the Kingdom of Saudi Arabia in 1932, and the discovery of oil in 1938 drew the kingdom close to the United States."},
- "importance":2,"wiki":{"ja":"イブン・サウード","en":"Ibn Saud"},"portrait":{"provider":"wikipedia"}},
-{"id":"sukarno","name":{"ja":"スカルノ","en":"Sukarno"},"born":1901,"died":1970,"active":[1927,1967],
- "role":{"ja":"インドネシア独立運動の指導者・初代大統領","en":"Indonesian nationalist leader and first President"},"lat":-6.2,"lon":106.85,
- "desc":{"ja":"1927年にインドネシア国民党を結成してオランダからの独立を唱え、たびたび投獄・流刑された。日本占領期に協力しつつ独立準備を進め、1945年8月17日に独立を宣言して初代大統領となった。","en":"Founded the Indonesian Nationalist Party in 1927 to demand independence from the Netherlands and was repeatedly jailed and exiled. He cooperated with the Japanese occupation while preparing for independence, which he proclaimed on 17 August 1945 as first president."},
- "importance":3,"wiki":{"ja":"スカルノ","en":"Sukarno"},"portrait":{"provider":"wikipedia"}},
-{"id":"ho-chi-minh","name":{"ja":"ホー＝チ＝ミン","en":"Ho Chi Minh"},"born":1890,"died":1969,"active":[1930,1969],
- "role":{"ja":"ベトナム独立運動の指導者・ベトナム民主共和国主席","en":"Vietnamese revolutionary and President of North Vietnam"},"lat":21.03,"lon":105.85,
- "desc":{"ja":"フランス留学中に共産党に入り、1930年に香港でインドシナ共産党を結成した。1941年にベトナム独立同盟（ベトミン）を組織して抗日・抗仏闘争を指導し、1945年9月にベトナム民主共和国の独立を宣言した。","en":"Joined the Communists in France and founded the Indochinese Communist Party in Hong Kong in 1930. In 1941 he organized the Viet Minh to fight Japan and France, and in September 1945 proclaimed the Democratic Republic of Vietnam."},
- "importance":3,"wiki":{"ja":"ホー・チ・ミン","en":"Ho Chi Minh"},"portrait":{"provider":"wikipedia"}},
-{"id":"keynes","name":{"ja":"ケインズ","en":"John Maynard Keynes"},"born":1883,"died":1946,"active":[1919,1946],
- "role":{"ja":"イギリスの経済学者","en":"British economist"},"lat":52.2,"lon":0.12,
- "desc":{"ja":"パリ講和会議に英代表団として参加し、ドイツへの過酷な賠償を批判した。1936年の『雇用・利子および貨幣の一般理論』で政府の財政政策による有効需要の創出を説き、修正資本主義の理論的基礎を築いた。ブレトン＝ウッズ会議でも英代表を務めた。","en":"A British delegate at Paris who denounced the harsh reparations. His General Theory of 1936 argued that government spending could create demand and employment, founding modern macroeconomics; he led the British delegation at Bretton Woods."},
- "importance":2,"wiki":{"ja":"ジョン・メイナード・ケインズ","en":"John Maynard Keynes"},"portrait":{"provider":"wikipedia"}},
-{"id":"einstein","name":{"ja":"アインシュタイン","en":"Albert Einstein"},"born":1879,"died":1955,"active":[1905,1955],
- "role":{"ja":"理論物理学者","en":"Theoretical physicist"},"lat":52.52,"lon":13.4,
- "desc":{"ja":"ドイツ生まれのユダヤ系物理学者。特殊相対性理論（1905）と一般相対性理論（1915）で時間と空間の概念を革新し、1921年ノーベル物理学賞を受賞した。ナチス政権成立後アメリカに亡命し、戦後は核兵器廃絶を訴えた。","en":"German-born Jewish physicist whose special (1905) and general (1915) theories of relativity transformed the understanding of space and time; Nobel laureate in 1921. He emigrated to the United States after the Nazis took power and later campaigned against nuclear weapons."},
- "importance":3,"wiki":{"ja":"アルベルト・アインシュタイン","en":"Albert Einstein"},"portrait":{"provider":"wikipedia"}},
-{"id":"freud","name":{"ja":"フロイト","en":"Sigmund Freud"},"born":1856,"died":1939,"active":[1900,1939],
- "role":{"ja":"精神分析学の創始者","en":"Founder of psychoanalysis"},"lat":48.21,"lon":16.37,
- "desc":{"ja":"ウィーンの精神科医。無意識の存在を重視し、夢や自由連想による精神分析学を創始した。その理論は心理学のみならず20世紀の文学・芸術・思想に広く影響を与えた。ナチスのオーストリア併合後ロンドンに亡命した。","en":"Viennese psychiatrist who founded psychoanalysis on the study of the unconscious through dreams and free association. His ideas influenced not only psychology but twentieth-century literature, art and thought; he fled to London after the Anschluss."},
- "importance":2,"wiki":{"ja":"ジークムント・フロイト","en":"Sigmund Freud"},"portrait":{"provider":"wikipedia"}},
-{"id":"fleming","name":{"ja":"フレミング","en":"Alexander Fleming"},"born":1881,"died":1955,"active":[1928,1945],
- "role":{"ja":"イギリスの細菌学者","en":"British bacteriologist"},"lat":51.52,"lon":-0.17,
- "desc":{"ja":"ロンドンの病院で研究中の1928年、アオカビが細菌の発育を妨げることを発見し、抗生物質ペニシリンを見いだした。第二次世界大戦中に実用化され多くの命を救い、1945年ノーベル生理学・医学賞を受賞した。","en":"While working at a London hospital in 1928 he noticed that a mold inhibited bacterial growth and so discovered penicillin. Developed into a practical drug during the Second World War, it saved countless lives; he shared the Nobel Prize in 1945."},
- "importance":1,"wiki":{"ja":"アレクサンダー・フレミング","en":"Alexander Fleming"},"portrait":{"provider":"wikipedia"}},
-{"id":"hindenburg","name":{"ja":"ヒンデンブルク","en":"Paul von Hindenburg"},"born":1847,"died":1934,"active":[1914,1934],
- "role":{"ja":"ドイツの軍人・ヴァイマル共和国大統領","en":"German field marshal and President of the Weimar Republic"},"lat":52.52,"lon":13.38,
- "desc":{"ja":"タンネンベルクの戦いで名声を得、参謀総長として大戦後半のドイツを事実上支配した。1925年にヴァイマル共和国大統領に選ばれ、1933年にヒトラーを首相に任命した。","en":"Field marshal who won fame at Tannenberg and as chief of the general staff effectively ruled Germany in the later war years. Elected president of the Weimar Republic in 1925, he appointed Hitler chancellor in 1933."},
- "importance":2,"wiki":{"ja":"パウル・フォン・ヒンデンブルク","en":"Paul von Hindenburg"},"portrait":{"provider":"wikipedia"}},
-{"id":"ludendorff","name":{"ja":"ルーデンドルフ","en":"Erich Ludendorff"},"born":1865,"died":1937,"active":[1914,1923],
- "role":{"ja":"ドイツの軍人","en":"German general"},"lat":52.52,"lon":13.38,
- "desc":{"ja":"ヒンデンブルクの参謀としてタンネンベルクの勝利を導き、1916年から軍需総監として総力戦体制を指導した。1918年の攻勢失敗後に辞任し、戦後はミュンヘン一揆に参加するなど極右運動に加わった。","en":"Hindenburg's chief of staff at Tannenberg and from 1916 quartermaster general directing Germany's total war effort. He resigned after the failed 1918 offensives and later joined far-right politics, taking part in the Beer Hall Putsch."},
- "importance":1,"wiki":{"ja":"エーリヒ・ルーデンドルフ","en":"Erich Ludendorff"},"portrait":{"provider":"wikipedia"}},
-{"id":"wilhelm-ii","name":{"ja":"ヴィルヘルム2世","en":"Wilhelm II"},"born":1859,"died":1941,"active":[1888,1918],
- "role":{"ja":"ドイツ皇帝","en":"German Emperor"},"lat":52.52,"lon":13.4,
- "desc":{"ja":"ビスマルクを退けて親政を行い、「世界政策」を掲げて海軍を拡張しイギリスと対立した。第一次世界大戦の敗色が濃くなるなか1918年のドイツ革命で退位し、オランダに亡命した。","en":"Dismissed Bismarck to rule personally, pursued Weltpolitik and a naval race with Britain. As defeat loomed in 1918 the German Revolution forced his abdication and he fled to the Netherlands."},
- "importance":2,"wiki":{"ja":"ヴィルヘルム2世 (ドイツ皇帝)","en":"Wilhelm II, German Emperor"},"portrait":{"provider":"wikipedia"}},
-{"id":"franz-ferdinand","name":{"ja":"フランツ＝フェルディナント","en":"Archduke Franz Ferdinand"},"born":1863,"died":1914,"active":[1896,1914],
- "role":{"ja":"オーストリア＝ハンガリー帝国の帝位継承者","en":"Heir to the Austro-Hungarian throne"},"lat":48.21,"lon":16.37,
- "desc":{"ja":"オーストリア皇帝フランツ＝ヨーゼフ1世の甥で帝位継承者。1914年6月28日、サライェヴォで妻とともにセルビア人民族主義者に暗殺され、その事件がオーストリアのセルビアへの宣戦と第一次世界大戦の勃発を招いた。","en":"Nephew of Emperor Franz Joseph and heir to the Habsburg throne. His assassination with his wife by a Serb nationalist at Sarajevo on 28 June 1914 led Austria-Hungary to declare war on Serbia and set off the First World War."},
- "importance":2,"wiki":{"ja":"フランツ・フェルディナント","en":"Archduke Franz Ferdinand of Austria"},"portrait":{"provider":"wikipedia"}},
-{"id":"eisenhower","name":{"ja":"アイゼンハワー","en":"Dwight D. Eisenhower"},"born":1890,"died":1969,"active":[1942,1961],
- "role":{"ja":"連合国遠征軍最高司令官・のちアメリカ大統領","en":"Supreme Allied Commander, later US President"},"lat":38.9,"lon":-77.04,
- "desc":{"ja":"アメリカの軍人。北アフリカ・イタリア作戦を指揮したのち連合国遠征軍最高司令官として1944年のノルマンディー上陸作戦を成功させ、ドイツを降伏に追い込んだ。1953年から共和党の大統領を2期務めた。","en":"American general who commanded the North African and Italian campaigns and, as Supreme Allied Commander, directed the Normandy landings of 1944 and the defeat of Germany. He served two terms as Republican president from 1953."},
- "importance":2,"wiki":{"ja":"ドワイト・D・アイゼンハワー","en":"Dwight D. Eisenhower"},"portrait":{"provider":"wikipedia"}},
-{"id":"tojo-hideki","name":{"ja":"東条英機","en":"Hideki Tojo"},"born":1884,"died":1948,"active":[1941,1944],
- "role":{"ja":"日本の陸軍軍人・首相","en":"Japanese general and Prime Minister"},"lat":35.68,"lon":139.75,
- "desc":{"ja":"陸軍の統制派の軍人。1941年10月に首相となり、同年12月に対米英開戦を決定して太平洋戦争に突入した。サイパン陥落後の1944年に辞職し、戦後の極東国際軍事裁判でA級戦犯として処刑された。","en":"Army general who became prime minister in October 1941 and took Japan into war with the United States and Britain in December. He resigned after the fall of Saipan in 1944 and was executed as a Class A war criminal after the Tokyo trial."},
- "importance":2,"wiki":{"ja":"東條英機","en":"Hideki Tojo"},"portrait":{"provider":"wikipedia"}},
-{"id":"konoe-fumimaro","name":{"ja":"近衛文麿","en":"Fumimaro Konoe"},"born":1891,"died":1945,"active":[1937,1941],
- "role":{"ja":"日本の首相","en":"Prime Minister of Japan"},"lat":35.68,"lon":139.74,
- "desc":{"ja":"公家出身の政治家。1937年に首相となり、盧溝橋事件後に日中戦争を拡大し「国民政府を対手とせず」と声明した。第2次内閣で日独伊三国同盟を結び大政翼賛会を結成したが、日米交渉に行き詰まり1941年に退陣した。","en":"Aristocratic politician who became prime minister in 1937 and widened the war with China after the Marco Polo Bridge Incident. His second cabinet signed the Tripartite Pact and formed the Imperial Rule Assistance Association; he resigned in 1941 as talks with the United States failed."},
- "importance":2,"wiki":{"ja":"近衛文麿","en":"Fumimaro Konoe"},"portrait":{"provider":"wikipedia"}},
-{"id":"truman","name":{"ja":"トルーマン","en":"Harry S. Truman"},"born":1884,"died":1972,"active":[1945,1953],
- "role":{"ja":"アメリカ合衆国第33代大統領","en":"33rd President of the United States"},"lat":38.9,"lon":-77.04,
- "desc":{"ja":"ローズヴェルトの死去により1945年4月に副大統領から昇格した。ポツダム会談に出席し、広島・長崎への原爆投下を決定して日本を降伏させた。戦後はトルーマン＝ドクトリンで対ソ「封じ込め」政策を打ち出した。","en":"Succeeded from the vice-presidency on Roosevelt's death in April 1945. He attended Potsdam and ordered the atomic bombing of Hiroshima and Nagasaki that forced Japan's surrender; his Truman Doctrine later launched containment of the USSR."},
- "importance":3,"wiki":{"ja":"ハリー・S・トルーマン","en":"Harry S. Truman"},"portrait":{"provider":"wikipedia"}},
-{"id":"hoover","name":{"ja":"フーヴァー","en":"Herbert Hoover"},"born":1874,"died":1964,"active":[1929,1933],
- "role":{"ja":"アメリカ合衆国第31代大統領","en":"31st President of the United States"},"lat":38.9,"lon":-77.04,
- "desc":{"ja":"共和党の大統領。就任直後に世界恐慌が始まったが自由放任の立場から有効な対策をとれず、1931年に賠償・戦債支払いを1年猶予するフーヴァー＝モラトリアムを宣言した。1932年の選挙でローズヴェルトに敗れた。","en":"Republican president whose term began months before the 1929 crash. Committed to limited government, he failed to check the Depression, though in 1931 he declared a one-year moratorium on war debts and reparations; Roosevelt defeated him in 1932."},
- "importance":1,"wiki":{"ja":"ハーバート・フーヴァー","en":"Herbert Hoover"},"portrait":{"provider":"wikipedia"}},
-{"id":"haile-selassie","name":{"ja":"ハイレ＝セラシエ","en":"Haile Selassie"},"born":1892,"died":1975,"active":[1930,1974],
- "role":{"ja":"エチオピア皇帝","en":"Emperor of Ethiopia"},"lat":9.03,"lon":38.74,
- "desc":{"ja":"1930年に即位し憲法制定など近代化を進めた。1935年のイタリア侵攻に対し国際連盟に支援を訴えたが得られず亡命、1941年にイギリス軍とともに帰国して復位した。戦後はアフリカ統一機構の設立を主導した。","en":"Crowned in 1930, he introduced a constitution and modernizing reforms. When Italy invaded in 1935 he appealed in vain to the League of Nations and went into exile, returning with British forces in 1941; after the war he helped found the Organization of African Unity."},
- "importance":1,"wiki":{"ja":"ハイレ・セラシエ1世","en":"Haile Selassie"},"portrait":{"provider":"wikipedia"}},
-{"id":"picasso","name":{"ja":"ピカソ","en":"Pablo Picasso"},"born":1881,"died":1973,"active":[1907,1973],
- "role":{"ja":"スペイン生まれの画家","en":"Spanish-born painter"},"lat":48.86,"lon":2.35,
- "desc":{"ja":"パリで活動したスペイン出身の画家。ブラックとともにキュビスムを創始し、20世紀美術の革新を主導した。1937年、スペイン内戦中のゲルニカ爆撃に抗議して大作「ゲルニカ」を描いた。","en":"Spanish painter working in Paris who, with Braque, founded Cubism and led the revolution in twentieth-century art. In 1937 he painted Guernica in protest at the bombing of the Basque town during the Spanish Civil War."},
- "importance":2,"wiki":{"ja":"パブロ・ピカソ","en":"Pablo Picasso"},"portrait":{"provider":"wikipedia"}},
-{"id":"rosa-luxemburg","name":{"ja":"ローザ＝ルクセンブルク","en":"Rosa Luxemburg"},"born":1871,"died":1919,"active":[1898,1919],
- "role":{"ja":"ドイツの社会主義者・スパルタクス団の指導者","en":"German socialist and Spartacist leader"},"lat":52.52,"lon":13.4,
- "desc":{"ja":"ポーランド生まれのマルクス主義理論家。社会民主党左派として帝国主義と戦争に反対し、カール＝リープクネヒトとスパルタクス団を結成してドイツ共産党を創設した。1919年1月の蜂起の鎮圧後、義勇軍に殺害された。","en":"Polish-born Marxist theorist of the German Social Democratic left who opposed imperialism and the war. With Karl Liebknecht she founded the Spartacus League and the German Communist Party; Freikorps troops murdered her after the January 1919 rising."},
- "importance":1,"wiki":{"ja":"ローザ・ルクセンブルク","en":"Rosa Luxemburg"},"portrait":{"provider":"wikipedia"}},
-{"id":"gropius","name":{"ja":"グロピウス","en":"Walter Gropius"},"born":1883,"died":1969,"active":[1919,1933],
- "role":{"ja":"ドイツの建築家・バウハウスの創設者","en":"German architect and founder of the Bauhaus"},"lat":50.98,"lon":11.33,
- "desc":{"ja":"1919年にヴァイマルに造形学校バウハウスを設立し、芸術と技術の統合をめざす機能主義の教育を行った。合理的な近代建築の確立に貢献し、ナチス政権下で亡命してアメリカで活動した。","en":"Founded the Bauhaus at Weimar in 1919, teaching a functionalist union of art and technology that shaped modern architecture. He emigrated under the Nazi regime and continued his work in the United States."},
- "importance":1,"wiki":{"ja":"ヴァルター・グロピウス","en":"Walter Gropius"},"portrait":{"provider":"wikipedia"}}
+  {
+    "id": "lenin",
+    "name": {
+      "ja": "レーニン",
+      "en": "Vladimir Lenin"
+    },
+    "born": 1870,
+    "died": 1924,
+    "active": [
+      1917,
+      1924
+    ],
+    "role": {
+      "ja": "ボリシェヴィキの指導者・ソヴィエト政権の創設者",
+      "en": "Bolshevik leader and founder of the Soviet state"
+    },
+    "lat": 55.75,
+    "lon": 37.62,
+    "desc": {
+      "ja": "ロシアのマルクス主義者。四月テーゼで社会主義革命を訴え、十月革命を指導して史上初の社会主義政権を樹立した。コミンテルンを創設し、内戦後に新経済政策を導入した。",
+      "en": "Russian Marxist who led the Bolsheviks in the October Revolution of 1917 and founded the first socialist state. He created the Comintern and, after the civil war, introduced the New Economic Policy."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ウラジーミル・レーニン",
+      "en": "Vladimir Lenin"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "trotsky",
+    "name": {
+      "ja": "トロツキー",
+      "en": "Leon Trotsky"
+    },
+    "born": 1879,
+    "died": 1940,
+    "active": [
+      1917,
+      1929
+    ],
+    "role": {
+      "ja": "ロシアの革命家・赤軍の創設者",
+      "en": "Russian revolutionary and founder of the Red Army"
+    },
+    "lat": 55.76,
+    "lon": 37.6,
+    "desc": {
+      "ja": "十月革命をレーニンとともに指導し、ブレスト＝リトフスク条約交渉を担当、赤軍を組織して内戦に勝利した。世界革命論を唱えてスターリンと対立し、1929年に国外追放、1940年メキシコで暗殺された。",
+      "en": "Co-leader of the October Revolution, negotiator at Brest-Litovsk and organizer of the Red Army that won the civil war. His doctrine of permanent revolution lost to Stalin; he was exiled in 1929 and assassinated in Mexico in 1940."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "レフ・トロツキー",
+      "en": "Leon Trotsky"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "stalin",
+    "name": {
+      "ja": "スターリン",
+      "en": "Joseph Stalin"
+    },
+    "born": 1878,
+    "died": 1953,
+    "active": [
+      1924,
+      1953
+    ],
+    "role": {
+      "ja": "ソ連共産党書記長・ソ連の独裁者",
+      "en": "General Secretary of the Soviet Communist Party"
+    },
+    "lat": 55.75,
+    "lon": 37.63,
+    "desc": {
+      "ja": "レーニンの死後、一国社会主義論を掲げてトロツキーらを排除し独裁権力を確立した。五カ年計画で工業化と農業集団化を強行し、大粛清で反対派を抹殺。第二次世界大戦では連合国の一員としてドイツを破った。",
+      "en": "After Lenin's death he defeated Trotsky with the doctrine of socialism in one country and built a dictatorship. He forced industrialization and collectivization through the Five-Year Plans, purged opponents, and led the USSR to victory over Germany."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ヨシフ・スターリン",
+      "en": "Joseph Stalin"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "kerensky",
+    "name": {
+      "ja": "ケレンスキー",
+      "en": "Alexander Kerensky"
+    },
+    "born": 1881,
+    "died": 1970,
+    "active": [
+      1917,
+      1917
+    ],
+    "role": {
+      "ja": "ロシア臨時政府の首相",
+      "en": "Prime Minister of the Russian Provisional Government"
+    },
+    "lat": 59.94,
+    "lon": 30.32,
+    "desc": {
+      "ja": "社会革命党の政治家。二月革命後の臨時政府で法相・陸海相を経て首相となったが、戦争を継続して民衆の支持を失い、十月革命でボリシェヴィキに倒されて亡命した。",
+      "en": "A Socialist Revolutionary who rose from justice minister to prime minister of the Provisional Government after the February Revolution. His decision to continue the war cost him support, and the Bolsheviks overthrew him in October 1917."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "アレクサンドル・ケレンスキー",
+      "en": "Alexander Kerensky"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "wilson",
+    "name": {
+      "ja": "ウィルソン",
+      "en": "Woodrow Wilson"
+    },
+    "born": 1856,
+    "died": 1924,
+    "active": [
+      1913,
+      1921
+    ],
+    "role": {
+      "ja": "アメリカ合衆国第28代大統領",
+      "en": "28th President of the United States"
+    },
+    "lat": 38.9,
+    "lon": -77.04,
+    "desc": {
+      "ja": "民主党の大統領。「新しい自由」を掲げて国内改革を行い、1917年に第一次世界大戦に参戦した。十四カ条で民族自決と国際平和機構を提唱したが、国際連盟へのアメリカ加入は上院に拒否された。",
+      "en": "Democratic president who pursued domestic reform under the New Freedom and took the United States into the First World War in 1917. His Fourteen Points proposed self-determination and a league of nations, but the Senate rejected American membership."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ウッドロウ・ウィルソン",
+      "en": "Woodrow Wilson"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "franklin-roosevelt",
+    "name": {
+      "ja": "フランクリン＝ローズヴェルト",
+      "en": "Franklin D. Roosevelt"
+    },
+    "born": 1882,
+    "died": 1945,
+    "active": [
+      1933,
+      1945
+    ],
+    "role": {
+      "ja": "アメリカ合衆国第32代大統領",
+      "en": "32nd President of the United States"
+    },
+    "lat": 38.9,
+    "lon": -77.04,
+    "desc": {
+      "ja": "世界恐慌のさなかに就任し、ニューディールで政府による経済への積極介入を進めた。第二次世界大戦では連合国の中心として大西洋憲章や各首脳会談を主導し、史上唯一4選されたが、戦争終結直前に死去した。",
+      "en": "Elected in the depths of the Depression, he launched the New Deal of active government intervention. In the Second World War he led the Allies through the Atlantic Charter and the wartime summits, won an unprecedented fourth term and died just before victory."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "フランクリン・ルーズベルト",
+      "en": "Franklin D. Roosevelt"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "churchill",
+    "name": {
+      "ja": "チャーチル",
+      "en": "Winston Churchill"
+    },
+    "born": 1874,
+    "died": 1965,
+    "active": [
+      1940,
+      1945
+    ],
+    "role": {
+      "ja": "イギリス首相",
+      "en": "Prime Minister of the United Kingdom"
+    },
+    "lat": 51.5,
+    "lon": -0.13,
+    "desc": {
+      "ja": "保守党の政治家。宥和政策を批判し、1940年に首相に就任してドイツとの徹底抗戦を指導した。ローズヴェルト、スターリンと大西洋憲章や各会談で戦後構想を協議し、1946年には「鉄のカーテン」演説を行った。",
+      "en": "Conservative statesman who opposed appeasement and became prime minister in 1940, leading Britain's defiance of Germany. With Roosevelt and Stalin he shaped the postwar order at the wartime conferences; in 1946 he gave the Iron Curtain speech."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ウィンストン・チャーチル",
+      "en": "Winston Churchill"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "lloyd-george",
+    "name": {
+      "ja": "ロイド＝ジョージ",
+      "en": "David Lloyd George"
+    },
+    "born": 1863,
+    "died": 1945,
+    "active": [
+      1916,
+      1922
+    ],
+    "role": {
+      "ja": "イギリス首相",
+      "en": "Prime Minister of the United Kingdom"
+    },
+    "lat": 51.5,
+    "lon": -0.13,
+    "desc": {
+      "ja": "自由党の政治家。蔵相として社会保障政策を進め、1916年に挙国一致内閣の首相として第一次世界大戦を勝利に導いた。パリ講和会議ではウィルソン、クレマンソーとともに講和を主導した。",
+      "en": "Liberal statesman who introduced social insurance as chancellor and, as prime minister of a coalition from 1916, led Britain to victory in the First World War. At Paris he shaped the peace with Wilson and Clemenceau."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "デビッド・ロイド・ジョージ",
+      "en": "David Lloyd George"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "clemenceau",
+    "name": {
+      "ja": "クレマンソー",
+      "en": "Georges Clemenceau"
+    },
+    "born": 1841,
+    "died": 1929,
+    "active": [
+      1917,
+      1920
+    ],
+    "role": {
+      "ja": "フランス首相",
+      "en": "Prime Minister of France"
+    },
+    "lat": 48.86,
+    "lon": 2.35,
+    "desc": {
+      "ja": "急進派の政治家で「虎」と呼ばれた。1917年に首相となり、徹底抗戦でフランスを勝利に導いた。パリ講和会議ではドイツへの厳しい制裁と安全保障を主張し、ヴェルサイユ条約を主導した。",
+      "en": "Radical politician nicknamed the Tiger, who became premier in 1917 and drove France to victory. At the Paris Peace Conference he demanded harsh terms and security guarantees against Germany, shaping the Treaty of Versailles."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ジョルジュ・クレマンソー",
+      "en": "Georges Clemenceau"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "hitler",
+    "name": {
+      "ja": "ヒトラー",
+      "en": "Adolf Hitler"
+    },
+    "born": 1889,
+    "died": 1945,
+    "active": [
+      1933,
+      1945
+    ],
+    "role": {
+      "ja": "ナチス＝ドイツの総統",
+      "en": "Führer of Nazi Germany"
+    },
+    "lat": 52.52,
+    "lon": 13.38,
+    "desc": {
+      "ja": "ナチ党の指導者。世界恐慌下の混乱に乗じて1933年に首相となり、全権委任法で独裁を確立した。ヴェルサイユ体制を破壊して侵略を重ね第二次世界大戦を引き起こし、ユダヤ人の大量虐殺を行った。ベルリン陥落時に自殺した。",
+      "en": "Leader of the Nazi Party who exploited the Depression to become chancellor in 1933 and built a dictatorship through the Enabling Act. He dismantled the Versailles system, launched the Second World War and ordered the murder of Europe's Jews, killing himself as Berlin fell."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "アドルフ・ヒトラー",
+      "en": "Adolf Hitler"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "mussolini",
+    "name": {
+      "ja": "ムッソリーニ",
+      "en": "Benito Mussolini"
+    },
+    "born": 1883,
+    "died": 1945,
+    "active": [
+      1922,
+      1943
+    ],
+    "role": {
+      "ja": "イタリアのファシスト党党首・首相",
+      "en": "Fascist leader and Prime Minister of Italy"
+    },
+    "lat": 41.9,
+    "lon": 12.5,
+    "desc": {
+      "ja": "ファシスト党を創設し、1922年のローマ進軍で政権を獲得して一党独裁を確立した。ラテラノ条約で教皇庁と和解し、エチオピアを侵略してドイツと枢軸を結んだ。1943年に失脚し、1945年パルチザンに処刑された。",
+      "en": "Founder of the Fascist Party who took power through the March on Rome in 1922 and built a one-party dictatorship. He reconciled with the papacy, invaded Ethiopia and allied with Hitler; deposed in 1943, he was executed by partisans in 1945."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ベニート・ムッソリーニ",
+      "en": "Benito Mussolini"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "de-gaulle",
+    "name": {
+      "ja": "ド＝ゴール",
+      "en": "Charles de Gaulle"
+    },
+    "born": 1890,
+    "died": 1970,
+    "active": [
+      1940,
+      1946
+    ],
+    "role": {
+      "ja": "自由フランスの指導者・フランス臨時政府首班",
+      "en": "Leader of Free France"
+    },
+    "lat": 48.86,
+    "lon": 2.35,
+    "desc": {
+      "ja": "フランスの軍人・政治家。1940年の降伏後ロンドンに亡命して自由フランスを組織し、レジスタンスを指導した。1944年パリ解放後に臨時政府首班となり、戦後は第五共和政の初代大統領となった。",
+      "en": "French soldier and statesman who fled to London after the 1940 surrender, organized the Free French and led the resistance. He headed the provisional government after the liberation of Paris in 1944 and later founded the Fifth Republic."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "シャルル・ド・ゴール",
+      "en": "Charles de Gaulle"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "petain",
+    "name": {
+      "ja": "ペタン",
+      "en": "Philippe Pétain"
+    },
+    "born": 1856,
+    "died": 1951,
+    "active": [
+      1916,
+      1944
+    ],
+    "role": {
+      "ja": "フランスの軍人・ヴィシー政府の国家主席",
+      "en": "French marshal and head of the Vichy regime"
+    },
+    "lat": 46.13,
+    "lon": 3.43,
+    "desc": {
+      "ja": "ヴェルダンの戦いの英雄として国民的名声を得た軍人。1940年の敗北後に首相となってドイツと休戦し、ヴィシー政府の国家主席として対独協力を行った。戦後、反逆罪で死刑判決を受け終身刑に減刑された。",
+      "en": "Marshal celebrated as the hero of Verdun. After the defeat of 1940 he became premier, made an armistice with Germany and headed the collaborationist Vichy regime. Sentenced to death for treason after the war, he was reprieved to life imprisonment."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "フィリップ・ペタン",
+      "en": "Philippe Pétain"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "chamberlain",
+    "name": {
+      "ja": "ネヴィル＝チェンバレン",
+      "en": "Neville Chamberlain"
+    },
+    "born": 1869,
+    "died": 1940,
+    "active": [
+      1937,
+      1940
+    ],
+    "role": {
+      "ja": "イギリス首相",
+      "en": "Prime Minister of the United Kingdom"
+    },
+    "lat": 51.5,
+    "lon": -0.13,
+    "desc": {
+      "ja": "保守党の首相。ヒトラーに対する宥和政策を推進し、1938年のミュンヘン会談でズデーテン地方の割譲を認めた。1939年のポーランド侵攻で対独宣戦したが、翌年ノルウェー作戦の失敗で辞任した。",
+      "en": "Conservative prime minister who pursued appeasement of Hitler and conceded the Sudetenland at Munich in 1938. He declared war when Germany invaded Poland in 1939 but resigned in 1940 after the Norwegian fiasco."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ネヴィル・チェンバレン",
+      "en": "Neville Chamberlain"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "stresemann",
+    "name": {
+      "ja": "シュトレーゼマン",
+      "en": "Gustav Stresemann"
+    },
+    "born": 1878,
+    "died": 1929,
+    "active": [
+      1923,
+      1929
+    ],
+    "role": {
+      "ja": "ヴァイマル共和国の首相・外相",
+      "en": "Chancellor and Foreign Minister of the Weimar Republic"
+    },
+    "lat": 52.52,
+    "lon": 13.38,
+    "desc": {
+      "ja": "ドイツ人民党の政治家。1923年に首相としてレンテンマルクでインフレを収束させ、以後外相としてドーズ案の受け入れ、ロカルノ条約、国際連盟加入を実現する協調外交を進めた。1926年ノーベル平和賞。",
+      "en": "German People's Party leader who as chancellor in 1923 ended hyperinflation with the Rentenmark and as foreign minister pursued reconciliation through the Dawes Plan, Locarno and League membership. Nobel Peace Prize 1926."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "グスタフ・シュトレーゼマン",
+      "en": "Gustav Stresemann"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "briand",
+    "name": {
+      "ja": "ブリアン",
+      "en": "Aristide Briand"
+    },
+    "born": 1862,
+    "died": 1932,
+    "active": [
+      1925,
+      1932
+    ],
+    "role": {
+      "ja": "フランス外相・首相",
+      "en": "French Foreign Minister and Prime Minister"
+    },
+    "lat": 48.86,
+    "lon": 2.35,
+    "desc": {
+      "ja": "フランスの政治家。11回首相を務め、1925年以降外相としてシュトレーゼマンと協調してロカルノ条約を実現し、ケロッグとともに不戦条約を提唱した。ヨーロッパ統合構想も唱えた。1926年ノーベル平和賞。",
+      "en": "French statesman, eleven times premier, who as foreign minister from 1925 worked with Stresemann on the Locarno treaties and with Kellogg on the pact renouncing war. He also proposed a European union. Nobel Peace Prize 1926."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "アリスティード・ブリアン",
+      "en": "Aristide Briand"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "franco",
+    "name": {
+      "ja": "フランコ",
+      "en": "Francisco Franco"
+    },
+    "born": 1892,
+    "died": 1975,
+    "active": [
+      1936,
+      1975
+    ],
+    "role": {
+      "ja": "スペインの軍人・独裁者",
+      "en": "Spanish general and dictator"
+    },
+    "lat": 40.42,
+    "lon": -3.7,
+    "desc": {
+      "ja": "スペインの軍人。1936年に人民戦線政府に対して反乱をおこし、独・伊の支援を受けて内戦に勝利した。第二次世界大戦では中立を保ち、1975年に死去するまで独裁体制を維持した。",
+      "en": "Spanish general who rose against the Popular Front government in 1936 and won the civil war with German and Italian aid. He kept Spain neutral in the Second World War and ruled as dictator until his death in 1975."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "フランシスコ・フランコ",
+      "en": "Francisco Franco"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "chiang-kai-shek",
+    "name": {
+      "ja": "蔣介石",
+      "en": "Chiang Kai-shek"
+    },
+    "born": 1887,
+    "died": 1975,
+    "active": [
+      1926,
+      1949
+    ],
+    "role": {
+      "ja": "中国国民党の指導者・国民政府主席",
+      "en": "Leader of the Kuomintang and Nationalist government"
+    },
+    "lat": 32.06,
+    "lon": 118.78,
+    "desc": {
+      "ja": "孫文の後継者として北伐を指揮し、上海クーデタで共産党を弾圧して南京国民政府を樹立した。西安事件を経て抗日戦を指導し、カイロ会談に出席。戦後は国共内戦に敗れて台湾に逃れた。",
+      "en": "Sun Yat-sen's successor who led the Northern Expedition, crushed the Communists in the Shanghai coup and founded the Nanjing government. After the Xi'an Incident he led the war against Japan and attended the Cairo Conference; defeated in the civil war, he withdrew to Taiwan."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "蔣介石",
+      "en": "Chiang Kai-shek"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "mao-zedong",
+    "name": {
+      "ja": "毛沢東",
+      "en": "Mao Zedong"
+    },
+    "born": 1893,
+    "died": 1976,
+    "active": [
+      1927,
+      1976
+    ],
+    "role": {
+      "ja": "中国共産党の指導者",
+      "en": "Leader of the Chinese Communist Party"
+    },
+    "lat": 36.59,
+    "lon": 109.49,
+    "desc": {
+      "ja": "中国共産党の創立に参加し、農村根拠地での革命を主張して井崗山・瑞金に拠った。長征途上の遵義会議で指導権を握り、延安を拠点に抗日戦を戦った。1949年に中華人民共和国を建国した。",
+      "en": "A founding member of the Chinese Communist Party who built rural bases at Jinggangshan and Ruijin. He took control of the party at Zunyi during the Long March, directed the war against Japan from Yan'an and proclaimed the People's Republic in 1949."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "毛沢東",
+      "en": "Mao Zedong"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "zhou-enlai",
+    "name": {
+      "ja": "周恩来",
+      "en": "Zhou Enlai"
+    },
+    "born": 1898,
+    "died": 1976,
+    "active": [
+      1924,
+      1976
+    ],
+    "role": {
+      "ja": "中国共産党の指導者・のち中華人民共和国首相",
+      "en": "Chinese Communist leader, later Premier of the PRC"
+    },
+    "lat": 36.59,
+    "lon": 109.5,
+    "desc": {
+      "ja": "フランス留学中に共産党に入り、黄埔軍官学校政治部主任を務めた。長征に参加し、西安事件では蔣介石との交渉にあたって第2次国共合作を実現した。建国後は首相として外交を担った。",
+      "en": "Joined the Communists while studying in France and served as political director at Whampoa. He took part in the Long March and negotiated with Chiang during the Xi'an Incident to forge the second United Front; after 1949 he was premier and chief diplomat."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "周恩来",
+      "en": "Zhou Enlai"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "wang-jingwei",
+    "name": {
+      "ja": "汪兆銘",
+      "en": "Wang Jingwei"
+    },
+    "born": 1883,
+    "died": 1944,
+    "active": [
+      1925,
+      1944
+    ],
+    "role": {
+      "ja": "中国国民党左派の指導者・南京政府主席",
+      "en": "Kuomintang leader, head of the Japanese-sponsored Nanjing regime"
+    },
+    "lat": 32.07,
+    "lon": 118.76,
+    "desc": {
+      "ja": "孫文の側近で国民党左派の指導者。1927年に武漢政府を率いたが蔣介石と合流した。日中戦争中に重慶を脱出し、1940年日本の支援で南京に国民政府を樹立して対日協力の道を選んだ。",
+      "en": "Close associate of Sun Yat-sen and leader of the Kuomintang left who headed the Wuhan government in 1927 before joining Chiang. During the war with Japan he fled Chongqing and in 1940 set up a collaborationist government at Nanjing."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "汪兆銘",
+      "en": "Wang Jingwei"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "zhang-xueliang",
+    "name": {
+      "ja": "張学良",
+      "en": "Zhang Xueliang"
+    },
+    "born": 1901,
+    "died": 2001,
+    "active": [
+      1928,
+      1936
+    ],
+    "role": {
+      "ja": "中国の軍人・東北軍の指導者",
+      "en": "Chinese warlord, commander of the Northeastern Army"
+    },
+    "lat": 41.8,
+    "lon": 123.43,
+    "desc": {
+      "ja": "張作霖の子。父の爆殺後、1928年末に国民政府に合流して全国統一を完成させた。満州事変で東北を失い、1936年に西安で蔣介石を監禁して内戦停止と抗日を迫った。以後半世紀にわたり軟禁された。",
+      "en": "Son of Zhang Zuolin who joined the Nationalists after his father's murder in 1928, completing China's unification. Driven from Manchuria in 1931, he detained Chiang at Xi'an in 1936 to force a united front against Japan and was held under house arrest for decades."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "張学良",
+      "en": "Zhang Xueliang"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "chen-duxiu",
+    "name": {
+      "ja": "陳独秀",
+      "en": "Chen Duxiu"
+    },
+    "born": 1879,
+    "died": 1942,
+    "active": [
+      1915,
+      1927
+    ],
+    "role": {
+      "ja": "新文化運動の指導者・中国共産党初代委員長",
+      "en": "Leader of the New Culture Movement and first head of the CCP"
+    },
+    "lat": 31.23,
+    "lon": 121.47,
+    "desc": {
+      "ja": "1915年に雑誌『新青年』を創刊して儒教批判と民主・科学を唱え、新文化運動を指導した。五・四運動を経て1921年に中国共産党を創設し初代委員長となったが、1927年の国共分裂の責任を問われて失脚した。",
+      "en": "Founded the magazine New Youth in 1915, attacking Confucianism and championing democracy and science in the New Culture Movement. After May Fourth he founded the Chinese Communist Party in 1921 and led it until blamed for the 1927 split."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "陳独秀",
+      "en": "Chen Duxiu"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "gandhi",
+    "name": {
+      "ja": "ガンディー",
+      "en": "Mahatma Gandhi"
+    },
+    "born": 1869,
+    "died": 1948,
+    "active": [
+      1919,
+      1948
+    ],
+    "role": {
+      "ja": "インド独立運動の指導者",
+      "en": "Leader of the Indian independence movement"
+    },
+    "lat": 23.02,
+    "lon": 72.57,
+    "desc": {
+      "ja": "南アフリカで人種差別と闘ったのち帰国し、非暴力・不服従（サティヤーグラハ）を掲げて国民会議派の反英運動を指導した。塩の行進などで民衆を動員し「マハトマ（偉大な魂）」と呼ばれた。独立直後の1948年に暗殺された。",
+      "en": "After fighting discrimination in South Africa he led the Indian National Congress in non-violent resistance (satyagraha) against British rule, mobilizing the masses in campaigns such as the Salt March. Called Mahatma, he was assassinated in 1948 soon after independence."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "マハトマ・ガンディー",
+      "en": "Mahatma Gandhi"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "nehru",
+    "name": {
+      "ja": "ネルー",
+      "en": "Jawaharlal Nehru"
+    },
+    "born": 1889,
+    "died": 1964,
+    "active": [
+      1929,
+      1964
+    ],
+    "role": {
+      "ja": "インド国民会議派の指導者・初代インド首相",
+      "en": "Congress leader and first Prime Minister of India"
+    },
+    "lat": 28.61,
+    "lon": 77.21,
+    "desc": {
+      "ja": "ガンディーの後継者として国民会議派の急進派を率い、1929年のラホール大会でプールナ＝スワラージ（完全独立）を決議した。1947年の独立後は初代首相として非同盟外交と計画経済を進めた。",
+      "en": "Gandhi's successor who led the radical wing of Congress and at Lahore in 1929 pushed through the demand for complete independence. As India's first prime minister from 1947 he pursued non-alignment and planned development."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ジャワハルラール・ネルー",
+      "en": "Jawaharlal Nehru"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "jinnah",
+    "name": {
+      "ja": "ジンナー",
+      "en": "Muhammad Ali Jinnah"
+    },
+    "born": 1876,
+    "died": 1948,
+    "active": [
+      1934,
+      1948
+    ],
+    "role": {
+      "ja": "全インド＝ムスリム連盟の指導者・パキスタン建国の父",
+      "en": "Leader of the Muslim League and founder of Pakistan"
+    },
+    "lat": 24.86,
+    "lon": 67,
+    "desc": {
+      "ja": "当初は国民会議派とムスリム連盟の協調を説いたが、1930年代にムスリム連盟の指導者となり、1940年にムスリム国家パキスタンの建設を要求した。1947年の分離独立でパキスタン初代総督となった。",
+      "en": "Initially an advocate of Hindu–Muslim unity, he led the Muslim League from the 1930s and in 1940 demanded a separate Muslim state. He became Pakistan's first governor-general at partition in 1947."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ムハンマド・アリー・ジンナー",
+      "en": "Muhammad Ali Jinnah"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "mustafa-kemal",
+    "name": {
+      "ja": "ムスタファ＝ケマル",
+      "en": "Mustafa Kemal Atatürk"
+    },
+    "born": 1881,
+    "died": 1938,
+    "active": [
+      1919,
+      1938
+    ],
+    "role": {
+      "ja": "トルコ共和国の初代大統領",
+      "en": "First President of the Republic of Turkey"
+    },
+    "lat": 39.93,
+    "lon": 32.86,
+    "desc": {
+      "ja": "ガリポリの戦いで名を上げた軍人。セーヴル条約に反対してアンカラに政府を樹立し、ギリシア軍を撃退してスルタン制を廃止した。1923年にトルコ共和国を建て、政教分離や文字改革などの近代化を断行し「アタテュルク（トルコの父）」と称された。",
+      "en": "Officer who won fame at Gallipoli, then organized resistance at Ankara against the Treaty of Sèvres, expelled the Greeks and abolished the sultanate. Founding the Republic in 1923, he secularized and modernized Turkey and was honored as Atatürk, father of the Turks."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ムスタファ・ケマル・アタテュルク",
+      "en": "Mustafa Kemal Atatürk"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "reza-shah",
+    "name": {
+      "ja": "レザー＝ハーン",
+      "en": "Reza Shah Pahlavi"
+    },
+    "born": 1878,
+    "died": 1944,
+    "active": [
+      1921,
+      1941
+    ],
+    "role": {
+      "ja": "パフレヴィー朝の創始者・イラン国王",
+      "en": "Founder of the Pahlavi dynasty and Shah of Iran"
+    },
+    "lat": 35.69,
+    "lon": 51.39,
+    "desc": {
+      "ja": "コサック旅団出身の軍人。1921年のクーデタで実権を握り、1925年にカージャール朝を廃してパフレヴィー朝を開いた。トルコにならって近代化を進め、1935年に国号をイランと改めた。1941年英ソ両軍の進駐で退位した。",
+      "en": "A Cossack Brigade officer who seized power in a 1921 coup and in 1925 replaced the Qajars with his own Pahlavi dynasty. He modernized the country on the Turkish model and renamed it Iran in 1935, but was forced to abdicate when Britain and the USSR occupied Iran in 1941."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "レザー・シャー",
+      "en": "Reza Shah"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "ibn-saud",
+    "name": {
+      "ja": "イブン＝サウード",
+      "en": "Ibn Saud"
+    },
+    "born": 1875,
+    "died": 1953,
+    "active": [
+      1924,
+      1953
+    ],
+    "role": {
+      "ja": "サウジアラビア王国の建国者",
+      "en": "Founder and first King of Saudi Arabia"
+    },
+    "lat": 24.69,
+    "lon": 46.72,
+    "desc": {
+      "ja": "ワッハーブ派と結んでアラビア半島の統一を進め、1924〜25年にヒジャーズ王国を征服してメッカ・メディナを支配した。1932年にサウジアラビア王国を建国し、1938年の油田発見でアメリカとの関係を深めた。",
+      "en": "Allied with the Wahhabis, he unified most of Arabia, conquering the Hejaz with Mecca and Medina in 1924–25. He proclaimed the Kingdom of Saudi Arabia in 1932, and the discovery of oil in 1938 drew the kingdom close to the United States."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "イブン・サウード",
+      "en": "Ibn Saud"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "sukarno",
+    "name": {
+      "ja": "スカルノ",
+      "en": "Sukarno"
+    },
+    "born": 1901,
+    "died": 1970,
+    "active": [
+      1927,
+      1967
+    ],
+    "role": {
+      "ja": "インドネシア独立運動の指導者・初代大統領",
+      "en": "Indonesian nationalist leader and first President"
+    },
+    "lat": -6.2,
+    "lon": 106.85,
+    "desc": {
+      "ja": "1927年にインドネシア国民党を結成してオランダからの独立を唱え、たびたび投獄・流刑された。日本占領期に協力しつつ独立準備を進め、1945年8月17日に独立を宣言して初代大統領となった。",
+      "en": "Founded the Indonesian Nationalist Party in 1927 to demand independence from the Netherlands and was repeatedly jailed and exiled. He cooperated with the Japanese occupation while preparing for independence, which he proclaimed on 17 August 1945 as first president."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "スカルノ",
+      "en": "Sukarno"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "ho-chi-minh",
+    "name": {
+      "ja": "ホー＝チ＝ミン",
+      "en": "Ho Chi Minh"
+    },
+    "born": 1890,
+    "died": 1969,
+    "active": [
+      1930,
+      1969
+    ],
+    "role": {
+      "ja": "ベトナム独立運動の指導者・ベトナム民主共和国主席",
+      "en": "Vietnamese revolutionary and President of North Vietnam"
+    },
+    "lat": 21.03,
+    "lon": 105.85,
+    "desc": {
+      "ja": "フランス留学中に共産党に入り、1930年に香港でインドシナ共産党を結成した。1941年にベトナム独立同盟（ベトミン）を組織して抗日・抗仏闘争を指導し、1945年9月にベトナム民主共和国の独立を宣言した。",
+      "en": "Joined the Communists in France and founded the Indochinese Communist Party in Hong Kong in 1930. In 1941 he organized the Viet Minh to fight Japan and France, and in September 1945 proclaimed the Democratic Republic of Vietnam."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ホー・チ・ミン",
+      "en": "Ho Chi Minh"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "keynes",
+    "name": {
+      "ja": "ケインズ",
+      "en": "John Maynard Keynes"
+    },
+    "born": 1883,
+    "died": 1946,
+    "active": [
+      1919,
+      1946
+    ],
+    "role": {
+      "ja": "イギリスの経済学者",
+      "en": "British economist"
+    },
+    "lat": 52.2,
+    "lon": 0.12,
+    "desc": {
+      "ja": "パリ講和会議に英代表団として参加し、ドイツへの過酷な賠償を批判した。1936年の『雇用・利子および貨幣の一般理論』で政府の財政政策による有効需要の創出を説き、修正資本主義の理論的基礎を築いた。ブレトン＝ウッズ会議でも英代表を務めた。",
+      "en": "A British delegate at Paris who denounced the harsh reparations. His General Theory of 1936 argued that government spending could create demand and employment, founding modern macroeconomics; he led the British delegation at Bretton Woods."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ジョン・メイナード・ケインズ",
+      "en": "John Maynard Keynes"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "einstein",
+    "name": {
+      "ja": "アインシュタイン",
+      "en": "Albert Einstein"
+    },
+    "born": 1879,
+    "died": 1955,
+    "active": [
+      1905,
+      1955
+    ],
+    "role": {
+      "ja": "理論物理学者",
+      "en": "Theoretical physicist"
+    },
+    "lat": 52.52,
+    "lon": 13.4,
+    "desc": {
+      "ja": "ドイツ生まれのユダヤ系物理学者。特殊相対性理論（1905）と一般相対性理論（1915）で時間と空間の概念を革新し、1921年ノーベル物理学賞を受賞した。ナチス政権成立後アメリカに亡命し、戦後は核兵器廃絶を訴えた。",
+      "en": "German-born Jewish physicist whose special (1905) and general (1915) theories of relativity transformed the understanding of space and time; Nobel laureate in 1921. He emigrated to the United States after the Nazis took power and later campaigned against nuclear weapons."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "アルベルト・アインシュタイン",
+      "en": "Albert Einstein"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "freud",
+    "name": {
+      "ja": "フロイト",
+      "en": "Sigmund Freud"
+    },
+    "born": 1856,
+    "died": 1939,
+    "active": [
+      1900,
+      1939
+    ],
+    "role": {
+      "ja": "精神分析学の創始者",
+      "en": "Founder of psychoanalysis"
+    },
+    "lat": 48.21,
+    "lon": 16.37,
+    "desc": {
+      "ja": "ウィーンの精神科医。無意識の存在を重視し、夢や自由連想による精神分析学を創始した。その理論は心理学のみならず20世紀の文学・芸術・思想に広く影響を与えた。ナチスのオーストリア併合後ロンドンに亡命した。",
+      "en": "Viennese psychiatrist who founded psychoanalysis on the study of the unconscious through dreams and free association. His ideas influenced not only psychology but twentieth-century literature, art and thought; he fled to London after the Anschluss."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ジークムント・フロイト",
+      "en": "Sigmund Freud"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "fleming",
+    "name": {
+      "ja": "フレミング",
+      "en": "Alexander Fleming"
+    },
+    "born": 1881,
+    "died": 1955,
+    "active": [
+      1928,
+      1945
+    ],
+    "role": {
+      "ja": "イギリスの細菌学者",
+      "en": "British bacteriologist"
+    },
+    "lat": 51.52,
+    "lon": -0.17,
+    "desc": {
+      "ja": "ロンドンの病院で研究中の1928年、アオカビが細菌の発育を妨げることを発見し、抗生物質ペニシリンを見いだした。第二次世界大戦中に実用化され多くの命を救い、1945年ノーベル生理学・医学賞を受賞した。",
+      "en": "While working at a London hospital in 1928 he noticed that a mold inhibited bacterial growth and so discovered penicillin. Developed into a practical drug during the Second World War, it saved countless lives; he shared the Nobel Prize in 1945."
+    },
+    "importance": 1,
+    "wiki": {
+      "ja": "アレクサンダー・フレミング",
+      "en": "Alexander Fleming"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "hindenburg",
+    "name": {
+      "ja": "ヒンデンブルク",
+      "en": "Paul von Hindenburg"
+    },
+    "born": 1847,
+    "died": 1934,
+    "active": [
+      1914,
+      1934
+    ],
+    "role": {
+      "ja": "ドイツの軍人・ヴァイマル共和国大統領",
+      "en": "German field marshal and President of the Weimar Republic"
+    },
+    "lat": 52.52,
+    "lon": 13.38,
+    "desc": {
+      "ja": "タンネンベルクの戦いで名声を得、参謀総長として大戦後半のドイツを事実上支配した。1925年にヴァイマル共和国大統領に選ばれ、1933年にヒトラーを首相に任命した。",
+      "en": "Field marshal who won fame at Tannenberg and as chief of the general staff effectively ruled Germany in the later war years. Elected president of the Weimar Republic in 1925, he appointed Hitler chancellor in 1933."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "パウル・フォン・ヒンデンブルク",
+      "en": "Paul von Hindenburg"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "ludendorff",
+    "name": {
+      "ja": "ルーデンドルフ",
+      "en": "Erich Ludendorff"
+    },
+    "born": 1865,
+    "died": 1937,
+    "active": [
+      1914,
+      1923
+    ],
+    "role": {
+      "ja": "ドイツの軍人",
+      "en": "German general"
+    },
+    "lat": 52.52,
+    "lon": 13.38,
+    "desc": {
+      "ja": "ヒンデンブルクの参謀としてタンネンベルクの勝利を導き、1916年から軍需総監として総力戦体制を指導した。1918年の攻勢失敗後に辞任し、戦後はミュンヘン一揆に参加するなど極右運動に加わった。",
+      "en": "Hindenburg's chief of staff at Tannenberg and from 1916 quartermaster general directing Germany's total war effort. He resigned after the failed 1918 offensives and later joined far-right politics, taking part in the Beer Hall Putsch."
+    },
+    "importance": 1,
+    "wiki": {
+      "ja": "エーリヒ・ルーデンドルフ",
+      "en": "Erich Ludendorff"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "franz-ferdinand",
+    "name": {
+      "ja": "フランツ＝フェルディナント",
+      "en": "Archduke Franz Ferdinand"
+    },
+    "born": 1863,
+    "died": 1914,
+    "active": [
+      1896,
+      1914
+    ],
+    "role": {
+      "ja": "オーストリア＝ハンガリー帝国の帝位継承者",
+      "en": "Heir to the Austro-Hungarian throne"
+    },
+    "lat": 48.21,
+    "lon": 16.37,
+    "desc": {
+      "ja": "オーストリア皇帝フランツ＝ヨーゼフ1世の甥で帝位継承者。1914年6月28日、サライェヴォで妻とともにセルビア人民族主義者に暗殺され、その事件がオーストリアのセルビアへの宣戦と第一次世界大戦の勃発を招いた。",
+      "en": "Nephew of Emperor Franz Joseph and heir to the Habsburg throne. His assassination with his wife by a Serb nationalist at Sarajevo on 28 June 1914 led Austria-Hungary to declare war on Serbia and set off the First World War."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "フランツ・フェルディナント",
+      "en": "Archduke Franz Ferdinand of Austria"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "eisenhower",
+    "name": {
+      "ja": "アイゼンハワー",
+      "en": "Dwight D. Eisenhower"
+    },
+    "born": 1890,
+    "died": 1969,
+    "active": [
+      1942,
+      1961
+    ],
+    "role": {
+      "ja": "連合国遠征軍最高司令官・のちアメリカ大統領",
+      "en": "Supreme Allied Commander, later US President"
+    },
+    "lat": 38.9,
+    "lon": -77.04,
+    "desc": {
+      "ja": "アメリカの軍人。北アフリカ・イタリア作戦を指揮したのち連合国遠征軍最高司令官として1944年のノルマンディー上陸作戦を成功させ、ドイツを降伏に追い込んだ。1953年から共和党の大統領を2期務めた。",
+      "en": "American general who commanded the North African and Italian campaigns and, as Supreme Allied Commander, directed the Normandy landings of 1944 and the defeat of Germany. He served two terms as Republican president from 1953."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ドワイト・D・アイゼンハワー",
+      "en": "Dwight D. Eisenhower"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "tojo-hideki",
+    "name": {
+      "ja": "東条英機",
+      "en": "Hideki Tojo"
+    },
+    "born": 1884,
+    "died": 1948,
+    "active": [
+      1941,
+      1944
+    ],
+    "role": {
+      "ja": "日本の陸軍軍人・首相",
+      "en": "Japanese general and Prime Minister"
+    },
+    "lat": 35.68,
+    "lon": 139.75,
+    "desc": {
+      "ja": "陸軍の統制派の軍人。1941年10月に首相となり、同年12月に対米英開戦を決定して太平洋戦争に突入した。サイパン陥落後の1944年に辞職し、戦後の極東国際軍事裁判でA級戦犯として処刑された。",
+      "en": "Army general who became prime minister in October 1941 and took Japan into war with the United States and Britain in December. He resigned after the fall of Saipan in 1944 and was executed as a Class A war criminal after the Tokyo trial."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "東條英機",
+      "en": "Hideki Tojo"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "konoe-fumimaro",
+    "name": {
+      "ja": "近衛文麿",
+      "en": "Fumimaro Konoe"
+    },
+    "born": 1891,
+    "died": 1945,
+    "active": [
+      1937,
+      1941
+    ],
+    "role": {
+      "ja": "日本の首相",
+      "en": "Prime Minister of Japan"
+    },
+    "lat": 35.68,
+    "lon": 139.74,
+    "desc": {
+      "ja": "公家出身の政治家。1937年に首相となり、盧溝橋事件後に日中戦争を拡大し「国民政府を対手とせず」と声明した。第2次内閣で日独伊三国同盟を結び大政翼賛会を結成したが、日米交渉に行き詰まり1941年に退陣した。",
+      "en": "Aristocratic politician who became prime minister in 1937 and widened the war with China after the Marco Polo Bridge Incident. His second cabinet signed the Tripartite Pact and formed the Imperial Rule Assistance Association; he resigned in 1941 as talks with the United States failed."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "近衛文麿",
+      "en": "Fumimaro Konoe"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "truman",
+    "name": {
+      "ja": "トルーマン",
+      "en": "Harry S. Truman"
+    },
+    "born": 1884,
+    "died": 1972,
+    "active": [
+      1945,
+      1953
+    ],
+    "role": {
+      "ja": "アメリカ合衆国第33代大統領",
+      "en": "33rd President of the United States"
+    },
+    "lat": 38.9,
+    "lon": -77.04,
+    "desc": {
+      "ja": "ローズヴェルトの死去により1945年4月に副大統領から昇格した。ポツダム会談に出席し、広島・長崎への原爆投下を決定して日本を降伏させた。戦後はトルーマン＝ドクトリンで対ソ「封じ込め」政策を打ち出した。",
+      "en": "Succeeded from the vice-presidency on Roosevelt's death in April 1945. He attended Potsdam and ordered the atomic bombing of Hiroshima and Nagasaki that forced Japan's surrender; his Truman Doctrine later launched containment of the USSR."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ハリー・S・トルーマン",
+      "en": "Harry S. Truman"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "hoover",
+    "name": {
+      "ja": "フーヴァー",
+      "en": "Herbert Hoover"
+    },
+    "born": 1874,
+    "died": 1964,
+    "active": [
+      1929,
+      1933
+    ],
+    "role": {
+      "ja": "アメリカ合衆国第31代大統領",
+      "en": "31st President of the United States"
+    },
+    "lat": 38.9,
+    "lon": -77.04,
+    "desc": {
+      "ja": "共和党の大統領。就任直後に世界恐慌が始まったが自由放任の立場から有効な対策をとれず、1931年に賠償・戦債支払いを1年猶予するフーヴァー＝モラトリアムを宣言した。1932年の選挙でローズヴェルトに敗れた。",
+      "en": "Republican president whose term began months before the 1929 crash. Committed to limited government, he failed to check the Depression, though in 1931 he declared a one-year moratorium on war debts and reparations; Roosevelt defeated him in 1932."
+    },
+    "importance": 1,
+    "wiki": {
+      "ja": "ハーバート・フーヴァー",
+      "en": "Herbert Hoover"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "haile-selassie",
+    "name": {
+      "ja": "ハイレ＝セラシエ",
+      "en": "Haile Selassie"
+    },
+    "born": 1892,
+    "died": 1975,
+    "active": [
+      1930,
+      1974
+    ],
+    "role": {
+      "ja": "エチオピア皇帝",
+      "en": "Emperor of Ethiopia"
+    },
+    "lat": 9.03,
+    "lon": 38.74,
+    "desc": {
+      "ja": "1930年に即位し憲法制定など近代化を進めた。1935年のイタリア侵攻に対し国際連盟に支援を訴えたが得られず亡命、1941年にイギリス軍とともに帰国して復位した。戦後はアフリカ統一機構の設立を主導した。",
+      "en": "Crowned in 1930, he introduced a constitution and modernizing reforms. When Italy invaded in 1935 he appealed in vain to the League of Nations and went into exile, returning with British forces in 1941; after the war he helped found the Organization of African Unity."
+    },
+    "importance": 1,
+    "wiki": {
+      "ja": "ハイレ・セラシエ1世",
+      "en": "Haile Selassie"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "picasso",
+    "name": {
+      "ja": "ピカソ",
+      "en": "Pablo Picasso"
+    },
+    "born": 1881,
+    "died": 1973,
+    "active": [
+      1907,
+      1973
+    ],
+    "role": {
+      "ja": "スペイン生まれの画家",
+      "en": "Spanish-born painter"
+    },
+    "lat": 48.86,
+    "lon": 2.35,
+    "desc": {
+      "ja": "パリで活動したスペイン出身の画家。ブラックとともにキュビスムを創始し、20世紀美術の革新を主導した。1937年、スペイン内戦中のゲルニカ爆撃に抗議して大作「ゲルニカ」を描いた。",
+      "en": "Spanish painter working in Paris who, with Braque, founded Cubism and led the revolution in twentieth-century art. In 1937 he painted Guernica in protest at the bombing of the Basque town during the Spanish Civil War."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "パブロ・ピカソ",
+      "en": "Pablo Picasso"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "rosa-luxemburg",
+    "name": {
+      "ja": "ローザ＝ルクセンブルク",
+      "en": "Rosa Luxemburg"
+    },
+    "born": 1871,
+    "died": 1919,
+    "active": [
+      1898,
+      1919
+    ],
+    "role": {
+      "ja": "ドイツの社会主義者・スパルタクス団の指導者",
+      "en": "German socialist and Spartacist leader"
+    },
+    "lat": 52.52,
+    "lon": 13.4,
+    "desc": {
+      "ja": "ポーランド生まれのマルクス主義理論家。社会民主党左派として帝国主義と戦争に反対し、カール＝リープクネヒトとスパルタクス団を結成してドイツ共産党を創設した。1919年1月の蜂起の鎮圧後、義勇軍に殺害された。",
+      "en": "Polish-born Marxist theorist of the German Social Democratic left who opposed imperialism and the war. With Karl Liebknecht she founded the Spartacus League and the German Communist Party; Freikorps troops murdered her after the January 1919 rising."
+    },
+    "importance": 1,
+    "wiki": {
+      "ja": "ローザ・ルクセンブルク",
+      "en": "Rosa Luxemburg"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "gropius",
+    "name": {
+      "ja": "グロピウス",
+      "en": "Walter Gropius"
+    },
+    "born": 1883,
+    "died": 1969,
+    "active": [
+      1919,
+      1933
+    ],
+    "role": {
+      "ja": "ドイツの建築家・バウハウスの創設者",
+      "en": "German architect and founder of the Bauhaus"
+    },
+    "lat": 50.98,
+    "lon": 11.33,
+    "desc": {
+      "ja": "1919年にヴァイマルに造形学校バウハウスを設立し、芸術と技術の統合をめざす機能主義の教育を行った。合理的な近代建築の確立に貢献し、ナチス政権下で亡命してアメリカで活動した。",
+      "en": "Founded the Bauhaus at Weimar in 1919, teaching a functionalist union of art and technology that shaped modern architecture. He emigrated under the Nazi regime and continued his work in the United States."
+    },
+    "importance": 1,
+    "wiki": {
+      "ja": "ヴァルター・グロピウス",
+      "en": "Walter Gropius"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  }
 ]

@@ -1,52 +1,1397 @@
 [
-{"id":"truman","name":{"ja":"トルーマン","en":"Harry S. Truman"},"born":1884,"died":1972,"active":[1945,1953],"role":{"ja":"アメリカ大統領","en":"President of the United States"},"lat":38.9,"lon":-77.04,"desc":{"ja":"ローズヴェルトの死で大統領に昇格。原爆投下を決定し、戦後はトルーマン＝ドクトリンで共産主義の「封じ込め」を打ち出し、朝鮮戦争に国連軍を派遣した。","en":"Succeeded Roosevelt in 1945, ordered the atomic bombings, and launched the containment of communism through the Truman Doctrine; sent UN forces into the Korean War."},"importance":3,"wiki":{"ja":"ハリー・S・トルーマン","en":"Harry S. Truman"},"portrait":{"provider":"wikipedia"}},
-{"id":"marshall","name":{"ja":"マーシャル","en":"George C. Marshall"},"born":1880,"died":1959,"active":[1947,1951],"role":{"ja":"アメリカ国務長官","en":"US Secretary of State"},"lat":38.9,"lon":-77.04,"desc":{"ja":"第二次世界大戦中の陸軍参謀総長。国務長官としてヨーロッパ経済復興援助計画(マーシャル＝プラン)を提唱し、1953年にノーベル平和賞を受賞した。","en":"US Army chief of staff in the Second World War; as secretary of state he proposed the European Recovery Program and won the Nobel Peace Prize in 1953."},"importance":2,"wiki":{"ja":"ジョージ・マーシャル","en":"George C. Marshall"},"portrait":{"provider":"wikipedia"}},
-{"id":"eisenhower","name":{"ja":"アイゼンハワー","en":"Dwight D. Eisenhower"},"born":1890,"died":1969,"active":[1953,1961],"role":{"ja":"アメリカ大統領","en":"President of the United States"},"lat":38.9,"lon":-77.04,"desc":{"ja":"ノルマンディー上陸作戦を指揮した連合軍最高司令官。共和党の大統領として朝鮮戦争を休戦させ、ソ連との「雪どけ」を進める一方、ダレス国務長官のもとで「巻き返し」政策もとった。","en":"Supreme Allied commander at Normandy; as Republican president he ended the Korean War and pursued a 'thaw' with the USSR while backing Dulles's hard line."},"importance":2,"wiki":{"ja":"ドワイト・D・アイゼンハワー","en":"Dwight D. Eisenhower"},"portrait":{"provider":"wikipedia"}},
-{"id":"kennedy","name":{"ja":"ケネディ","en":"John F. Kennedy"},"born":1917,"died":1963,"active":[1961,1963],"role":{"ja":"アメリカ大統領","en":"President of the United States"},"lat":38.9,"lon":-77.04,"desc":{"ja":"「ニューフロンティア」を掲げた民主党の若い大統領。キューバ危機を乗り切って部分的核実験禁止条約を結び、公民権運動を支持したが、ダラスで暗殺された。","en":"Young Democratic president of the 'New Frontier'; steered through the Cuban Missile Crisis, signed the Partial Test Ban Treaty and backed civil rights before his assassination in Dallas."},"importance":3,"wiki":{"ja":"ジョン・F・ケネディ","en":"John F. Kennedy"},"portrait":{"provider":"wikipedia"}},
-{"id":"johnson-lb","name":{"ja":"ジョンソン","en":"Lyndon B. Johnson"},"born":1908,"died":1973,"active":[1963,1969],"role":{"ja":"アメリカ大統領","en":"President of the United States"},"lat":38.9,"lon":-77.04,"desc":{"ja":"ケネディ暗殺後に大統領に昇格。「偉大な社会」を掲げて公民権法を成立させたが、ベトナム戦争への本格介入で国内の反戦運動を招き再選を断念した。","en":"Succeeded Kennedy; enacted the Civil Rights Act under the 'Great Society' programme but escalated the Vietnam War, provoking protests that led him not to seek re-election."},"importance":2,"wiki":{"ja":"リンドン・ジョンソン","en":"Lyndon B. Johnson"},"portrait":{"provider":"wikipedia"}},
-{"id":"nixon","name":{"ja":"ニクソン","en":"Richard Nixon"},"born":1913,"died":1994,"active":[1969,1974],"role":{"ja":"アメリカ大統領","en":"President of the United States"},"lat":38.9,"lon":-77.04,"desc":{"ja":"共和党の大統領。金とドルの交換停止(ドル＝ショック)、訪中による米中接近、ベトナム撤退を実現したが、ウォーターゲート事件で辞任した。","en":"Republican president who ended the dollar's gold convertibility, opened relations with China and withdrew from Vietnam, then resigned over the Watergate scandal."},"importance":3,"wiki":{"ja":"リチャード・ニクソン","en":"Richard Nixon"},"portrait":{"provider":"wikipedia"}},
-{"id":"carter","name":{"ja":"カーター","en":"Jimmy Carter"},"born":1924,"died":2024,"active":[1977,1981],"role":{"ja":"アメリカ大統領","en":"President of the United States"},"lat":38.9,"lon":-77.04,"desc":{"ja":"「人権外交」を掲げた民主党の大統領。エジプト＝イスラエル和平を仲介し、中国と国交を樹立したが、イラン革命とソ連のアフガニスタン侵攻で苦境に立った。","en":"Democratic president known for 'human rights diplomacy'; brokered the Egypt–Israel peace and recognised China, but was undermined by the Iranian revolution and Soviet invasion of Afghanistan."},"importance":2,"wiki":{"ja":"ジミー・カーター","en":"Jimmy Carter"},"portrait":{"provider":"wikipedia"}},
-{"id":"reagan","name":{"ja":"レーガン","en":"Ronald Reagan"},"born":1911,"died":2004,"active":[1981,1989],"role":{"ja":"アメリカ大統領","en":"President of the United States"},"lat":38.9,"lon":-77.04,"desc":{"ja":"「強いアメリカ」を掲げた共和党の大統領。減税と規制緩和の新自由主義政策をとり、ソ連を「悪の帝国」と呼んで軍拡を進めたが、後にゴルバチョフとINF全廃条約を結んだ。","en":"Republican president who championed a 'strong America' and neoliberal tax cuts; denounced the Soviet 'evil empire' and rearmed, yet later signed the INF Treaty with Gorbachev."},"importance":3,"wiki":{"ja":"ロナルド・レーガン","en":"Ronald Reagan"},"portrait":{"provider":"wikipedia"}},
-{"id":"bush-sr","name":{"ja":"ブッシュ(父)","en":"George H. W. Bush"},"born":1924,"died":2018,"active":[1989,1993],"role":{"ja":"アメリカ大統領","en":"President of the United States"},"lat":38.9,"lon":-77.04,"desc":{"ja":"共和党の大統領。マルタ会談でゴルバチョフと冷戦終結を宣言し、湾岸戦争では多国籍軍を率いてクウェートを解放した。","en":"Republican president who declared the Cold War over with Gorbachev at Malta and led the multinational coalition that liberated Kuwait in the Gulf War."},"importance":2,"wiki":{"ja":"ジョージ・H・W・ブッシュ","en":"George H. W. Bush"},"portrait":{"provider":"wikipedia"}},
-{"id":"bush-jr","name":{"ja":"ブッシュ(子)","en":"George W. Bush"},"born":1946,"died":null,"active":[2001,2009],"role":{"ja":"アメリカ大統領","en":"President of the United States"},"lat":38.9,"lon":-77.04,"desc":{"ja":"共和党の大統領。同時多発テロ事件を受けて「対テロ戦争」を宣言し、アフガニスタンとイラクを攻撃した。任期末にリーマン＝ショックが起きた。","en":"Republican president who declared a 'war on terror' after the September 11 attacks and invaded Afghanistan and Iraq; the Lehman crash came at the end of his term."},"importance":2,"wiki":{"ja":"ジョージ・W・ブッシュ","en":"George W. Bush"},"portrait":{"provider":"wikipedia"}},
-{"id":"obama","name":{"ja":"オバマ","en":"Barack Obama"},"born":1961,"died":null,"active":[2009,2017],"role":{"ja":"アメリカ大統領","en":"President of the United States"},"lat":38.9,"lon":-77.04,"desc":{"ja":"アフリカ系として初のアメリカ大統領。「核なき世界」を訴えてノーベル平和賞を受賞し、医療保険改革やキューバとの国交回復を実現、現職大統領として初めて広島を訪問した。","en":"First African American president; won the Nobel Peace Prize for his call for a nuclear-free world, reformed health insurance, restored ties with Cuba and visited Hiroshima."},"importance":2,"wiki":{"ja":"バラク・オバマ","en":"Barack Obama"},"portrait":{"provider":"wikipedia"}},
-{"id":"trump","name":{"ja":"トランプ","en":"Donald Trump"},"born":1946,"died":null,"active":[2017,2021],"role":{"ja":"アメリカ大統領","en":"President of the United States"},"lat":38.9,"lon":-77.04,"desc":{"ja":"実業家出身の共和党大統領。「アメリカ第一」を掲げてパリ協定やTPPから離脱し、中国との貿易戦争を始めた。2018年には北朝鮮の金正恩と史上初の米朝首脳会談を行った。","en":"Businessman turned Republican president; under 'America First' he left the Paris Agreement and TPP, began a trade war with China and held the first US–North Korea summit in 2018."},"importance":2,"wiki":{"ja":"ドナルド・トランプ","en":"Donald Trump"},"portrait":{"provider":"wikipedia"}},
-{"id":"khrushchev","name":{"ja":"フルシチョフ","en":"Nikita Khrushchev"},"born":1894,"died":1971,"active":[1953,1964],"role":{"ja":"ソ連共産党第一書記","en":"First Secretary of the Soviet Communist Party"},"lat":55.75,"lon":37.62,"desc":{"ja":"スターリン死後にソ連の指導者となり、1956年の党大会でスターリン批判を行って平和共存路線を打ち出した。ハンガリー事件を弾圧し、キューバ危機を引き起こしたのち失脚した。","en":"Soviet leader after Stalin; denounced Stalin at the 1956 congress and proclaimed peaceful coexistence, but crushed the Hungarian uprising and provoked the Cuban Missile Crisis before his ouster."},"importance":3,"wiki":{"ja":"ニキータ・フルシチョフ","en":"Nikita Khrushchev"},"portrait":{"provider":"wikipedia"}},
-{"id":"brezhnev","name":{"ja":"ブレジネフ","en":"Leonid Brezhnev"},"born":1906,"died":1982,"active":[1964,1982],"role":{"ja":"ソ連共産党書記長","en":"General Secretary of the Soviet Communist Party"},"lat":55.75,"lon":37.62,"desc":{"ja":"フルシチョフ失脚後18年間ソ連を率いた。プラハの春に軍事介入して制限主権論を唱え、米国とデタントを進める一方、アフガニスタン侵攻で新冷戦を招いた。経済は停滞した。","en":"Led the USSR for eighteen years after Khrushchev; invaded Czechoslovakia under the 'Brezhnev Doctrine', pursued détente, then invaded Afghanistan; his era brought economic stagnation."},"importance":2,"wiki":{"ja":"レオニード・ブレジネフ","en":"Leonid Brezhnev"},"portrait":{"provider":"wikipedia"}},
-{"id":"gorbachev","name":{"ja":"ゴルバチョフ","en":"Mikhail Gorbachev"},"born":1931,"died":2022,"active":[1985,1991],"role":{"ja":"ソ連共産党書記長・ソ連大統領","en":"General Secretary and President of the Soviet Union"},"lat":55.75,"lon":37.62,"desc":{"ja":"ペレストロイカとグラスノスチでソ連の改革を進め、新思考外交でアフガニスタンから撤退し、冷戦を終結させた。東欧の民主化を容認したが、保守派クーデタ後にソ連は解体した。","en":"Reformed the USSR through perestroika and glasnost, withdrew from Afghanistan and ended the Cold War; tolerated the East European revolutions, but the Soviet Union dissolved after the 1991 coup."},"importance":3,"wiki":{"ja":"ミハイル・ゴルバチョフ","en":"Mikhail Gorbachev"},"portrait":{"provider":"wikipedia"}},
-{"id":"yeltsin","name":{"ja":"エリツィン","en":"Boris Yeltsin"},"born":1931,"died":2007,"active":[1991,1999],"role":{"ja":"ロシア大統領","en":"President of Russia"},"lat":55.75,"lon":37.62,"desc":{"ja":"ロシア共和国初の民選大統領。1991年の保守派クーデタに抵抗して独立国家共同体(CIS)を結成し、ソ連を解体に導いた。市場経済化を進めたが経済混乱とチェチェン紛争に苦しんだ。","en":"First elected president of Russia; resisted the 1991 coup and formed the CIS, ending the Soviet Union. His market reforms brought economic chaos and he fought the Chechen war."},"importance":2,"wiki":{"ja":"ボリス・エリツィン","en":"Boris Yeltsin"},"portrait":{"provider":"wikipedia"}},
-{"id":"putin","name":{"ja":"プーチン","en":"Vladimir Putin"},"born":1952,"died":null,"active":[2000,2020],"role":{"ja":"ロシア大統領","en":"President of Russia"},"lat":55.75,"lon":37.62,"desc":{"ja":"エリツィンの後継として2000年に大統領に就任。石油収入を背景に強権的な統治でロシアの国力を回復させ、2014年にクリミアを併合して欧米と対立した。","en":"Succeeded Yeltsin as president in 2000; restored Russian power through oil wealth and authoritarian rule, and annexed Crimea in 2014, bringing confrontation with the West."},"importance":2,"wiki":{"ja":"ウラジーミル・プーチン","en":"Vladimir Putin"},"portrait":{"provider":"wikipedia"}},
-{"id":"adenauer","name":{"ja":"アデナウアー","en":"Konrad Adenauer"},"born":1876,"died":1967,"active":[1949,1963],"role":{"ja":"西ドイツ首相","en":"Chancellor of West Germany"},"lat":50.73,"lon":7.1,"desc":{"ja":"キリスト教民主同盟を率いた西ドイツの初代首相。西側への統合路線をとってNATOとECSCに加わり、「経済の奇跡」と呼ばれる復興を実現した。","en":"First chancellor of West Germany and leader of the Christian Democrats; anchored the country in the West through NATO and the ECSC and presided over the 'economic miracle'."},"importance":2,"wiki":{"ja":"コンラート・アデナウアー","en":"Konrad Adenauer"},"portrait":{"provider":"wikipedia"}},
-{"id":"brandt","name":{"ja":"ブラント","en":"Willy Brandt"},"born":1913,"died":1992,"active":[1969,1974],"role":{"ja":"西ドイツ首相","en":"Chancellor of West Germany"},"lat":50.73,"lon":7.1,"desc":{"ja":"社会民主党の西ドイツ首相。東方外交を展開してソ連・ポーランドと条約を結び、東西ドイツ基本条約で東ドイツを承認した。ノーベル平和賞受賞。","en":"Social Democratic chancellor whose Ostpolitik produced treaties with the USSR and Poland and the Basic Treaty recognising East Germany; Nobel Peace laureate."},"importance":2,"wiki":{"ja":"ヴィリー・ブラント","en":"Willy Brandt"},"portrait":{"provider":"wikipedia"}},
-{"id":"kohl","name":{"ja":"コール","en":"Helmut Kohl"},"born":1930,"died":2017,"active":[1982,1998],"role":{"ja":"西ドイツ・統一ドイツ首相","en":"Chancellor of Germany"},"lat":50.73,"lon":7.1,"desc":{"ja":"キリスト教民主同盟の首相として16年間在任。ベルリンの壁崩壊後に東ドイツ編入によるドイツ統一を実現し、マーストリヒト条約でヨーロッパ統合を推進した。","en":"Christian Democratic chancellor for sixteen years; achieved German reunification after the fall of the Wall and drove European integration through the Maastricht Treaty."},"importance":2,"wiki":{"ja":"ヘルムート・コール","en":"Helmut Kohl"},"portrait":{"provider":"wikipedia"}},
-{"id":"schuman","name":{"ja":"シューマン","en":"Robert Schuman"},"born":1886,"died":1963,"active":[1948,1953],"role":{"ja":"フランス外相","en":"Foreign Minister of France"},"lat":48.86,"lon":2.35,"desc":{"ja":"フランスの政治家。外相として1950年に独仏の石炭・鉄鋼の共同管理を提案するシューマン＝プランを発表し、ヨーロッパ石炭鉄鋼共同体の設立を導いた。「ヨーロッパ統合の父」の一人。","en":"French foreign minister whose 1950 Schuman Plan for pooling coal and steel led to the European Coal and Steel Community; a founding father of European integration."},"importance":1,"wiki":{"ja":"ロベール・シューマン","en":"Robert Schuman"},"portrait":{"provider":"wikipedia"}},
-{"id":"thatcher","name":{"ja":"サッチャー","en":"Margaret Thatcher"},"born":1925,"died":2013,"active":[1979,1990],"role":{"ja":"イギリス首相","en":"Prime Minister of the United Kingdom"},"lat":51.5,"lon":-0.12,"desc":{"ja":"イギリス初の女性首相。国有企業の民営化・労組の抑制・福祉削減など新自由主義政策を断行し「鉄の女」と呼ばれた。フォークランド戦争に勝利し、香港返還にも合意した。","en":"Britain's first woman prime minister, the 'Iron Lady'; imposed neoliberal policies of privatisation, union curbs and welfare cuts, won the Falklands War and agreed Hong Kong's return."},"importance":3,"wiki":{"ja":"マーガレット・サッチャー","en":"Margaret Thatcher"},"portrait":{"provider":"wikipedia"}},
-{"id":"tito","name":{"ja":"ティトー","en":"Josip Broz Tito"},"born":1892,"died":1980,"active":[1945,1980],"role":{"ja":"ユーゴスラヴィア大統領","en":"President of Yugoslavia"},"lat":44.8,"lon":20.47,"desc":{"ja":"パルチザンを率いて自力でユーゴスラヴィアを解放し、戦後は独自の社会主義路線をとってコミンフォルムから除名された。非同盟運動の指導者として第三世界に影響力をもった。","en":"Led the partisans who liberated Yugoslavia; pursued an independent socialist path, was expelled from the Cominform, and became a leader of the Non-Aligned Movement."},"importance":2,"wiki":{"ja":"ヨシップ・ブロズ・チトー","en":"Josip Broz Tito"},"portrait":{"provider":"wikipedia"}},
-{"id":"dubcek","name":{"ja":"ドプチェク","en":"Alexander Dubček"},"born":1921,"died":1992,"active":[1968,1969],"role":{"ja":"チェコスロヴァキア共産党第一書記","en":"First Secretary of the Czechoslovak Communist Party"},"lat":50.08,"lon":14.44,"desc":{"ja":"1968年に「人間の顔をした社会主義」を掲げて自由化改革(プラハの春)を進めたが、ワルシャワ条約機構軍の介入で失脚した。1989年の民主化後に名誉を回復した。","en":"Launched the 1968 reforms of 'socialism with a human face', the Prague Spring, and was removed after the Warsaw Pact invasion; rehabilitated after the 1989 revolution."},"importance":1,"wiki":{"ja":"アレクサンデル・ドゥプチェク","en":"Alexander Dubček"},"portrait":{"provider":"wikipedia"}},
-{"id":"walesa","name":{"ja":"ワレサ","en":"Lech Wałęsa"},"born":1943,"died":null,"active":[1980,1995],"role":{"ja":"「連帯」議長・ポーランド大統領","en":"Leader of Solidarity and President of Poland"},"lat":54.35,"lon":18.65,"desc":{"ja":"グダニスク造船所の電気工。1980年に自主管理労組「連帯」を結成して議長となり、弾圧に耐えて1989年の民主化を導いた。1990年にポーランド大統領に就任した。","en":"Electrician at the Gdańsk shipyard who founded and led the Solidarity trade union in 1980; survived martial law to lead Poland's 1989 democratisation and became president in 1990."},"importance":2,"wiki":{"ja":"レフ・ヴァウェンサ","en":"Lech Wałęsa"},"portrait":{"provider":"wikipedia"}},
-{"id":"deng-xiaoping","name":{"ja":"鄧小平","en":"Deng Xiaoping"},"born":1904,"died":1997,"active":[1978,1992],"role":{"ja":"中国の最高指導者","en":"Paramount leader of China"},"lat":39.91,"lon":116.4,"desc":{"ja":"文化大革命で二度失脚したが復活し、1978年から改革開放政策を進めて中国を市場経済に導いた。天安門事件では民主化運動を弾圧し、1992年の南巡講話で改革を加速させた。","en":"Twice purged in the Cultural Revolution, he returned to lead China's reform and opening-up from 1978; crushed the 1989 Tiananmen protests and reaccelerated reform with his 1992 southern tour."},"importance":3,"wiki":{"ja":"鄧小平","en":"Deng Xiaoping"},"portrait":{"provider":"wikipedia"}},
-{"id":"xi-jinping","name":{"ja":"習近平","en":"Xi Jinping"},"born":1953,"died":null,"active":[2012,2020],"role":{"ja":"中国共産党総書記・国家主席","en":"General Secretary of the Chinese Communist Party and President of China"},"lat":39.91,"lon":116.4,"desc":{"ja":"2012年に中国共産党総書記となり、「一帯一路」構想を掲げて中国の国際的影響力を拡大した。権力を集中させ、2018年には国家主席の任期制限を撤廃した。","en":"Became party general secretary in 2012 and expanded China's global reach through the Belt and Road Initiative; concentrated power and abolished presidential term limits in 2018."},"importance":2,"wiki":{"ja":"習近平","en":"Xi Jinping"},"portrait":{"provider":"wikipedia"}},
-{"id":"kim-il-sung","name":{"ja":"金日成","en":"Kim Il Sung"},"born":1912,"died":1994,"active":[1948,1994],"role":{"ja":"朝鮮民主主義人民共和国首相・主席","en":"Leader of North Korea"},"lat":39.02,"lon":125.75,"desc":{"ja":"抗日パルチザン出身で、ソ連の支援により1948年に朝鮮民主主義人民共和国を建国した。朝鮮戦争を起こし、以後は主体(チュチェ)思想のもとで個人崇拝体制を築いた。","en":"Former anti-Japanese guerrilla who founded North Korea with Soviet backing in 1948; launched the Korean War and built a personality cult around the Juche ideology."},"importance":2,"wiki":{"ja":"金日成","en":"Kim Il Sung"},"portrait":{"provider":"wikipedia"}},
-{"id":"syngman-rhee","name":{"ja":"李承晩","en":"Syngman Rhee"},"born":1875,"died":1965,"active":[1948,1960],"role":{"ja":"大韓民国大統領","en":"President of South Korea"},"lat":37.57,"lon":126.98,"desc":{"ja":"独立運動家として亡命生活を送り、1948年にアメリカの支援で大韓民国の初代大統領となった。反共独裁を続けたが、1960年の四月革命で退陣しハワイに亡命した。","en":"Independence activist in exile who became South Korea's first president in 1948 with US support; ruled as an anti-communist autocrat until the April Revolution of 1960 forced him into exile."},"importance":2,"wiki":{"ja":"李承晩","en":"Syngman Rhee"},"portrait":{"provider":"wikipedia"}},
-{"id":"park-chung-hee","name":{"ja":"朴正熙","en":"Park Chung-hee"},"born":1917,"died":1979,"active":[1961,1979],"role":{"ja":"大韓民国大統領","en":"President of South Korea"},"lat":37.57,"lon":126.98,"desc":{"ja":"1961年の軍事クーデタで実権を握り、開発独裁のもとで日韓基本条約の締結や輸出主導の工業化を進め「漢江の奇跡」を実現した。1979年に側近に暗殺された。","en":"Seized power in the 1961 coup and ruled as a developmental dictator, normalising ties with Japan and driving export-led industrialisation (the 'Miracle on the Han'); assassinated in 1979."},"importance":2,"wiki":{"ja":"朴正煕","en":"Park Chung Hee"},"portrait":{"provider":"wikipedia"}},
-{"id":"yoshida-shigeru","name":{"ja":"吉田茂","en":"Yoshida Shigeru"},"born":1878,"died":1967,"active":[1946,1954],"role":{"ja":"日本の首相","en":"Prime Minister of Japan"},"lat":35.68,"lon":139.69,"desc":{"ja":"外交官出身の首相。占領下で日本国憲法の制定に当たり、サンフランシスコ平和条約と日米安全保障条約に調印して独立を回復した。軽武装・経済重視の路線は吉田路線と呼ばれる。","en":"Former diplomat who led Japan through the occupation, oversaw the new constitution and signed the San Francisco Peace Treaty and US–Japan Security Treaty, setting the 'Yoshida line' of light armament and economic growth."},"importance":2,"wiki":{"ja":"吉田茂","en":"Shigeru Yoshida"},"portrait":{"provider":"wikipedia"}},
-{"id":"ho-chi-minh","name":{"ja":"ホー＝チ＝ミン","en":"Ho Chi Minh"},"born":1890,"died":1969,"active":[1945,1969],"role":{"ja":"ベトナム民主共和国主席","en":"President of the Democratic Republic of Vietnam"},"lat":21.03,"lon":105.85,"desc":{"ja":"ベトナム独立運動の指導者。インドシナ共産党を創設し、1945年にベトナム民主共和国の独立を宣言した。フランス、ついでアメリカとの戦争を指導し、南北統一を見ずに死去した。","en":"Leader of Vietnamese independence; founded the Indochinese Communist Party and proclaimed the Democratic Republic of Vietnam in 1945, leading its wars against France and the US until his death."},"importance":3,"wiki":{"ja":"ホー・チ・ミン","en":"Ho Chi Minh"},"portrait":{"provider":"wikipedia"}},
-{"id":"pol-pot","name":{"ja":"ポル＝ポト","en":"Pol Pot"},"born":1925,"died":1998,"active":[1975,1979],"role":{"ja":"民主カンプチア首相","en":"Prime Minister of Democratic Kampuchea"},"lat":11.56,"lon":104.92,"desc":{"ja":"カンボジア共産党(赤色クメール)の指導者。1975年に政権を握ると都市住民を農村に強制移住させ、急進的な共産化のもとで百万人以上を虐殺・餓死させた。ベトナム軍の侵攻で失脚した。","en":"Leader of the Khmer Rouge who seized Cambodia in 1975, emptied the cities and imposed radical communism that killed well over a million people; ousted by the Vietnamese invasion in 1979."},"importance":1,"wiki":{"ja":"ポル・ポト","en":"Pol Pot"},"portrait":{"provider":"wikipedia"}},
-{"id":"sukarno","name":{"ja":"スカルノ","en":"Sukarno"},"born":1901,"died":1970,"active":[1945,1967],"role":{"ja":"インドネシア大統領","en":"President of Indonesia"},"lat":-6.2,"lon":106.85,"desc":{"ja":"インドネシア独立運動の指導者で初代大統領。1955年にアジア＝アフリカ会議を主催し、非同盟運動の中心となった。九・三〇事件後にスハルトに実権を奪われ失脚した。","en":"Leader of Indonesian independence and first president; hosted the 1955 Bandung Conference and was a pillar of non-alignment. Lost power to Suharto after the 1965 coup attempt."},"importance":2,"wiki":{"ja":"スカルノ","en":"Sukarno"},"portrait":{"provider":"wikipedia"}},
-{"id":"jinnah","name":{"ja":"ジンナー","en":"Muhammad Ali Jinnah"},"born":1876,"died":1948,"active":[1940,1948],"role":{"ja":"全インド＝ムスリム連盟指導者・パキスタン総督","en":"Leader of the Muslim League and first Governor-General of Pakistan"},"lat":24.86,"lon":67.01,"desc":{"ja":"全インド＝ムスリム連盟を率いてムスリム国家の建設を主張し、1947年のインド・パキスタン分離独立を実現した。パキスタンの初代総督となり「建国の父」と呼ばれる。","en":"Led the All-India Muslim League in demanding a separate Muslim state and achieved the 1947 partition; became Pakistan's first governor-general, revered as the nation's founder."},"importance":2,"wiki":{"ja":"ムハンマド・アリー・ジンナー","en":"Muhammad Ali Jinnah"},"portrait":{"provider":"wikipedia"}},
-{"id":"indira-gandhi","name":{"ja":"インディラ＝ガンディー","en":"Indira Gandhi"},"born":1917,"died":1984,"active":[1966,1984],"role":{"ja":"インド首相","en":"Prime Minister of India"},"lat":28.61,"lon":77.21,"desc":{"ja":"ネルーの娘でインド初の女性首相。1971年の第3次インド＝パキスタン戦争でバングラデシュ独立を支援し、1974年に核実験を実施した。シク教徒の護衛に暗殺された。","en":"Nehru's daughter and India's first woman prime minister; backed Bangladesh's independence in the 1971 war and conducted India's first nuclear test in 1974. Assassinated by Sikh bodyguards."},"importance":2,"wiki":{"ja":"インディラ・ガンディー","en":"Indira Gandhi"},"portrait":{"provider":"wikipedia"}},
-{"id":"ben-gurion","name":{"ja":"ベン＝グリオン","en":"David Ben-Gurion"},"born":1886,"died":1973,"active":[1948,1963],"role":{"ja":"イスラエル首相","en":"Prime Minister of Israel"},"lat":32.08,"lon":34.78,"desc":{"ja":"シオニズム運動の指導者。1948年にイスラエルの建国を宣言して初代首相となり、第1次中東戦争を勝利に導いた。","en":"Zionist leader who proclaimed the State of Israel in 1948 and became its first prime minister, leading the country to victory in the first Arab–Israeli war."},"importance":2,"wiki":{"ja":"ダヴィド・ベン＝グリオン","en":"David Ben-Gurion"},"portrait":{"provider":"wikipedia"}},
-{"id":"rabin","name":{"ja":"ラビン","en":"Yitzhak Rabin"},"born":1922,"died":1995,"active":[1974,1995],"role":{"ja":"イスラエル首相","en":"Prime Minister of Israel"},"lat":31.78,"lon":35.22,"desc":{"ja":"第3次中東戦争の参謀総長を経て首相となり、1993年にPLOのアラファトとパレスチナ暫定自治協定に調印した。ノーベル平和賞を受賞したが、和平に反対するユダヤ人青年に暗殺された。","en":"Chief of staff in the Six-Day War and later prime minister; signed the 1993 Oslo Accords with Arafat and shared the Nobel Peace Prize, but was assassinated by a Jewish extremist opposed to peace."},"importance":1,"wiki":{"ja":"イツハク・ラビン","en":"Yitzhak Rabin"},"portrait":{"provider":"wikipedia"}},
-{"id":"nasser","name":{"ja":"ナセル","en":"Gamal Abdel Nasser"},"born":1918,"died":1970,"active":[1952,1970],"role":{"ja":"エジプト大統領","en":"President of Egypt"},"lat":30.04,"lon":31.24,"desc":{"ja":"自由将校団を率いて1952年のエジプト革命を起こし、1956年にスエズ運河を国有化してスエズ戦争を乗り切った。アラブ民族主義の指導者として第三世界に影響を与えたが、第3次中東戦争で大敗した。","en":"Led the Free Officers in the 1952 revolution; nationalised the Suez Canal in 1956 and survived the Suez Crisis to become the hero of Arab nationalism, until the crushing defeat of 1967."},"importance":3,"wiki":{"ja":"ガマール・アブドゥル＝ナーセル","en":"Gamal Abdel Nasser"},"portrait":{"provider":"wikipedia"}},
-{"id":"sadat","name":{"ja":"サダト","en":"Anwar Sadat"},"born":1918,"died":1981,"active":[1970,1981],"role":{"ja":"エジプト大統領","en":"President of Egypt"},"lat":30.04,"lon":31.24,"desc":{"ja":"ナセルの後継者。第4次中東戦争を起こしたのち対イスラエル和平に転じ、1978年のキャンプ＝デーヴィッド合意を経てエジプト＝イスラエル平和条約を結んだ。イスラーム過激派に暗殺された。","en":"Nasser's successor; launched the 1973 war, then turned to peace, signing the Camp David Accords and the 1979 treaty with Israel. Assassinated by Islamist extremists."},"importance":2,"wiki":{"ja":"アンワル・アッ＝サーダート","en":"Anwar Sadat"},"portrait":{"provider":"wikipedia"}},
-{"id":"arafat","name":{"ja":"アラファト","en":"Yasser Arafat"},"born":1929,"died":2004,"active":[1964,2004],"role":{"ja":"PLO議長・パレスチナ自治政府議長","en":"Chairman of the PLO and President of the Palestinian Authority"},"lat":31.9,"lon":35.2,"desc":{"ja":"ファタハを創設し、1969年からパレスチナ解放機構の議長として対イスラエル闘争を指導した。1993年のパレスチナ暫定自治協定でイスラエルと相互承認し、自治政府の議長となった。","en":"Founder of Fatah and chairman of the PLO from 1969; led the struggle against Israel, then signed the 1993 Oslo Accords and headed the Palestinian Authority."},"importance":2,"wiki":{"ja":"ヤーセル・アラファート","en":"Yasser Arafat"},"portrait":{"provider":"wikipedia"}},
-{"id":"khomeini","name":{"ja":"ホメイニ","en":"Ruhollah Khomeini"},"born":1902,"died":1989,"active":[1979,1989],"role":{"ja":"イランの最高指導者","en":"Supreme Leader of Iran"},"lat":35.69,"lon":51.39,"desc":{"ja":"シーア派の法学者。亡命先から国王の独裁を批判し、1979年のイラン＝イスラーム革命で帰国してイスラーム共和国の最高指導者となった。反米路線をとりイラン＝イラク戦争を戦った。","en":"Shia jurist who denounced the Shah from exile and returned in the 1979 revolution to become supreme leader of the Islamic Republic; pursued an anti-American line and fought the Iran–Iraq War."},"importance":3,"wiki":{"ja":"ルーホッラー・ホメイニー","en":"Ruhollah Khomeini"},"portrait":{"provider":"wikipedia"}},
-{"id":"saddam-hussein","name":{"ja":"サダム＝フセイン","en":"Saddam Hussein"},"born":1937,"died":2006,"active":[1979,2003],"role":{"ja":"イラク大統領","en":"President of Iraq"},"lat":33.34,"lon":44.4,"desc":{"ja":"バース党の独裁者として1979年にイラク大統領となり、イラン＝イラク戦争とクウェート侵攻を起こした。湾岸戦争に敗れたのちも政権を維持したが、イラク戦争で倒され処刑された。","en":"Baathist dictator who became president in 1979, launched the Iran–Iraq War and the invasion of Kuwait; survived defeat in the Gulf War but was overthrown in the Iraq War and executed."},"importance":2,"wiki":{"ja":"サッダーム・フセイン","en":"Saddam Hussein"},"portrait":{"provider":"wikipedia"}},
-{"id":"nkrumah","name":{"ja":"エンクルマ","en":"Kwame Nkrumah"},"born":1909,"died":1972,"active":[1951,1966],"role":{"ja":"ガーナ初代大統領","en":"First President of Ghana"},"lat":5.56,"lon":-0.2,"desc":{"ja":"ガーナ独立運動を指導し、1957年にサハラ以南アフリカで最初の黒人国家として独立を実現した。パン＝アフリカニズムを唱えてアフリカ統一機構の結成に尽力したが、1966年のクーデタで失脚した。","en":"Led Ghana to independence in 1957 as the first black African state south of the Sahara; champion of Pan-Africanism and a founder of the OAU, ousted by a coup in 1966."},"importance":2,"wiki":{"ja":"クワメ・エンクルマ","en":"Kwame Nkrumah"},"portrait":{"provider":"wikipedia"}},
-{"id":"lumumba","name":{"ja":"ルムンバ","en":"Patrice Lumumba"},"born":1925,"died":1961,"active":[1958,1961],"role":{"ja":"コンゴ共和国首相","en":"Prime Minister of the Congo"},"lat":-4.32,"lon":15.31,"desc":{"ja":"コンゴ独立運動の指導者で、1960年の独立時に初代首相となった。コンゴ動乱でカタンガ分離派と対立し、クーデタで失脚して殺害された。アフリカ民族主義の殉教者とされる。","en":"Leader of Congolese independence and first prime minister in 1960; opposed the Katanga secession in the Congo Crisis, was overthrown and murdered, becoming a martyr of African nationalism."},"importance":1,"wiki":{"ja":"パトリス・ルムンバ","en":"Patrice Lumumba"},"portrait":{"provider":"wikipedia"}},
-{"id":"mandela","name":{"ja":"マンデラ","en":"Nelson Mandela"},"born":1918,"died":2013,"active":[1962,1999],"role":{"ja":"南アフリカ大統領","en":"President of South Africa"},"lat":-25.75,"lon":28.19,"desc":{"ja":"アフリカ民族会議(ANC)の指導者として反アパルトヘイト闘争を率い、27年間投獄された。1990年に釈放され、1994年の全人種参加選挙で黒人初の大統領に就任し、人種和解を進めた。","en":"ANC leader of the anti-apartheid struggle, imprisoned for 27 years; freed in 1990, he became South Africa's first black president after the 1994 all-race election and pursued reconciliation."},"importance":3,"wiki":{"ja":"ネルソン・マンデラ","en":"Nelson Mandela"},"portrait":{"provider":"wikipedia"}},
-{"id":"de-klerk","name":{"ja":"デクラーク","en":"F. W. de Klerk"},"born":1936,"died":2021,"active":[1989,1994],"role":{"ja":"南アフリカ大統領","en":"President of South Africa"},"lat":-25.75,"lon":28.19,"desc":{"ja":"南アフリカ最後の白人大統領。1990年にマンデラを釈放し、ANCを合法化してアパルトヘイト諸法を撤廃した。マンデラとともにノーベル平和賞を受賞した。","en":"South Africa's last white president; freed Mandela in 1990, legalised the ANC and repealed the apartheid laws, sharing the Nobel Peace Prize with Mandela."},"importance":1,"wiki":{"ja":"フレデリック・ウィレム・デクラーク","en":"F. W. de Klerk"},"portrait":{"provider":"wikipedia"}},
-{"id":"castro","name":{"ja":"カストロ","en":"Fidel Castro"},"born":1926,"died":2016,"active":[1959,2008],"role":{"ja":"キューバ首相・国家評議会議長","en":"Prime Minister and President of Cuba"},"lat":23.13,"lon":-82.38,"desc":{"ja":"1959年のキューバ革命でバティスタ独裁政権を倒し、社会主義政権を樹立した。アメリカと対立してソ連に接近し、キューバ危機を招いた。半世紀にわたりキューバを統治した。","en":"Overthrew the Batista dictatorship in the 1959 Cuban Revolution and built a socialist state; broke with the US, allied with the USSR, and ruled Cuba for nearly half a century."},"importance":3,"wiki":{"ja":"フィデル・カストロ","en":"Fidel Castro"},"portrait":{"provider":"wikipedia"}},
-{"id":"guevara","name":{"ja":"ゲバラ","en":"Che Guevara"},"born":1928,"died":1967,"active":[1956,1967],"role":{"ja":"革命家","en":"Revolutionary"},"lat":23.13,"lon":-82.38,"desc":{"ja":"アルゼンチン出身の革命家。カストロとともにキューバ革命を戦い、革命政権で工業相などを務めた。その後ボリビアでゲリラ戦を指導中に捕らえられ処刑され、世界の若者の象徴となった。","en":"Argentine-born revolutionary who fought alongside Castro in Cuba and served in its government; captured and executed while leading guerrillas in Bolivia, he became an icon of youth revolt."},"importance":2,"wiki":{"ja":"チェ・ゲバラ","en":"Che Guevara"},"portrait":{"provider":"wikipedia"}},
-{"id":"martin-luther-king","name":{"ja":"キング牧師","en":"Martin Luther King Jr."},"born":1929,"died":1968,"active":[1955,1968],"role":{"ja":"公民権運動指導者","en":"Civil rights leader"},"lat":33.75,"lon":-84.39,"desc":{"ja":"バプテスト派の牧師。非暴力の抵抗によって黒人差別撤廃を求める公民権運動を指導し、1963年のワシントン大行進で「私には夢がある」と演説した。ノーベル平和賞を受賞したが、1968年に暗殺された。","en":"Baptist minister who led the civil rights movement through non-violent resistance, delivering the 'I Have a Dream' speech at the 1963 March on Washington; Nobel laureate, assassinated in 1968."},"importance":3,"wiki":{"ja":"マーティン・ルーサー・キング・ジュニア","en":"Martin Luther King Jr."},"portrait":{"provider":"wikipedia"}}
+  {
+    "id": "marshall",
+    "name": {
+      "ja": "マーシャル",
+      "en": "George C. Marshall"
+    },
+    "born": 1880,
+    "died": 1959,
+    "active": [
+      1947,
+      1951
+    ],
+    "role": {
+      "ja": "アメリカ国務長官",
+      "en": "US Secretary of State"
+    },
+    "lat": 38.9,
+    "lon": -77.04,
+    "desc": {
+      "ja": "第二次世界大戦中の陸軍参謀総長。国務長官としてヨーロッパ経済復興援助計画(マーシャル＝プラン)を提唱し、1953年にノーベル平和賞を受賞した。",
+      "en": "US Army chief of staff in the Second World War; as secretary of state he proposed the European Recovery Program and won the Nobel Peace Prize in 1953."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ジョージ・マーシャル",
+      "en": "George C. Marshall"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "kennedy",
+    "name": {
+      "ja": "ケネディ",
+      "en": "John F. Kennedy"
+    },
+    "born": 1917,
+    "died": 1963,
+    "active": [
+      1961,
+      1963
+    ],
+    "role": {
+      "ja": "アメリカ大統領",
+      "en": "President of the United States"
+    },
+    "lat": 38.9,
+    "lon": -77.04,
+    "desc": {
+      "ja": "「ニューフロンティア」を掲げた民主党の若い大統領。キューバ危機を乗り切って部分的核実験禁止条約を結び、公民権運動を支持したが、ダラスで暗殺された。",
+      "en": "Young Democratic president of the 'New Frontier'; steered through the Cuban Missile Crisis, signed the Partial Test Ban Treaty and backed civil rights before his assassination in Dallas."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ジョン・F・ケネディ",
+      "en": "John F. Kennedy"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "johnson-lb",
+    "name": {
+      "ja": "ジョンソン",
+      "en": "Lyndon B. Johnson"
+    },
+    "born": 1908,
+    "died": 1973,
+    "active": [
+      1963,
+      1969
+    ],
+    "role": {
+      "ja": "アメリカ大統領",
+      "en": "President of the United States"
+    },
+    "lat": 38.9,
+    "lon": -77.04,
+    "desc": {
+      "ja": "ケネディ暗殺後に大統領に昇格。「偉大な社会」を掲げて公民権法を成立させたが、ベトナム戦争への本格介入で国内の反戦運動を招き再選を断念した。",
+      "en": "Succeeded Kennedy; enacted the Civil Rights Act under the 'Great Society' programme but escalated the Vietnam War, provoking protests that led him not to seek re-election."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "リンドン・ジョンソン",
+      "en": "Lyndon B. Johnson"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "nixon",
+    "name": {
+      "ja": "ニクソン",
+      "en": "Richard Nixon"
+    },
+    "born": 1913,
+    "died": 1994,
+    "active": [
+      1969,
+      1974
+    ],
+    "role": {
+      "ja": "アメリカ大統領",
+      "en": "President of the United States"
+    },
+    "lat": 38.9,
+    "lon": -77.04,
+    "desc": {
+      "ja": "共和党の大統領。金とドルの交換停止(ドル＝ショック)、訪中による米中接近、ベトナム撤退を実現したが、ウォーターゲート事件で辞任した。",
+      "en": "Republican president who ended the dollar's gold convertibility, opened relations with China and withdrew from Vietnam, then resigned over the Watergate scandal."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "リチャード・ニクソン",
+      "en": "Richard Nixon"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "carter",
+    "name": {
+      "ja": "カーター",
+      "en": "Jimmy Carter"
+    },
+    "born": 1924,
+    "died": 2024,
+    "active": [
+      1977,
+      1981
+    ],
+    "role": {
+      "ja": "アメリカ大統領",
+      "en": "President of the United States"
+    },
+    "lat": 38.9,
+    "lon": -77.04,
+    "desc": {
+      "ja": "「人権外交」を掲げた民主党の大統領。エジプト＝イスラエル和平を仲介し、中国と国交を樹立したが、イラン革命とソ連のアフガニスタン侵攻で苦境に立った。",
+      "en": "Democratic president known for 'human rights diplomacy'; brokered the Egypt–Israel peace and recognised China, but was undermined by the Iranian revolution and Soviet invasion of Afghanistan."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ジミー・カーター",
+      "en": "Jimmy Carter"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "reagan",
+    "name": {
+      "ja": "レーガン",
+      "en": "Ronald Reagan"
+    },
+    "born": 1911,
+    "died": 2004,
+    "active": [
+      1981,
+      1989
+    ],
+    "role": {
+      "ja": "アメリカ大統領",
+      "en": "President of the United States"
+    },
+    "lat": 38.9,
+    "lon": -77.04,
+    "desc": {
+      "ja": "「強いアメリカ」を掲げた共和党の大統領。減税と規制緩和の新自由主義政策をとり、ソ連を「悪の帝国」と呼んで軍拡を進めたが、後にゴルバチョフとINF全廃条約を結んだ。",
+      "en": "Republican president who championed a 'strong America' and neoliberal tax cuts; denounced the Soviet 'evil empire' and rearmed, yet later signed the INF Treaty with Gorbachev."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ロナルド・レーガン",
+      "en": "Ronald Reagan"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "bush-sr",
+    "name": {
+      "ja": "ブッシュ(父)",
+      "en": "George H. W. Bush"
+    },
+    "born": 1924,
+    "died": 2018,
+    "active": [
+      1989,
+      1993
+    ],
+    "role": {
+      "ja": "アメリカ大統領",
+      "en": "President of the United States"
+    },
+    "lat": 38.9,
+    "lon": -77.04,
+    "desc": {
+      "ja": "共和党の大統領。マルタ会談でゴルバチョフと冷戦終結を宣言し、湾岸戦争では多国籍軍を率いてクウェートを解放した。",
+      "en": "Republican president who declared the Cold War over with Gorbachev at Malta and led the multinational coalition that liberated Kuwait in the Gulf War."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ジョージ・H・W・ブッシュ",
+      "en": "George H. W. Bush"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "bush-jr",
+    "name": {
+      "ja": "ブッシュ(子)",
+      "en": "George W. Bush"
+    },
+    "born": 1946,
+    "died": null,
+    "active": [
+      2001,
+      2009
+    ],
+    "role": {
+      "ja": "アメリカ大統領",
+      "en": "President of the United States"
+    },
+    "lat": 38.9,
+    "lon": -77.04,
+    "desc": {
+      "ja": "共和党の大統領。同時多発テロ事件を受けて「対テロ戦争」を宣言し、アフガニスタンとイラクを攻撃した。任期末にリーマン＝ショックが起きた。",
+      "en": "Republican president who declared a 'war on terror' after the September 11 attacks and invaded Afghanistan and Iraq; the Lehman crash came at the end of his term."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ジョージ・W・ブッシュ",
+      "en": "George W. Bush"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "obama",
+    "name": {
+      "ja": "オバマ",
+      "en": "Barack Obama"
+    },
+    "born": 1961,
+    "died": null,
+    "active": [
+      2009,
+      2017
+    ],
+    "role": {
+      "ja": "アメリカ大統領",
+      "en": "President of the United States"
+    },
+    "lat": 38.9,
+    "lon": -77.04,
+    "desc": {
+      "ja": "アフリカ系として初のアメリカ大統領。「核なき世界」を訴えてノーベル平和賞を受賞し、医療保険改革やキューバとの国交回復を実現、現職大統領として初めて広島を訪問した。",
+      "en": "First African American president; won the Nobel Peace Prize for his call for a nuclear-free world, reformed health insurance, restored ties with Cuba and visited Hiroshima."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "バラク・オバマ",
+      "en": "Barack Obama"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "trump",
+    "name": {
+      "ja": "トランプ",
+      "en": "Donald Trump"
+    },
+    "born": 1946,
+    "died": null,
+    "active": [
+      2017,
+      2021
+    ],
+    "role": {
+      "ja": "アメリカ大統領",
+      "en": "President of the United States"
+    },
+    "lat": 38.9,
+    "lon": -77.04,
+    "desc": {
+      "ja": "実業家出身の共和党大統領。「アメリカ第一」を掲げてパリ協定やTPPから離脱し、中国との貿易戦争を始めた。2018年には北朝鮮の金正恩と史上初の米朝首脳会談を行った。",
+      "en": "Businessman turned Republican president; under 'America First' he left the Paris Agreement and TPP, began a trade war with China and held the first US–North Korea summit in 2018."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ドナルド・トランプ",
+      "en": "Donald Trump"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "khrushchev",
+    "name": {
+      "ja": "フルシチョフ",
+      "en": "Nikita Khrushchev"
+    },
+    "born": 1894,
+    "died": 1971,
+    "active": [
+      1953,
+      1964
+    ],
+    "role": {
+      "ja": "ソ連共産党第一書記",
+      "en": "First Secretary of the Soviet Communist Party"
+    },
+    "lat": 55.75,
+    "lon": 37.62,
+    "desc": {
+      "ja": "スターリン死後にソ連の指導者となり、1956年の党大会でスターリン批判を行って平和共存路線を打ち出した。ハンガリー事件を弾圧し、キューバ危機を引き起こしたのち失脚した。",
+      "en": "Soviet leader after Stalin; denounced Stalin at the 1956 congress and proclaimed peaceful coexistence, but crushed the Hungarian uprising and provoked the Cuban Missile Crisis before his ouster."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ニキータ・フルシチョフ",
+      "en": "Nikita Khrushchev"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "brezhnev",
+    "name": {
+      "ja": "ブレジネフ",
+      "en": "Leonid Brezhnev"
+    },
+    "born": 1906,
+    "died": 1982,
+    "active": [
+      1964,
+      1982
+    ],
+    "role": {
+      "ja": "ソ連共産党書記長",
+      "en": "General Secretary of the Soviet Communist Party"
+    },
+    "lat": 55.75,
+    "lon": 37.62,
+    "desc": {
+      "ja": "フルシチョフ失脚後18年間ソ連を率いた。プラハの春に軍事介入して制限主権論を唱え、米国とデタントを進める一方、アフガニスタン侵攻で新冷戦を招いた。経済は停滞した。",
+      "en": "Led the USSR for eighteen years after Khrushchev; invaded Czechoslovakia under the 'Brezhnev Doctrine', pursued détente, then invaded Afghanistan; his era brought economic stagnation."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "レオニード・ブレジネフ",
+      "en": "Leonid Brezhnev"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "gorbachev",
+    "name": {
+      "ja": "ゴルバチョフ",
+      "en": "Mikhail Gorbachev"
+    },
+    "born": 1931,
+    "died": 2022,
+    "active": [
+      1985,
+      1991
+    ],
+    "role": {
+      "ja": "ソ連共産党書記長・ソ連大統領",
+      "en": "General Secretary and President of the Soviet Union"
+    },
+    "lat": 55.75,
+    "lon": 37.62,
+    "desc": {
+      "ja": "ペレストロイカとグラスノスチでソ連の改革を進め、新思考外交でアフガニスタンから撤退し、冷戦を終結させた。東欧の民主化を容認したが、保守派クーデタ後にソ連は解体した。",
+      "en": "Reformed the USSR through perestroika and glasnost, withdrew from Afghanistan and ended the Cold War; tolerated the East European revolutions, but the Soviet Union dissolved after the 1991 coup."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ミハイル・ゴルバチョフ",
+      "en": "Mikhail Gorbachev"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "yeltsin",
+    "name": {
+      "ja": "エリツィン",
+      "en": "Boris Yeltsin"
+    },
+    "born": 1931,
+    "died": 2007,
+    "active": [
+      1991,
+      1999
+    ],
+    "role": {
+      "ja": "ロシア大統領",
+      "en": "President of Russia"
+    },
+    "lat": 55.75,
+    "lon": 37.62,
+    "desc": {
+      "ja": "ロシア共和国初の民選大統領。1991年の保守派クーデタに抵抗して独立国家共同体(CIS)を結成し、ソ連を解体に導いた。市場経済化を進めたが経済混乱とチェチェン紛争に苦しんだ。",
+      "en": "First elected president of Russia; resisted the 1991 coup and formed the CIS, ending the Soviet Union. His market reforms brought economic chaos and he fought the Chechen war."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ボリス・エリツィン",
+      "en": "Boris Yeltsin"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "putin",
+    "name": {
+      "ja": "プーチン",
+      "en": "Vladimir Putin"
+    },
+    "born": 1952,
+    "died": null,
+    "active": [
+      2000,
+      2020
+    ],
+    "role": {
+      "ja": "ロシア大統領",
+      "en": "President of Russia"
+    },
+    "lat": 55.75,
+    "lon": 37.62,
+    "desc": {
+      "ja": "エリツィンの後継として2000年に大統領に就任。石油収入を背景に強権的な統治でロシアの国力を回復させ、2014年にクリミアを併合して欧米と対立した。",
+      "en": "Succeeded Yeltsin as president in 2000; restored Russian power through oil wealth and authoritarian rule, and annexed Crimea in 2014, bringing confrontation with the West."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ウラジーミル・プーチン",
+      "en": "Vladimir Putin"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "adenauer",
+    "name": {
+      "ja": "アデナウアー",
+      "en": "Konrad Adenauer"
+    },
+    "born": 1876,
+    "died": 1967,
+    "active": [
+      1949,
+      1963
+    ],
+    "role": {
+      "ja": "西ドイツ首相",
+      "en": "Chancellor of West Germany"
+    },
+    "lat": 50.73,
+    "lon": 7.1,
+    "desc": {
+      "ja": "キリスト教民主同盟を率いた西ドイツの初代首相。西側への統合路線をとってNATOとECSCに加わり、「経済の奇跡」と呼ばれる復興を実現した。",
+      "en": "First chancellor of West Germany and leader of the Christian Democrats; anchored the country in the West through NATO and the ECSC and presided over the 'economic miracle'."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "コンラート・アデナウアー",
+      "en": "Konrad Adenauer"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "brandt",
+    "name": {
+      "ja": "ブラント",
+      "en": "Willy Brandt"
+    },
+    "born": 1913,
+    "died": 1992,
+    "active": [
+      1969,
+      1974
+    ],
+    "role": {
+      "ja": "西ドイツ首相",
+      "en": "Chancellor of West Germany"
+    },
+    "lat": 50.73,
+    "lon": 7.1,
+    "desc": {
+      "ja": "社会民主党の西ドイツ首相。東方外交を展開してソ連・ポーランドと条約を結び、東西ドイツ基本条約で東ドイツを承認した。ノーベル平和賞受賞。",
+      "en": "Social Democratic chancellor whose Ostpolitik produced treaties with the USSR and Poland and the Basic Treaty recognising East Germany; Nobel Peace laureate."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ヴィリー・ブラント",
+      "en": "Willy Brandt"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "kohl",
+    "name": {
+      "ja": "コール",
+      "en": "Helmut Kohl"
+    },
+    "born": 1930,
+    "died": 2017,
+    "active": [
+      1982,
+      1998
+    ],
+    "role": {
+      "ja": "西ドイツ・統一ドイツ首相",
+      "en": "Chancellor of Germany"
+    },
+    "lat": 50.73,
+    "lon": 7.1,
+    "desc": {
+      "ja": "キリスト教民主同盟の首相として16年間在任。ベルリンの壁崩壊後に東ドイツ編入によるドイツ統一を実現し、マーストリヒト条約でヨーロッパ統合を推進した。",
+      "en": "Christian Democratic chancellor for sixteen years; achieved German reunification after the fall of the Wall and drove European integration through the Maastricht Treaty."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ヘルムート・コール",
+      "en": "Helmut Kohl"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "schuman",
+    "name": {
+      "ja": "シューマン",
+      "en": "Robert Schuman"
+    },
+    "born": 1886,
+    "died": 1963,
+    "active": [
+      1948,
+      1953
+    ],
+    "role": {
+      "ja": "フランス外相",
+      "en": "Foreign Minister of France"
+    },
+    "lat": 48.86,
+    "lon": 2.35,
+    "desc": {
+      "ja": "フランスの政治家。外相として1950年に独仏の石炭・鉄鋼の共同管理を提案するシューマン＝プランを発表し、ヨーロッパ石炭鉄鋼共同体の設立を導いた。「ヨーロッパ統合の父」の一人。",
+      "en": "French foreign minister whose 1950 Schuman Plan for pooling coal and steel led to the European Coal and Steel Community; a founding father of European integration."
+    },
+    "importance": 1,
+    "wiki": {
+      "ja": "ロベール・シューマン",
+      "en": "Robert Schuman"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "thatcher",
+    "name": {
+      "ja": "サッチャー",
+      "en": "Margaret Thatcher"
+    },
+    "born": 1925,
+    "died": 2013,
+    "active": [
+      1979,
+      1990
+    ],
+    "role": {
+      "ja": "イギリス首相",
+      "en": "Prime Minister of the United Kingdom"
+    },
+    "lat": 51.5,
+    "lon": -0.12,
+    "desc": {
+      "ja": "イギリス初の女性首相。国有企業の民営化・労組の抑制・福祉削減など新自由主義政策を断行し「鉄の女」と呼ばれた。フォークランド戦争に勝利し、香港返還にも合意した。",
+      "en": "Britain's first woman prime minister, the 'Iron Lady'; imposed neoliberal policies of privatisation, union curbs and welfare cuts, won the Falklands War and agreed Hong Kong's return."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "マーガレット・サッチャー",
+      "en": "Margaret Thatcher"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "tito",
+    "name": {
+      "ja": "ティトー",
+      "en": "Josip Broz Tito"
+    },
+    "born": 1892,
+    "died": 1980,
+    "active": [
+      1945,
+      1980
+    ],
+    "role": {
+      "ja": "ユーゴスラヴィア大統領",
+      "en": "President of Yugoslavia"
+    },
+    "lat": 44.8,
+    "lon": 20.47,
+    "desc": {
+      "ja": "パルチザンを率いて自力でユーゴスラヴィアを解放し、戦後は独自の社会主義路線をとってコミンフォルムから除名された。非同盟運動の指導者として第三世界に影響力をもった。",
+      "en": "Led the partisans who liberated Yugoslavia; pursued an independent socialist path, was expelled from the Cominform, and became a leader of the Non-Aligned Movement."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ヨシップ・ブロズ・チトー",
+      "en": "Josip Broz Tito"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "dubcek",
+    "name": {
+      "ja": "ドプチェク",
+      "en": "Alexander Dubček"
+    },
+    "born": 1921,
+    "died": 1992,
+    "active": [
+      1968,
+      1969
+    ],
+    "role": {
+      "ja": "チェコスロヴァキア共産党第一書記",
+      "en": "First Secretary of the Czechoslovak Communist Party"
+    },
+    "lat": 50.08,
+    "lon": 14.44,
+    "desc": {
+      "ja": "1968年に「人間の顔をした社会主義」を掲げて自由化改革(プラハの春)を進めたが、ワルシャワ条約機構軍の介入で失脚した。1989年の民主化後に名誉を回復した。",
+      "en": "Launched the 1968 reforms of 'socialism with a human face', the Prague Spring, and was removed after the Warsaw Pact invasion; rehabilitated after the 1989 revolution."
+    },
+    "importance": 1,
+    "wiki": {
+      "ja": "アレクサンデル・ドゥプチェク",
+      "en": "Alexander Dubček"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "walesa",
+    "name": {
+      "ja": "ワレサ",
+      "en": "Lech Wałęsa"
+    },
+    "born": 1943,
+    "died": null,
+    "active": [
+      1980,
+      1995
+    ],
+    "role": {
+      "ja": "「連帯」議長・ポーランド大統領",
+      "en": "Leader of Solidarity and President of Poland"
+    },
+    "lat": 54.35,
+    "lon": 18.65,
+    "desc": {
+      "ja": "グダニスク造船所の電気工。1980年に自主管理労組「連帯」を結成して議長となり、弾圧に耐えて1989年の民主化を導いた。1990年にポーランド大統領に就任した。",
+      "en": "Electrician at the Gdańsk shipyard who founded and led the Solidarity trade union in 1980; survived martial law to lead Poland's 1989 democratisation and became president in 1990."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "レフ・ヴァウェンサ",
+      "en": "Lech Wałęsa"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "deng-xiaoping",
+    "name": {
+      "ja": "鄧小平",
+      "en": "Deng Xiaoping"
+    },
+    "born": 1904,
+    "died": 1997,
+    "active": [
+      1978,
+      1992
+    ],
+    "role": {
+      "ja": "中国の最高指導者",
+      "en": "Paramount leader of China"
+    },
+    "lat": 39.91,
+    "lon": 116.4,
+    "desc": {
+      "ja": "文化大革命で二度失脚したが復活し、1978年から改革開放政策を進めて中国を市場経済に導いた。天安門事件では民主化運動を弾圧し、1992年の南巡講話で改革を加速させた。",
+      "en": "Twice purged in the Cultural Revolution, he returned to lead China's reform and opening-up from 1978; crushed the 1989 Tiananmen protests and reaccelerated reform with his 1992 southern tour."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "鄧小平",
+      "en": "Deng Xiaoping"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "xi-jinping",
+    "name": {
+      "ja": "習近平",
+      "en": "Xi Jinping"
+    },
+    "born": 1953,
+    "died": null,
+    "active": [
+      2012,
+      2020
+    ],
+    "role": {
+      "ja": "中国共産党総書記・国家主席",
+      "en": "General Secretary of the Chinese Communist Party and President of China"
+    },
+    "lat": 39.91,
+    "lon": 116.4,
+    "desc": {
+      "ja": "2012年に中国共産党総書記となり、「一帯一路」構想を掲げて中国の国際的影響力を拡大した。権力を集中させ、2018年には国家主席の任期制限を撤廃した。",
+      "en": "Became party general secretary in 2012 and expanded China's global reach through the Belt and Road Initiative; concentrated power and abolished presidential term limits in 2018."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "習近平",
+      "en": "Xi Jinping"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "kim-il-sung",
+    "name": {
+      "ja": "金日成",
+      "en": "Kim Il Sung"
+    },
+    "born": 1912,
+    "died": 1994,
+    "active": [
+      1948,
+      1994
+    ],
+    "role": {
+      "ja": "朝鮮民主主義人民共和国首相・主席",
+      "en": "Leader of North Korea"
+    },
+    "lat": 39.02,
+    "lon": 125.75,
+    "desc": {
+      "ja": "抗日パルチザン出身で、ソ連の支援により1948年に朝鮮民主主義人民共和国を建国した。朝鮮戦争を起こし、以後は主体(チュチェ)思想のもとで個人崇拝体制を築いた。",
+      "en": "Former anti-Japanese guerrilla who founded North Korea with Soviet backing in 1948; launched the Korean War and built a personality cult around the Juche ideology."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "金日成",
+      "en": "Kim Il Sung"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "syngman-rhee",
+    "name": {
+      "ja": "李承晩",
+      "en": "Syngman Rhee"
+    },
+    "born": 1875,
+    "died": 1965,
+    "active": [
+      1948,
+      1960
+    ],
+    "role": {
+      "ja": "大韓民国大統領",
+      "en": "President of South Korea"
+    },
+    "lat": 37.57,
+    "lon": 126.98,
+    "desc": {
+      "ja": "独立運動家として亡命生活を送り、1948年にアメリカの支援で大韓民国の初代大統領となった。反共独裁を続けたが、1960年の四月革命で退陣しハワイに亡命した。",
+      "en": "Independence activist in exile who became South Korea's first president in 1948 with US support; ruled as an anti-communist autocrat until the April Revolution of 1960 forced him into exile."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "李承晩",
+      "en": "Syngman Rhee"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "park-chung-hee",
+    "name": {
+      "ja": "朴正熙",
+      "en": "Park Chung-hee"
+    },
+    "born": 1917,
+    "died": 1979,
+    "active": [
+      1961,
+      1979
+    ],
+    "role": {
+      "ja": "大韓民国大統領",
+      "en": "President of South Korea"
+    },
+    "lat": 37.57,
+    "lon": 126.98,
+    "desc": {
+      "ja": "1961年の軍事クーデタで実権を握り、開発独裁のもとで日韓基本条約の締結や輸出主導の工業化を進め「漢江の奇跡」を実現した。1979年に側近に暗殺された。",
+      "en": "Seized power in the 1961 coup and ruled as a developmental dictator, normalising ties with Japan and driving export-led industrialisation (the 'Miracle on the Han'); assassinated in 1979."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "朴正煕",
+      "en": "Park Chung Hee"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "yoshida-shigeru",
+    "name": {
+      "ja": "吉田茂",
+      "en": "Yoshida Shigeru"
+    },
+    "born": 1878,
+    "died": 1967,
+    "active": [
+      1946,
+      1954
+    ],
+    "role": {
+      "ja": "日本の首相",
+      "en": "Prime Minister of Japan"
+    },
+    "lat": 35.68,
+    "lon": 139.69,
+    "desc": {
+      "ja": "外交官出身の首相。占領下で日本国憲法の制定に当たり、サンフランシスコ平和条約と日米安全保障条約に調印して独立を回復した。軽武装・経済重視の路線は吉田路線と呼ばれる。",
+      "en": "Former diplomat who led Japan through the occupation, oversaw the new constitution and signed the San Francisco Peace Treaty and US–Japan Security Treaty, setting the 'Yoshida line' of light armament and economic growth."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "吉田茂",
+      "en": "Shigeru Yoshida"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "pol-pot",
+    "name": {
+      "ja": "ポル＝ポト",
+      "en": "Pol Pot"
+    },
+    "born": 1925,
+    "died": 1998,
+    "active": [
+      1975,
+      1979
+    ],
+    "role": {
+      "ja": "民主カンプチア首相",
+      "en": "Prime Minister of Democratic Kampuchea"
+    },
+    "lat": 11.56,
+    "lon": 104.92,
+    "desc": {
+      "ja": "カンボジア共産党(赤色クメール)の指導者。1975年に政権を握ると都市住民を農村に強制移住させ、急進的な共産化のもとで百万人以上を虐殺・餓死させた。ベトナム軍の侵攻で失脚した。",
+      "en": "Leader of the Khmer Rouge who seized Cambodia in 1975, emptied the cities and imposed radical communism that killed well over a million people; ousted by the Vietnamese invasion in 1979."
+    },
+    "importance": 1,
+    "wiki": {
+      "ja": "ポル・ポト",
+      "en": "Pol Pot"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "indira-gandhi",
+    "name": {
+      "ja": "インディラ＝ガンディー",
+      "en": "Indira Gandhi"
+    },
+    "born": 1917,
+    "died": 1984,
+    "active": [
+      1966,
+      1984
+    ],
+    "role": {
+      "ja": "インド首相",
+      "en": "Prime Minister of India"
+    },
+    "lat": 28.61,
+    "lon": 77.21,
+    "desc": {
+      "ja": "ネルーの娘でインド初の女性首相。1971年の第3次インド＝パキスタン戦争でバングラデシュ独立を支援し、1974年に核実験を実施した。シク教徒の護衛に暗殺された。",
+      "en": "Nehru's daughter and India's first woman prime minister; backed Bangladesh's independence in the 1971 war and conducted India's first nuclear test in 1974. Assassinated by Sikh bodyguards."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "インディラ・ガンディー",
+      "en": "Indira Gandhi"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "ben-gurion",
+    "name": {
+      "ja": "ベン＝グリオン",
+      "en": "David Ben-Gurion"
+    },
+    "born": 1886,
+    "died": 1973,
+    "active": [
+      1948,
+      1963
+    ],
+    "role": {
+      "ja": "イスラエル首相",
+      "en": "Prime Minister of Israel"
+    },
+    "lat": 32.08,
+    "lon": 34.78,
+    "desc": {
+      "ja": "シオニズム運動の指導者。1948年にイスラエルの建国を宣言して初代首相となり、第1次中東戦争を勝利に導いた。",
+      "en": "Zionist leader who proclaimed the State of Israel in 1948 and became its first prime minister, leading the country to victory in the first Arab–Israeli war."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ダヴィド・ベン＝グリオン",
+      "en": "David Ben-Gurion"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "rabin",
+    "name": {
+      "ja": "ラビン",
+      "en": "Yitzhak Rabin"
+    },
+    "born": 1922,
+    "died": 1995,
+    "active": [
+      1974,
+      1995
+    ],
+    "role": {
+      "ja": "イスラエル首相",
+      "en": "Prime Minister of Israel"
+    },
+    "lat": 31.78,
+    "lon": 35.22,
+    "desc": {
+      "ja": "第3次中東戦争の参謀総長を経て首相となり、1993年にPLOのアラファトとパレスチナ暫定自治協定に調印した。ノーベル平和賞を受賞したが、和平に反対するユダヤ人青年に暗殺された。",
+      "en": "Chief of staff in the Six-Day War and later prime minister; signed the 1993 Oslo Accords with Arafat and shared the Nobel Peace Prize, but was assassinated by a Jewish extremist opposed to peace."
+    },
+    "importance": 1,
+    "wiki": {
+      "ja": "イツハク・ラビン",
+      "en": "Yitzhak Rabin"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "nasser",
+    "name": {
+      "ja": "ナセル",
+      "en": "Gamal Abdel Nasser"
+    },
+    "born": 1918,
+    "died": 1970,
+    "active": [
+      1952,
+      1970
+    ],
+    "role": {
+      "ja": "エジプト大統領",
+      "en": "President of Egypt"
+    },
+    "lat": 30.04,
+    "lon": 31.24,
+    "desc": {
+      "ja": "自由将校団を率いて1952年のエジプト革命を起こし、1956年にスエズ運河を国有化してスエズ戦争を乗り切った。アラブ民族主義の指導者として第三世界に影響を与えたが、第3次中東戦争で大敗した。",
+      "en": "Led the Free Officers in the 1952 revolution; nationalised the Suez Canal in 1956 and survived the Suez Crisis to become the hero of Arab nationalism, until the crushing defeat of 1967."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ガマール・アブドゥル＝ナーセル",
+      "en": "Gamal Abdel Nasser"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "sadat",
+    "name": {
+      "ja": "サダト",
+      "en": "Anwar Sadat"
+    },
+    "born": 1918,
+    "died": 1981,
+    "active": [
+      1970,
+      1981
+    ],
+    "role": {
+      "ja": "エジプト大統領",
+      "en": "President of Egypt"
+    },
+    "lat": 30.04,
+    "lon": 31.24,
+    "desc": {
+      "ja": "ナセルの後継者。第4次中東戦争を起こしたのち対イスラエル和平に転じ、1978年のキャンプ＝デーヴィッド合意を経てエジプト＝イスラエル平和条約を結んだ。イスラーム過激派に暗殺された。",
+      "en": "Nasser's successor; launched the 1973 war, then turned to peace, signing the Camp David Accords and the 1979 treaty with Israel. Assassinated by Islamist extremists."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "アンワル・アッ＝サーダート",
+      "en": "Anwar Sadat"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "arafat",
+    "name": {
+      "ja": "アラファト",
+      "en": "Yasser Arafat"
+    },
+    "born": 1929,
+    "died": 2004,
+    "active": [
+      1964,
+      2004
+    ],
+    "role": {
+      "ja": "PLO議長・パレスチナ自治政府議長",
+      "en": "Chairman of the PLO and President of the Palestinian Authority"
+    },
+    "lat": 31.9,
+    "lon": 35.2,
+    "desc": {
+      "ja": "ファタハを創設し、1969年からパレスチナ解放機構の議長として対イスラエル闘争を指導した。1993年のパレスチナ暫定自治協定でイスラエルと相互承認し、自治政府の議長となった。",
+      "en": "Founder of Fatah and chairman of the PLO from 1969; led the struggle against Israel, then signed the 1993 Oslo Accords and headed the Palestinian Authority."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ヤーセル・アラファート",
+      "en": "Yasser Arafat"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "khomeini",
+    "name": {
+      "ja": "ホメイニ",
+      "en": "Ruhollah Khomeini"
+    },
+    "born": 1902,
+    "died": 1989,
+    "active": [
+      1979,
+      1989
+    ],
+    "role": {
+      "ja": "イランの最高指導者",
+      "en": "Supreme Leader of Iran"
+    },
+    "lat": 35.69,
+    "lon": 51.39,
+    "desc": {
+      "ja": "シーア派の法学者。亡命先から国王の独裁を批判し、1979年のイラン＝イスラーム革命で帰国してイスラーム共和国の最高指導者となった。反米路線をとりイラン＝イラク戦争を戦った。",
+      "en": "Shia jurist who denounced the Shah from exile and returned in the 1979 revolution to become supreme leader of the Islamic Republic; pursued an anti-American line and fought the Iran–Iraq War."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ルーホッラー・ホメイニー",
+      "en": "Ruhollah Khomeini"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "saddam-hussein",
+    "name": {
+      "ja": "サダム＝フセイン",
+      "en": "Saddam Hussein"
+    },
+    "born": 1937,
+    "died": 2006,
+    "active": [
+      1979,
+      2003
+    ],
+    "role": {
+      "ja": "イラク大統領",
+      "en": "President of Iraq"
+    },
+    "lat": 33.34,
+    "lon": 44.4,
+    "desc": {
+      "ja": "バース党の独裁者として1979年にイラク大統領となり、イラン＝イラク戦争とクウェート侵攻を起こした。湾岸戦争に敗れたのちも政権を維持したが、イラク戦争で倒され処刑された。",
+      "en": "Baathist dictator who became president in 1979, launched the Iran–Iraq War and the invasion of Kuwait; survived defeat in the Gulf War but was overthrown in the Iraq War and executed."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "サッダーム・フセイン",
+      "en": "Saddam Hussein"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "nkrumah",
+    "name": {
+      "ja": "エンクルマ",
+      "en": "Kwame Nkrumah"
+    },
+    "born": 1909,
+    "died": 1972,
+    "active": [
+      1951,
+      1966
+    ],
+    "role": {
+      "ja": "ガーナ初代大統領",
+      "en": "First President of Ghana"
+    },
+    "lat": 5.56,
+    "lon": -0.2,
+    "desc": {
+      "ja": "ガーナ独立運動を指導し、1957年にサハラ以南アフリカで最初の黒人国家として独立を実現した。パン＝アフリカニズムを唱えてアフリカ統一機構の結成に尽力したが、1966年のクーデタで失脚した。",
+      "en": "Led Ghana to independence in 1957 as the first black African state south of the Sahara; champion of Pan-Africanism and a founder of the OAU, ousted by a coup in 1966."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "クワメ・エンクルマ",
+      "en": "Kwame Nkrumah"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "lumumba",
+    "name": {
+      "ja": "ルムンバ",
+      "en": "Patrice Lumumba"
+    },
+    "born": 1925,
+    "died": 1961,
+    "active": [
+      1958,
+      1961
+    ],
+    "role": {
+      "ja": "コンゴ共和国首相",
+      "en": "Prime Minister of the Congo"
+    },
+    "lat": -4.32,
+    "lon": 15.31,
+    "desc": {
+      "ja": "コンゴ独立運動の指導者で、1960年の独立時に初代首相となった。コンゴ動乱でカタンガ分離派と対立し、クーデタで失脚して殺害された。アフリカ民族主義の殉教者とされる。",
+      "en": "Leader of Congolese independence and first prime minister in 1960; opposed the Katanga secession in the Congo Crisis, was overthrown and murdered, becoming a martyr of African nationalism."
+    },
+    "importance": 1,
+    "wiki": {
+      "ja": "パトリス・ルムンバ",
+      "en": "Patrice Lumumba"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "mandela",
+    "name": {
+      "ja": "マンデラ",
+      "en": "Nelson Mandela"
+    },
+    "born": 1918,
+    "died": 2013,
+    "active": [
+      1962,
+      1999
+    ],
+    "role": {
+      "ja": "南アフリカ大統領",
+      "en": "President of South Africa"
+    },
+    "lat": -25.75,
+    "lon": 28.19,
+    "desc": {
+      "ja": "アフリカ民族会議(ANC)の指導者として反アパルトヘイト闘争を率い、27年間投獄された。1990年に釈放され、1994年の全人種参加選挙で黒人初の大統領に就任し、人種和解を進めた。",
+      "en": "ANC leader of the anti-apartheid struggle, imprisoned for 27 years; freed in 1990, he became South Africa's first black president after the 1994 all-race election and pursued reconciliation."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ネルソン・マンデラ",
+      "en": "Nelson Mandela"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "de-klerk",
+    "name": {
+      "ja": "デクラーク",
+      "en": "F. W. de Klerk"
+    },
+    "born": 1936,
+    "died": 2021,
+    "active": [
+      1989,
+      1994
+    ],
+    "role": {
+      "ja": "南アフリカ大統領",
+      "en": "President of South Africa"
+    },
+    "lat": -25.75,
+    "lon": 28.19,
+    "desc": {
+      "ja": "南アフリカ最後の白人大統領。1990年にマンデラを釈放し、ANCを合法化してアパルトヘイト諸法を撤廃した。マンデラとともにノーベル平和賞を受賞した。",
+      "en": "South Africa's last white president; freed Mandela in 1990, legalised the ANC and repealed the apartheid laws, sharing the Nobel Peace Prize with Mandela."
+    },
+    "importance": 1,
+    "wiki": {
+      "ja": "フレデリック・ウィレム・デクラーク",
+      "en": "F. W. de Klerk"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "castro",
+    "name": {
+      "ja": "カストロ",
+      "en": "Fidel Castro"
+    },
+    "born": 1926,
+    "died": 2016,
+    "active": [
+      1959,
+      2008
+    ],
+    "role": {
+      "ja": "キューバ首相・国家評議会議長",
+      "en": "Prime Minister and President of Cuba"
+    },
+    "lat": 23.13,
+    "lon": -82.38,
+    "desc": {
+      "ja": "1959年のキューバ革命でバティスタ独裁政権を倒し、社会主義政権を樹立した。アメリカと対立してソ連に接近し、キューバ危機を招いた。半世紀にわたりキューバを統治した。",
+      "en": "Overthrew the Batista dictatorship in the 1959 Cuban Revolution and built a socialist state; broke with the US, allied with the USSR, and ruled Cuba for nearly half a century."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "フィデル・カストロ",
+      "en": "Fidel Castro"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "guevara",
+    "name": {
+      "ja": "ゲバラ",
+      "en": "Che Guevara"
+    },
+    "born": 1928,
+    "died": 1967,
+    "active": [
+      1956,
+      1967
+    ],
+    "role": {
+      "ja": "革命家",
+      "en": "Revolutionary"
+    },
+    "lat": 23.13,
+    "lon": -82.38,
+    "desc": {
+      "ja": "アルゼンチン出身の革命家。カストロとともにキューバ革命を戦い、革命政権で工業相などを務めた。その後ボリビアでゲリラ戦を指導中に捕らえられ処刑され、世界の若者の象徴となった。",
+      "en": "Argentine-born revolutionary who fought alongside Castro in Cuba and served in its government; captured and executed while leading guerrillas in Bolivia, he became an icon of youth revolt."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "チェ・ゲバラ",
+      "en": "Che Guevara"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "martin-luther-king",
+    "name": {
+      "ja": "キング牧師",
+      "en": "Martin Luther King Jr."
+    },
+    "born": 1929,
+    "died": 1968,
+    "active": [
+      1955,
+      1968
+    ],
+    "role": {
+      "ja": "公民権運動指導者",
+      "en": "Civil rights leader"
+    },
+    "lat": 33.75,
+    "lon": -84.39,
+    "desc": {
+      "ja": "バプテスト派の牧師。非暴力の抵抗によって黒人差別撤廃を求める公民権運動を指導し、1963年のワシントン大行進で「私には夢がある」と演説した。ノーベル平和賞を受賞したが、1968年に暗殺された。",
+      "en": "Baptist minister who led the civil rights movement through non-violent resistance, delivering the 'I Have a Dream' speech at the 1963 March on Washington; Nobel laureate, assassinated in 1968."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "マーティン・ルーサー・キング・ジュニア",
+      "en": "Martin Luther King Jr."
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  }
 ]

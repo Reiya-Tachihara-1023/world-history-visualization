@@ -1,560 +1,1240 @@
 [
   {
     "id": "muhammad",
-    "name": {"ja": "ムハンマド", "en": "Muhammad"},
+    "name": {
+      "ja": "ムハンマド",
+      "en": "Muhammad"
+    },
     "born": 570,
     "died": 632,
-    "active": [610, 632],
-    "role": {"ja": "イスラーム教の預言者", "en": "Prophet of Islam"},
+    "active": [
+      610,
+      632
+    ],
+    "role": {
+      "ja": "イスラーム教の預言者",
+      "en": "Prophet of Islam"
+    },
     "lat": 24.47,
     "lon": 39.61,
-    "desc": {"ja": "メッカの商人。610年ごろ唯一神アッラーの啓示を受けて預言者として布教を始め、622年メディナに移住(ヒジュラ)。晩年にアラビア半島の大半を統一した。", "en": "A merchant of Mecca who began preaching as a prophet around 610 after receiving revelations from Allah. He migrated to Medina in 622 and by his death had united most of Arabia under Islam."},
+    "desc": {
+      "ja": "メッカの商人。610年ごろ唯一神アッラーの啓示を受けて預言者として布教を始め、622年メディナに移住(ヒジュラ)。晩年にアラビア半島の大半を統一した。",
+      "en": "A merchant of Mecca who began preaching as a prophet around 610 after receiving revelations from Allah. He migrated to Medina in 622 and by his death had united most of Arabia under Islam."
+    },
     "importance": 3,
-    "wiki": {"ja": "ムハンマド", "en": "Muhammad"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ムハンマド",
+      "en": "Muhammad"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "muawiya",
-    "name": {"ja": "ムアーウィヤ", "en": "Mu'awiya I"},
+    "name": {
+      "ja": "ムアーウィヤ",
+      "en": "Mu'awiya I"
+    },
     "born": 602,
     "died": 680,
-    "active": [661, 680],
-    "role": {"ja": "ウマイヤ朝初代カリフ", "en": "First Umayyad caliph"},
+    "active": [
+      661,
+      680
+    ],
+    "role": {
+      "ja": "ウマイヤ朝初代カリフ",
+      "en": "First Umayyad caliph"
+    },
     "lat": 33.51,
     "lon": 36.29,
-    "desc": {"ja": "シリア総督としてアリーと対立し、アリーの死後カリフとなってウマイヤ朝を開いた。ダマスクスを都とし、カリフ位を世襲化した。", "en": "As governor of Syria he opposed Ali, and after Ali's death became caliph and founded the Umayyad dynasty. He ruled from Damascus and made the caliphate hereditary."},
+    "desc": {
+      "ja": "シリア総督としてアリーと対立し、アリーの死後カリフとなってウマイヤ朝を開いた。ダマスクスを都とし、カリフ位を世襲化した。",
+      "en": "As governor of Syria he opposed Ali, and after Ali's death became caliph and founded the Umayyad dynasty. He ruled from Damascus and made the caliphate hereditary."
+    },
     "importance": 2,
-    "wiki": {"ja": "ムアーウィヤ", "en": "Mu'awiya I"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ムアーウィヤ",
+      "en": "Mu'awiya I"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "al-mansur",
-    "name": {"ja": "マンスール", "en": "Al-Mansur"},
+    "name": {
+      "ja": "マンスール",
+      "en": "Al-Mansur"
+    },
     "born": 714,
     "died": 775,
-    "active": [754, 775],
-    "role": {"ja": "アッバース朝第2代カリフ", "en": "Second Abbasid caliph"},
+    "active": [
+      754,
+      775
+    ],
+    "role": {
+      "ja": "アッバース朝第2代カリフ",
+      "en": "Second Abbasid caliph"
+    },
     "lat": 33.34,
-    "lon": 44.40,
-    "desc": {"ja": "アッバース朝の実質的な建設者。762年にティグリス川沿いに円形都市バグダードを建設して都とし、中央集権的な官僚機構を整えた。", "en": "The real architect of the Abbasid state. In 762 he built the round city of Baghdad on the Tigris as his capital and organized a centralized bureaucracy."},
+    "lon": 44.4,
+    "desc": {
+      "ja": "アッバース朝の実質的な建設者。762年にティグリス川沿いに円形都市バグダードを建設して都とし、中央集権的な官僚機構を整えた。",
+      "en": "The real architect of the Abbasid state. In 762 he built the round city of Baghdad on the Tigris as his capital and organized a centralized bureaucracy."
+    },
     "importance": 2,
-    "wiki": {"ja": "マンスール", "en": "Al-Mansur"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "マンスール",
+      "en": "Al-Mansur"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "harun-al-rashid",
-    "name": {"ja": "ハールーン＝アッラシード", "en": "Harun al-Rashid"},
+    "name": {
+      "ja": "ハールーン＝アッラシード",
+      "en": "Harun al-Rashid"
+    },
     "born": 766,
     "died": 809,
-    "active": [786, 809],
-    "role": {"ja": "アッバース朝第5代カリフ", "en": "Fifth Abbasid caliph"},
+    "active": [
+      786,
+      809
+    ],
+    "role": {
+      "ja": "アッバース朝第5代カリフ",
+      "en": "Fifth Abbasid caliph"
+    },
     "lat": 33.34,
-    "lon": 44.40,
-    "desc": {"ja": "アッバース朝最盛期のカリフ。バグダードは世界的な商業・文化都市として栄え、『千夜一夜物語』の主人公としても知られる。カール大帝と使節を交換した。", "en": "Caliph at the height of the Abbasid empire, when Baghdad flourished as a world center of trade and culture. He appears in the Arabian Nights and exchanged envoys with Charlemagne."},
+    "lon": 44.4,
+    "desc": {
+      "ja": "アッバース朝最盛期のカリフ。バグダードは世界的な商業・文化都市として栄え、『千夜一夜物語』の主人公としても知られる。カール大帝と使節を交換した。",
+      "en": "Caliph at the height of the Abbasid empire, when Baghdad flourished as a world center of trade and culture. He appears in the Arabian Nights and exchanged envoys with Charlemagne."
+    },
     "importance": 3,
-    "wiki": {"ja": "ハールーン・アッラシード", "en": "Harun al-Rashid"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ハールーン・アッラシード",
+      "en": "Harun al-Rashid"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "abd-al-rahman-iii",
-    "name": {"ja": "アブド＝アッラフマーン3世", "en": "Abd al-Rahman III"},
+    "name": {
+      "ja": "アブド＝アッラフマーン3世",
+      "en": "Abd al-Rahman III"
+    },
     "born": 891,
     "died": 961,
-    "active": [912, 961],
-    "role": {"ja": "後ウマイヤ朝のカリフ", "en": "Caliph of Córdoba"},
+    "active": [
+      912,
+      961
+    ],
+    "role": {
+      "ja": "後ウマイヤ朝のカリフ",
+      "en": "Caliph of Córdoba"
+    },
     "lat": 37.88,
     "lon": -4.78,
-    "desc": {"ja": "後ウマイヤ朝の最盛期の君主。929年にカリフを称してアッバース朝・ファーティマ朝と並び立ち、コルドバを西方イスラーム世界最大の都市に発展させた。", "en": "Ruler of the Umayyad state of Córdoba at its peak. In 929 he claimed the caliphate alongside the Abbasids and Fatimids, and made Córdoba the greatest city of the western Islamic world."},
+    "desc": {
+      "ja": "後ウマイヤ朝の最盛期の君主。929年にカリフを称してアッバース朝・ファーティマ朝と並び立ち、コルドバを西方イスラーム世界最大の都市に発展させた。",
+      "en": "Ruler of the Umayyad state of Córdoba at its peak. In 929 he claimed the caliphate alongside the Abbasids and Fatimids, and made Córdoba the greatest city of the western Islamic world."
+    },
     "importance": 2,
-    "wiki": {"ja": "アブド・アッラフマーン3世", "en": "Abd al-Rahman III"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "アブド・アッラフマーン3世",
+      "en": "Abd al-Rahman III"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "ibn-sina",
-    "name": {"ja": "イブン＝シーナー", "en": "Ibn Sina (Avicenna)"},
+    "name": {
+      "ja": "イブン＝シーナー",
+      "en": "Ibn Sina (Avicenna)"
+    },
     "born": 980,
     "died": 1037,
-    "active": [1000, 1037],
-    "role": {"ja": "哲学者・医学者", "en": "Philosopher and physician"},
-    "lat": 34.80,
+    "active": [
+      1000,
+      1037
+    ],
+    "role": {
+      "ja": "哲学者・医学者",
+      "en": "Philosopher and physician"
+    },
+    "lat": 34.8,
     "lon": 48.52,
-    "desc": {"ja": "ブハラ近郊生まれのイラン系学者。アリストテレス哲学を研究し、『医学典範』はラテン語訳されてヨーロッパの医学教育に長く用いられた。ラテン名アヴィケンナ。", "en": "A Persian scholar born near Bukhara who studied Aristotelian philosophy. His Canon of Medicine, translated into Latin, was a standard medical text in Europe for centuries. Known in Latin as Avicenna."},
+    "desc": {
+      "ja": "ブハラ近郊生まれのイラン系学者。アリストテレス哲学を研究し、『医学典範』はラテン語訳されてヨーロッパの医学教育に長く用いられた。ラテン名アヴィケンナ。",
+      "en": "A Persian scholar born near Bukhara who studied Aristotelian philosophy. His Canon of Medicine, translated into Latin, was a standard medical text in Europe for centuries. Known in Latin as Avicenna."
+    },
     "importance": 3,
-    "wiki": {"ja": "イブン・スィーナー", "en": "Avicenna"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "イブン・スィーナー",
+      "en": "Avicenna"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "al-ghazali",
-    "name": {"ja": "ガザーリー", "en": "Al-Ghazali"},
+    "name": {
+      "ja": "ガザーリー",
+      "en": "Al-Ghazali"
+    },
     "born": 1058,
     "died": 1111,
-    "active": [1091, 1111],
-    "role": {"ja": "イスラーム神学者", "en": "Islamic theologian"},
+    "active": [
+      1091,
+      1111
+    ],
+    "role": {
+      "ja": "イスラーム神学者",
+      "en": "Islamic theologian"
+    },
     "lat": 33.34,
-    "lon": 44.40,
-    "desc": {"ja": "バグダードのニザーミーヤ学院で教えたスンナ派神学者。哲学を批判しつつ神秘主義(スーフィズム)を正統神学に取り入れ、イスラーム思想を体系化した。", "en": "A Sunni theologian who taught at the Nizamiyya in Baghdad. He criticized the philosophers while integrating Sufi mysticism into orthodox theology, giving Islamic thought a lasting synthesis."},
+    "lon": 44.4,
+    "desc": {
+      "ja": "バグダードのニザーミーヤ学院で教えたスンナ派神学者。哲学を批判しつつ神秘主義(スーフィズム)を正統神学に取り入れ、イスラーム思想を体系化した。",
+      "en": "A Sunni theologian who taught at the Nizamiyya in Baghdad. He criticized the philosophers while integrating Sufi mysticism into orthodox theology, giving Islamic thought a lasting synthesis."
+    },
     "importance": 2,
-    "wiki": {"ja": "ガザーリー", "en": "Al-Ghazali"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ガザーリー",
+      "en": "Al-Ghazali"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "tughril-beg",
-    "name": {"ja": "トゥグリル＝ベク", "en": "Tughril Beg"},
+    "name": {
+      "ja": "トゥグリル＝ベク",
+      "en": "Tughril Beg"
+    },
     "born": 990,
     "died": 1063,
-    "active": [1038, 1063],
-    "role": {"ja": "セルジューク朝の建国者", "en": "Founder of the Seljuk Empire"},
+    "active": [
+      1038,
+      1063
+    ],
+    "role": {
+      "ja": "セルジューク朝の建国者",
+      "en": "Founder of the Seljuk Empire"
+    },
     "lat": 33.34,
-    "lon": 44.40,
-    "desc": {"ja": "トルコ系セルジューク族を率いてイランを征服し、1055年にバグダードに入城した。アッバース朝カリフからスルタンの称号を授けられ、スンナ派の擁護者となった。", "en": "Led the Turkic Seljuks in conquering Iran and entered Baghdad in 1055. He received the title of sultan from the Abbasid caliph and became the champion of Sunni Islam."},
+    "lon": 44.4,
+    "desc": {
+      "ja": "トルコ系セルジューク族を率いてイランを征服し、1055年にバグダードに入城した。アッバース朝カリフからスルタンの称号を授けられ、スンナ派の擁護者となった。",
+      "en": "Led the Turkic Seljuks in conquering Iran and entered Baghdad in 1055. He received the title of sultan from the Abbasid caliph and became the champion of Sunni Islam."
+    },
     "importance": 2,
-    "wiki": {"ja": "トゥグリル・ベグ", "en": "Tughril"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "トゥグリル・ベグ",
+      "en": "Tughril"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "mahmud-of-ghazni",
-    "name": {"ja": "マフムード", "en": "Mahmud of Ghazni"},
+    "name": {
+      "ja": "マフムード",
+      "en": "Mahmud of Ghazni"
+    },
     "born": 971,
     "died": 1030,
-    "active": [998, 1030],
-    "role": {"ja": "ガズナ朝の君主", "en": "Sultan of the Ghaznavid dynasty"},
+    "active": [
+      998,
+      1030
+    ],
+    "role": {
+      "ja": "ガズナ朝の君主",
+      "en": "Sultan of the Ghaznavid dynasty"
+    },
     "lat": 33.55,
     "lon": 68.42,
-    "desc": {"ja": "ガズナ朝の最盛期の君主。北インドへ十数回にわたり遠征して略奪し、インドへのイスラーム進出の先駆けとなった。詩人フィルドゥシーらを宮廷に集めた。", "en": "Ruler of the Ghaznavids at their height. His many raids into northern India opened the way for Islam's expansion there. He gathered scholars and poets such as Firdawsi at his court."},
+    "desc": {
+      "ja": "ガズナ朝の最盛期の君主。北インドへ十数回にわたり遠征して略奪し、インドへのイスラーム進出の先駆けとなった。詩人フィルドゥシーらを宮廷に集めた。",
+      "en": "Ruler of the Ghaznavids at their height. His many raids into northern India opened the way for Islam's expansion there. He gathered scholars and poets such as Firdawsi at his court."
+    },
     "importance": 2,
-    "wiki": {"ja": "マフムード (ガズナ朝)", "en": "Mahmud of Ghazni"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "マフムード (ガズナ朝)",
+      "en": "Mahmud of Ghazni"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "saladin",
-    "name": {"ja": "サラディン", "en": "Saladin"},
+    "name": {
+      "ja": "サラディン",
+      "en": "Saladin"
+    },
     "born": 1137,
     "died": 1193,
-    "active": [1169, 1193],
-    "role": {"ja": "アイユーブ朝の建国者", "en": "Founder of the Ayyubid dynasty"},
+    "active": [
+      1169,
+      1193
+    ],
+    "role": {
+      "ja": "アイユーブ朝の建国者",
+      "en": "Founder of the Ayyubid dynasty"
+    },
     "lat": 30.04,
     "lon": 31.24,
-    "desc": {"ja": "クルド人の武将。ファーティマ朝を倒してエジプトにアイユーブ朝を建て、1187年にイェルサレムを十字軍から奪回した。第3回十字軍のリチャード1世と戦い、寛大な人物として知られる。", "en": "A Kurdish commander who overthrew the Fatimids and founded the Ayyubid dynasty in Egypt. He recaptured Jerusalem from the crusaders in 1187 and fought Richard I in the Third Crusade, famed for his chivalry."},
+    "desc": {
+      "ja": "クルド人の武将。ファーティマ朝を倒してエジプトにアイユーブ朝を建て、1187年にイェルサレムを十字軍から奪回した。第3回十字軍のリチャード1世と戦い、寛大な人物として知られる。",
+      "en": "A Kurdish commander who overthrew the Fatimids and founded the Ayyubid dynasty in Egypt. He recaptured Jerusalem from the crusaders in 1187 and fought Richard I in the Third Crusade, famed for his chivalry."
+    },
     "importance": 3,
-    "wiki": {"ja": "サラーフッディーン", "en": "Saladin"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "サラーフッディーン",
+      "en": "Saladin"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "ibn-rushd",
-    "name": {"ja": "イブン＝ルシュド", "en": "Ibn Rushd (Averroes)"},
+    "name": {
+      "ja": "イブン＝ルシュド",
+      "en": "Ibn Rushd (Averroes)"
+    },
     "born": 1126,
     "died": 1198,
-    "active": [1150, 1198],
-    "role": {"ja": "哲学者・法学者", "en": "Philosopher and jurist"},
+    "active": [
+      1150,
+      1198
+    ],
+    "role": {
+      "ja": "哲学者・法学者",
+      "en": "Philosopher and jurist"
+    },
     "lat": 37.88,
     "lon": -4.78,
-    "desc": {"ja": "コルドバ生まれの哲学者。ムワッヒド朝の宮廷に仕え、アリストテレスの著作に詳細な注釈を著した。ラテン名アヴェロエスとして中世ヨーロッパのスコラ学に大きな影響を与えた。", "en": "A philosopher born in Córdoba who served the Almohad court and wrote detailed commentaries on Aristotle. Known in Latin as Averroes, he profoundly influenced medieval European scholasticism."},
+    "desc": {
+      "ja": "コルドバ生まれの哲学者。ムワッヒド朝の宮廷に仕え、アリストテレスの著作に詳細な注釈を著した。ラテン名アヴェロエスとして中世ヨーロッパのスコラ学に大きな影響を与えた。",
+      "en": "A philosopher born in Córdoba who served the Almohad court and wrote detailed commentaries on Aristotle. Known in Latin as Averroes, he profoundly influenced medieval European scholasticism."
+    },
     "importance": 2,
-    "wiki": {"ja": "イブン・ルシュド", "en": "Averroes"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "イブン・ルシュド",
+      "en": "Averroes"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "tang-taizong",
-    "name": {"ja": "太宗", "en": "Emperor Taizong of Tang"},
+    "name": {
+      "ja": "太宗",
+      "en": "Emperor Taizong of Tang"
+    },
     "born": 598,
     "died": 649,
-    "active": [626, 649],
-    "role": {"ja": "唐の第2代皇帝", "en": "Second emperor of the Tang"},
+    "active": [
+      626,
+      649
+    ],
+    "role": {
+      "ja": "唐の第2代皇帝",
+      "en": "Second emperor of the Tang"
+    },
     "lat": 34.27,
     "lon": 108.94,
-    "desc": {"ja": "本名李世民。父李淵(高祖)を助けて唐を建国し、兄を倒して即位した。律令制を整え、東突厥を服属させて「貞観の治」と称される治世を実現した。", "en": "Born Li Shimin, he helped his father Li Yuan found the Tang and seized the throne from his brother. He perfected the legal codes and subdued the Eastern Turks in the reign praised as the Zhenguan era."},
+    "desc": {
+      "ja": "本名李世民。父李淵(高祖)を助けて唐を建国し、兄を倒して即位した。律令制を整え、東突厥を服属させて「貞観の治」と称される治世を実現した。",
+      "en": "Born Li Shimin, he helped his father Li Yuan found the Tang and seized the throne from his brother. He perfected the legal codes and subdued the Eastern Turks in the reign praised as the Zhenguan era."
+    },
     "importance": 3,
-    "wiki": {"ja": "太宗 (唐)", "en": "Emperor Taizong of Tang"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "太宗 (唐)",
+      "en": "Emperor Taizong of Tang"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "xuanzang",
-    "name": {"ja": "玄奘", "en": "Xuanzang"},
+    "name": {
+      "ja": "玄奘",
+      "en": "Xuanzang"
+    },
     "born": 602,
     "died": 664,
-    "active": [629, 664],
-    "role": {"ja": "唐の仏僧", "en": "Tang Buddhist monk"},
+    "active": [
+      629,
+      664
+    ],
+    "role": {
+      "ja": "唐の仏僧",
+      "en": "Tang Buddhist monk"
+    },
     "lat": 34.27,
     "lon": 108.94,
-    "desc": {"ja": "629年に長安を発ち陸路でインドに赴き、ナーランダー僧院で学んで645年に帰国した。多くの経典を漢訳し、旅の記録『大唐西域記』を残した。『西遊記』の三蔵法師のモデル。", "en": "Left Chang'an in 629, traveled overland to India, studied at Nalanda and returned in 645. He translated many scriptures and wrote the Record of the Western Regions; he inspired the monk of Journey to the West."},
+    "desc": {
+      "ja": "629年に長安を発ち陸路でインドに赴き、ナーランダー僧院で学んで645年に帰国した。多くの経典を漢訳し、旅の記録『大唐西域記』を残した。『西遊記』の三蔵法師のモデル。",
+      "en": "Left Chang'an in 629, traveled overland to India, studied at Nalanda and returned in 645. He translated many scriptures and wrote the Record of the Western Regions; he inspired the monk of Journey to the West."
+    },
     "importance": 3,
-    "wiki": {"ja": "玄奘", "en": "Xuanzang"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "玄奘",
+      "en": "Xuanzang"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "wu-zetian",
-    "name": {"ja": "則天武后", "en": "Wu Zetian"},
+    "name": {
+      "ja": "則天武后",
+      "en": "Wu Zetian"
+    },
     "born": 624,
     "died": 705,
-    "active": [655, 705],
-    "role": {"ja": "周の皇帝(中国史上唯一の女帝)", "en": "Empress regnant of the Zhou dynasty"},
+    "active": [
+      655,
+      705
+    ],
+    "role": {
+      "ja": "周の皇帝(中国史上唯一の女帝)",
+      "en": "Empress regnant of the Zhou dynasty"
+    },
     "lat": 34.68,
     "lon": 112.45,
-    "desc": {"ja": "高宗の皇后として実権を握り、690年に自ら即位して国号を周と改めた。科挙出身の官僚を重用して貴族勢力を抑え、仏教を保護した。", "en": "Empress of Gaozong who held real power, then took the throne herself in 690 and renamed the dynasty Zhou. She promoted examination graduates to curb the aristocracy and patronized Buddhism."},
+    "desc": {
+      "ja": "高宗の皇后として実権を握り、690年に自ら即位して国号を周と改めた。科挙出身の官僚を重用して貴族勢力を抑え、仏教を保護した。",
+      "en": "Empress of Gaozong who held real power, then took the throne herself in 690 and renamed the dynasty Zhou. She promoted examination graduates to curb the aristocracy and patronized Buddhism."
+    },
     "importance": 3,
-    "wiki": {"ja": "武則天", "en": "Wu Zetian"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "武則天",
+      "en": "Wu Zetian"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "tang-xuanzong",
-    "name": {"ja": "玄宗", "en": "Emperor Xuanzong of Tang"},
+    "name": {
+      "ja": "玄宗",
+      "en": "Emperor Xuanzong of Tang"
+    },
     "born": 685,
     "died": 762,
-    "active": [712, 756],
-    "role": {"ja": "唐の第6代皇帝", "en": "Sixth emperor of the Tang"},
+    "active": [
+      712,
+      756
+    ],
+    "role": {
+      "ja": "唐の第6代皇帝",
+      "en": "Sixth emperor of the Tang"
+    },
     "lat": 34.27,
     "lon": 108.94,
-    "desc": {"ja": "治世前半は「開元の治」と呼ばれる繁栄期を築いたが、節度使を設けて辺境防衛を委ねた。晩年は楊貴妃を寵愛し、安史の乱を招いて退位した。", "en": "His early reign, the Kaiyuan era, was a golden age, but he entrusted frontier defense to military governors. Infatuated with Yang Guifei in old age, he provoked the An Lushan rebellion and abdicated."},
+    "desc": {
+      "ja": "治世前半は「開元の治」と呼ばれる繁栄期を築いたが、節度使を設けて辺境防衛を委ねた。晩年は楊貴妃を寵愛し、安史の乱を招いて退位した。",
+      "en": "His early reign, the Kaiyuan era, was a golden age, but he entrusted frontier defense to military governors. Infatuated with Yang Guifei in old age, he provoked the An Lushan rebellion and abdicated."
+    },
     "importance": 2,
-    "wiki": {"ja": "玄宗 (唐)", "en": "Emperor Xuanzong of Tang"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "玄宗 (唐)",
+      "en": "Emperor Xuanzong of Tang"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "an-lushan",
-    "name": {"ja": "安禄山", "en": "An Lushan"},
+    "name": {
+      "ja": "安禄山",
+      "en": "An Lushan"
+    },
     "born": 703,
     "died": 757,
-    "active": [742, 757],
-    "role": {"ja": "唐の節度使・反乱の指導者", "en": "Tang military governor and rebel"},
-    "lat": 39.90,
-    "lon": 116.40,
-    "desc": {"ja": "ソグド系と突厥系の血を引く武将。三つの節度使を兼ねて大軍を握り、755年に挙兵して洛陽・長安を占領し大燕皇帝を称したが、翌々年に子に殺された。", "en": "A general of Sogdian and Turkic descent who held three military governorships. He rose in revolt in 755, took Luoyang and Chang'an and proclaimed himself emperor of Yan, but was killed by his son in 757."},
+    "active": [
+      742,
+      757
+    ],
+    "role": {
+      "ja": "唐の節度使・反乱の指導者",
+      "en": "Tang military governor and rebel"
+    },
+    "lat": 39.9,
+    "lon": 116.4,
+    "desc": {
+      "ja": "ソグド系と突厥系の血を引く武将。三つの節度使を兼ねて大軍を握り、755年に挙兵して洛陽・長安を占領し大燕皇帝を称したが、翌々年に子に殺された。",
+      "en": "A general of Sogdian and Turkic descent who held three military governorships. He rose in revolt in 755, took Luoyang and Chang'an and proclaimed himself emperor of Yan, but was killed by his son in 757."
+    },
     "importance": 2,
-    "wiki": {"ja": "安禄山", "en": "An Lushan"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "安禄山",
+      "en": "An Lushan"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "zhao-kuangyin",
-    "name": {"ja": "趙匡胤", "en": "Zhao Kuangyin (Emperor Taizu of Song)"},
+    "name": {
+      "ja": "趙匡胤",
+      "en": "Zhao Kuangyin (Emperor Taizu of Song)"
+    },
     "born": 927,
     "died": 976,
-    "active": [960, 976],
-    "role": {"ja": "宋の初代皇帝(太祖)", "en": "Founding emperor of the Song"},
-    "lat": 34.80,
+    "active": [
+      960,
+      976
+    ],
+    "role": {
+      "ja": "宋の初代皇帝(太祖)",
+      "en": "Founding emperor of the Song"
+    },
+    "lat": 34.8,
     "lon": 114.31,
-    "desc": {"ja": "後周の武将から部下に推されて即位し、宋を建てた。節度使の兵権を奪って文治主義をとり、科挙の最終試験に殿試を設けて皇帝独裁の基礎を築いた。", "en": "A general of the Later Zhou raised to the throne by his troops, he founded the Song. He stripped the military governors of power, favored civil officials and added the palace examination, laying the basis of imperial autocracy."},
+    "desc": {
+      "ja": "後周の武将から部下に推されて即位し、宋を建てた。節度使の兵権を奪って文治主義をとり、科挙の最終試験に殿試を設けて皇帝独裁の基礎を築いた。",
+      "en": "A general of the Later Zhou raised to the throne by his troops, he founded the Song. He stripped the military governors of power, favored civil officials and added the palace examination, laying the basis of imperial autocracy."
+    },
     "importance": 3,
-    "wiki": {"ja": "趙匡胤", "en": "Emperor Taizu of Song"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "趙匡胤",
+      "en": "Emperor Taizu of Song"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "wang-anshi",
-    "name": {"ja": "王安石", "en": "Wang Anshi"},
+    "name": {
+      "ja": "王安石",
+      "en": "Wang Anshi"
+    },
     "born": 1021,
     "died": 1086,
-    "active": [1069, 1086],
-    "role": {"ja": "北宋の宰相・改革者", "en": "Northern Song chancellor and reformer"},
-    "lat": 34.80,
+    "active": [
+      1069,
+      1086
+    ],
+    "role": {
+      "ja": "北宋の宰相・改革者",
+      "en": "Northern Song chancellor and reformer"
+    },
+    "lat": 34.8,
     "lon": 114.31,
-    "desc": {"ja": "神宗のもとで宰相となり、青苗法・募役法・市易法・保甲法などの新法を実施して財政再建と富国強兵をめざした。司馬光ら旧法党の反対を受けた。唐宋八大家の一人。", "en": "Chancellor under Emperor Shenzong who enacted the New Policies to restore finances and strengthen the state, opposed by Sima Guang's conservatives. Also one of the Eight Great Prose Masters of Tang and Song."},
+    "desc": {
+      "ja": "神宗のもとで宰相となり、青苗法・募役法・市易法・保甲法などの新法を実施して財政再建と富国強兵をめざした。司馬光ら旧法党の反対を受けた。唐宋八大家の一人。",
+      "en": "Chancellor under Emperor Shenzong who enacted the New Policies to restore finances and strengthen the state, opposed by Sima Guang's conservatives. Also one of the Eight Great Prose Masters of Tang and Song."
+    },
     "importance": 3,
-    "wiki": {"ja": "王安石", "en": "Wang Anshi"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "王安石",
+      "en": "Wang Anshi"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "zhu-xi",
-    "name": {"ja": "朱熹", "en": "Zhu Xi"},
+    "name": {
+      "ja": "朱熹",
+      "en": "Zhu Xi"
+    },
     "born": 1130,
     "died": 1200,
-    "active": [1160, 1200],
-    "role": {"ja": "南宋の儒学者(朱子学の大成者)", "en": "Southern Song Confucian philosopher"},
+    "active": [
+      1160,
+      1200
+    ],
+    "role": {
+      "ja": "南宋の儒学者(朱子学の大成者)",
+      "en": "Southern Song Confucian philosopher"
+    },
     "lat": 27.33,
     "lon": 118.12,
-    "desc": {"ja": "南宋の儒学者。周敦頤・程頤らの宋学を体系化して朱子学を大成し、『四書集注』を著した。理気二元論と大義名分論は朝鮮・日本にも大きな影響を与えた。", "en": "Southern Song scholar who systematized the Song learning of Zhou Dunyi and Cheng Yi into Neo-Confucianism and wrote commentaries on the Four Books. His philosophy deeply shaped Korea and Japan."},
+    "desc": {
+      "ja": "南宋の儒学者。周敦頤・程頤らの宋学を体系化して朱子学を大成し、『四書集注』を著した。理気二元論と大義名分論は朝鮮・日本にも大きな影響を与えた。",
+      "en": "Southern Song scholar who systematized the Song learning of Zhou Dunyi and Cheng Yi into Neo-Confucianism and wrote commentaries on the Four Books. His philosophy deeply shaped Korea and Japan."
+    },
     "importance": 3,
-    "wiki": {"ja": "朱熹", "en": "Zhu Xi"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "朱熹",
+      "en": "Zhu Xi"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "yelu-abaoji",
-    "name": {"ja": "耶律阿保機", "en": "Yelü Abaoji"},
+    "name": {
+      "ja": "耶律阿保機",
+      "en": "Yelü Abaoji"
+    },
     "born": 872,
     "died": 926,
-    "active": [907, 926],
-    "role": {"ja": "遼(契丹)の建国者", "en": "Founder of the Liao dynasty"},
+    "active": [
+      907,
+      926
+    ],
+    "role": {
+      "ja": "遼(契丹)の建国者",
+      "en": "Founder of the Liao dynasty"
+    },
     "lat": 43.98,
     "lon": 119.38,
-    "desc": {"ja": "契丹の諸部族を統一して916年に皇帝を称し、遼を建てた。渤海を滅ぼし、契丹文字を制定した。", "en": "United the Khitan tribes and proclaimed himself emperor in 916, founding the Liao. He destroyed Balhae and created the Khitan script."},
+    "desc": {
+      "ja": "契丹の諸部族を統一して916年に皇帝を称し、遼を建てた。渤海を滅ぼし、契丹文字を制定した。",
+      "en": "United the Khitan tribes and proclaimed himself emperor in 916, founding the Liao. He destroyed Balhae and created the Khitan script."
+    },
     "importance": 2,
-    "wiki": {"ja": "耶律阿保機", "en": "Emperor Taizu of Liao"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "耶律阿保機",
+      "en": "Emperor Taizu of Liao"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "wanyan-aguda",
-    "name": {"ja": "完顔阿骨打", "en": "Wanyan Aguda"},
+    "name": {
+      "ja": "完顔阿骨打",
+      "en": "Wanyan Aguda"
+    },
     "born": 1068,
     "died": 1123,
-    "active": [1115, 1123],
-    "role": {"ja": "金の建国者", "en": "Founder of the Jin dynasty"},
+    "active": [
+      1115,
+      1123
+    ],
+    "role": {
+      "ja": "金の建国者",
+      "en": "Founder of the Jin dynasty"
+    },
     "lat": 45.54,
     "lon": 126.97,
-    "desc": {"ja": "女真の諸部族を統一し、1115年に遼から自立して金を建てた。猛安・謀克制で軍事組織を整え、女真文字を制定した。", "en": "United the Jurchen tribes and broke from the Liao in 1115 to found the Jin. He organized the army under the meng-an mou-ke system and created the Jurchen script."},
+    "desc": {
+      "ja": "女真の諸部族を統一し、1115年に遼から自立して金を建てた。猛安・謀克制で軍事組織を整え、女真文字を制定した。",
+      "en": "United the Jurchen tribes and broke from the Liao in 1115 to found the Jin. He organized the army under the meng-an mou-ke system and created the Jurchen script."
+    },
     "importance": 2,
-    "wiki": {"ja": "阿骨打", "en": "Emperor Taizu of Jin"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "阿骨打",
+      "en": "Emperor Taizu of Jin"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "songtsen-gampo",
-    "name": {"ja": "ソンツェン＝ガンポ", "en": "Songtsen Gampo"},
+    "name": {
+      "ja": "ソンツェン＝ガンポ",
+      "en": "Songtsen Gampo"
+    },
     "born": 605,
     "died": 649,
-    "active": [629, 649],
-    "role": {"ja": "吐蕃の王", "en": "King of the Tibetan Empire"},
+    "active": [
+      629,
+      649
+    ],
+    "role": {
+      "ja": "吐蕃の王",
+      "en": "King of the Tibetan Empire"
+    },
     "lat": 29.65,
     "lon": 91.13,
-    "desc": {"ja": "チベットを統一して吐蕃を建て、ラサを都とした。唐の文成公主とネパールの王女を妃に迎えて仏教を受容し、チベット文字をつくらせた。", "en": "Unified Tibet and founded the Tibetan Empire with its capital at Lhasa. He married the Tang princess Wencheng and a Nepalese princess, adopted Buddhism and had the Tibetan script created."},
+    "desc": {
+      "ja": "チベットを統一して吐蕃を建て、ラサを都とした。唐の文成公主とネパールの王女を妃に迎えて仏教を受容し、チベット文字をつくらせた。",
+      "en": "Unified Tibet and founded the Tibetan Empire with its capital at Lhasa. He married the Tang princess Wencheng and a Nepalese princess, adopted Buddhism and had the Tibetan script created."
+    },
     "importance": 2,
-    "wiki": {"ja": "ソンツェン・ガンポ", "en": "Songtsen Gampo"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ソンツェン・ガンポ",
+      "en": "Songtsen Gampo"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "minamoto-yoritomo",
-    "name": {"ja": "源頼朝", "en": "Minamoto no Yoritomo"},
+    "name": {
+      "ja": "源頼朝",
+      "en": "Minamoto no Yoritomo"
+    },
     "born": 1147,
     "died": 1199,
-    "active": [1180, 1199],
-    "role": {"ja": "鎌倉幕府初代将軍", "en": "First shogun of the Kamakura shogunate"},
+    "active": [
+      1180,
+      1199
+    ],
+    "role": {
+      "ja": "鎌倉幕府初代将軍",
+      "en": "First shogun of the Kamakura shogunate"
+    },
     "lat": 35.32,
     "lon": 139.55,
-    "desc": {"ja": "1180年に挙兵して平氏を滅ぼし、守護・地頭を設置して全国に支配を広げた。1192年に征夷大将軍となり、鎌倉に武家政権を確立した。", "en": "Rose in arms in 1180, destroyed the Taira and extended his rule through military governors and land stewards. Appointed shogun in 1192, he established warrior government at Kamakura."},
+    "desc": {
+      "ja": "1180年に挙兵して平氏を滅ぼし、守護・地頭を設置して全国に支配を広げた。1192年に征夷大将軍となり、鎌倉に武家政権を確立した。",
+      "en": "Rose in arms in 1180, destroyed the Taira and extended his rule through military governors and land stewards. Appointed shogun in 1192, he established warrior government at Kamakura."
+    },
     "importance": 2,
-    "wiki": {"ja": "源頼朝", "en": "Minamoto no Yoritomo"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "源頼朝",
+      "en": "Minamoto no Yoritomo"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "harsha",
-    "name": {"ja": "ハルシャ＝ヴァルダナ", "en": "Harsha Vardhana"},
+    "name": {
+      "ja": "ハルシャ＝ヴァルダナ",
+      "en": "Harsha Vardhana"
+    },
     "born": 590,
     "died": 647,
-    "active": [606, 647],
-    "role": {"ja": "ヴァルダナ朝の王", "en": "King of the Vardhana dynasty"},
+    "active": [
+      606,
+      647
+    ],
+    "role": {
+      "ja": "ヴァルダナ朝の王",
+      "en": "King of the Vardhana dynasty"
+    },
     "lat": 27.05,
     "lon": 79.92,
-    "desc": {"ja": "カナウジを都に北インドをほぼ統一した。仏教を厚く保護し、玄奘を歓待した。自ら戯曲を著した文人でもあったが、死後に王国は急速に分裂した。", "en": "United most of northern India from Kanauj. A generous patron of Buddhism, he welcomed Xuanzang and himself wrote plays; his kingdom quickly fragmented after his death."},
+    "desc": {
+      "ja": "カナウジを都に北インドをほぼ統一した。仏教を厚く保護し、玄奘を歓待した。自ら戯曲を著した文人でもあったが、死後に王国は急速に分裂した。",
+      "en": "United most of northern India from Kanauj. A generous patron of Buddhism, he welcomed Xuanzang and himself wrote plays; his kingdom quickly fragmented after his death."
+    },
     "importance": 2,
-    "wiki": {"ja": "ハルシャ・ヴァルダナ", "en": "Harsha"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ハルシャ・ヴァルダナ",
+      "en": "Harsha"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "rajendra-i",
-    "name": {"ja": "ラージェンドラ1世", "en": "Rajendra I"},
+    "name": {
+      "ja": "ラージェンドラ1世",
+      "en": "Rajendra I"
+    },
     "died": 1044,
-    "active": [1014, 1044],
-    "role": {"ja": "チョーラ朝の王", "en": "King of the Chola dynasty"},
+    "active": [
+      1014,
+      1044
+    ],
+    "role": {
+      "ja": "チョーラ朝の王",
+      "en": "King of the Chola dynasty"
+    },
     "lat": 10.78,
     "lon": 79.13,
-    "desc": {"ja": "南インドのチョーラ朝最盛期の王。ガンジス川流域まで遠征し、1025年には艦隊を送ってシュリーヴィジャヤを攻撃した。宋にも使節を派遣した。", "en": "King of the Chola dynasty of south India at its height. He campaigned as far as the Ganges and in 1025 sent a fleet against Srivijaya. He also dispatched envoys to Song China."},
+    "desc": {
+      "ja": "南インドのチョーラ朝最盛期の王。ガンジス川流域まで遠征し、1025年には艦隊を送ってシュリーヴィジャヤを攻撃した。宋にも使節を派遣した。",
+      "en": "King of the Chola dynasty of south India at its height. He campaigned as far as the Ganges and in 1025 sent a fleet against Srivijaya. He also dispatched envoys to Song China."
+    },
     "importance": 2,
-    "wiki": {"ja": "ラージェーンドラ1世", "en": "Rajendra I"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ラージェーンドラ1世",
+      "en": "Rajendra I"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "suryavarman-ii",
-    "name": {"ja": "スールヤヴァルマン2世", "en": "Suryavarman II"},
+    "name": {
+      "ja": "スールヤヴァルマン2世",
+      "en": "Suryavarman II"
+    },
     "died": 1150,
-    "active": [1113, 1150],
-    "role": {"ja": "アンコール朝の王", "en": "King of the Khmer Empire"},
+    "active": [
+      1113,
+      1150
+    ],
+    "role": {
+      "ja": "アンコール朝の王",
+      "en": "King of the Khmer Empire"
+    },
     "lat": 13.41,
     "lon": 103.87,
-    "desc": {"ja": "アンコール朝の最盛期の王。ヴィシュヌ神に捧げる巨大寺院アンコール＝ワットを建立し、チャンパーや大越に遠征した。", "en": "King of the Khmer Empire at its height. He built the great temple of Angkor Wat dedicated to Vishnu and campaigned against Champa and Dai Viet."},
+    "desc": {
+      "ja": "アンコール朝の最盛期の王。ヴィシュヌ神に捧げる巨大寺院アンコール＝ワットを建立し、チャンパーや大越に遠征した。",
+      "en": "King of the Khmer Empire at its height. He built the great temple of Angkor Wat dedicated to Vishnu and campaigned against Champa and Dai Viet."
+    },
     "importance": 2,
-    "wiki": {"ja": "スーリヤヴァルマン2世", "en": "Suryavarman II"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "スーリヤヴァルマン2世",
+      "en": "Suryavarman II"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "heraclius",
-    "name": {"ja": "ヘラクレイオス1世", "en": "Heraclius"},
+    "name": {
+      "ja": "ヘラクレイオス1世",
+      "en": "Heraclius"
+    },
     "born": 575,
     "died": 641,
-    "active": [610, 641],
-    "role": {"ja": "ビザンツ皇帝", "en": "Byzantine emperor"},
+    "active": [
+      610,
+      641
+    ],
+    "role": {
+      "ja": "ビザンツ皇帝",
+      "en": "Byzantine emperor"
+    },
     "lat": 41.01,
     "lon": 28.98,
-    "desc": {"ja": "ササン朝の侵攻を撃退して領土を回復したが、直後にイスラーム軍にシリア・エジプトを奪われた。軍管区(テマ)制の整備が始まり、公用語はギリシア語となった。", "en": "Repelled the Sasanian invasion and recovered the empire's territory, only to lose Syria and Egypt to the Arabs soon after. The theme system began under him and Greek became the official language."},
+    "desc": {
+      "ja": "ササン朝の侵攻を撃退して領土を回復したが、直後にイスラーム軍にシリア・エジプトを奪われた。軍管区(テマ)制の整備が始まり、公用語はギリシア語となった。",
+      "en": "Repelled the Sasanian invasion and recovered the empire's territory, only to lose Syria and Egypt to the Arabs soon after. The theme system began under him and Greek became the official language."
+    },
     "importance": 2,
-    "wiki": {"ja": "ヘラクレイオス", "en": "Heraclius"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ヘラクレイオス",
+      "en": "Heraclius"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "leo-iii",
-    "name": {"ja": "レオン3世", "en": "Leo III the Isaurian"},
+    "name": {
+      "ja": "レオン3世",
+      "en": "Leo III the Isaurian"
+    },
     "born": 685,
     "died": 741,
-    "active": [717, 741],
-    "role": {"ja": "ビザンツ皇帝", "en": "Byzantine emperor"},
+    "active": [
+      717,
+      741
+    ],
+    "role": {
+      "ja": "ビザンツ皇帝",
+      "en": "Byzantine emperor"
+    },
     "lat": 41.01,
     "lon": 28.98,
-    "desc": {"ja": "717年にコンスタンティノープルを包囲したウマイヤ朝軍を撃退した。726年に聖像禁止令を出し、ローマ教会との対立を深めた。", "en": "Repelled the Umayyad siege of Constantinople in 717. In 726 he issued the edict against icons, deepening the conflict with the Roman church."},
+    "desc": {
+      "ja": "717年にコンスタンティノープルを包囲したウマイヤ朝軍を撃退した。726年に聖像禁止令を出し、ローマ教会との対立を深めた。",
+      "en": "Repelled the Umayyad siege of Constantinople in 717. In 726 he issued the edict against icons, deepening the conflict with the Roman church."
+    },
     "importance": 2,
-    "wiki": {"ja": "レオーン3世", "en": "Leo III the Isaurian"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "レオーン3世",
+      "en": "Leo III the Isaurian"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "basil-ii",
-    "name": {"ja": "バシレイオス2世", "en": "Basil II"},
+    "name": {
+      "ja": "バシレイオス2世",
+      "en": "Basil II"
+    },
     "born": 958,
     "died": 1025,
-    "active": [976, 1025],
-    "role": {"ja": "ビザンツ皇帝", "en": "Byzantine emperor"},
+    "active": [
+      976,
+      1025
+    ],
+    "role": {
+      "ja": "ビザンツ皇帝",
+      "en": "Byzantine emperor"
+    },
     "lat": 41.01,
     "lon": 28.98,
-    "desc": {"ja": "マケドニア朝最盛期の皇帝。1018年にブルガリアを征服して「ブルガリア人殺し」と呼ばれ、妹をキエフ公ウラディミル1世に嫁がせてルーシの改宗を促した。", "en": "Emperor at the height of the Macedonian dynasty. He conquered Bulgaria in 1018, earning the name 'Bulgar-slayer', and married his sister to Vladimir I of Kiev, prompting the conversion of Rus."},
+    "desc": {
+      "ja": "マケドニア朝最盛期の皇帝。1018年にブルガリアを征服して「ブルガリア人殺し」と呼ばれ、妹をキエフ公ウラディミル1世に嫁がせてルーシの改宗を促した。",
+      "en": "Emperor at the height of the Macedonian dynasty. He conquered Bulgaria in 1018, earning the name 'Bulgar-slayer', and married his sister to Vladimir I of Kiev, prompting the conversion of Rus."
+    },
     "importance": 2,
-    "wiki": {"ja": "バシレイオス2世", "en": "Basil II"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "バシレイオス2世",
+      "en": "Basil II"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "vladimir-i",
-    "name": {"ja": "ウラディミル1世", "en": "Vladimir I"},
+    "name": {
+      "ja": "ウラディミル1世",
+      "en": "Vladimir I"
+    },
     "born": 958,
     "died": 1015,
-    "active": [980, 1015],
-    "role": {"ja": "キエフ大公", "en": "Grand Prince of Kiev"},
+    "active": [
+      980,
+      1015
+    ],
+    "role": {
+      "ja": "キエフ大公",
+      "en": "Grand Prince of Kiev"
+    },
     "lat": 50.45,
     "lon": 30.52,
-    "desc": {"ja": "キエフ公国の最盛期を築いた大公。988年ごろビザンツ皇帝の妹と結婚してギリシア正教に改宗し、国教とした。ロシアのビザンツ文化受容の出発点となった。", "en": "Grand prince who brought Kievan Rus to its height. Around 988 he married the Byzantine emperor's sister and adopted Orthodox Christianity as the state religion, opening Rus to Byzantine culture."},
+    "desc": {
+      "ja": "キエフ公国の最盛期を築いた大公。988年ごろビザンツ皇帝の妹と結婚してギリシア正教に改宗し、国教とした。ロシアのビザンツ文化受容の出発点となった。",
+      "en": "Grand prince who brought Kievan Rus to its height. Around 988 he married the Byzantine emperor's sister and adopted Orthodox Christianity as the state religion, opening Rus to Byzantine culture."
+    },
     "importance": 2,
-    "wiki": {"ja": "ウラジーミル1世", "en": "Vladimir the Great"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ウラジーミル1世",
+      "en": "Vladimir the Great"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "charles-martel",
-    "name": {"ja": "カール＝マルテル", "en": "Charles Martel"},
+    "name": {
+      "ja": "カール＝マルテル",
+      "en": "Charles Martel"
+    },
     "born": 688,
     "died": 741,
-    "active": [714, 741],
-    "role": {"ja": "フランク王国の宮宰", "en": "Mayor of the palace of the Franks"},
+    "active": [
+      714,
+      741
+    ],
+    "role": {
+      "ja": "フランク王国の宮宰",
+      "en": "Mayor of the palace of the Franks"
+    },
     "lat": 48.86,
     "lon": 2.35,
-    "desc": {"ja": "メロヴィング朝の宮宰として実権を握り、732年のトゥール＝ポワティエ間の戦いでイスラーム軍を撃退した。カロリング家の地位を固め、子のピピンが王位についた。", "en": "Mayor of the palace who held real power under the Merovingians and defeated the Muslim army at Tours in 732. He secured the Carolingian house, and his son Pepin became king."},
+    "desc": {
+      "ja": "メロヴィング朝の宮宰として実権を握り、732年のトゥール＝ポワティエ間の戦いでイスラーム軍を撃退した。カロリング家の地位を固め、子のピピンが王位についた。",
+      "en": "Mayor of the palace who held real power under the Merovingians and defeated the Muslim army at Tours in 732. He secured the Carolingian house, and his son Pepin became king."
+    },
     "importance": 2,
-    "wiki": {"ja": "カール・マルテル", "en": "Charles Martel"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "カール・マルテル",
+      "en": "Charles Martel"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "pepin",
-    "name": {"ja": "ピピン3世", "en": "Pepin the Short"},
+    "name": {
+      "ja": "ピピン3世",
+      "en": "Pepin the Short"
+    },
     "born": 714,
     "died": 768,
-    "active": [741, 768],
-    "role": {"ja": "カロリング朝初代フランク王", "en": "First Carolingian king of the Franks"},
+    "active": [
+      741,
+      768
+    ],
+    "role": {
+      "ja": "カロリング朝初代フランク王",
+      "en": "First Carolingian king of the Franks"
+    },
     "lat": 48.86,
     "lon": 2.35,
-    "desc": {"ja": "カール＝マルテルの子。751年に教皇の承認を得てメロヴィング朝を廃し、カロリング朝を開いた。ランゴバルドから奪ったラヴェンナ地方を教皇に寄進し、教皇領の起源となった。", "en": "Son of Charles Martel. With papal approval he deposed the Merovingians in 751 and founded the Carolingian dynasty. His donation of Ravenna, taken from the Lombards, began the Papal States."},
+    "desc": {
+      "ja": "カール＝マルテルの子。751年に教皇の承認を得てメロヴィング朝を廃し、カロリング朝を開いた。ランゴバルドから奪ったラヴェンナ地方を教皇に寄進し、教皇領の起源となった。",
+      "en": "Son of Charles Martel. With papal approval he deposed the Merovingians in 751 and founded the Carolingian dynasty. His donation of Ravenna, taken from the Lombards, began the Papal States."
+    },
     "importance": 2,
-    "wiki": {"ja": "ピピン3世", "en": "Pepin the Short"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ピピン3世",
+      "en": "Pepin the Short"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "charlemagne",
-    "name": {"ja": "カール大帝", "en": "Charlemagne"},
+    "name": {
+      "ja": "カール大帝",
+      "en": "Charlemagne"
+    },
     "born": 742,
     "died": 814,
-    "active": [768, 814],
-    "role": {"ja": "フランク王・西ローマ皇帝", "en": "King of the Franks and emperor"},
+    "active": [
+      768,
+      814
+    ],
+    "role": {
+      "ja": "フランク王・西ローマ皇帝",
+      "en": "King of the Franks and emperor"
+    },
     "lat": 50.78,
     "lon": 6.08,
-    "desc": {"ja": "ランゴバルド王国を征服し、ザクセン人やアヴァール人を討って西欧の大部分を統一した。800年に教皇レオ3世からローマ皇帝の帝冠を受け、アーヘンの宮廷にアルクィンらを招いて学芸を振興した。", "en": "Conquered the Lombards, subdued the Saxons and Avars and united most of western Europe. Crowned emperor by Pope Leo III in 800, he fostered learning at Aachen with scholars such as Alcuin."},
+    "desc": {
+      "ja": "ランゴバルド王国を征服し、ザクセン人やアヴァール人を討って西欧の大部分を統一した。800年に教皇レオ3世からローマ皇帝の帝冠を受け、アーヘンの宮廷にアルクィンらを招いて学芸を振興した。",
+      "en": "Conquered the Lombards, subdued the Saxons and Avars and united most of western Europe. Crowned emperor by Pope Leo III in 800, he fostered learning at Aachen with scholars such as Alcuin."
+    },
     "importance": 3,
-    "wiki": {"ja": "カール大帝", "en": "Charlemagne"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "カール大帝",
+      "en": "Charlemagne"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "otto-i",
-    "name": {"ja": "オットー1世", "en": "Otto I"},
+    "name": {
+      "ja": "オットー1世",
+      "en": "Otto I"
+    },
     "born": 912,
     "died": 973,
-    "active": [936, 973],
-    "role": {"ja": "東フランク王・神聖ローマ皇帝", "en": "King of East Francia and Holy Roman Emperor"},
+    "active": [
+      936,
+      973
+    ],
+    "role": {
+      "ja": "東フランク王・神聖ローマ皇帝",
+      "en": "King of East Francia and Holy Roman Emperor"
+    },
     "lat": 52.13,
     "lon": 11.63,
-    "desc": {"ja": "ザクセン朝の東フランク王。955年にレヒフェルトの戦いでマジャール人を破り、962年に教皇からローマ皇帝の帝冠を受けた。神聖ローマ帝国の始まりとされる。", "en": "Saxon king of East Francia who defeated the Magyars at Lechfeld in 955 and was crowned emperor by the pope in 962, an event regarded as the beginning of the Holy Roman Empire."},
+    "desc": {
+      "ja": "ザクセン朝の東フランク王。955年にレヒフェルトの戦いでマジャール人を破り、962年に教皇からローマ皇帝の帝冠を受けた。神聖ローマ帝国の始まりとされる。",
+      "en": "Saxon king of East Francia who defeated the Magyars at Lechfeld in 955 and was crowned emperor by the pope in 962, an event regarded as the beginning of the Holy Roman Empire."
+    },
     "importance": 3,
-    "wiki": {"ja": "オットー1世 (神聖ローマ皇帝)", "en": "Otto the Great"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "オットー1世 (神聖ローマ皇帝)",
+      "en": "Otto the Great"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "hugh-capet",
-    "name": {"ja": "ユーグ＝カペー", "en": "Hugh Capet"},
+    "name": {
+      "ja": "ユーグ＝カペー",
+      "en": "Hugh Capet"
+    },
     "born": 940,
     "died": 996,
-    "active": [987, 996],
-    "role": {"ja": "カペー朝初代フランス王", "en": "First Capetian king of France"},
+    "active": [
+      987,
+      996
+    ],
+    "role": {
+      "ja": "カペー朝初代フランス王",
+      "en": "First Capetian king of France"
+    },
     "lat": 48.86,
     "lon": 2.35,
-    "desc": {"ja": "パリ伯。西フランクのカロリング家が断絶した987年に諸侯に選ばれて王となり、カペー朝を開いた。王権はパリ周辺にとどまり、当初は有力諸侯の一人にすぎなかった。", "en": "Count of Paris elected king by the nobles in 987 when the West Frankish Carolingians died out, founding the Capetian dynasty. His power was confined to the Paris region and he was at first merely one lord among many."},
+    "desc": {
+      "ja": "パリ伯。西フランクのカロリング家が断絶した987年に諸侯に選ばれて王となり、カペー朝を開いた。王権はパリ周辺にとどまり、当初は有力諸侯の一人にすぎなかった。",
+      "en": "Count of Paris elected king by the nobles in 987 when the West Frankish Carolingians died out, founding the Capetian dynasty. His power was confined to the Paris region and he was at first merely one lord among many."
+    },
     "importance": 2,
-    "wiki": {"ja": "ユーグ・カペー", "en": "Hugh Capet"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ユーグ・カペー",
+      "en": "Hugh Capet"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "william-i",
-    "name": {"ja": "ウィリアム1世", "en": "William I (the Conqueror)"},
+    "name": {
+      "ja": "ウィリアム1世",
+      "en": "William I (the Conqueror)"
+    },
     "born": 1027,
     "died": 1087,
-    "active": [1066, 1087],
-    "role": {"ja": "イングランド王(ノルマン朝)", "en": "King of England, founder of the Norman dynasty"},
+    "active": [
+      1066,
+      1087
+    ],
+    "role": {
+      "ja": "イングランド王(ノルマン朝)",
+      "en": "King of England, founder of the Norman dynasty"
+    },
     "lat": 51.51,
     "lon": -0.13,
-    "desc": {"ja": "ノルマンディー公。1066年にヘースティングズの戦いでハロルドを破りイングランド王となった。土地台帳ドゥームズデイ＝ブックを作成し、強力な封建王政を築いた。", "en": "Duke of Normandy who defeated Harold at Hastings in 1066 and became king of England. He compiled the Domesday Book and built a strong feudal monarchy."},
+    "desc": {
+      "ja": "ノルマンディー公。1066年にヘースティングズの戦いでハロルドを破りイングランド王となった。土地台帳ドゥームズデイ＝ブックを作成し、強力な封建王政を築いた。",
+      "en": "Duke of Normandy who defeated Harold at Hastings in 1066 and became king of England. He compiled the Domesday Book and built a strong feudal monarchy."
+    },
     "importance": 3,
-    "wiki": {"ja": "ウィリアム1世 (イングランド王)", "en": "William the Conqueror"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ウィリアム1世 (イングランド王)",
+      "en": "William the Conqueror"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "gregory-vii",
-    "name": {"ja": "グレゴリウス7世", "en": "Pope Gregory VII"},
+    "name": {
+      "ja": "グレゴリウス7世",
+      "en": "Pope Gregory VII"
+    },
     "born": 1020,
     "died": 1085,
-    "active": [1073, 1085],
-    "role": {"ja": "ローマ教皇", "en": "Pope"},
-    "lat": 41.90,
+    "active": [
+      1073,
+      1085
+    ],
+    "role": {
+      "ja": "ローマ教皇",
+      "en": "Pope"
+    },
+    "lat": 41.9,
     "lon": 12.45,
-    "desc": {"ja": "クリュニー修道院の改革精神を受け継ぎ、聖職売買と聖職者の妻帯を禁じた。俗人による聖職叙任を禁止して皇帝ハインリヒ4世と争い、1077年にカノッサで屈服させた。", "en": "Heir to the Cluniac reform, he banned simony and clerical marriage. His prohibition of lay investiture brought him into conflict with Emperor Henry IV, whom he humbled at Canossa in 1077."},
+    "desc": {
+      "ja": "クリュニー修道院の改革精神を受け継ぎ、聖職売買と聖職者の妻帯を禁じた。俗人による聖職叙任を禁止して皇帝ハインリヒ4世と争い、1077年にカノッサで屈服させた。",
+      "en": "Heir to the Cluniac reform, he banned simony and clerical marriage. His prohibition of lay investiture brought him into conflict with Emperor Henry IV, whom he humbled at Canossa in 1077."
+    },
     "importance": 3,
-    "wiki": {"ja": "グレゴリウス7世 (ローマ教皇)", "en": "Pope Gregory VII"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "グレゴリウス7世 (ローマ教皇)",
+      "en": "Pope Gregory VII"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "henry-iv",
-    "name": {"ja": "ハインリヒ4世", "en": "Henry IV, Holy Roman Emperor"},
+    "name": {
+      "ja": "ハインリヒ4世",
+      "en": "Henry IV, Holy Roman Emperor"
+    },
     "born": 1050,
     "died": 1106,
-    "active": [1056, 1106],
-    "role": {"ja": "神聖ローマ皇帝", "en": "Holy Roman Emperor"},
+    "active": [
+      1056,
+      1106
+    ],
+    "role": {
+      "ja": "神聖ローマ皇帝",
+      "en": "Holy Roman Emperor"
+    },
     "lat": 49.99,
     "lon": 8.27,
-    "desc": {"ja": "聖職叙任権をめぐり教皇グレゴリウス7世と対立して破門され、1077年にカノッサで謝罪した。のちに反撃してローマを攻め、教皇を追放したが、晩年は子の反乱に苦しんだ。", "en": "Excommunicated by Gregory VII in the Investiture Controversy, he submitted at Canossa in 1077. He later struck back, took Rome and drove out the pope, but his last years were troubled by his sons' revolts."},
+    "desc": {
+      "ja": "聖職叙任権をめぐり教皇グレゴリウス7世と対立して破門され、1077年にカノッサで謝罪した。のちに反撃してローマを攻め、教皇を追放したが、晩年は子の反乱に苦しんだ。",
+      "en": "Excommunicated by Gregory VII in the Investiture Controversy, he submitted at Canossa in 1077. He later struck back, took Rome and drove out the pope, but his last years were troubled by his sons' revolts."
+    },
     "importance": 3,
-    "wiki": {"ja": "ハインリヒ4世 (神聖ローマ皇帝)", "en": "Henry IV, Holy Roman Emperor"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ハインリヒ4世 (神聖ローマ皇帝)",
+      "en": "Henry IV, Holy Roman Emperor"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "urban-ii",
-    "name": {"ja": "ウルバヌス2世", "en": "Pope Urban II"},
+    "name": {
+      "ja": "ウルバヌス2世",
+      "en": "Pope Urban II"
+    },
     "born": 1035,
     "died": 1099,
-    "active": [1088, 1099],
-    "role": {"ja": "ローマ教皇", "en": "Pope"},
-    "lat": 41.90,
+    "active": [
+      1088,
+      1099
+    ],
+    "role": {
+      "ja": "ローマ教皇",
+      "en": "Pope"
+    },
+    "lat": 41.9,
     "lon": 12.45,
-    "desc": {"ja": "クリュニー出身の教皇。ビザンツ皇帝の救援要請を受け、1095年のクレルモン宗教会議で聖地回復を呼びかけて第1回十字軍を発動させた。", "en": "A pope from Cluny. Responding to the Byzantine emperor's appeal, he called at the Council of Clermont in 1095 for the recovery of the Holy Land, launching the First Crusade."},
+    "desc": {
+      "ja": "クリュニー出身の教皇。ビザンツ皇帝の救援要請を受け、1095年のクレルモン宗教会議で聖地回復を呼びかけて第1回十字軍を発動させた。",
+      "en": "A pope from Cluny. Responding to the Byzantine emperor's appeal, he called at the Council of Clermont in 1095 for the recovery of the Holy Land, launching the First Crusade."
+    },
     "importance": 3,
-    "wiki": {"ja": "ウルバヌス2世 (ローマ教皇)", "en": "Pope Urban II"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "ウルバヌス2世 (ローマ教皇)",
+      "en": "Pope Urban II"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   },
   {
     "id": "richard-i",
-    "name": {"ja": "リチャード1世", "en": "Richard I (the Lionheart)"},
+    "name": {
+      "ja": "リチャード1世",
+      "en": "Richard I (the Lionheart)"
+    },
     "born": 1157,
     "died": 1199,
-    "active": [1189, 1199],
-    "role": {"ja": "イングランド王", "en": "King of England"},
+    "active": [
+      1189,
+      1199
+    ],
+    "role": {
+      "ja": "イングランド王",
+      "en": "King of England"
+    },
     "lat": 51.51,
     "lon": -0.13,
-    "desc": {"ja": "プランタジネット朝のイングランド王。第3回十字軍に参加してアッコンを奪回し、サラディンと戦って休戦した。「獅子心王」と呼ばれ、在位中ほとんど国外にあった。", "en": "Plantagenet king of England who joined the Third Crusade, retook Acre and fought Saladin before agreeing to a truce. Called the Lionheart, he spent almost all of his reign abroad."},
+    "desc": {
+      "ja": "プランタジネット朝のイングランド王。第3回十字軍に参加してアッコンを奪回し、サラディンと戦って休戦した。「獅子心王」と呼ばれ、在位中ほとんど国外にあった。",
+      "en": "Plantagenet king of England who joined the Third Crusade, retook Acre and fought Saladin before agreeing to a truce. Called the Lionheart, he spent almost all of his reign abroad."
+    },
     "importance": 2,
-    "wiki": {"ja": "リチャード1世 (イングランド王)", "en": "Richard I of England"},
-    "portrait": {"provider": "wikipedia"}
+    "wiki": {
+      "ja": "リチャード1世 (イングランド王)",
+      "en": "Richard I of England"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
   }
 ]
