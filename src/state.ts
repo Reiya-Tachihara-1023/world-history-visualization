@@ -4,7 +4,7 @@ export const YEAR_MIN = -10000;
 export const YEAR_MAX = 2020;
 
 export type Selection =
-  | { kind: 'territory'; name: string | null; subject: string | null; precision: number; partof?: string }
+  | { kind: 'territory'; name: string | null; subject: string | null; precision: number; partof?: string; change?: string }
   | { kind: 'event'; event: HistEvent }
   | { kind: 'person'; person: Person }
   | { kind: 'polity'; polity: Polity }

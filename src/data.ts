@@ -1,4 +1,5 @@
 import type { HistEvent, NameMap, Person, Polity, TerritoryIndex, TerritoryProps, LabelProps } from './types';
+import type { TerritoryChange } from './changes';
 
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/') + 'data/';
 
@@ -14,6 +15,8 @@ export interface Dataset {
   events: HistEvent[];
   persons: Person[];
   polities: Polity[];
+  changes: TerritoryChange[];
+  changeById: Map<string, TerritoryChange>;
   personById: Map<string, Person>;
   eventById: Map<string, HistEvent>;
   polityByBasemapName: Map<string, Polity>;
@@ -21,20 +24,22 @@ export interface Dataset {
 }
 
 export async function loadDataset(): Promise<Dataset> {
-  const [index, names, events, persons, polities] = await Promise.all([
+  const [index, names, events, persons, polities, changes] = await Promise.all([
     getJSON<TerritoryIndex>('territories/index.json'),
     getJSON<NameMap>('names.json').catch(() => ({})),
     getJSON<HistEvent[]>('events.json').catch(() => []),
     getJSON<Person[]>('persons.json').catch(() => []),
     getJSON<Polity[]>('polities.json').catch(() => []),
+    getJSON<TerritoryChange[]>('changes.json').catch(() => []),
   ]);
+  const changeById = new Map(changes.map((c) => [c.id, c]));
   const personById = new Map(persons.map((p) => [p.id, p]));
   const eventById = new Map(events.map((e) => [e.id, e]));
   const polityByBasemapName = new Map<string, Polity>();
   for (const p of polities) for (const n of p.basemap_names) polityByBasemapName.set(n, p);
   const eventsByPerson = new Map<string, HistEvent[]>();
   for (const e of events) for (const pid of e.persons ?? []) (eventsByPerson.get(pid) ?? eventsByPerson.set(pid, []).get(pid)!).push(e);
-  return { index, names, events, persons, polities, personById, eventById, polityByBasemapName, eventsByPerson };
+  return { index, names, events, persons, polities, changes, changeById, personById, eventById, polityByBasemapName, eventsByPerson };
 }
 
 /** The snapshot year to display for a given year: the latest snapshot <= year. */

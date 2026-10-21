@@ -83,6 +83,8 @@ export function initPanel(ds: Dataset, onJump: (lon: number, lat: number) => voi
       if (subj && subj.en !== name?.en) head += ` <span class="tag">${ui('panel.sovereign')}: ${esc(lt(subj))}</span>`;
       if (partof && partof.en !== name?.en) head += ` <span class="tag">${ui('panel.partof')}: ${esc(lt(partof))}</span>`;
       head += '</div>';
+      const ch = s.change ? ds.changeById.get(s.change) : undefined;
+      if (ch) head += `<div class="sub change">${esc(formatYear(ch.year))}: ${esc(lt(ch.note) || ch.id)}</div>`;
       const geoms = geomsFor(s.name, s.subject);
       const span = year < -1000 ? 500 : year < 1000 ? 150 : year < 1800 ? 80 : 40;
       const local = eventList(eventsInside(ds.events, geoms, year, span), ui('panel.localEvents'));

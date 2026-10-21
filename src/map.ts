@@ -8,6 +8,7 @@ import { rgba, EVENT_COLORS } from './palette';
 import { portraitFor } from './portrait';
 import type { HistEvent, Person, TerritoryProps } from './types';
 import type { TerritoryFC } from './data';
+import { applicableChanges, applyChanges, colorSlot } from './changes';
 
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const FONT = ['Noto Sans Regular'];
@@ -114,7 +115,7 @@ function buildStyle(): StyleSpecification {
 export class HistoryMap {
   readonly map: maplibregl.Map;
   private active: Slot = 'a';
-  private shownSnapshot: number | null = null;
+  private shownKey = '';
   private shownFC: TerritoryFC | null = null;
   private loadSeq = 0;
   private markers = new Map<string, maplibregl.Marker>();
@@ -140,21 +141,24 @@ export class HistoryMap {
     if (!this.ready) return;
     const year = state.year;
     const snap = snapshotFor(this.ds.index, year);
-    if (force || snap !== this.shownSnapshot) await this.showSnapshot(snap);
+    const applied = applicableChanges(this.ds.changes, snap, year);
+    const key = `${snap}|${applied.map((c) => c.id).join(',')}`;
+    if (force || key !== this.shownKey) await this.showSnapshot(snap, applied, key);
     this.updateEvents(year);
     this.updatePersons(year);
   }
 
-  private async showSnapshot(snap: number) {
+  private async showSnapshot(snap: number, applied: ReturnType<typeof applicableChanges>, key: string) {
     const seq = ++this.loadSeq;
-    const fc = await loadTerritories(snap, this.ds.names);
+    const base = await loadTerritories(snap, this.ds.names);
     if (seq !== this.loadSeq) return; // superseded
+    const fc = applyChanges(base, applied, this.ds.names, mapSafe, colorSlot);
     const next: Slot = this.active === 'a' ? 'b' : 'a';
     (this.map.getSource(`terr-${next}`) as maplibregl.GeoJSONSource).setData(fc);
     this.setSlotOpacity(next, 1);
     this.setSlotOpacity(this.active, 0);
     this.active = next;
-    this.shownSnapshot = snap;
+    this.shownKey = key;
     this.shownFC = fc;
     prefetchNeighbours(this.ds.index, snap, this.ds.names);
     document.dispatchEvent(new CustomEvent('snapshot', { detail: snap }));
@@ -279,8 +283,8 @@ export class HistoryMap {
       }
       const f = map.queryRenderedFeatures(e.point, { layers: [`terr-fill-${this.active}`] })[0];
       if (f) {
-        const p = f.properties as { n: string | null; s: string | null; p: number; pf?: string };
-        state.select({ kind: 'territory', name: p.n ?? null, subject: p.s ?? null, precision: Number(p.p) || 1, partof: p.pf });
+        const p = f.properties as { n: string | null; s: string | null; p: number; pf?: string; ch?: string };
+        state.select({ kind: 'territory', name: p.n ?? null, subject: p.s ?? null, precision: Number(p.p) || 1, partof: p.pf, change: p.ch });
         return;
       }
       state.select(null);

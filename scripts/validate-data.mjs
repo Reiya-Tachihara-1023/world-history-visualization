@@ -69,6 +69,29 @@ for (const p of polities) {
     }
   }
 }
-console.log(`events ${events.length}, persons ${persons.length}, polities ${polities.length}, names ${Object.keys(names).length}`);
+const changes = load('changes');
+const idx = fs.existsSync(path.join(ROOT, 'public/data/territories/index.json')) ? JSON.parse(fs.readFileSync(path.join(ROOT, 'public/data/territories/index.json'), 'utf8')).years : [];
+for (const c of changes) {
+  checkId(c, 'change');
+  if (!Number.isInteger(c.year)) err(`change ${c.id}: bad year`);
+  const snap = idx.filter((y) => y < c.year).pop();
+  if (snap === undefined) err(`change ${c.id}: year before first snapshot`);
+  if (!c.match || (c.match.n === undefined && c.match.s === undefined)) err(`change ${c.id}: match needs n or s`);
+  for (const k of ['n', 's']) for (const v of [].concat(c.match?.[k] ?? [])) if (!(v in names)) err(`change ${c.id}: unknown match name ${JSON.stringify(v)}`);
+  if (!c.set || (c.set.n === undefined && c.set.s === undefined && c.set.p === undefined)) err(`change ${c.id}: set needs n, s or p`);
+  for (const k of ['n', 's']) if (c.set?.[k] !== undefined && !(c.set[k] in names)) err(`change ${c.id}: set.${k} ${JSON.stringify(c.set[k])} has no Japanese name in data/names`);
+  if (c.set?.p !== undefined && ![1, 2, 3].includes(c.set.p)) err(`change ${c.id}: set.p must be 1..3`);
+  if (!isText(c.note)) warn(`change ${c.id}: no note`);
+  // the matched name must exist in the snapshot the change applies to
+  if (snap !== undefined) {
+    const f = path.join(ROOT, 'public/data/territories', `${snap}.json`);
+    if (fs.existsSync(f)) {
+      const fc = JSON.parse(fs.readFileSync(f, 'utf8'));
+      const hit = fc.features.some((ft) => ft.geometry.type !== 'Point' && (c.match.n === undefined || [].concat(c.match.n).includes(ft.properties.n)) && (c.match.s === undefined || [].concat(c.match.s).includes(ft.properties.s)));
+      if (!hit) err(`change ${c.id}: nothing matches in snapshot ${snap}`);
+    }
+  }
+}
+console.log(`events ${events.length}, persons ${persons.length}, polities ${polities.length}, changes ${changes.length}, names ${Object.keys(names).length}`);
 console.log(`${errors} errors, ${warnings} warnings`);
 if (errors) process.exitCode = 1;

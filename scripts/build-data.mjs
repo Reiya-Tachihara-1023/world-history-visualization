@@ -186,3 +186,4 @@ if (want('names')) buildNames();
 if (want('events')) buildList('events', (e) => e.year);
 if (want('persons')) buildList('persons', (p) => (p.active ? p.active[0] : p.born ?? 0));
 if (want('polities')) buildList('polities', (p) => Math.min(...p.periods.map((q) => q.from)));
+if (want('changes')) buildList('changes', (c) => c.year);

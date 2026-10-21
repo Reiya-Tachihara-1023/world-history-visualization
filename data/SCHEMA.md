@@ -100,3 +100,26 @@ historical-basemaps の `NAME` / `SUBJECTO` の英語名をキーにしたオブ
 
 - `basemap_names`: historical-basemaps 側の `SUBJECTO`/`NAME` 文字列。これでクリックした領域と政体を結びつける。
 - `periods` は時代区分ごとに分ける(例: ローマは王政/共和政/帝政)。
+
+## data/changes/*.json — スナップショット間の領土変化(差分)
+
+国境データは数十年おきのスナップショットしかないため、その間の変化を「既存ポリゴンの属性書き換え」で表現する。
+ポリゴンの形は変えられないが、帰属(色)・名称・境界の確からしさを年単位で変えられる。
+
+```json
+{
+  "id": "mexico-independence-1821",
+  "year": 1821,
+  "match": { "n": "Viceroyalty of New Spain" },
+  "set": { "n": "Mexico", "s": "Mexico", "p": 2 },
+  "note": { "ja": "メキシコ独立", "en": "Mexican independence" }
+}
+```
+
+- `year`: この変化が有効になる年。直前のスナップショット年より後、次のスナップショット年以前であること
+  (スナップショット年は `public/data/territories/index.json` の `years`)。
+- `match`: 書き換え対象。`n`(NAME)または `s`(SUBJECTO)で指定。文字列か文字列の配列。両方指定すれば AND。
+  値は対象スナップショットに実在する英語名であること(`data/names/*.json` のキー)。
+- `set`: 書き換え後の属性。`n` / `s` / `p`(1〜3)のうち必要なものだけ。`s` を変えると色が変わる。
+  `n` や `s` に新しい英語名を使う場合は `data/names/*.json` に日本語名を追加すること。
+- `note`: 変化の説明(短く)。該当領域をクリックしたときに表示される。
