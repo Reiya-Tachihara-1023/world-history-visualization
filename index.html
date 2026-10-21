@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>世界史地球儀</title>
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <div id="app">
+      <div id="map"></div>
+
+      <header id="topbar">
+        <div class="brand">
+          <span class="title" data-i18n="title">世界史地球儀</span>
+          <span class="snapshot" id="snapshot-note"></span>
+        </div>
+        <div class="controls">
+          <div class="seg" id="lang-seg" title="表示言語">
+            <button data-lang="ja">日本語</button>
+            <button data-lang="both">併記</button>
+            <button data-lang="en">EN</button>
+          </div>
+          <div class="seg" id="layer-seg">
+            <button data-layer="territories" class="on" data-i18n="layer.territories">国境</button>
+            <button data-layer="labels" class="on" data-i18n="layer.labels">国名</button>
+            <button data-layer="events" class="on" data-i18n="layer.events">事件</button>
+            <button data-layer="persons" class="on" data-i18n="layer.persons">人物</button>
+            <button data-layer="rivers" class="on" data-i18n="layer.rivers">河川</button>
+          </div>
+          <button id="btn-focus" class="toggle" data-i18n="focus">注目モード</button>
+          <button id="btn-help" class="toggle" title="?">?</button>
+        </div>
+      </header>
+
+      <aside id="panel" class="hidden">
+        <button id="panel-close" aria-label="close">×</button>
+        <div id="panel-body"></div>
+      </aside>
+
+      <section id="ticker" class="hidden">
+        <div class="ticker-head" data-i18n="ticker">この範囲の出来事</div>
+        <ol id="ticker-list"></ol>
+      </section>
+
+      <footer id="timebar">
+        <div class="row">
+          <button id="btn-play" class="icon" title="再生 / 停止">▶</button>
+          <div class="step">
+            <button data-step="-100">−100</button>
+            <button data-step="-10">−10</button>
+            <button data-step="-1">−1</button>
+            <input id="year-input" type="text" inputmode="numeric" />
+            <button data-step="1">+1</button>
+            <button data-step="10">+10</button>
+            <button data-step="100">+100</button>
+          </div>
+          <label class="speed"><span data-i18n="speed">速度</span>
+            <select id="speed">
+              <option value="1">1年/秒</option>
+              <option value="5">5年/秒</option>
+              <option value="20" selected>20年/秒</option>
+              <option value="100">100年/秒</option>
+            </select>
+          </label>
+          <div class="eras" id="eras"></div>
+        </div>
+        <div class="row slider-row">
+          <input id="year-slider" type="range" min="0" max="10000" step="1" />
+          <div id="slider-ticks"></div>
+        </div>
+      </footer>
+
+      <div id="legend">
+        <div><span class="sw solid"></span><span data-i18n="legend.exact">確定した国境</span></div>
+        <div><span class="sw dashed"></span><span data-i18n="legend.approx">おおよその国境</span></div>
+        <div><span class="sw fuzzy"></span><span data-i18n="legend.fuzzy">勢力圏・あいまい</span></div>
+        <div class="ev"><span class="dot battle"></span><span data-i18n="type.battle">戦い</span>
+          <span class="dot politics"></span><span data-i18n="type.politics">政治</span>
+          <span class="dot culture"></span><span data-i18n="type.culture">文化</span></div>
+      </div>
+
+      <div id="attribution">
+        <a href="https://github.com/aourednik/historical-basemaps" target="_blank" rel="noopener">historical-basemaps</a> (GPL-3.0) ·
+        <a href="https://www.naturalearthdata.com/" target="_blank" rel="noopener">Natural Earth</a> ·
+        <a href="https://maplibre.org/" target="_blank" rel="noopener">MapLibre</a> ·
+        <span data-i18n="attrib.portrait">肖像: Wikipedia</span>
+      </div>
+
+      <div id="help" class="hidden">
+        <div class="help-card">
+          <button id="help-close" aria-label="close">×</button>
+          <div id="help-body"></div>
+        </div>
+      </div>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

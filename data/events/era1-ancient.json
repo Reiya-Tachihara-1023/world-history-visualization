@@ -1,0 +1,2061 @@
+[
+  {
+    "id": "lascaux-cave-paintings",
+    "type": "culture",
+    "year": -15000,
+    "year_end": null,
+    "lat": 45.05,
+    "lon": 1.17,
+    "name": {
+      "ja": "ラスコーの洞穴絵画",
+      "en": "Lascaux cave paintings"
+    },
+    "desc": {
+      "ja": "後期旧石器時代のクロマニョン人が、南フランスのラスコー洞穴に牛や馬などの動物を描いた。呪術的意味をもつと考えられている。",
+      "en": "Cro-Magnon people of the Upper Palaeolithic painted bulls, horses and other animals in the Lascaux cave in southern France, probably for magical purposes."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "ラスコー洞窟",
+      "en": "Lascaux"
+    }
+  },
+  {
+    "id": "beginning-of-agriculture",
+    "type": "culture",
+    "year": -9000,
+    "year_end": null,
+    "lat": 31.87,
+    "lon": 35.44,
+    "name": {
+      "ja": "農耕・牧畜の開始",
+      "en": "Beginning of agriculture and herding"
+    },
+    "desc": {
+      "ja": "西アジアの「肥沃な三日月地帯」で麦の栽培と羊・山羊の飼育が始まり、獲得経済から生産経済への転換(食料生産革命)が起こった。",
+      "en": "In the Fertile Crescent of West Asia people began to cultivate wheat and barley and to herd sheep and goats, shifting from food gathering to food production."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "新石器革命",
+      "en": "Neolithic Revolution"
+    }
+  },
+  {
+    "id": "catalhoyuk-settlement",
+    "type": "culture",
+    "year": -7000,
+    "year_end": null,
+    "lat": 37.67,
+    "lon": 32.83,
+    "name": {
+      "ja": "チャタル＝ヒュユクの集落",
+      "en": "Çatalhöyük settlement"
+    },
+    "desc": {
+      "ja": "アナトリア南部に新石器時代最大級の集落が栄えた。泥レンガの家が隙間なく密集し、麦の栽培と牧畜のほか、土器や織物の生産、黒曜石の交易がおこなわれた。",
+      "en": "One of the largest Neolithic settlements flourished in southern Anatolia, with densely packed mud-brick houses, farming, herding, pottery and weaving."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "チャタル・ヒュユク",
+      "en": "Çatalhöyük"
+    }
+  },
+  {
+    "id": "yangshao-culture",
+    "type": "culture",
+    "year": -5000,
+    "year_end": null,
+    "lat": 34.27,
+    "lon": 109,
+    "name": {
+      "ja": "仰韶文化",
+      "en": "Yangshao culture"
+    },
+    "desc": {
+      "ja": "黄河中流域にアワ・キビなどの雑穀を栽培する新石器文化が栄えた。彩文土器(彩陶)を特色とし、西安近郊の半坡遺跡が代表的な集落跡である。",
+      "en": "A Neolithic culture growing millet flourished in the middle Yellow River valley, known for its painted pottery; the Banpo site near Xi'an is representative."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "仰韶文化",
+      "en": "Yangshao culture"
+    }
+  },
+  {
+    "id": "invention-of-cuneiform",
+    "type": "culture",
+    "year": -3200,
+    "year_end": null,
+    "lat": 31.32,
+    "lon": 45.64,
+    "name": {
+      "ja": "楔形文字の発明",
+      "en": "Invention of cuneiform"
+    },
+    "desc": {
+      "ja": "シュメール人がウルクなどの都市で、粘土板に葦の筆を押しつけて記す楔形文字を発明した。のちアッカド人やペルシア人など西アジアの諸民族に広く用いられた。",
+      "en": "The Sumerians of Uruk and other cities invented cuneiform, written on clay tablets with a reed stylus; it was later adopted by many peoples across West Asia."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "楔形文字",
+      "en": "Cuneiform"
+    }
+  },
+  {
+    "id": "sumerian-city-states",
+    "type": "founding",
+    "year": -3000,
+    "year_end": null,
+    "lat": 30.96,
+    "lon": 46.1,
+    "name": {
+      "ja": "シュメール人の都市国家",
+      "en": "Sumerian city-states"
+    },
+    "desc": {
+      "ja": "ティグリス・ユーフラテス川下流域にウル・ウルク・ラガシュなどのシュメール人の都市国家が成立した。神殿を中心に神権政治がおこなわれた。",
+      "en": "Sumerian city-states such as Ur, Uruk and Lagash arose in lower Mesopotamia, governed as theocracies centred on their temples."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "シュメール",
+      "en": "Sumer"
+    }
+  },
+  {
+    "id": "unification-of-egypt",
+    "type": "founding",
+    "year": -3000,
+    "year_end": null,
+    "lat": 29.85,
+    "lon": 31.25,
+    "name": {
+      "ja": "エジプト統一王国の成立",
+      "en": "Unification of Egypt"
+    },
+    "desc": {
+      "ja": "ナイル川流域の上エジプトと下エジプトが統一され、ファラオを神とする統一王国が成立した。メンフィスを都とする古王国がこれに続く。",
+      "en": "Upper and Lower Egypt along the Nile were unified under a pharaoh regarded as a god; the Old Kingdom, with its capital at Memphis, followed."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "エジプト初期王朝",
+      "en": "Early Dynastic Period (Egypt)"
+    }
+  },
+  {
+    "id": "indus-civilization",
+    "type": "founding",
+    "year": -2600,
+    "year_end": null,
+    "lat": 27.33,
+    "lon": 68.14,
+    "name": {
+      "ja": "インダス文明",
+      "en": "Indus Valley civilization"
+    },
+    "desc": {
+      "ja": "インダス川流域にモエンジョ＝ダーロやハラッパーなど、焼レンガの建物と排水施設をもつ計画都市の文明が栄えた。印章に刻まれたインダス文字は未解読である。",
+      "en": "A civilization with planned baked-brick cities such as Mohenjo-daro and Harappa flourished in the Indus valley; its script remains undeciphered."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "インダス文明",
+      "en": "Indus Valley Civilisation"
+    }
+  },
+  {
+    "id": "great-pyramid-of-giza",
+    "type": "culture",
+    "year": -2560,
+    "year_end": null,
+    "lat": 29.98,
+    "lon": 31.13,
+    "name": {
+      "ja": "クフ王のピラミッド",
+      "en": "Great Pyramid of Giza"
+    },
+    "desc": {
+      "ja": "古王国第4王朝のクフ王がナイル川下流のギザに最大のピラミッドを築いた。ピラミッドはファラオの絶大な権力を示す巨大な墓で、太陽神ラーの信仰と結びついていた。",
+      "en": "Khufu of the Fourth Dynasty built the largest pyramid at Giza. The pyramids were colossal royal tombs that displayed the absolute power of the pharaoh."
+    },
+    "importance": 2,
+    "persons": [
+      "khufu"
+    ],
+    "wiki": {
+      "ja": "ギザの大ピラミッド",
+      "en": "Great Pyramid of Giza"
+    }
+  },
+  {
+    "id": "akkadian-empire",
+    "type": "founding",
+    "year": -2334,
+    "year_end": null,
+    "lat": 33.1,
+    "lon": 44.1,
+    "name": {
+      "ja": "アッカド王国の成立",
+      "en": "Rise of the Akkadian Empire"
+    },
+    "desc": {
+      "ja": "セム語系のアッカド人の王サルゴン1世がシュメール人の都市国家を次々と征服し、メソポタミア南部をはじめて統一する領域国家を築いた。",
+      "en": "Sargon of Akkad, king of the Semitic Akkadians, conquered the Sumerian city-states and unified Mesopotamia for the first time."
+    },
+    "importance": 2,
+    "persons": [
+      "sargon-of-akkad"
+    ],
+    "wiki": {
+      "ja": "アッカド",
+      "en": "Akkadian Empire"
+    }
+  },
+  {
+    "id": "ur-third-dynasty",
+    "type": "founding",
+    "year": -2112,
+    "year_end": null,
+    "lat": 30.96,
+    "lon": 46.1,
+    "name": {
+      "ja": "ウル第3王朝",
+      "en": "Third Dynasty of Ur"
+    },
+    "desc": {
+      "ja": "アッカド王国の衰退後、シュメール人がウルを都に再びメソポタミアを統一した。巨大なジッグラトが築かれ、最古級の法典も編まれた。",
+      "en": "After Akkad declined, the Sumerians reunified Mesopotamia from Ur, building a great ziggurat and compiling one of the earliest law codes."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "ウル第三王朝",
+      "en": "Third Dynasty of Ur"
+    }
+  },
+  {
+    "id": "middle-kingdom-of-egypt",
+    "type": "founding",
+    "year": -2040,
+    "year_end": null,
+    "lat": 25.72,
+    "lon": 32.61,
+    "name": {
+      "ja": "エジプト中王国の成立",
+      "en": "Egyptian Middle Kingdom"
+    },
+    "desc": {
+      "ja": "古王国の崩壊後の分裂期をへて、上エジプトのテーベを拠点とする第11王朝がエジプトを再統一し、中王国が成立した。末期にはヒクソスの侵入を受けた。",
+      "en": "After the breakdown that followed the Old Kingdom, a dynasty based at Thebes reunified Egypt and established the Middle Kingdom."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "エジプト中王国",
+      "en": "Middle Kingdom of Egypt"
+    }
+  },
+  {
+    "id": "minoan-civilization",
+    "type": "culture",
+    "year": -2000,
+    "year_end": null,
+    "lat": 35.3,
+    "lon": 25.16,
+    "name": {
+      "ja": "クレタ文明",
+      "en": "Minoan civilization"
+    },
+    "desc": {
+      "ja": "クレタ島のクノッソスを中心に、城壁をもたない開放的な宮殿と海洋的で明るい文化をもつ青銅器文明が栄えた。エヴァンズが発掘した。",
+      "en": "A Bronze Age civilization centred on the unfortified palace of Knossos on Crete, with an open maritime culture, flourished; it was excavated by Arthur Evans."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "ミノア文明",
+      "en": "Minoan civilization"
+    }
+  },
+  {
+    "id": "xia-dynasty-erlitou",
+    "type": "founding",
+    "year": -2000,
+    "year_end": null,
+    "lat": 34.69,
+    "lon": 112.69,
+    "name": {
+      "ja": "夏王朝と二里頭文化",
+      "en": "Xia dynasty and Erlitou culture"
+    },
+    "desc": {
+      "ja": "伝説上の最古の王朝である夏の時代にあたるとされる二里頭文化が黄河中流域に栄えた。宮殿跡や青銅器が出土しているが、夏の実在は確証されていない。",
+      "en": "The Erlitou culture, often linked to the legendary Xia dynasty, flourished in the middle Yellow River valley, leaving palace remains and bronze vessels."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "夏 (三代)",
+      "en": "Xia dynasty"
+    }
+  },
+  {
+    "id": "code-of-hammurabi",
+    "type": "politics",
+    "year": -1750,
+    "year_end": null,
+    "lat": 32.54,
+    "lon": 44.42,
+    "name": {
+      "ja": "ハンムラビ法典",
+      "en": "Code of Hammurabi"
+    },
+    "desc": {
+      "ja": "バビロン第1王朝のハンムラビ王が全メソポタミアを統一し、「目には目を、歯には歯を」の復讐法と身分による刑罰の差を特色とする法典を定めた。",
+      "en": "Hammurabi of the First Dynasty of Babylon unified Mesopotamia and issued a law code noted for the principle of 'an eye for an eye' and penalties graded by social status."
+    },
+    "importance": 3,
+    "persons": [
+      "hammurabi"
+    ],
+    "wiki": {
+      "ja": "ハンムラビ法典",
+      "en": "Code of Hammurabi"
+    }
+  },
+  {
+    "id": "hittite-kingdom",
+    "type": "founding",
+    "year": -1650,
+    "year_end": null,
+    "lat": 40.02,
+    "lon": 34.62,
+    "name": {
+      "ja": "ヒッタイト王国の成立",
+      "en": "Rise of the Hittite kingdom"
+    },
+    "desc": {
+      "ja": "インド＝ヨーロッパ語系のヒッタイト人がアナトリアにハットゥシャを都とする王国を建てた。鉄製武器と戦車を用いて強大化した。",
+      "en": "The Indo-European Hittites founded a kingdom in Anatolia with its capital at Hattusa, growing powerful through their use of iron weapons and chariots."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "ヒッタイト",
+      "en": "Hittites"
+    }
+  },
+  {
+    "id": "hyksos-invasion",
+    "type": "politics",
+    "year": -1650,
+    "year_end": null,
+    "lat": 30.79,
+    "lon": 31.82,
+    "name": {
+      "ja": "ヒクソスの侵入",
+      "en": "Hyksos invasion of Egypt"
+    },
+    "desc": {
+      "ja": "シリア方面から馬と戦車をもつ遊牧民ヒクソスがエジプトに侵入し、ナイル＝デルタを支配した。中王国は衰え、エジプトは一時異民族の支配を受けた。",
+      "en": "The Hyksos, a people from Syria with horses and chariots, invaded Egypt and ruled the Nile delta, ending the Middle Kingdom and bringing foreign rule for a time."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "ヒクソス",
+      "en": "Hyksos"
+    }
+  },
+  {
+    "id": "mycenaean-civilization",
+    "type": "founding",
+    "year": -1600,
+    "year_end": null,
+    "lat": 37.73,
+    "lon": 22.76,
+    "name": {
+      "ja": "ミケーネ文明",
+      "en": "Mycenaean civilization"
+    },
+    "desc": {
+      "ja": "ギリシア本土にミケーネやティリンスなどの巨石の城塞王宮を中心とする文明が栄えた。線文字Bで貢納物を記録する専制的な王国であった。",
+      "en": "A civilization of fortified palace-citadels such as Mycenae and Tiryns arose on the Greek mainland, with despotic kings recording tribute in Linear B."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "ミケーネ文明",
+      "en": "Mycenaean Greece"
+    }
+  },
+  {
+    "id": "shang-dynasty",
+    "type": "founding",
+    "year": -1600,
+    "year_end": null,
+    "lat": 36.13,
+    "lon": 114.32,
+    "name": {
+      "ja": "殷の成立",
+      "en": "Rise of the Shang dynasty"
+    },
+    "desc": {
+      "ja": "黄河中流域に、確認できる中国最古の王朝である殷(商)が成立した。王は神意を占って政治をおこない、多くの邑を従えた。後期の都が殷墟である。",
+      "en": "The Shang, the earliest Chinese dynasty confirmed by archaeology, arose in the Yellow River valley; its kings ruled by divination over many walled towns. Yinxu was its late capital."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "殷",
+      "en": "Shang dynasty"
+    }
+  },
+  {
+    "id": "new-kingdom-of-egypt",
+    "type": "founding",
+    "year": -1550,
+    "year_end": null,
+    "lat": 25.72,
+    "lon": 32.61,
+    "name": {
+      "ja": "エジプト新王国の成立",
+      "en": "Egyptian New Kingdom"
+    },
+    "desc": {
+      "ja": "テーベの第18王朝がヒクソスを追放してエジプトを再統一し、新王国が成立した。シリアやヌビアに遠征して領土を最大に広げ、都テーベのアモン神が国家神となった。",
+      "en": "A Theban dynasty expelled the Hyksos and reunified Egypt, founding the New Kingdom, which expanded into Syria and Nubia to its greatest extent."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "エジプト新王国",
+      "en": "New Kingdom of Egypt"
+    }
+  },
+  {
+    "id": "aryan-migration",
+    "type": "other",
+    "year": -1500,
+    "year_end": null,
+    "lat": 31.5,
+    "lon": 74.3,
+    "name": {
+      "ja": "アーリヤ人のインド進入",
+      "en": "Aryan migration into India"
+    },
+    "desc": {
+      "ja": "インド＝ヨーロッパ語系のアーリヤ人が中央アジアからカイバル峠を越えてパンジャーブ地方に進入し、牧畜と農耕の生活を営んだ。",
+      "en": "The Indo-European Aryans entered the Punjab from Central Asia through the Khyber Pass, living by herding and farming."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "アーリア人",
+      "en": "Indo-Aryan migrations"
+    }
+  },
+  {
+    "id": "amarna-reform",
+    "type": "religion",
+    "year": -1350,
+    "year_end": null,
+    "lat": 27.65,
+    "lon": 30.9,
+    "name": {
+      "ja": "アメンホテプ4世の宗教改革",
+      "en": "Amarna religious reform"
+    },
+    "desc": {
+      "ja": "新王国のアメンホテプ4世(イクナートン)がアモン神官団を抑えるため唯一神アトンの信仰を強制し、都をテル＝エル＝アマルナに移した。写実的なアマルナ美術が生まれた。",
+      "en": "Amenhotep IV (Akhenaten) imposed worship of the sole god Aten to curb the Amun priesthood and moved the capital to Tell el-Amarna, giving rise to naturalistic Amarna art."
+    },
+    "importance": 2,
+    "persons": [
+      "akhenaten"
+    ],
+    "wiki": {
+      "ja": "アクエンアテン",
+      "en": "Akhenaten"
+    }
+  },
+  {
+    "id": "oracle-bone-script",
+    "type": "culture",
+    "year": -1300,
+    "year_end": null,
+    "lat": 36.13,
+    "lon": 114.32,
+    "name": {
+      "ja": "甲骨文字",
+      "en": "Oracle bone script"
+    },
+    "desc": {
+      "ja": "殷では王が亀甲や獣骨を焼いて神意を占い、その結果を甲骨文字で刻んだ。漢字の原型にあたる最古の漢字で、殷墟から大量に出土して殷の実在を証明した。",
+      "en": "The Shang divined with turtle shells and animal bones and recorded the results in oracle bone script, the ancestor of Chinese characters, found in great numbers at Yinxu."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "甲骨文字",
+      "en": "Oracle bone script"
+    }
+  },
+  {
+    "id": "battle-of-kadesh",
+    "type": "battle",
+    "year": -1274,
+    "year_end": null,
+    "lat": 34.57,
+    "lon": 36.52,
+    "name": {
+      "ja": "カデシュの戦い",
+      "en": "Battle of Kadesh"
+    },
+    "desc": {
+      "ja": "エジプト新王国のラメス2世とヒッタイトがシリアの覇権を争ってカデシュで戦った。のち両国は世界最古級の国際平和条約を結んだ。",
+      "en": "Ramesses II of Egypt and the Hittites fought at Kadesh for control of Syria; the two powers later concluded one of the earliest known international peace treaties."
+    },
+    "importance": 2,
+    "persons": [
+      "ramesses-ii"
+    ],
+    "wiki": {
+      "ja": "カデシュの戦い",
+      "en": "Battle of Kadesh"
+    }
+  },
+  {
+    "id": "exodus",
+    "type": "religion",
+    "year": -1250,
+    "year_end": null,
+    "lat": 30.6,
+    "lon": 32.3,
+    "name": {
+      "ja": "出エジプト",
+      "en": "The Exodus"
+    },
+    "desc": {
+      "ja": "伝承によれば、エジプトで苦役を強いられていたヘブライ人が指導者モーセに率いられて脱出し、パレスチナへ向かった。ユダヤ教の原点となる出来事である。",
+      "en": "According to tradition, the Hebrews enslaved in Egypt escaped under the leadership of Moses and journeyed towards Palestine, a founding event of Judaism."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "出エジプト記",
+      "en": "The Exodus"
+    }
+  },
+  {
+    "id": "olmec-civilization",
+    "type": "culture",
+    "year": -1200,
+    "year_end": null,
+    "lat": 17.75,
+    "lon": -94.76,
+    "name": {
+      "ja": "オルメカ文明",
+      "en": "Olmec civilization"
+    },
+    "desc": {
+      "ja": "メキシコ湾岸にメソアメリカ最古の文明が栄えた。巨石人頭像やジャガー信仰、独自の暦や文字の萌芽で知られ、のちのマヤ文明などメソアメリカ文明の母体となった。",
+      "en": "The earliest Mesoamerican civilization flourished on the Gulf coast of Mexico, known for colossal stone heads and jaguar worship, and influenced later cultures such as the Maya."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "オルメカ",
+      "en": "Olmecs"
+    }
+  },
+  {
+    "id": "sea-peoples-and-fall-of-hittites",
+    "type": "fall",
+    "year": -1200,
+    "year_end": null,
+    "lat": 40.02,
+    "lon": 34.62,
+    "name": {
+      "ja": "「海の民」の活動とヒッタイトの滅亡",
+      "en": "Sea Peoples and the fall of the Hittites"
+    },
+    "desc": {
+      "ja": "東地中海で「海の民」と呼ばれる諸民族が活動し、ヒッタイトが滅亡、エジプト新王国も衰えた。この混乱のなかで製鉄技術が各地に広まった。",
+      "en": "Groups known as the Sea Peoples ravaged the eastern Mediterranean; the Hittite kingdom collapsed and New Kingdom Egypt declined, while iron technology spread widely."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "海の民",
+      "en": "Sea Peoples"
+    }
+  },
+  {
+    "id": "rigveda",
+    "type": "culture",
+    "year": -1200,
+    "year_end": null,
+    "lat": 31.5,
+    "lon": 74.3,
+    "name": {
+      "ja": "『リグ＝ヴェーダ』の成立",
+      "en": "Composition of the Rigveda"
+    },
+    "desc": {
+      "ja": "パンジャーブ地方のアーリヤ人が自然神への賛歌を集めた最古のヴェーダ『リグ＝ヴェーダ』をつくった。バラモン教の根本聖典である。",
+      "en": "The Aryans of the Punjab composed the Rigveda, the oldest Veda, a collection of hymns to nature gods and the fundamental scripture of Brahmanism."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "リグ・ヴェーダ",
+      "en": "Rigveda"
+    }
+  },
+  {
+    "id": "phoenician-alphabet",
+    "type": "culture",
+    "year": -1100,
+    "year_end": null,
+    "lat": 34.12,
+    "lon": 35.65,
+    "name": {
+      "ja": "フェニキア文字",
+      "en": "Phoenician alphabet"
+    },
+    "desc": {
+      "ja": "シドンやティルスなどを拠点に地中海貿易で栄えたフェニキア人が、表音文字のフェニキア文字をつくった。ギリシア文字を経てアルファベットの起源となった。",
+      "en": "The Phoenicians, Mediterranean traders based at Sidon and Tyre, created a phonetic script that, through the Greek alphabet, became the ancestor of the modern alphabet."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "フェニキア文字",
+      "en": "Phoenician alphabet"
+    }
+  },
+  {
+    "id": "zhou-conquest-of-shang",
+    "type": "founding",
+    "year": -1046,
+    "year_end": null,
+    "lat": 34.2,
+    "lon": 108.8,
+    "name": {
+      "ja": "周の成立(殷周革命)",
+      "en": "Zhou conquest of the Shang"
+    },
+    "desc": {
+      "ja": "渭水流域に興った周の武王が殷の紂王を牧野の戦いで破って殷を滅ぼし、鎬京を都とした。周王は一族や功臣に封土を与えて世襲させる封建制で統治した。",
+      "en": "King Wu of Zhou, from the Wei valley, overthrew the last Shang king and made Haojing his capital; Zhou kings ruled through a feudal system of hereditary fiefs."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "周",
+      "en": "Zhou dynasty"
+    }
+  },
+  {
+    "id": "hebrew-kingdom",
+    "type": "founding",
+    "year": -1000,
+    "year_end": null,
+    "lat": 31.78,
+    "lon": 35.23,
+    "name": {
+      "ja": "ヘブライ王国の成立",
+      "en": "Kingdom of Israel under David and Solomon"
+    },
+    "desc": {
+      "ja": "パレスチナに定住したヘブライ人がダヴィデ王のもとでイェルサレムを都とする王国を築き、次のソロモン王の時代に神殿を建てて繁栄の絶頂を迎えた。",
+      "en": "The Hebrews settled in Palestine built a kingdom with Jerusalem as capital under David; under his son Solomon, who built the Temple, it reached its height."
+    },
+    "importance": 2,
+    "persons": [
+      "david"
+    ],
+    "wiki": {
+      "ja": "イスラエル王国",
+      "en": "Kingdom of Israel (united monarchy)"
+    }
+  },
+  {
+    "id": "chavin-culture",
+    "type": "culture",
+    "year": -1000,
+    "year_end": null,
+    "lat": -9.59,
+    "lon": -77.18,
+    "name": {
+      "ja": "チャビン文化",
+      "en": "Chavín culture"
+    },
+    "desc": {
+      "ja": "アンデス地方にチャビン＝デ＝ワンタルの神殿を中心とする文化が栄えた。ジャガーなどの動物をかたどった石彫を特色とし、アンデス文明の母体となった。",
+      "en": "A culture centred on the temple of Chavín de Huántar flourished in the Andes, with stone carvings of jaguars and other animals; it was a formative stage of Andean civilization."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "チャビン文化",
+      "en": "Chavín culture"
+    }
+  },
+  {
+    "id": "division-of-hebrew-kingdom",
+    "type": "politics",
+    "year": -922,
+    "year_end": null,
+    "lat": 32.28,
+    "lon": 35.19,
+    "name": {
+      "ja": "ヘブライ王国の分裂",
+      "en": "Division of the Hebrew kingdom"
+    },
+    "desc": {
+      "ja": "ソロモン王の死後、重税と労役への不満から北部の諸部族が離反し、ヘブライ王国は北のイスラエル王国と南のユダ王国(都イェルサレム)に分裂した。",
+      "en": "After the death of Solomon the Hebrew kingdom split into the northern kingdom of Israel and the southern kingdom of Judah."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "イスラエル王国",
+      "en": "Kingdom of Israel (Samaria)"
+    }
+  },
+  {
+    "id": "founding-of-carthage",
+    "type": "founding",
+    "year": -814,
+    "year_end": null,
+    "lat": 36.85,
+    "lon": 10.32,
+    "name": {
+      "ja": "カルタゴの建設",
+      "en": "Founding of Carthage"
+    },
+    "desc": {
+      "ja": "フェニキア人の都市ティルスが北アフリカのチュニス湾岸に植民市カルタゴを建設した。カルタゴは西地中海の貿易を支配する強国に成長し、のちローマと争った。",
+      "en": "The Phoenician city of Tyre founded the colony of Carthage in North Africa, which grew into a great power dominating trade in the western Mediterranean."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "カルタゴ",
+      "en": "Carthage"
+    }
+  },
+  {
+    "id": "etruscan-civilization",
+    "type": "culture",
+    "year": -800,
+    "year_end": null,
+    "lat": 42.25,
+    "lon": 11.76,
+    "name": {
+      "ja": "エトルリア人の都市国家",
+      "en": "Etruscan city-states"
+    },
+    "desc": {
+      "ja": "イタリア半島中部で系統不明のエトルリア人が都市国家を築いて栄えた。アーチ建築などの技術は、のちのローマに大きな影響を与えた。",
+      "en": "The Etruscans, a people of unknown origin, built flourishing city-states in central Italy; their techniques such as the arch strongly influenced early Rome."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "エトルリア",
+      "en": "Etruscan civilization"
+    }
+  },
+  {
+    "id": "first-olympic-games",
+    "type": "culture",
+    "year": -776,
+    "year_end": null,
+    "lat": 37.64,
+    "lon": 21.63,
+    "name": {
+      "ja": "第1回オリンピアの祭典",
+      "en": "First Olympic Games"
+    },
+    "desc": {
+      "ja": "ゼウスを祀る聖地オリンピアで4年に1度の競技祭が始まった。全ギリシアのポリスから市民が参加し、同じヘレネスとしての一体感を育んだ。ギリシア人は紀年にも用いた。",
+      "en": "A festival of athletic games held every four years began at Olympia in honour of Zeus; Greeks from all cities took part, fostering a shared Hellenic identity."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "古代オリンピック",
+      "en": "Ancient Olympic Games"
+    }
+  },
+  {
+    "id": "zhou-moves-to-luoyi",
+    "type": "politics",
+    "year": -770,
+    "year_end": null,
+    "lat": 34.68,
+    "lon": 112.45,
+    "name": {
+      "ja": "周の東遷(春秋時代の始まり)",
+      "en": "Zhou moves east to Luoyi; start of the Spring and Autumn period"
+    },
+    "desc": {
+      "ja": "西方の遊牧民犬戎の侵入で鎬京を失った周が、東の洛邑へ都を移した(東周)。以後、周王の権威は衰え、諸侯が覇者として実権を争う春秋時代が始まった。",
+      "en": "After losing Haojing to the Quanrong, the Zhou moved their capital to Luoyi; royal authority declined and the Spring and Autumn period of competing lords began."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "春秋時代",
+      "en": "Spring and Autumn period"
+    }
+  },
+  {
+    "id": "founding-of-rome",
+    "type": "founding",
+    "year": -753,
+    "year_end": null,
+    "lat": 41.89,
+    "lon": 12.49,
+    "name": {
+      "ja": "ローマの建国",
+      "en": "Founding of Rome"
+    },
+    "desc": {
+      "ja": "伝説では、ラテン人がティベル川沿いの7つの丘に都市国家ローマを建設した。初期のローマは王政で、前6世紀にはエトルリア人の王の支配を受けたとされる。",
+      "en": "According to legend, Latins founded the city-state of Rome on the hills beside the Tiber; early Rome came under the rule of Etruscan kings."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "ローマ建国神話",
+      "en": "Founding of Rome"
+    }
+  },
+  {
+    "id": "greek-polis-formation",
+    "type": "politics",
+    "year": -750,
+    "year_end": null,
+    "lat": 37.91,
+    "lon": 22.88,
+    "name": {
+      "ja": "ポリスの成立",
+      "en": "Formation of the Greek polis"
+    },
+    "desc": {
+      "ja": "ギリシア各地で暗黒時代をへて、有力者を中心に人々が集住(シノイキスモス)し、守護神を祀るアクロポリスと広場アゴラを中心とする都市国家ポリスが成立した。",
+      "en": "Across Greece leading families gathered into joint settlements (synoecism), creating city-states (poleis) centred on an acropolis and an agora."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "ポリス",
+      "en": "Polis"
+    }
+  },
+  {
+    "id": "kingdom-of-kush",
+    "type": "founding",
+    "year": -750,
+    "year_end": null,
+    "lat": 18.54,
+    "lon": 31.84,
+    "name": {
+      "ja": "クシュ王国の興隆",
+      "en": "Rise of the Kingdom of Kush"
+    },
+    "desc": {
+      "ja": "ナイル川上流のヌビアにナパタを都とする黒人のクシュ王国が興った。前8世紀後半にはエジプトを征服して第25王朝を建てたが、のちアッシリアに追われた。",
+      "en": "The Kingdom of Kush arose in Nubia with its capital at Napata; in the late 8th century BC it conquered Egypt and ruled as the Twenty-fifth Dynasty."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "クシュ",
+      "en": "Kingdom of Kush"
+    }
+  },
+  {
+    "id": "homeric-epics",
+    "type": "culture",
+    "year": -750,
+    "year_end": null,
+    "lat": 38.42,
+    "lon": 27.14,
+    "name": {
+      "ja": "ホメロスの叙事詩",
+      "en": "Homeric epics"
+    },
+    "desc": {
+      "ja": "イオニアの詩人ホメロスがトロイア戦争を題材とする『イリアス』『オデュッセイア』をうたった。ギリシア人の教養の基礎となった。",
+      "en": "The Ionian poet Homer composed the Iliad and the Odyssey, epics on the Trojan War that became the foundation of Greek education."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "ホメーロス",
+      "en": "Homer"
+    }
+  },
+  {
+    "id": "greek-colonization",
+    "type": "exploration",
+    "year": -733,
+    "year_end": null,
+    "lat": 37.07,
+    "lon": 15.29,
+    "name": {
+      "ja": "ギリシア人の植民活動",
+      "en": "Greek colonization"
+    },
+    "desc": {
+      "ja": "人口増加と土地不足から、ギリシア人が地中海・黒海沿岸にシラクサ、ネアポリス、マッサリア、ビザンティオンなどの植民市を建設した。",
+      "en": "Driven by population growth and land shortage, Greeks founded colonies such as Syracuse, Neapolis, Massalia and Byzantion around the Mediterranean and Black Sea."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "植民市",
+      "en": "Greek colonisation"
+    }
+  },
+  {
+    "id": "fall-of-kingdom-of-israel",
+    "type": "fall",
+    "year": -722,
+    "year_end": null,
+    "lat": 32.28,
+    "lon": 35.19,
+    "name": {
+      "ja": "イスラエル王国の滅亡",
+      "en": "Fall of the Kingdom of Israel"
+    },
+    "desc": {
+      "ja": "ヘブライ人の北の国イスラエル王国がアッシリア王サルゴン2世に征服されて滅亡した。多くの住民が他の地域へ強制移住させられ、民族としての歴史を失った。",
+      "en": "The northern kingdom of Israel was conquered and destroyed by Assyria, and many of its inhabitants were deported to other regions."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "イスラエル王国",
+      "en": "Kingdom of Israel (Samaria)"
+    }
+  },
+  {
+    "id": "spartan-constitution",
+    "type": "politics",
+    "year": -700,
+    "year_end": null,
+    "lat": 37.08,
+    "lon": 22.43,
+    "name": {
+      "ja": "スパルタの国制(リュクルゴスの制)",
+      "en": "Spartan constitution of Lycurgus"
+    },
+    "desc": {
+      "ja": "ドーリア人のポリスであるスパルタは、多数の隷属農民ヘイロータイを支配するため、市民の平等と厳しい軍国主義的教育を特色とする国制を整えた。",
+      "en": "Sparta, a Dorian polis, to control its numerous helot serfs, developed a constitution marked by equality among citizens and a rigorous militaristic upbringing."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "リュクルゴス",
+      "en": "Lycurgus of Sparta"
+    }
+  },
+  {
+    "id": "upanishads",
+    "type": "culture",
+    "year": -700,
+    "year_end": null,
+    "lat": 25.32,
+    "lon": 83,
+    "name": {
+      "ja": "ウパニシャッド哲学",
+      "en": "Upanishadic philosophy"
+    },
+    "desc": {
+      "ja": "バラモン教の祭式至上主義への批判から、宇宙の本体(梵)と自我(我)の一致を説く思索的なウパニシャッド哲学が生まれた。輪廻と業の思想もここに現れる。",
+      "en": "In reaction to Brahmanic ritualism, the speculative Upanishads taught the unity of the cosmic principle (Brahman) and the self (Atman), and introduced the ideas of karma and rebirth."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "ウパニシャッド",
+      "en": "Upanishads"
+    }
+  },
+  {
+    "id": "assyrian-unification-of-orient",
+    "type": "founding",
+    "year": -671,
+    "year_end": null,
+    "lat": 36.36,
+    "lon": 43.15,
+    "name": {
+      "ja": "アッシリアのオリエント統一",
+      "en": "Assyrian unification of the Orient"
+    },
+    "desc": {
+      "ja": "鉄製武器と戦車・騎兵を用いて勢力を広げたアッシリアがエジプトを征服し、史上初めてオリエント全域を統一した。都ニネヴェから全国を州に分けて統治した。",
+      "en": "Assyria, expanding with iron weapons, chariots and cavalry, conquered Egypt and unified the ancient Orient for the first time, ruling from Nineveh."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "アッシリア",
+      "en": "Neo-Assyrian Empire"
+    }
+  },
+  {
+    "id": "duke-huan-of-qi-hegemon",
+    "type": "politics",
+    "year": -651,
+    "year_end": null,
+    "lat": 36.83,
+    "lon": 118.3,
+    "name": {
+      "ja": "斉の桓公の覇者就任",
+      "en": "Duke Huan of Qi becomes hegemon"
+    },
+    "desc": {
+      "ja": "斉の桓公が管仲を宰相に用いて国力を高め、葵丘の会盟で諸侯を集めて春秋時代最初の覇者となった。周王を尊び異民族を退ける「尊王攘夷」を唱えた。",
+      "en": "Duke Huan of Qi, strengthened by his minister Guan Zhong, convened the lords at Kuiqiu and became the first hegemon of the Spring and Autumn period under the slogan of honouring the Zhou king."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "桓公 (斉)",
+      "en": "Duke Huan of Qi"
+    }
+  },
+  {
+    "id": "lydian-coinage",
+    "type": "culture",
+    "year": -650,
+    "year_end": null,
+    "lat": 38.49,
+    "lon": 28.04,
+    "name": {
+      "ja": "リディアの金属貨幣",
+      "en": "Lydian coinage"
+    },
+    "desc": {
+      "ja": "アナトリア西部のリディア王国で世界最古の金属貨幣(金と銀の合金エレクトラム貨)が鋳造された。貨幣の使用はギリシアやオリエントの国々に広まった。",
+      "en": "The kingdom of Lydia in western Anatolia struck the world's earliest metal coins, of electrum; coinage spread from there to Greece and the East."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "リュディア",
+      "en": "Lydia"
+    }
+  },
+  {
+    "id": "library-of-ashurbanipal",
+    "type": "culture",
+    "year": -650,
+    "year_end": null,
+    "lat": 36.36,
+    "lon": 43.15,
+    "name": {
+      "ja": "アッシュルバニパルの図書館",
+      "en": "Library of Ashurbanipal"
+    },
+    "desc": {
+      "ja": "アッシリア王アッシュルバニパルが都ニネヴェに粘土板文書を集めた図書館を設けた。『ギルガメシュ叙事詩』などの文献が伝わる。",
+      "en": "The Assyrian king Ashurbanipal assembled a library of clay tablets at Nineveh, preserving texts such as the Epic of Gilgamesh."
+    },
+    "importance": 1,
+    "persons": [
+      "ashurbanipal"
+    ],
+    "wiki": {
+      "ja": "アッシュルバニパルの図書館",
+      "en": "Library of Ashurbanipal"
+    }
+  },
+  {
+    "id": "draconian-law",
+    "type": "politics",
+    "year": -621,
+    "year_end": null,
+    "lat": 37.98,
+    "lon": 23.73,
+    "name": {
+      "ja": "ドラコンの成文法",
+      "en": "Draco's law code"
+    },
+    "desc": {
+      "ja": "アテネでドラコンがそれまで貴族が独占していた慣習法を成文化し、公開した。法による支配への第一歩であったが、軽い罪にも死刑を科すなど刑罰はきわめて厳しかった。",
+      "en": "In Athens Draco codified the customary law in writing, a first step against aristocratic monopoly of justice, though his penalties were notoriously severe."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "ドラコン",
+      "en": "Draco (lawgiver)"
+    }
+  },
+  {
+    "id": "fall-of-nineveh",
+    "type": "fall",
+    "year": -612,
+    "year_end": null,
+    "lat": 36.36,
+    "lon": 43.15,
+    "name": {
+      "ja": "アッシリアの滅亡",
+      "en": "Fall of Assyria"
+    },
+    "desc": {
+      "ja": "重税と強制移住などの圧政に対する反発が強まり、新バビロニアとメディアの連合軍がニネヴェを陥落させてアッシリアを滅ぼした。オリエントは4王国に分立した。",
+      "en": "Resentment of Assyria's harsh rule led the allied forces of Neo-Babylonia and Media to capture Nineveh and destroy the empire; the Orient split into four kingdoms."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "ニネヴェの戦い",
+      "en": "Battle of Nineveh (612 BC)"
+    }
+  },
+  {
+    "id": "iron-tools-and-ox-ploughing",
+    "type": "culture",
+    "year": -600,
+    "year_end": null,
+    "lat": 34.75,
+    "lon": 113.65,
+    "name": {
+      "ja": "鉄製農具と牛耕の普及",
+      "en": "Spread of iron tools and ox-ploughing in China"
+    },
+    "desc": {
+      "ja": "春秋時代後期から戦国時代にかけて、中国で鉄製農具と牛耕が広まり農業生産が増大した。商工業も発達し、刀銭・布銭などの青銅貨幣が各国で流通した。",
+      "en": "From the late Spring and Autumn period iron farm tools and ox-drawn ploughs spread in China, raising output; commerce grew and bronze knife and spade coins circulated."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "春秋戦国時代",
+      "en": "Spring and Autumn period"
+    }
+  },
+  {
+    "id": "zoroastrianism",
+    "type": "religion",
+    "year": -600,
+    "year_end": null,
+    "lat": 36.76,
+    "lon": 66.9,
+    "name": {
+      "ja": "ゾロアスター教の成立",
+      "en": "Rise of Zoroastrianism"
+    },
+    "desc": {
+      "ja": "イラン人のあいだに、善の神アフラ＝マズダと悪の神アーリマンの闘争を説き、最後の審判を信じるゾロアスター教が広まった。火を神聖視したため拝火教ともよばれる。",
+      "en": "Among the Iranians spread Zoroastrianism, which taught the struggle between the good god Ahura Mazda and the evil Ahriman and a final judgement, and revered fire."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "ゾロアスター教",
+      "en": "Zoroastrianism"
+    }
+  },
+  {
+    "id": "solon-reforms",
+    "type": "politics",
+    "year": -594,
+    "year_end": null,
+    "lat": 37.98,
+    "lon": 23.73,
+    "name": {
+      "ja": "ソロンの改革",
+      "en": "Reforms of Solon"
+    },
+    "desc": {
+      "ja": "アテネで調停者に選ばれたソロンが負債の帳消しと債務奴隷の禁止を実施し、市民を財産額で4等級に分けて参政権を定める財産政治をおこなった。",
+      "en": "Chosen as mediator in Athens, Solon cancelled debts, banned debt slavery and divided citizens into four property classes with graded political rights (timocracy)."
+    },
+    "importance": 3,
+    "persons": [
+      "solon"
+    ],
+    "wiki": {
+      "ja": "ソロン",
+      "en": "Solon"
+    }
+  },
+  {
+    "id": "meroe-capital-of-kush",
+    "type": "politics",
+    "year": -590,
+    "year_end": null,
+    "lat": 16.94,
+    "lon": 33.75,
+    "name": {
+      "ja": "クシュ王国のメロエ遷都",
+      "en": "Kush moves its capital to Meroë"
+    },
+    "desc": {
+      "ja": "エジプトから撤退したクシュ王国はナパタからさらに上流のメロエに都を移した。製鉄で栄え、独自のメロエ文字をもつ文化を築いた。",
+      "en": "Driven out of Egypt, the Kingdom of Kush moved its capital upstream from Napata to Meroë, where it prospered on iron production and developed its own Meroitic script."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "メロエ",
+      "en": "Meroë"
+    }
+  },
+  {
+    "id": "babylonian-captivity",
+    "type": "politics",
+    "year": -586,
+    "year_end": null,
+    "lat": 31.78,
+    "lon": 35.23,
+    "name": {
+      "ja": "バビロン捕囚",
+      "en": "Babylonian captivity"
+    },
+    "desc": {
+      "ja": "新バビロニアのネブカドネザル2世がイェルサレムを攻略してユダ王国を滅ぼし、住民をバビロンに連れ去った。この苦難のなかでユダヤ教が形づくられた。",
+      "en": "Nebuchadnezzar II of Neo-Babylonia captured Jerusalem, destroyed the kingdom of Judah and deported its people to Babylon; Judaism took shape in this ordeal."
+    },
+    "importance": 3,
+    "persons": [
+      "nebuchadnezzar-ii"
+    ],
+    "wiki": {
+      "ja": "バビロン捕囚",
+      "en": "Babylonian captivity"
+    }
+  },
+  {
+    "id": "peisistratos-tyranny",
+    "type": "politics",
+    "year": -561,
+    "year_end": null,
+    "lat": 37.98,
+    "lon": 23.73,
+    "name": {
+      "ja": "ペイシストラトスの僭主政治",
+      "en": "Tyranny of Peisistratos"
+    },
+    "desc": {
+      "ja": "アテネでペイシストラトスが平民の支持を背景に非合法に権力を握り、僭主となった。中小農民を保護し商工業を振興したが、その子の代に僭主政は倒された。",
+      "en": "In Athens Peisistratos seized power unconstitutionally with popular support and ruled as tyrant, protecting small farmers and promoting trade and industry."
+    },
+    "importance": 1,
+    "persons": [
+      "peisistratos"
+    ],
+    "wiki": {
+      "ja": "ペイシストラトス",
+      "en": "Peisistratos"
+    }
+  },
+  {
+    "id": "achaemenid-persia-founded",
+    "type": "founding",
+    "year": -550,
+    "year_end": null,
+    "lat": 30.19,
+    "lon": 53.17,
+    "name": {
+      "ja": "アケメネス朝ペルシアの成立",
+      "en": "Founding of the Achaemenid Persian Empire"
+    },
+    "desc": {
+      "ja": "イラン人(ペルシア人)のキュロス2世がメディアを倒して独立し、アケメネス朝を建てた。続いてリディアを征服し、小アジアのギリシア人植民市も支配下に入れた。",
+      "en": "Cyrus II, an Iranian, overthrew Media and founded the Achaemenid dynasty, then went on to conquer Lydia."
+    },
+    "importance": 3,
+    "persons": [
+      "cyrus-ii"
+    ],
+    "wiki": {
+      "ja": "アケメネス朝",
+      "en": "Achaemenid Empire"
+    }
+  },
+  {
+    "id": "fall-of-babylon-to-cyrus",
+    "type": "fall",
+    "year": -539,
+    "year_end": null,
+    "lat": 32.54,
+    "lon": 44.42,
+    "name": {
+      "ja": "新バビロニアの滅亡とユダヤ人の解放",
+      "en": "Fall of Babylon and liberation of the Jews"
+    },
+    "desc": {
+      "ja": "キュロス2世がバビロンを占領して新バビロニアを滅ぼし、捕囚のユダヤ人を解放した。帰還したユダヤ人はイェルサレムに神殿を再建した。",
+      "en": "Cyrus II captured Babylon, ending the Neo-Babylonian kingdom, and freed the exiled Jews, who returned to Jerusalem and rebuilt the Temple."
+    },
+    "importance": 2,
+    "persons": [
+      "cyrus-ii"
+    ],
+    "wiki": {
+      "ja": "新バビロニア",
+      "en": "Fall of Babylon"
+    }
+  },
+  {
+    "id": "darius-i-imperial-reorganization",
+    "type": "politics",
+    "year": -520,
+    "year_end": null,
+    "lat": 32.19,
+    "lon": 48.25,
+    "name": {
+      "ja": "ダレイオス1世の帝国統治",
+      "en": "Darius I reorganizes the empire"
+    },
+    "desc": {
+      "ja": "ダレイオス1世は全国を約20の州に分けてサトラップ(知事)をおき、「王の目」「王の耳」に監察させた。「王の道」を整備し、駅伝制と統一貨幣で広大な帝国を治めた。",
+      "en": "Darius I divided the empire into some twenty satrapies overseen by the 'King's Eyes and Ears', built the Royal Road with relay posts and issued a common coinage."
+    },
+    "importance": 2,
+    "persons": [
+      "darius-i"
+    ],
+    "wiki": {
+      "ja": "ダレイオス1世",
+      "en": "Darius the Great"
+    }
+  },
+  {
+    "id": "roman-republic-established",
+    "type": "politics",
+    "year": -509,
+    "year_end": null,
+    "lat": 41.89,
+    "lon": 12.49,
+    "name": {
+      "ja": "ローマ共和政の成立",
+      "en": "Establishment of the Roman Republic"
+    },
+    "desc": {
+      "ja": "ローマ人がエトルリア人の王を追放して共和政を樹立した。任期1年の2人のコンスル(執政官)と貴族の元老院が政治を指導した。",
+      "en": "The Romans expelled their Etruscan king and established a republic led by two annually elected consuls and the aristocratic Senate."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "共和政ローマ",
+      "en": "Roman Republic"
+    }
+  },
+  {
+    "id": "cleisthenes-reforms",
+    "type": "politics",
+    "year": -508,
+    "year_end": null,
+    "lat": 37.98,
+    "lon": 23.73,
+    "name": {
+      "ja": "クレイステネスの改革",
+      "en": "Reforms of Cleisthenes"
+    },
+    "desc": {
+      "ja": "クレイステネスが血縁による4部族制を地縁的な10部族制に改め、五百人評議会を設け、僭主の出現を防ぐ陶片追放(オストラキスモス)を創始した。民主政の基礎が築かれた。",
+      "en": "Cleisthenes replaced the four kin-based tribes with ten territorial tribes, created the Council of Five Hundred and introduced ostracism to prevent tyranny, laying the basis of democracy."
+    },
+    "importance": 3,
+    "persons": [
+      "cleisthenes"
+    ],
+    "wiki": {
+      "ja": "クレイステネス",
+      "en": "Cleisthenes"
+    }
+  },
+  {
+    "id": "confucius-teaching",
+    "type": "culture",
+    "year": -500,
+    "year_end": null,
+    "lat": 35.6,
+    "lon": 116.99,
+    "name": {
+      "ja": "孔子と儒家の成立",
+      "en": "Confucius and the rise of Confucianism"
+    },
+    "desc": {
+      "ja": "魯の孔子が仁と礼にもとづく道徳政治を説き、周初の秩序を理想とした。弟子たちがその言行を『論語』にまとめ、儒家の祖とされる。",
+      "en": "Confucius of Lu taught moral government based on benevolence (ren) and ritual propriety (li), idealizing early Zhou order; his sayings were compiled by disciples as the Analects."
+    },
+    "importance": 3,
+    "persons": [
+      "confucius"
+    ],
+    "wiki": {
+      "ja": "孔子",
+      "en": "Confucius"
+    }
+  },
+  {
+    "id": "founding-of-buddhism",
+    "type": "religion",
+    "year": -500,
+    "year_end": null,
+    "lat": 25.38,
+    "lon": 83.02,
+    "name": {
+      "ja": "仏教の成立",
+      "en": "Founding of Buddhism"
+    },
+    "desc": {
+      "ja": "シャカ族の王子ガウタマ＝シッダールタがブッダガヤで悟りを開き、サールナートで初めて説法した。ヴァルナ制を否定し、八正道による苦からの解脱を説いた。",
+      "en": "Gautama Siddhartha, a prince of the Shakya clan, attained enlightenment at Bodh Gaya and first preached at Sarnath, rejecting the varna order and teaching release from suffering through the Eightfold Path."
+    },
+    "importance": 3,
+    "persons": [
+      "gautama-buddha"
+    ],
+    "wiki": {
+      "ja": "仏教",
+      "en": "Buddhism"
+    }
+  },
+  {
+    "id": "founding-of-jainism",
+    "type": "religion",
+    "year": -500,
+    "year_end": null,
+    "lat": 25.03,
+    "lon": 85.42,
+    "name": {
+      "ja": "ジャイナ教の成立",
+      "en": "Founding of Jainism"
+    },
+    "desc": {
+      "ja": "ヴァルダマーナ(マハーヴィーラ)が、徹底した不殺生と苦行による解脱を説くジャイナ教を開いた。バラモンの権威を否定し、商人層に広まった。",
+      "en": "Vardhamana (Mahavira) founded Jainism, teaching liberation through strict non-violence and asceticism; it rejected Brahmin authority and spread among merchants."
+    },
+    "importance": 2,
+    "persons": [
+      "mahavira"
+    ],
+    "wiki": {
+      "ja": "ジャイナ教",
+      "en": "Jainism"
+    }
+  },
+  {
+    "id": "secession-of-the-plebs",
+    "type": "politics",
+    "year": -494,
+    "year_end": null,
+    "lat": 41.89,
+    "lon": 12.49,
+    "name": {
+      "ja": "護民官と平民会の設置",
+      "en": "First secession of the plebs; tribunes created"
+    },
+    "desc": {
+      "ja": "重装歩兵として戦うようになった平民が参政権を求め、聖山に立てこもった。これにより平民の権利を守る護民官と平民会が設けられた。",
+      "en": "Plebeians, now serving as heavy infantry, demanded political rights and withdrew to the Sacred Mount, winning the creation of the tribunes and the plebeian assembly."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "護民官",
+      "en": "Secessio plebis"
+    }
+  },
+  {
+    "id": "battle-of-marathon",
+    "type": "battle",
+    "year": -490,
+    "year_end": null,
+    "lat": 38.15,
+    "lon": 23.97,
+    "name": {
+      "ja": "マラトンの戦い",
+      "en": "Battle of Marathon"
+    },
+    "desc": {
+      "ja": "ダレイオス1世が派遣したペルシア軍がアッティカのマラトンに上陸したが、ミルティアデス率いるアテネの重装歩兵軍がこれを撃退した。",
+      "en": "A Persian force sent by Darius I landed at Marathon in Attica but was routed by the Athenian hoplites under Miltiades."
+    },
+    "importance": 3,
+    "persons": [
+      "miltiades",
+      "darius-i"
+    ],
+    "wiki": {
+      "ja": "マラトンの戦い",
+      "en": "Battle of Marathon"
+    }
+  },
+  {
+    "id": "battle-of-thermopylae",
+    "type": "battle",
+    "year": -480,
+    "year_end": null,
+    "lat": 38.8,
+    "lon": 22.56,
+    "name": {
+      "ja": "テルモピレーの戦い",
+      "en": "Battle of Thermopylae"
+    },
+    "desc": {
+      "ja": "クセルクセス1世の率いるペルシア大軍の侵攻に対し、スパルタ王レオニダス率いる少数のギリシア軍がテルモピレーの隘路で防戦し、全滅した。",
+      "en": "Facing the invasion of Xerxes I, a force under the Spartan king Leonidas held the pass of Thermopylae and fought to the last man."
+    },
+    "importance": 2,
+    "persons": [
+      "leonidas-i",
+      "xerxes-i"
+    ],
+    "wiki": {
+      "ja": "テルモピュライの戦い",
+      "en": "Battle of Thermopylae"
+    }
+  },
+  {
+    "id": "battle-of-salamis",
+    "type": "battle",
+    "year": -480,
+    "year_end": null,
+    "lat": 37.95,
+    "lon": 23.5,
+    "name": {
+      "ja": "サラミスの海戦",
+      "en": "Battle of Salamis"
+    },
+    "desc": {
+      "ja": "テミストクレスの指導するアテネ中心のギリシア艦隊がサラミス水道でペルシア艦隊を撃破した。三段櫂船の漕ぎ手となった無産市民の発言力が高まった。",
+      "en": "The Greek fleet led by Athens under Themistocles crushed the Persian navy in the straits of Salamis; the poorer citizens who rowed the triremes gained political weight."
+    },
+    "importance": 3,
+    "persons": [
+      "themistocles",
+      "xerxes-i"
+    ],
+    "wiki": {
+      "ja": "サラミスの海戦",
+      "en": "Battle of Salamis"
+    }
+  },
+  {
+    "id": "battle-of-plataea",
+    "type": "battle",
+    "year": -479,
+    "year_end": null,
+    "lat": 38.22,
+    "lon": 23.27,
+    "name": {
+      "ja": "プラタイアの戦い",
+      "en": "Battle of Plataea"
+    },
+    "desc": {
+      "ja": "スパルタを中心とするギリシア連合軍がプラタイアでペルシア陸軍を破り、ペルシア軍のギリシア本土からの撤退が決定的となった。",
+      "en": "A Greek allied army led by Sparta defeated the Persian land forces at Plataea, decisively ending the Persian invasion of mainland Greece."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "プラタイアの戦い",
+      "en": "Battle of Plataea"
+    }
+  },
+  {
+    "id": "delian-league",
+    "type": "treaty",
+    "year": -478,
+    "year_end": null,
+    "lat": 37.4,
+    "lon": 25.27,
+    "name": {
+      "ja": "デロス同盟の結成",
+      "en": "Formation of the Delian League"
+    },
+    "desc": {
+      "ja": "ペルシアの再侵攻に備え、アテネを盟主とするギリシア諸ポリスの軍事同盟が結成された。アテネはやがて同盟の資金を流用し、帝国化していった。",
+      "en": "To guard against a renewed Persian attack, Greek poleis formed a military alliance under Athenian leadership; Athens later diverted its treasury and turned it into an empire."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "デロス同盟",
+      "en": "Delian League"
+    }
+  },
+  {
+    "id": "twelve-tables",
+    "type": "politics",
+    "year": -450,
+    "year_end": null,
+    "lat": 41.89,
+    "lon": 12.49,
+    "name": {
+      "ja": "十二表法",
+      "en": "Law of the Twelve Tables"
+    },
+    "desc": {
+      "ja": "ローマ最初の成文法である十二表法が制定され、それまで貴族が独占していた慣習法が公開された。平民の身分闘争の成果であり、ローマ法の原点とされる。",
+      "en": "Rome's first written law code, the Twelve Tables, was published, breaking the patricians' monopoly of legal knowledge; it is regarded as the foundation of Roman law."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "十二表法",
+      "en": "Twelve Tables"
+    }
+  },
+  {
+    "id": "periclean-democracy",
+    "type": "politics",
+    "year": -450,
+    "year_end": null,
+    "lat": 37.98,
+    "lon": 23.73,
+    "name": {
+      "ja": "ペリクレス時代のアテネ民主政",
+      "en": "Athenian democracy under Pericles"
+    },
+    "desc": {
+      "ja": "ペリクレスの指導下でアテネ民主政が完成した。成年男性市民全員が参加する民会が最高機関となり、抽選で選ばれた役人や陪審員に手当が支給された。",
+      "en": "Under Pericles Athenian democracy reached its height: the assembly of all adult male citizens was sovereign, and officials and jurors chosen by lot received pay."
+    },
+    "importance": 3,
+    "persons": [
+      "pericles"
+    ],
+    "wiki": {
+      "ja": "アテナイの民主主義",
+      "en": "Athenian democracy"
+    }
+  },
+  {
+    "id": "parthenon",
+    "type": "culture",
+    "year": -447,
+    "year_end": -432,
+    "lat": 37.97,
+    "lon": 23.73,
+    "name": {
+      "ja": "パルテノン神殿の建立",
+      "en": "Construction of the Parthenon"
+    },
+    "desc": {
+      "ja": "ペルシア戦争で破壊されたアクロポリスにアテナ女神を祀るパルテノン神殿が再建された。フェイディアスが彫刻を監督したドーリア式建築の最高傑作である。",
+      "en": "The Parthenon, temple of Athena, was rebuilt on the Acropolis after its destruction in the Persian Wars; a masterpiece of the Doric order, its sculpture was directed by Phidias."
+    },
+    "importance": 1,
+    "persons": [
+      "pericles"
+    ],
+    "wiki": {
+      "ja": "パルテノン神殿",
+      "en": "Parthenon"
+    }
+  },
+  {
+    "id": "herodotus-histories",
+    "type": "culture",
+    "year": -440,
+    "year_end": null,
+    "lat": 37.04,
+    "lon": 27.42,
+    "name": {
+      "ja": "ヘロドトス『歴史』",
+      "en": "Herodotus writes the Histories"
+    },
+    "desc": {
+      "ja": "ハリカルナッソス出身のヘロドトスがペルシア戦争を主題に、各地の見聞を物語風に記した『歴史』を著した。「歴史の父」とよばれる。",
+      "en": "Herodotus of Halicarnassus wrote the Histories, a narrative account of the Persian Wars enriched with his travels, earning him the title 'father of history'."
+    },
+    "importance": 1,
+    "persons": [
+      "herodotus"
+    ],
+    "wiki": {
+      "ja": "歴史 (ヘロドトス)",
+      "en": "Histories (Herodotus)"
+    }
+  },
+  {
+    "id": "peloponnesian-war",
+    "type": "battle",
+    "year": -431,
+    "year_end": -404,
+    "lat": 37.98,
+    "lon": 23.73,
+    "name": {
+      "ja": "ペロポネソス戦争",
+      "en": "Peloponnesian War"
+    },
+    "desc": {
+      "ja": "アテネ中心のデロス同盟とスパルタ中心のペロポネソス同盟がギリシアの覇権を争った。ペリクレスの病死後アテネでは扇動政治家が台頭し、最終的にスパルタが勝利した。",
+      "en": "The Delian League under Athens and the Peloponnesian League under Sparta fought for supremacy in Greece; after Pericles died of plague demagogues rose in Athens, and Sparta finally won."
+    },
+    "importance": 3,
+    "persons": [
+      "pericles",
+      "thucydides"
+    ],
+    "wiki": {
+      "ja": "ペロポネソス戦争",
+      "en": "Peloponnesian War"
+    }
+  },
+  {
+    "id": "partition-of-jin",
+    "type": "politics",
+    "year": -403,
+    "year_end": null,
+    "lat": 37.87,
+    "lon": 112.55,
+    "name": {
+      "ja": "晋の分裂(戦国時代の始まり)",
+      "en": "Partition of Jin; start of the Warring States period"
+    },
+    "desc": {
+      "ja": "晋の有力家臣であった韓・魏・趙が周王から諸侯として公認された。下剋上の風潮が広がり、7つの強国(戦国の七雄)が争う戦国時代が始まった。",
+      "en": "The Zhou king recognized Han, Wei and Zhao, powerful ministerial houses of Jin, as lords; the Warring States period of seven rival powers began."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "戦国時代 (中国)",
+      "en": "Warring States period"
+    }
+  },
+  {
+    "id": "trial-of-socrates",
+    "type": "politics",
+    "year": -399,
+    "year_end": null,
+    "lat": 37.98,
+    "lon": 23.73,
+    "name": {
+      "ja": "ソクラテスの刑死",
+      "en": "Trial and death of Socrates"
+    },
+    "desc": {
+      "ja": "「無知の知」を説き真理の探究を促したソクラテスが、青年を惑わし国家の神を認めないとして告発され、民衆裁判で死刑判決を受けて毒杯を仰いだ。",
+      "en": "Socrates, who urged the pursuit of truth through awareness of one's own ignorance, was accused of corrupting the young and impiety, condemned by a popular court and drank hemlock."
+    },
+    "importance": 2,
+    "persons": [
+      "socrates"
+    ],
+    "wiki": {
+      "ja": "ソクラテス裁判",
+      "en": "Trial of Socrates"
+    }
+  },
+  {
+    "id": "platos-academy",
+    "type": "culture",
+    "year": -387,
+    "year_end": null,
+    "lat": 37.99,
+    "lon": 23.71,
+    "name": {
+      "ja": "プラトンのアカデメイア創設",
+      "en": "Plato founds the Academy"
+    },
+    "desc": {
+      "ja": "ソクラテスの弟子プラトンがアテネ郊外に学園アカデメイアを開いた。永遠不変のイデアこそ真の実在であると説き、『国家』では哲人による政治を理想とした。",
+      "en": "Plato, pupil of Socrates, founded the Academy outside Athens; he taught the theory of Forms and in the Republic envisioned rule by philosopher-kings."
+    },
+    "importance": 1,
+    "persons": [
+      "plato"
+    ],
+    "wiki": {
+      "ja": "アカデメイア",
+      "en": "Platonic Academy"
+    }
+  },
+  {
+    "id": "licinian-sextian-laws",
+    "type": "politics",
+    "year": -367,
+    "year_end": null,
+    "lat": 41.89,
+    "lon": 12.49,
+    "name": {
+      "ja": "リキニウス・セクスティウス法",
+      "en": "Licinian-Sextian laws"
+    },
+    "desc": {
+      "ja": "2人のコンスルのうち1人を平民から選ぶことと、公有地の占有を制限することが定められた。貴族と平民の身分闘争の大きな前進となった。",
+      "en": "The laws required that one of the two consuls be a plebeian and limited the occupation of public land, a major step in the struggle between patricians and plebeians."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "リキニウス・セクスティウス法",
+      "en": "Licinian Rogations"
+    }
+  },
+  {
+    "id": "shang-yang-reforms",
+    "type": "politics",
+    "year": -356,
+    "year_end": null,
+    "lat": 34.33,
+    "lon": 108.7,
+    "name": {
+      "ja": "商鞅の変法",
+      "en": "Reforms of Shang Yang in Qin"
+    },
+    "desc": {
+      "ja": "秦の孝公に仕えた法家の商鞅が、什伍の制による連帯責任や県制、軍功にもとづく爵位の授与など、法にもとづく改革をおこない、秦を強国にした。",
+      "en": "Shang Yang, a Legalist serving Duke Xiao of Qin, enacted reforms based on law, including mutual-responsibility groups, counties and ranks for military merit, making Qin a great power."
+    },
+    "importance": 2,
+    "persons": [
+      "shang-yang"
+    ],
+    "wiki": {
+      "ja": "商鞅",
+      "en": "Shang Yang"
+    }
+  },
+  {
+    "id": "hundred-schools-of-thought",
+    "type": "culture",
+    "year": -350,
+    "year_end": null,
+    "lat": 36.83,
+    "lon": 118.3,
+    "name": {
+      "ja": "諸子百家",
+      "en": "Hundred Schools of Thought"
+    },
+    "desc": {
+      "ja": "戦国時代、富国強兵を求める諸侯のもとに多くの思想家が集まった。儒家の孟子・荀子、道家の老子・荘子、墨家の墨子、法家の韓非など諸子百家が活躍した。",
+      "en": "In the Warring States era thinkers gathered at the courts of lords seeking wealth and power: Confucians Mencius and Xunzi, Daoists Laozi and Zhuangzi, the Mohist Mozi and the Legalist Han Fei."
+    },
+    "importance": 2,
+    "persons": [
+      "mencius",
+      "mozi",
+      "laozi"
+    ],
+    "wiki": {
+      "ja": "諸子百家",
+      "en": "Hundred Schools of Thought"
+    }
+  },
+  {
+    "id": "battle-of-chaeronea",
+    "type": "battle",
+    "year": -338,
+    "year_end": null,
+    "lat": 38.5,
+    "lon": 22.85,
+    "name": {
+      "ja": "カイロネイアの戦い",
+      "en": "Battle of Chaeronea"
+    },
+    "desc": {
+      "ja": "マケドニア王フィリッポス2世がアテネ・テーベの連合軍を破り、ギリシアの支配権を握った。アテネのデモステネスは反マケドニアを唱えたが敗れた。",
+      "en": "Philip II of Macedon defeated the combined forces of Athens and Thebes and gained mastery over Greece, despite the anti-Macedonian campaign of the Athenian orator Demosthenes."
+    },
+    "importance": 3,
+    "persons": [
+      "philip-ii-of-macedon",
+      "demosthenes"
+    ],
+    "wiki": {
+      "ja": "カイロネイアの戦い",
+      "en": "Battle of Chaeronea (338 BC)"
+    }
+  },
+  {
+    "id": "corinthian-league",
+    "type": "treaty",
+    "year": -337,
+    "year_end": null,
+    "lat": 37.91,
+    "lon": 22.88,
+    "name": {
+      "ja": "コリントス同盟の結成",
+      "en": "League of Corinth"
+    },
+    "desc": {
+      "ja": "フィリッポス2世がスパルタを除く全ギリシアのポリスを集めてコリントス同盟(ヘラス同盟)を結成し、その盟主となってペルシア遠征を決定した。",
+      "en": "Philip II united all the Greek poleis except Sparta in the League of Corinth (Hellenic League), became its leader and resolved on a campaign against Persia."
+    },
+    "importance": 1,
+    "persons": [
+      "philip-ii-of-macedon"
+    ],
+    "wiki": {
+      "ja": "コリントス同盟",
+      "en": "League of Corinth"
+    }
+  },
+  {
+    "id": "aristotle-lyceum",
+    "type": "culture",
+    "year": -335,
+    "year_end": null,
+    "lat": 37.97,
+    "lon": 23.74,
+    "name": {
+      "ja": "アリストテレスのリュケイオン創設",
+      "en": "Aristotle founds the Lyceum"
+    },
+    "desc": {
+      "ja": "プラトンの弟子でアレクサンドロスの師でもあったアリストテレスがアテネにリュケイオンを開いた。自然・倫理・政治など諸学を体系化し「万学の祖」とよばれる。",
+      "en": "Aristotle, who had tutored Alexander, opened the Lyceum in Athens; he systematized all branches of knowledge and is called the 'father of all learning'."
+    },
+    "importance": 1,
+    "persons": [
+      "aristotle"
+    ],
+    "wiki": {
+      "ja": "リュケイオン",
+      "en": "Lyceum (classical)"
+    }
+  },
+  {
+    "id": "battle-of-issus",
+    "type": "battle",
+    "year": -333,
+    "year_end": null,
+    "lat": 36.84,
+    "lon": 36.17,
+    "name": {
+      "ja": "イッソスの戦い",
+      "en": "Battle of Issus"
+    },
+    "desc": {
+      "ja": "アレクサンドロス大王がシリア北部のイッソスでダレイオス3世の率いるペルシア軍を破った。ダレイオスは敗走し、その家族は捕虜となった。",
+      "en": "Alexander the Great defeated the Persian army under Darius III at Issus in northern Syria; Darius fled and his family was captured."
+    },
+    "importance": 2,
+    "persons": [
+      "alexander-the-great"
+    ],
+    "wiki": {
+      "ja": "イッソスの戦い",
+      "en": "Battle of Issus"
+    }
+  },
+  {
+    "id": "battle-of-gaugamela",
+    "type": "battle",
+    "year": -331,
+    "year_end": null,
+    "lat": 36.56,
+    "lon": 43.25,
+    "name": {
+      "ja": "ガウガメラの戦い",
+      "en": "Battle of Gaugamela"
+    },
+    "desc": {
+      "ja": "アレクサンドロス大王がティグリス川上流のガウガメラ(アルベラ)でダレイオス3世の大軍を決定的に破り、バビロン・スサ・ペルセポリスを占領した。",
+      "en": "Alexander decisively defeated the great army of Darius III at Gaugamela (Arbela) near the upper Tigris and went on to occupy Babylon, Susa and Persepolis."
+    },
+    "importance": 3,
+    "persons": [
+      "alexander-the-great"
+    ],
+    "wiki": {
+      "ja": "ガウガメラの戦い",
+      "en": "Battle of Gaugamela"
+    }
+  },
+  {
+    "id": "fall-of-achaemenid-empire",
+    "type": "fall",
+    "year": -330,
+    "year_end": null,
+    "lat": 29.93,
+    "lon": 52.89,
+    "name": {
+      "ja": "アケメネス朝の滅亡",
+      "en": "Fall of the Achaemenid Empire"
+    },
+    "desc": {
+      "ja": "ダレイオス3世が逃亡先で部下に殺され、アケメネス朝ペルシアは滅亡した。アレクサンドロスはペルセポリスの王宮を焼き、さらに中央アジアへ進軍した。",
+      "en": "Darius III was murdered by his own officers while in flight, ending the Achaemenid Empire; Alexander burned the palace of Persepolis and marched on into Central Asia."
+    },
+    "importance": 2,
+    "persons": [
+      "alexander-the-great"
+    ],
+    "wiki": {
+      "ja": "ダレイオス3世",
+      "en": "Darius III"
+    }
+  },
+  {
+    "id": "battle-of-the-hydaspes",
+    "type": "battle",
+    "year": -326,
+    "year_end": null,
+    "lat": 32.93,
+    "lon": 73.73,
+    "name": {
+      "ja": "ヒュダスペス河畔の戦い(インド遠征)",
+      "en": "Battle of the Hydaspes"
+    },
+    "desc": {
+      "ja": "アレクサンドロス大王がインダス川流域に侵入し、ヒュダスペス川でポロス王の軍を破った。しかし兵士の疲労と反対により東進を断念し、帰途についた。",
+      "en": "Alexander entered the Indus region and defeated King Porus at the Hydaspes, but his exhausted troops refused to go further east and he turned back."
+    },
+    "importance": 1,
+    "persons": [
+      "alexander-the-great"
+    ],
+    "wiki": {
+      "ja": "ヒュダスペス河畔の戦い",
+      "en": "Battle of the Hydaspes"
+    }
+  },
+  {
+    "id": "death-of-alexander",
+    "type": "other",
+    "year": -323,
+    "year_end": null,
+    "lat": 32.54,
+    "lon": 44.42,
+    "name": {
+      "ja": "アレクサンドロス大王の死",
+      "en": "Death of Alexander the Great"
+    },
+    "desc": {
+      "ja": "アレクサンドロス大王がバビロンで熱病により急死した。後継者を定めなかったため、部将たちのあいだでディアドコイ(後継者)戦争が始まり、大帝国は分裂した。",
+      "en": "Alexander died suddenly of fever at Babylon. Having named no successor, he left his generals to fight the Wars of the Diadochi, and the empire broke apart."
+    },
+    "importance": 3,
+    "persons": [
+      "alexander-the-great"
+    ],
+    "wiki": {
+      "ja": "アレクサンドロス3世",
+      "en": "Death of Alexander the Great"
+    }
+  }
+]
