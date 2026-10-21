@@ -1,0 +1,6519 @@
+[
+  {
+    "id": "xia-dynasty",
+    "name": {
+      "ja": "夏",
+      "en": "Xia dynasty"
+    },
+    "basemap_names": [
+      "Xia"
+    ],
+    "periods": [
+      {
+        "from": -2070,
+        "to": -1600,
+        "government": {
+          "ja": "伝説上の王朝",
+          "en": "Legendary dynasty"
+        },
+        "capital": {
+          "ja": "不明（二里頭遺跡か）",
+          "en": "Unknown (possibly Erlitou)"
+        },
+        "summary": {
+          "ja": "黄河の治水に功のあった禹が建てたと伝えられる中国最古の王朝。文献上の伝説であり実在は確認されていないが、河南省の二里頭遺跡を夏の都とする説もある。暴君の桀王のとき殷の湯王に滅ぼされたとされる。",
+          "en": "Legendary first dynasty of China, said to have been founded by Yu the Great. Known only from later texts, though some identify the Erlitou site in Henan with Xia. Tradition holds it was overthrown by King Tang of Shang."
+        },
+        "rulers": []
+      }
+    ],
+    "wiki": {
+      "ja": "夏 (三代)",
+      "en": "Xia dynasty"
+    }
+  },
+  {
+    "id": "shang-dynasty",
+    "name": {
+      "ja": "殷",
+      "en": "Shang (Yin) dynasty"
+    },
+    "basemap_names": [
+      "Sinic"
+    ],
+    "periods": [
+      {
+        "from": -1600,
+        "to": -1046,
+        "government": {
+          "ja": "神権政治（邑制国家の連合）",
+          "en": "Theocratic kingship over a league of walled towns"
+        },
+        "capital": {
+          "ja": "殷墟（安陽）",
+          "en": "Yinxu (Anyang)"
+        },
+        "religion": {
+          "ja": "祖先崇拝・占卜",
+          "en": "Ancestor worship and divination"
+        },
+        "summary": {
+          "ja": "殷墟の発掘によって実在が確認された中国最古の王朝。王は亀甲や獣骨を用いた占いで神意を問う神権政治を行い、甲骨文字を記し精巧な青銅器を祭祀に用いた。多数の邑を従える都市国家の連合体で、暴政で知られる紂王のとき周の武王に滅ぼされた。",
+          "en": "The earliest Chinese dynasty confirmed by archaeology. Kings ruled theocratically, consulting the ancestors by oracle-bone divination and casting fine bronzes. A league of walled settlements under the Shang king, it fell to King Wu of Zhou under the last king, Zhou (Di Xin)."
+        },
+        "rulers": [
+          {
+            "from": -1600,
+            "to": -1589,
+            "name": {
+              "ja": "湯王",
+              "en": "King Tang"
+            }
+          },
+          {
+            "from": -1250,
+            "to": -1192,
+            "name": {
+              "ja": "武丁",
+              "en": "Wu Ding"
+            }
+          },
+          {
+            "from": -1075,
+            "to": -1046,
+            "name": {
+              "ja": "紂王",
+              "en": "King Zhou (Di Xin)"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "殷",
+      "en": "Shang dynasty"
+    }
+  },
+  {
+    "id": "zhou-dynasty",
+    "name": {
+      "ja": "周",
+      "en": "Zhou dynasty"
+    },
+    "basemap_names": [
+      "Zhoa",
+      "Zhou states",
+      "Wu",
+      "Yue"
+    ],
+    "periods": [
+      {
+        "from": -1046,
+        "to": -771,
+        "government": {
+          "ja": "封建制",
+          "en": "Feudal order (fengjian)"
+        },
+        "capital": {
+          "ja": "鎬京",
+          "en": "Haojing"
+        },
+        "religion": {
+          "ja": "天命思想・祖先祭祀",
+          "en": "Mandate of Heaven and ancestral rites"
+        },
+        "summary": {
+          "ja": "渭水流域に興った武王が牧野の戦いで殷を倒して建てた王朝。王は一族や功臣に封土を与えて世襲の諸侯とし、諸侯はさらに卿・大夫・士を従える血縁的な封建制をしき、宗法で秩序を保った。前771年、犬戎の侵入で幽王が殺され、鎬京を失った。",
+          "en": "Founded when King Wu overthrew the Shang. The king enfeoffed kinsmen and allies as hereditary lords, who in turn supported ministers and knights in a feudal hierarchy. In 771 BC the Quanrong killed King You and the court lost Haojing."
+        },
+        "rulers": [
+          {
+            "from": -1046,
+            "to": -1043,
+            "name": {
+              "ja": "武王",
+              "en": "King Wu"
+            }
+          },
+          {
+            "from": -1042,
+            "to": -1021,
+            "name": {
+              "ja": "成王",
+              "en": "King Cheng"
+            }
+          },
+          {
+            "from": -877,
+            "to": -841,
+            "name": {
+              "ja": "厲王",
+              "en": "King Li"
+            }
+          },
+          {
+            "from": -781,
+            "to": -771,
+            "name": {
+              "ja": "幽王",
+              "en": "King You"
+            }
+          }
+        ]
+      },
+      {
+        "from": -770,
+        "to": -403,
+        "government": {
+          "ja": "封建制の動揺（覇者の時代）",
+          "en": "Weakening feudal order under hegemons"
+        },
+        "capital": {
+          "ja": "洛邑",
+          "en": "Luoyi (Luoyang)"
+        },
+        "summary": {
+          "ja": "平王が洛邑に遷都してから春秋時代が始まる。周王の権威は衰え、斉の桓公や晋の文公などの覇者が尊王攘夷を掲げて会盟を主宰し諸侯を束ねた。鉄製農具と牛耕の普及で生産が高まり、諸侯国の自立が進むとともに、孔子ら諸子百家が現れた。",
+          "en": "The Spring and Autumn period began when King Ping moved the capital east to Luoyi. Royal authority faded and hegemons such as Duke Huan of Qi and Duke Wen of Jin led the lords in the name of the king. Iron tools raised output and the states grew more independent."
+        },
+        "rulers": [
+          {
+            "from": -770,
+            "to": -720,
+            "name": {
+              "ja": "平王",
+              "en": "King Ping"
+            }
+          },
+          {
+            "from": -685,
+            "to": -643,
+            "name": {
+              "ja": "桓公（斉）",
+              "en": "Duke Huan of Qi"
+            }
+          },
+          {
+            "from": -636,
+            "to": -628,
+            "name": {
+              "ja": "文公（晋）",
+              "en": "Duke Wen of Jin"
+            }
+          },
+          {
+            "from": -613,
+            "to": -591,
+            "name": {
+              "ja": "荘王（楚）",
+              "en": "King Zhuang of Chu"
+            }
+          },
+          {
+            "from": -495,
+            "to": -473,
+            "name": {
+              "ja": "夫差（呉）",
+              "en": "Fuchai of Wu"
+            }
+          },
+          {
+            "from": -496,
+            "to": -465,
+            "name": {
+              "ja": "勾践（越）",
+              "en": "Goujian of Yue"
+            }
+          }
+        ]
+      },
+      {
+        "from": -403,
+        "to": -256,
+        "government": {
+          "ja": "戦国七雄の分立（周王は名目化）",
+          "en": "Seven Warring States; Zhou king nominal"
+        },
+        "capital": {
+          "ja": "洛邑",
+          "en": "Luoyi (Luoyang)"
+        },
+        "summary": {
+          "ja": "晋が韓・魏・趙に分裂した前403年から戦国時代とされる。秦・楚・斉・燕・韓・魏・趙の七雄が王を称して争い、富国強兵のため法家などの諸子百家が活躍した。周は前256年に秦に滅ぼされた。",
+          "en": "The Warring States era is dated from 403 BC, when Jin split into Han, Wei and Zhao. The seven powers (Qin, Chu, Qi, Yan, Han, Wei, Zhao) each took the royal title and competed; the Hundred Schools, notably the Legalists, served their drive to enrich the state. Qin extinguished the Zhou house in 256 BC."
+        },
+        "rulers": [
+          {
+            "from": -425,
+            "to": -402,
+            "name": {
+              "ja": "威烈王",
+              "en": "King Weilie"
+            }
+          },
+          {
+            "from": -314,
+            "to": -256,
+            "name": {
+              "ja": "赧王",
+              "en": "King Nan"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "周",
+      "en": "Zhou dynasty"
+    }
+  },
+  {
+    "id": "qin-dynasty",
+    "name": {
+      "ja": "秦",
+      "en": "Qin dynasty"
+    },
+    "basemap_names": [
+      "Qin"
+    ],
+    "periods": [
+      {
+        "from": -770,
+        "to": -221,
+        "government": {
+          "ja": "戦国の一諸侯（商鞅の変法後は県制）",
+          "en": "Warring State; county system after Shang Yang"
+        },
+        "capital": {
+          "ja": "咸陽",
+          "en": "Xianyang"
+        },
+        "summary": {
+          "ja": "渭水流域の西方に位置し、周の東遷を助けて諸侯となった国。孝公のもとで法家の商鞅が変法を行い、県制や什伍の制、軍功爵で富国強兵を実現した。昭襄王以降は長平の戦いなどで東方諸国を圧倒し、秦王政が前221年に中国を統一した。",
+          "en": "A western state on the Wei River. Under Duke Xiao, Shang Yang reformed the state with counties and collective responsibility, making Qin rich and strong. From King Zhaoxiang it overpowered the eastern states, and King Zheng unified China in 221 BC."
+        },
+        "rulers": [
+          {
+            "from": -361,
+            "to": -338,
+            "name": {
+              "ja": "孝公",
+              "en": "Duke Xiao"
+            }
+          },
+          {
+            "from": -306,
+            "to": -251,
+            "name": {
+              "ja": "昭襄王",
+              "en": "King Zhaoxiang"
+            }
+          },
+          {
+            "from": -246,
+            "to": -221,
+            "name": {
+              "ja": "秦王政",
+              "en": "King Zheng"
+            }
+          }
+        ]
+      },
+      {
+        "from": -221,
+        "to": -206,
+        "government": {
+          "ja": "郡県制による中央集権",
+          "en": "Centralized rule through commanderies and counties"
+        },
+        "capital": {
+          "ja": "咸陽",
+          "en": "Xianyang"
+        },
+        "religion": {
+          "ja": "法家思想",
+          "en": "Legalism"
+        },
+        "summary": {
+          "ja": "始皇帝は皇帝号を定め、全国に郡県制をしいて官吏を派遣し、度量衡・貨幣・文字を統一した。焚書・坑儒で思想を統制し、匈奴を討って万里の長城を修築した。始皇帝の死後、陳勝・呉広の乱を機に崩壊した。",
+          "en": "The First Emperor took the title huangdi, imposed commanderies and counties staffed by appointed officials, and standardized weights, coins and script. He suppressed dissent by burning books and burying scholars, drove back the Xiongnu and built the Great Wall. After his death the revolt of Chen Sheng and Wu Guang brought the dynasty down."
+        },
+        "rulers": [
+          {
+            "from": -221,
+            "to": -210,
+            "name": {
+              "ja": "始皇帝",
+              "en": "Qin Shi Huang"
+            }
+          },
+          {
+            "from": -210,
+            "to": -207,
+            "name": {
+              "ja": "二世皇帝（胡亥）",
+              "en": "Qin Er Shi (Huhai)"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "秦",
+      "en": "Qin dynasty"
+    }
+  },
+  {
+    "id": "han-dynasty",
+    "name": {
+      "ja": "漢",
+      "en": "Han dynasty"
+    },
+    "basemap_names": [
+      "Han Empire",
+      "Han"
+    ],
+    "periods": [
+      {
+        "from": -202,
+        "to": 8,
+        "government": {
+          "ja": "郡国制から郡県制へ（皇帝専制）",
+          "en": "Commandery–kingdom system, then full centralization"
+        },
+        "capital": {
+          "ja": "長安",
+          "en": "Chang'an"
+        },
+        "religion": {
+          "ja": "儒教（武帝期に官学化）",
+          "en": "Confucianism (state orthodoxy from Emperor Wu)"
+        },
+        "summary": {
+          "ja": "高祖劉邦が項羽を破って建国。当初は郡県制と封建制を併用する郡国制をとったが、呉楚七国の乱後に中央集権を強めた。武帝は匈奴を討ち、張騫を西域に派遣し、儒学を官学として郷挙里選や塩鉄専売を行った。",
+          "en": "Founded by Gaozu (Liu Bang) after defeating Xiang Yu. It first mixed commanderies with enfeoffed kingdoms, then centralized after crushing the Revolt of the Seven Kingdoms. Emperor Wu attacked the Xiongnu, sent Zhang Qian to the Western Regions, made Confucianism the state learning, and monopolized salt and iron."
+        },
+        "rulers": [
+          {
+            "from": -202,
+            "to": -195,
+            "name": {
+              "ja": "高祖（劉邦）",
+              "en": "Gaozu (Liu Bang)"
+            }
+          },
+          {
+            "from": -180,
+            "to": -157,
+            "name": {
+              "ja": "文帝",
+              "en": "Emperor Wen"
+            }
+          },
+          {
+            "from": -157,
+            "to": -141,
+            "name": {
+              "ja": "景帝",
+              "en": "Emperor Jing"
+            }
+          },
+          {
+            "from": -141,
+            "to": -87,
+            "name": {
+              "ja": "武帝",
+              "en": "Emperor Wu"
+            }
+          },
+          {
+            "from": -74,
+            "to": -49,
+            "name": {
+              "ja": "宣帝",
+              "en": "Emperor Xuan"
+            }
+          },
+          {
+            "from": -49,
+            "to": -33,
+            "name": {
+              "ja": "元帝",
+              "en": "Emperor Yuan"
+            }
+          }
+        ]
+      },
+      {
+        "from": 8,
+        "to": 23,
+        "government": {
+          "ja": "皇帝専制（復古的改革）",
+          "en": "Autocracy with archaizing reforms"
+        },
+        "capital": {
+          "ja": "長安",
+          "en": "Chang'an"
+        },
+        "religion": {
+          "ja": "儒教",
+          "en": "Confucianism"
+        },
+        "summary": {
+          "ja": "外戚の王莽が幼帝を廃して前漢を奪い建てた王朝。『周礼』にもとづく復古政治を掲げ、土地の国有化や奴婢売買の禁止、貨幣改鋳を強行したが社会は混乱し、周辺諸族との関係も悪化した。赤眉の乱などの農民反乱が広がり、わずか15年で滅んだ。",
+          "en": "Established when the imperial in-law Wang Mang usurped the Han throne. His archaizing program modeled on the Rites of Zhou, including land nationalization and repeated coinage changes, caused chaos, and the Red Eyebrows and other rebels destroyed the regime."
+        },
+        "rulers": [
+          {
+            "from": 8,
+            "to": 23,
+            "name": {
+              "ja": "王莽",
+              "en": "Wang Mang"
+            }
+          }
+        ]
+      },
+      {
+        "from": 25,
+        "to": 220,
+        "government": {
+          "ja": "皇帝専制（豪族の台頭）",
+          "en": "Autocracy with rising local magnates"
+        },
+        "capital": {
+          "ja": "洛陽",
+          "en": "Luoyang"
+        },
+        "religion": {
+          "ja": "儒教（仏教伝来）",
+          "en": "Confucianism; arrival of Buddhism"
+        },
+        "summary": {
+          "ja": "劉秀（光武帝）が漢を再興し洛陽に都した。豪族の支持で成り立つ政権で、班超を西域に派遣し倭の奴国王に金印を授けた。後期には外戚と宦官の争い、党錮の禁が続き、黄巾の乱を機に群雄が割拠して滅亡した。",
+          "en": "Liu Xiu (Emperor Guangwu) restored the Han with its capital at Luoyang. Relying on local magnates, the court sent Ban Chao to the Western Regions and granted a gold seal to the king of Na in Wa. Later struggles between consort clans and eunuchs and the Partisan Prohibitions weakened it; the Yellow Turban revolt let warlords carve up the empire."
+        },
+        "rulers": [
+          {
+            "from": 25,
+            "to": 57,
+            "name": {
+              "ja": "光武帝",
+              "en": "Emperor Guangwu"
+            }
+          },
+          {
+            "from": 57,
+            "to": 75,
+            "name": {
+              "ja": "明帝",
+              "en": "Emperor Ming"
+            }
+          },
+          {
+            "from": 88,
+            "to": 105,
+            "name": {
+              "ja": "和帝",
+              "en": "Emperor He"
+            }
+          },
+          {
+            "from": 146,
+            "to": 167,
+            "name": {
+              "ja": "桓帝",
+              "en": "Emperor Huan"
+            }
+          },
+          {
+            "from": 168,
+            "to": 189,
+            "name": {
+              "ja": "霊帝",
+              "en": "Emperor Ling"
+            }
+          },
+          {
+            "from": 189,
+            "to": 220,
+            "name": {
+              "ja": "献帝",
+              "en": "Emperor Xian"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "漢",
+      "en": "Han dynasty"
+    }
+  },
+  {
+    "id": "three-kingdoms",
+    "name": {
+      "ja": "三国（魏・蜀・呉）",
+      "en": "Three Kingdoms (Wei, Shu, Wu)"
+    },
+    "basemap_names": [],
+    "periods": [
+      {
+        "from": 220,
+        "to": 280,
+        "government": {
+          "ja": "三国分立（魏は九品中正・屯田制）",
+          "en": "Three rival monarchies; Wei used the Nine-Rank system and military colonies"
+        },
+        "capital": {
+          "ja": "洛陽（魏）・成都（蜀）・建業（呉）",
+          "en": "Luoyang (Wei), Chengdu (Shu), Jianye (Wu)"
+        },
+        "summary": {
+          "ja": "曹操の子曹丕が献帝から禅譲を受けて魏を建て、劉備が蜀、孫権が呉を建てて三国が分立した。魏は九品中正と屯田制で国力を蓄え、邪馬台国の卑弥呼に金印を授けた。蜀は263年に魏に滅び、魏を奪った晋が280年に呉を滅ぼした。",
+          "en": "Cao Pi, son of Cao Cao, took the throne from Emperor Xian and founded Wei; Liu Bei founded Shu and Sun Quan founded Wu. Wei built strength through the Nine-Rank system and military colonies and sent a gold seal to Himiko of Yamatai. Shu fell to Wei in 263, and the Jin, having replaced Wei, conquered Wu in 280."
+        },
+        "rulers": [
+          {
+            "from": 220,
+            "to": 226,
+            "name": {
+              "ja": "曹丕（文帝）",
+              "en": "Cao Pi (Emperor Wen of Wei)"
+            }
+          },
+          {
+            "from": 226,
+            "to": 239,
+            "name": {
+              "ja": "曹叡（明帝）",
+              "en": "Cao Rui (Emperor Ming of Wei)"
+            }
+          },
+          {
+            "from": 221,
+            "to": 223,
+            "name": {
+              "ja": "劉備",
+              "en": "Liu Bei"
+            }
+          },
+          {
+            "from": 223,
+            "to": 263,
+            "name": {
+              "ja": "劉禅",
+              "en": "Liu Shan"
+            }
+          },
+          {
+            "from": 222,
+            "to": 252,
+            "name": {
+              "ja": "孫権",
+              "en": "Sun Quan"
+            }
+          },
+          {
+            "from": 264,
+            "to": 280,
+            "name": {
+              "ja": "孫皓",
+              "en": "Sun Hao"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "三国時代 (中国)",
+      "en": "Three Kingdoms"
+    }
+  },
+  {
+    "id": "jin-dynasty",
+    "name": {
+      "ja": "晋",
+      "en": "Jin dynasty"
+    },
+    "basemap_names": [
+      "Jin"
+    ],
+    "periods": [
+      {
+        "from": 265,
+        "to": 316,
+        "government": {
+          "ja": "皇帝専制（占田・課田法）",
+          "en": "Imperial autocracy; land allotment system"
+        },
+        "capital": {
+          "ja": "洛陽",
+          "en": "Luoyang"
+        },
+        "summary": {
+          "ja": "司馬炎が魏から禅譲を受けて建国し、280年に呉を滅ぼして中国を統一した。占田・課田法で豪族の土地所有を制限しようとしたが、八王の乱で混乱し、匈奴の劉淵らの五胡が侵入して永嘉の乱で滅んだ。",
+          "en": "Sima Yan took the throne from Wei and reunified China by conquering Wu in 280. Land-allotment laws tried to curb the magnates, but the War of the Eight Princes brought chaos and the Xiongnu under Liu Yuan and other northern peoples destroyed the dynasty in the Yongjia disaster."
+        },
+        "rulers": [
+          {
+            "from": 265,
+            "to": 290,
+            "name": {
+              "ja": "武帝（司馬炎）",
+              "en": "Emperor Wu (Sima Yan)"
+            }
+          },
+          {
+            "from": 290,
+            "to": 306,
+            "name": {
+              "ja": "恵帝",
+              "en": "Emperor Hui"
+            }
+          },
+          {
+            "from": 313,
+            "to": 316,
+            "name": {
+              "ja": "愍帝",
+              "en": "Emperor Min"
+            }
+          }
+        ]
+      },
+      {
+        "from": 317,
+        "to": 420,
+        "government": {
+          "ja": "門閥貴族政治",
+          "en": "Rule by aristocratic clans"
+        },
+        "capital": {
+          "ja": "建康",
+          "en": "Jiankang"
+        },
+        "religion": {
+          "ja": "仏教・道教（清談の流行）",
+          "en": "Buddhism and Daoism; \"pure conversation\""
+        },
+        "summary": {
+          "ja": "司馬睿が江南に逃れて建康で晋を再興した。華北から移住した貴族と江南の豪族が政権を支え、王羲之や陶淵明らの江南文化が栄えた。淝水の戦いで前秦を破ったが、軍人の劉裕に帝位を奪われた。",
+          "en": "Sima Rui fled south and revived the Jin at Jiankang. Northern émigré aristocrats and southern magnates sustained the court, and a refined southern culture flourished with Wang Xizhi and Tao Yuanming. The Jin repelled the Former Qin at the Fei River but the general Liu Yu finally usurped the throne."
+        },
+        "rulers": [
+          {
+            "from": 317,
+            "to": 322,
+            "name": {
+              "ja": "元帝（司馬睿）",
+              "en": "Emperor Yuan (Sima Rui)"
+            }
+          },
+          {
+            "from": 372,
+            "to": 396,
+            "name": {
+              "ja": "孝武帝",
+              "en": "Emperor Xiaowu"
+            }
+          },
+          {
+            "from": 418,
+            "to": 420,
+            "name": {
+              "ja": "恭帝",
+              "en": "Emperor Gong"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "晋 (王朝)",
+      "en": "Jin dynasty (266–420)"
+    }
+  },
+  {
+    "id": "sixteen-kingdoms",
+    "name": {
+      "ja": "五胡十六国",
+      "en": "Sixteen Kingdoms"
+    },
+    "basemap_names": [
+      "Han Zhao",
+      "Sixteen Kingdoms",
+      "Northern Liang"
+    ],
+    "periods": [
+      {
+        "from": 304,
+        "to": 439,
+        "government": {
+          "ja": "諸民族の割拠（胡漢二重統治）",
+          "en": "Fragmented rule by Xiongnu, Xianbei, Di, Qiang and Jie states"
+        },
+        "capital": {
+          "ja": "長安・鄴など各国の都",
+          "en": "Various (Chang'an, Ye, etc.)"
+        },
+        "religion": {
+          "ja": "仏教（仏図澄・鳩摩羅什）",
+          "en": "Buddhism (Fotudeng, Kumarajiva)"
+        },
+        "summary": {
+          "ja": "匈奴・鮮卑・羯・氐・羌の五胡と漢人が華北に建てた諸国の総称。匈奴の劉淵が漢（前趙）を建てて西晋を滅ぼし、氐の苻堅の前秦が一時華北を統一したが淝水の戦いで敗れた。仏教が広まり、鮮卑の北魏が439年に華北を統一した。",
+          "en": "Collective name for the states founded in north China by the Five Barbarians (Xiongnu, Xianbei, Jie, Di, Qiang) and Chinese. Liu Yuan of the Xiongnu founded Han (Former Zhao) and destroyed the Western Jin; Fu Jian's Former Qin briefly united the north before losing at the Fei River. Buddhism spread, and the Xianbei Northern Wei reunified the north in 439."
+        },
+        "rulers": [
+          {
+            "from": 304,
+            "to": 310,
+            "name": {
+              "ja": "劉淵（前趙）",
+              "en": "Liu Yuan (Former Zhao)"
+            }
+          },
+          {
+            "from": 319,
+            "to": 333,
+            "name": {
+              "ja": "石勒（後趙）",
+              "en": "Shi Le (Later Zhao)"
+            }
+          },
+          {
+            "from": 357,
+            "to": 385,
+            "name": {
+              "ja": "苻堅（前秦）",
+              "en": "Fu Jian (Former Qin)"
+            }
+          },
+          {
+            "from": 384,
+            "to": 396,
+            "name": {
+              "ja": "慕容垂（後燕）",
+              "en": "Murong Chui (Later Yan)"
+            }
+          },
+          {
+            "from": 401,
+            "to": 433,
+            "name": {
+              "ja": "沮渠蒙遜（北涼）",
+              "en": "Juqu Mengxun (Northern Liang)"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "五胡十六国時代",
+      "en": "Sixteen Kingdoms"
+    }
+  },
+  {
+    "id": "northern-dynasties",
+    "name": {
+      "ja": "北朝（北魏〜北周）",
+      "en": "Northern dynasties"
+    },
+    "basemap_names": [
+      "Toba Wei"
+    ],
+    "periods": [
+      {
+        "from": 386,
+        "to": 534,
+        "government": {
+          "ja": "皇帝専制（均田制・三長制）",
+          "en": "Imperial autocracy; equal-field and three-elders systems"
+        },
+        "capital": {
+          "ja": "平城→洛陽（494）",
+          "en": "Pingcheng, then Luoyang (494)"
+        },
+        "religion": {
+          "ja": "仏教（雲崗・竜門石窟）・道教",
+          "en": "Buddhism (Yungang, Longmen) and Daoism"
+        },
+        "summary": {
+          "ja": "鮮卑拓跋氏の道武帝が建国し、太武帝が439年に華北を統一した。孝文帝は均田制・三長制を整え、洛陽に遷都して鮮卑の言語や服装を禁じる漢化政策を進めた。六鎮の乱ののち東魏と西魏に分裂した。",
+          "en": "Founded by Emperor Daowu of the Xianbei Tuoba clan; Emperor Taiwu united north China in 439. Emperor Xiaowen introduced the equal-field and three-elders systems, moved the capital to Luoyang and pursued sinicization, banning Xianbei speech and dress. After the Six Garrisons revolt the state split into Eastern and Western Wei."
+        },
+        "rulers": [
+          {
+            "from": 386,
+            "to": 409,
+            "name": {
+              "ja": "道武帝",
+              "en": "Emperor Daowu"
+            }
+          },
+          {
+            "from": 423,
+            "to": 452,
+            "name": {
+              "ja": "太武帝",
+              "en": "Emperor Taiwu"
+            }
+          },
+          {
+            "from": 452,
+            "to": 465,
+            "name": {
+              "ja": "文成帝",
+              "en": "Emperor Wencheng"
+            }
+          },
+          {
+            "from": 471,
+            "to": 499,
+            "name": {
+              "ja": "孝文帝",
+              "en": "Emperor Xiaowen"
+            }
+          },
+          {
+            "from": 499,
+            "to": 515,
+            "name": {
+              "ja": "宣武帝",
+              "en": "Emperor Xuanwu"
+            }
+          }
+        ]
+      },
+      {
+        "from": 534,
+        "to": 581,
+        "government": {
+          "ja": "東魏・西魏→北斉・北周（府兵制の創始）",
+          "en": "Eastern/Western Wei, then Northern Qi/Zhou; fubing militia begins"
+        },
+        "capital": {
+          "ja": "鄴（東魏・北斉）・長安（西魏・北周）",
+          "en": "Ye (Eastern Wei, Northern Qi); Chang'an (Western Wei, Northern Zhou)"
+        },
+        "religion": {
+          "ja": "仏教（北周武帝の廃仏）",
+          "en": "Buddhism; persecution under Emperor Wu of Zhou"
+        },
+        "summary": {
+          "ja": "北魏は高歓の東魏と宇文泰の西魏に分裂し、それぞれ北斉・北周に取って代わられた。西魏・北周は府兵制を創始し、北周の武帝は北斉を滅ぼして華北を再統一した。北周の外戚楊堅が帝位を奪って隋を建てた。",
+          "en": "Northern Wei split into Eastern Wei under Gao Huan and Western Wei under Yuwen Tai, replaced in turn by Northern Qi and Northern Zhou. Western Wei and Northern Zhou created the fubing militia, and Emperor Wu of Zhou reunified the north by conquering Northern Qi. The Zhou in-law Yang Jian then seized the throne and founded the Sui."
+        },
+        "rulers": [
+          {
+            "from": 534,
+            "to": 550,
+            "name": {
+              "ja": "孝静帝（東魏）",
+              "en": "Emperor Xiaojing of Eastern Wei"
+            }
+          },
+          {
+            "from": 535,
+            "to": 551,
+            "name": {
+              "ja": "文帝（西魏）",
+              "en": "Emperor Wen of Western Wei"
+            }
+          },
+          {
+            "from": 550,
+            "to": 559,
+            "name": {
+              "ja": "文宣帝（北斉）",
+              "en": "Emperor Wenxuan of Northern Qi"
+            }
+          },
+          {
+            "from": 560,
+            "to": 578,
+            "name": {
+              "ja": "武帝（北周）",
+              "en": "Emperor Wu of Northern Zhou"
+            }
+          },
+          {
+            "from": 579,
+            "to": 581,
+            "name": {
+              "ja": "静帝（北周）",
+              "en": "Emperor Jing of Northern Zhou"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "北魏",
+      "en": "Northern Wei"
+    }
+  },
+  {
+    "id": "southern-dynasties",
+    "name": {
+      "ja": "南朝（宋・斉・梁・陳）",
+      "en": "Southern dynasties (Song, Qi, Liang, Chen)"
+    },
+    "basemap_names": [
+      "Jin Empire"
+    ],
+    "periods": [
+      {
+        "from": 420,
+        "to": 589,
+        "government": {
+          "ja": "門閥貴族政治（武人出身の皇帝）",
+          "en": "Aristocratic clan politics under soldier-emperors"
+        },
+        "capital": {
+          "ja": "建康",
+          "en": "Jiankang"
+        },
+        "religion": {
+          "ja": "仏教（梁の武帝が保護）",
+          "en": "Buddhism, patronized by Emperor Wu of Liang"
+        },
+        "summary": {
+          "ja": "劉裕が東晋を倒して宋を建ててから、斉・梁・陳と武人出身の皇帝による短命な王朝が建康に続いた。政治は門閥貴族が握り、四六駢儷体や『文選』など華麗な貴族文化が栄えた。梁の武帝は仏教を厚く保護したが侯景の乱で衰え、陳は589年に隋に滅ぼされた。",
+          "en": "Beginning with Liu Yu's Song, four short-lived dynasties founded by generals (Song, Qi, Liang, Chen) ruled from Jiankang. Aristocratic clans dominated politics and a brilliant court culture produced parallel prose and the Wen Xuan anthology. Emperor Wu of Liang lavishly patronized Buddhism but the Hou Jing rebellion sapped the south; the Sui conquered Chen in 589."
+        },
+        "rulers": [
+          {
+            "from": 420,
+            "to": 422,
+            "name": {
+              "ja": "武帝（劉裕）",
+              "en": "Emperor Wu of Song (Liu Yu)"
+            }
+          },
+          {
+            "from": 424,
+            "to": 453,
+            "name": {
+              "ja": "文帝（宋）",
+              "en": "Emperor Wen of Song"
+            }
+          },
+          {
+            "from": 479,
+            "to": 482,
+            "name": {
+              "ja": "高帝（蕭道成）",
+              "en": "Emperor Gao of Qi (Xiao Daocheng)"
+            }
+          },
+          {
+            "from": 502,
+            "to": 549,
+            "name": {
+              "ja": "武帝（蕭衍）",
+              "en": "Emperor Wu of Liang (Xiao Yan)"
+            }
+          },
+          {
+            "from": 557,
+            "to": 559,
+            "name": {
+              "ja": "武帝（陳霸先）",
+              "en": "Emperor Wu of Chen (Chen Baxian)"
+            }
+          },
+          {
+            "from": 582,
+            "to": 589,
+            "name": {
+              "ja": "後主（陳叔宝）",
+              "en": "Chen Shubao (Last Lord of Chen)"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "南北朝時代 (中国)",
+      "en": "Northern and Southern dynasties"
+    }
+  },
+  {
+    "id": "sui-dynasty",
+    "name": {
+      "ja": "隋",
+      "en": "Sui dynasty"
+    },
+    "basemap_names": [
+      "Sui Empire"
+    ],
+    "periods": [
+      {
+        "from": 581,
+        "to": 618,
+        "government": {
+          "ja": "中央集権（均田制・租調庸制・府兵制・科挙）",
+          "en": "Centralized rule: equal-field, tax, militia and examination systems"
+        },
+        "capital": {
+          "ja": "大興城（長安）",
+          "en": "Daxing (Chang'an)"
+        },
+        "religion": {
+          "ja": "仏教",
+          "en": "Buddhism"
+        },
+        "summary": {
+          "ja": "楊堅（文帝）が北周を奪って建て、589年に陳を滅ぼして約300年ぶりに中国を統一した。均田制・租調庸制・府兵制を整え、九品中正を廃して科挙を始めた。煬帝は大運河を完成させたが、高句麗遠征の失敗で各地に反乱が起こり滅亡した。",
+          "en": "Yang Jian (Emperor Wen) took the throne from Northern Zhou and reunified China in 589 by conquering Chen, ending nearly three centuries of division. He consolidated the equal-field, tax, and militia systems and replaced the Nine-Rank system with civil service examinations. Emperor Yang completed the Grand Canal, but failed campaigns against Goguryeo sparked revolts that ended the dynasty."
+        },
+        "rulers": [
+          {
+            "from": 581,
+            "to": 604,
+            "name": {
+              "ja": "文帝（楊堅）",
+              "en": "Emperor Wen (Yang Jian)"
+            }
+          },
+          {
+            "from": 604,
+            "to": 618,
+            "name": {
+              "ja": "煬帝",
+              "en": "Emperor Yang"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "隋",
+      "en": "Sui dynasty"
+    }
+  },
+  {
+    "id": "tang-dynasty",
+    "name": {
+      "ja": "唐",
+      "en": "Tang dynasty"
+    },
+    "basemap_names": [
+      "Tang Empire"
+    ],
+    "periods": [
+      {
+        "from": 618,
+        "to": 755,
+        "government": {
+          "ja": "律令体制（三省六部・均田制・租調庸制・府兵制）",
+          "en": "Lü-ling code state: Three Departments and Six Ministries, equal-field, tax and militia systems"
+        },
+        "capital": {
+          "ja": "長安",
+          "en": "Chang'an"
+        },
+        "religion": {
+          "ja": "仏教・道教（景教・祆教も伝来）",
+          "en": "Buddhism and Daoism; Nestorianism and Zoroastrianism also present"
+        },
+        "summary": {
+          "ja": "李淵が建国し、太宗は律令体制を整えて「貞観の治」と称えられ、東突厥を服属させた。高宗は新羅と結んで百済・高句麗を滅ぼし、羈縻政策で周辺諸族を統治した。則天武后ののち玄宗の「開元の治」で栄えたが、均田制が崩れて募兵制・節度使が置かれた。",
+          "en": "Founded by Li Yuan. Taizong perfected the lü-ling code state, earning praise for the Zhenguan era, and subdued the Eastern Turks. Gaozong allied with Silla to destroy Baekje and Goguryeo and governed the frontier peoples through loose-rein (jimi) prefectures. After Empress Wu, Xuanzong's Kaiyuan era marked the peak, but the equal-field system decayed, giving way to mercenaries and military governors."
+        },
+        "rulers": [
+          {
+            "from": 618,
+            "to": 626,
+            "name": {
+              "ja": "高祖（李淵）",
+              "en": "Gaozu (Li Yuan)"
+            }
+          },
+          {
+            "from": 626,
+            "to": 649,
+            "name": {
+              "ja": "太宗",
+              "en": "Taizong"
+            },
+            "person": "tang-taizong"
+          },
+          {
+            "from": 649,
+            "to": 683,
+            "name": {
+              "ja": "高宗",
+              "en": "Gaozong"
+            }
+          },
+          {
+            "from": 690,
+            "to": 705,
+            "name": {
+              "ja": "則天武后",
+              "en": "Wu Zetian"
+            },
+            "person": "wu-zetian"
+          },
+          {
+            "from": 705,
+            "to": 710,
+            "name": {
+              "ja": "中宗",
+              "en": "Zhongzong"
+            }
+          },
+          {
+            "from": 712,
+            "to": 756,
+            "name": {
+              "ja": "玄宗",
+              "en": "Xuanzong"
+            },
+            "person": "tang-xuanzong"
+          }
+        ]
+      },
+      {
+        "from": 755,
+        "to": 907,
+        "government": {
+          "ja": "藩鎮の割拠と両税法",
+          "en": "Regional military governors; Two-Tax system"
+        },
+        "capital": {
+          "ja": "長安",
+          "en": "Chang'an"
+        },
+        "religion": {
+          "ja": "仏教（会昌の廃仏）",
+          "en": "Buddhism; Huichang persecution of 845"
+        },
+        "summary": {
+          "ja": "安史の乱でウイグルの援軍を得て乱を鎮めたが、節度使が各地で藩鎮として自立した。徳宗は780年に両税法を採用し、塩の専売で財政を支えた。宦官の専横や牛李の党争が続き、黄巣の乱で決定的に衰え、907年に節度使朱全忠に滅ぼされた。",
+          "en": "The An Lushan rebellion was suppressed with Uyghur help, but military governors became autonomous regional powers. Dezong adopted the Two-Tax system in 780 and the salt monopoly propped up the treasury. Eunuch domination and the Niu–Li factional strife continued; the Huang Chao rebellion fatally weakened the court and the governor Zhu Quanzhong ended the dynasty in 907."
+        },
+        "rulers": [
+          {
+            "from": 756,
+            "to": 762,
+            "name": {
+              "ja": "粛宗",
+              "en": "Suzong"
+            }
+          },
+          {
+            "from": 762,
+            "to": 779,
+            "name": {
+              "ja": "代宗",
+              "en": "Daizong"
+            }
+          },
+          {
+            "from": 779,
+            "to": 805,
+            "name": {
+              "ja": "徳宗",
+              "en": "Dezong"
+            }
+          },
+          {
+            "from": 805,
+            "to": 820,
+            "name": {
+              "ja": "憲宗",
+              "en": "Xianzong"
+            }
+          },
+          {
+            "from": 840,
+            "to": 846,
+            "name": {
+              "ja": "武宗",
+              "en": "Wuzong"
+            }
+          },
+          {
+            "from": 846,
+            "to": 859,
+            "name": {
+              "ja": "宣宗",
+              "en": "Xuanzong (Li Chen)"
+            }
+          },
+          {
+            "from": 873,
+            "to": 888,
+            "name": {
+              "ja": "僖宗",
+              "en": "Xizong"
+            }
+          },
+          {
+            "from": 904,
+            "to": 907,
+            "name": {
+              "ja": "哀帝",
+              "en": "Ai Di"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "唐",
+      "en": "Tang dynasty"
+    }
+  },
+  {
+    "id": "five-dynasties",
+    "name": {
+      "ja": "五代十国",
+      "en": "Five Dynasties and Ten Kingdoms"
+    },
+    "basemap_names": [],
+    "periods": [
+      {
+        "from": 907,
+        "to": 960,
+        "government": {
+          "ja": "武人政権の交替（節度使の割拠）",
+          "en": "Succession of military regimes; regional governors"
+        },
+        "capital": {
+          "ja": "開封（後梁・後晋・後漢・後周）・洛陽（後唐）",
+          "en": "Kaifeng (Later Liang, Jin, Han, Zhou); Luoyang (Later Tang)"
+        },
+        "summary": {
+          "ja": "朱全忠の後梁から後唐・後晋・後漢・後周まで、華北で節度使出身の武人による五つの短命な王朝が交替し、地方には十国が分立した。後晋は契丹に燕雲十六州を割譲した。貴族は没落し、新興地主の形勒戸が台頭して宋の文治政治の基盤をつくった。",
+          "en": "From Zhu Quanzhong's Later Liang through Later Tang, Jin, Han and Zhou, five short-lived regimes of military governors succeeded one another in the north while ten kingdoms held the provinces. Later Jin ceded the Sixteen Prefectures to the Khitan. The old aristocracy vanished and a new landholding class emerged, laying the ground for Song civil government."
+        },
+        "rulers": [
+          {
+            "from": 907,
+            "to": 912,
+            "name": {
+              "ja": "朱全忠（後梁太祖）",
+              "en": "Zhu Quanzhong (Taizu of Later Liang)"
+            }
+          },
+          {
+            "from": 923,
+            "to": 926,
+            "name": {
+              "ja": "李存勗（後唐荘宗）",
+              "en": "Li Cunxu (Zhuangzong of Later Tang)"
+            }
+          },
+          {
+            "from": 936,
+            "to": 942,
+            "name": {
+              "ja": "石敬瑭（後晋高祖）",
+              "en": "Shi Jingtang (Gaozu of Later Jin)"
+            }
+          },
+          {
+            "from": 947,
+            "to": 948,
+            "name": {
+              "ja": "劉知遠（後漢高祖）",
+              "en": "Liu Zhiyuan (Gaozu of Later Han)"
+            }
+          },
+          {
+            "from": 951,
+            "to": 954,
+            "name": {
+              "ja": "郭威（後周太祖）",
+              "en": "Guo Wei (Taizu of Later Zhou)"
+            }
+          },
+          {
+            "from": 954,
+            "to": 959,
+            "name": {
+              "ja": "世宗（柴栄）",
+              "en": "Shizong (Chai Rong)"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "五代十国時代",
+      "en": "Five Dynasties and Ten Kingdoms period"
+    }
+  },
+  {
+    "id": "song-dynasty",
+    "name": {
+      "ja": "宋",
+      "en": "Song dynasty"
+    },
+    "basemap_names": [
+      "Song Empire"
+    ],
+    "periods": [
+      {
+        "from": 960,
+        "to": 1127,
+        "government": {
+          "ja": "文治主義による君主独裁（科挙官僚制）",
+          "en": "Civil-bureaucratic autocracy based on the examination system"
+        },
+        "capital": {
+          "ja": "開封",
+          "en": "Kaifeng"
+        },
+        "religion": {
+          "ja": "儒教（宋学の成立）・仏教・道教",
+          "en": "Confucianism (rise of Neo-Confucianism), Buddhism, Daoism"
+        },
+        "summary": {
+          "ja": "趙匡胤（太宗）が後周から禅譲を受けて建国し、節度使の力を削いで文治主義をとり、科挙に殿試を加えて皇帝独裁を確立した。遼と澶淵の盟を結び、西夏にも歳幣を送ったため財政が悪化し、神宗のもとで王安石が新法を行ったが旧法党と対立した。1126年、金に開封を占領され徽宗・欽宗が連れ去られた（靖康の変）。",
+          "en": "Zhao Kuangyin (Taizu) received the throne from Later Zhou, curbed the military governors, and built a civil-official autocracy with the palace examination. Peace with Liao (Treaty of Chanyuan) and Western Xia cost heavy annual payments, so under Shenzong Wang Anshi launched the New Policies against conservative opposition. In 1126 the Jurchen Jin took Kaifeng and carried off Huizong and Qinzong (the Jingkang incident)."
+        },
+        "rulers": [
+          {
+            "from": 960,
+            "to": 976,
+            "name": {
+              "ja": "太祖（趙匡胤）",
+              "en": "Taizu (Zhao Kuangyin)"
+            },
+            "person": "zhao-kuangyin"
+          },
+          {
+            "from": 976,
+            "to": 997,
+            "name": {
+              "ja": "太宗",
+              "en": "Taizong"
+            }
+          },
+          {
+            "from": 997,
+            "to": 1022,
+            "name": {
+              "ja": "真宗",
+              "en": "Zhenzong"
+            }
+          },
+          {
+            "from": 1022,
+            "to": 1063,
+            "name": {
+              "ja": "仁宗",
+              "en": "Renzong"
+            }
+          },
+          {
+            "from": 1067,
+            "to": 1085,
+            "name": {
+              "ja": "神宗",
+              "en": "Shenzong"
+            }
+          },
+          {
+            "from": 1085,
+            "to": 1100,
+            "name": {
+              "ja": "哲宗",
+              "en": "Zhezong"
+            }
+          },
+          {
+            "from": 1100,
+            "to": 1125,
+            "name": {
+              "ja": "徽宗",
+              "en": "Huizong"
+            }
+          },
+          {
+            "from": 1126,
+            "to": 1127,
+            "name": {
+              "ja": "欽宗",
+              "en": "Qinzong"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1127,
+        "to": 1279,
+        "government": {
+          "ja": "君主独裁（科挙官僚制）",
+          "en": "Civil-bureaucratic autocracy"
+        },
+        "capital": {
+          "ja": "臨安（杭州）",
+          "en": "Lin'an (Hangzhou)"
+        },
+        "religion": {
+          "ja": "儒教（朱子学の大成）・禅宗",
+          "en": "Confucianism (Zhu Xi's synthesis), Chan Buddhism"
+        },
+        "summary": {
+          "ja": "高宗が江南に逃れて臨安に都した。岳飛ら主戦派と秦檜ら和平派が対立し、1142年に金と和議を結んで淮河を国境とし臣下の礼をとった。江南の開発で経済は栄え、朱熹が朱子学を大成した。モンゴルと結んで金を滅ぼしたが、1276年に臨安が陥落し、1279年の崖山の戦いで滅亡した。",
+          "en": "Gaozong fled south and made Lin'an his capital. The war party under Yue Fei lost to the peace party of Qin Hui, and the 1142 settlement with Jin fixed the Huai River border with Song as vassal. The southern economy flourished and Zhu Xi completed Neo-Confucianism. Song joined the Mongols to destroy Jin, but Lin'an fell in 1276 and the dynasty ended at the battle of Yamen in 1279."
+        },
+        "rulers": [
+          {
+            "from": 1127,
+            "to": 1162,
+            "name": {
+              "ja": "高宗",
+              "en": "Gaozong"
+            }
+          },
+          {
+            "from": 1162,
+            "to": 1189,
+            "name": {
+              "ja": "孝宗",
+              "en": "Xiaozong"
+            }
+          },
+          {
+            "from": 1194,
+            "to": 1224,
+            "name": {
+              "ja": "寧宗",
+              "en": "Ningzong"
+            }
+          },
+          {
+            "from": 1224,
+            "to": 1264,
+            "name": {
+              "ja": "理宗",
+              "en": "Lizong"
+            }
+          },
+          {
+            "from": 1264,
+            "to": 1274,
+            "name": {
+              "ja": "度宗",
+              "en": "Duzong"
+            }
+          },
+          {
+            "from": 1274,
+            "to": 1276,
+            "name": {
+              "ja": "恭帝",
+              "en": "Gongdi"
+            }
+          },
+          {
+            "from": 1278,
+            "to": 1279,
+            "name": {
+              "ja": "衛王（趙昺）",
+              "en": "Zhao Bing"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "宋 (王朝)",
+      "en": "Song dynasty"
+    }
+  },
+  {
+    "id": "liao-dynasty",
+    "name": {
+      "ja": "遼（契丹）",
+      "en": "Liao dynasty (Khitan)"
+    },
+    "basemap_names": [
+      "Khitans",
+      "Liao",
+      "Kara Khitai Khaganate"
+    ],
+    "periods": [
+      {
+        "from": 916,
+        "to": 1125,
+        "government": {
+          "ja": "二重統治体制（北面官・南面官）",
+          "en": "Dual administration: Northern and Southern Chancelleries"
+        },
+        "capital": {
+          "ja": "上京臨潢府",
+          "en": "Shangjing (Linhuang)"
+        },
+        "religion": {
+          "ja": "仏教",
+          "en": "Buddhism"
+        },
+        "summary": {
+          "ja": "耶律阿保機が契丹諸部を統一して建国し、渤海を滅ぼした。後晋から燕雲十六州を得て国号を遼とし、遊牧民を部族制で、農耕民を州県制で治める二重統治体制をしいた。契丹文字をつくり、宋と澶淵の盟を結んで歳幣を得たが、1125年に金と宋に挟撃されて滅んだ。",
+          "en": "Yelü Abaoji united the Khitan tribes, founded the state and destroyed Balhae. After gaining the Sixteen Prefectures from Later Jin it adopted the name Liao and ruled nomads by tribal law and farmers by prefectures under separate Northern and Southern administrations. It created the Khitan script and extracted annual payments from Song by the Treaty of Chanyuan, but was crushed between Jin and Song in 1125."
+        },
+        "rulers": [
+          {
+            "from": 916,
+            "to": 926,
+            "name": {
+              "ja": "太祖（耶律阿保機）",
+              "en": "Taizu (Yelü Abaoji)"
+            },
+            "person": "yelu-abaoji"
+          },
+          {
+            "from": 926,
+            "to": 947,
+            "name": {
+              "ja": "太宗（耶律堯骨）",
+              "en": "Taizong (Yelü Deguang)"
+            }
+          },
+          {
+            "from": 982,
+            "to": 1031,
+            "name": {
+              "ja": "聖宗",
+              "en": "Shengzong"
+            }
+          },
+          {
+            "from": 1031,
+            "to": 1055,
+            "name": {
+              "ja": "興宗",
+              "en": "Xingzong"
+            }
+          },
+          {
+            "from": 1055,
+            "to": 1101,
+            "name": {
+              "ja": "道宗",
+              "en": "Daozong"
+            }
+          },
+          {
+            "from": 1101,
+            "to": 1125,
+            "name": {
+              "ja": "天祚帝",
+              "en": "Tianzuo"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1132,
+        "to": 1211,
+        "government": {
+          "ja": "遊牧国家（カラ＝キタイ）",
+          "en": "Nomadic state (Kara Khitai)"
+        },
+        "capital": {
+          "ja": "ベラサグン",
+          "en": "Balasagun"
+        },
+        "religion": {
+          "ja": "仏教（イスラーム教徒を支配）",
+          "en": "Buddhism, ruling a Muslim population"
+        },
+        "summary": {
+          "ja": "遼の滅亡後、皇族の耶律大石が西走して中央アジアに建てた国で、西遼またはカラ＝キタイと呼ばれる。カラハン朝を従え、1141年のカトワーンの戦いでセルジューク朝を破った。ナイマンのクチュルクに実権を奪われ、1218年にモンゴルに滅ぼされた。",
+          "en": "After the fall of Liao, the prince Yelü Dashi led his followers west and founded this state in Central Asia, known as Western Liao or Kara Khitai. It subjugated the Karakhanids and defeated the Seljuks at Qatwan in 1141. The Naiman prince Küchlüg seized power, and the Mongols destroyed the state in 1218."
+        },
+        "rulers": [
+          {
+            "from": 1132,
+            "to": 1143,
+            "name": {
+              "ja": "耶律大石",
+              "en": "Yelü Dashi"
+            }
+          },
+          {
+            "from": 1150,
+            "to": 1163,
+            "name": {
+              "ja": "仁宗（耶律夷列）",
+              "en": "Renzong (Yelü Yilie)"
+            }
+          },
+          {
+            "from": 1178,
+            "to": 1211,
+            "name": {
+              "ja": "耶律直魯古",
+              "en": "Yelü Zhilugu"
+            }
+          },
+          {
+            "from": 1211,
+            "to": 1218,
+            "name": {
+              "ja": "クチュルク",
+              "en": "Küchlüg"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "遼",
+      "en": "Liao dynasty"
+    }
+  },
+  {
+    "id": "western-xia",
+    "name": {
+      "ja": "西夏",
+      "en": "Western Xia"
+    },
+    "basemap_names": [
+      "Xixia"
+    ],
+    "periods": [
+      {
+        "from": 1038,
+        "to": 1227,
+        "government": {
+          "ja": "タングートの王国（中国式官制を導入）",
+          "en": "Tangut monarchy with Chinese-style bureaucracy"
+        },
+        "capital": {
+          "ja": "興慶（寧夏）",
+          "en": "Xingqing (Yinchuan)"
+        },
+        "religion": {
+          "ja": "仏教",
+          "en": "Buddhism"
+        },
+        "summary": {
+          "ja": "チベット系タングートの李元昊が建てた国で、国号は大夏。オルドスから河西回廊を支配して東西交易の要衝を押さえ、西夏文字をつくった。宋から歳幣を得て遼・宋・金と並立したが、1227年にチンギス＝ハンの遠征で滅んだ。",
+          "en": "Founded by Li Yuanhao of the Tibetan-related Tangut people as the Great Xia. Holding the Ordos and the Hexi corridor, it controlled the east–west trade routes and devised the Tangut script. It extracted payments from Song and coexisted with Liao, Song and Jin, until Chinggis Khan's campaign destroyed it in 1227."
+        },
+        "rulers": [
+          {
+            "from": 1038,
+            "to": 1048,
+            "name": {
+              "ja": "李元昊",
+              "en": "Li Yuanhao"
+            }
+          },
+          {
+            "from": 1048,
+            "to": 1067,
+            "name": {
+              "ja": "毅宗",
+              "en": "Yizong"
+            }
+          },
+          {
+            "from": 1086,
+            "to": 1139,
+            "name": {
+              "ja": "崇宗",
+              "en": "Chongzong"
+            }
+          },
+          {
+            "from": 1139,
+            "to": 1193,
+            "name": {
+              "ja": "仁宗",
+              "en": "Renzong"
+            }
+          },
+          {
+            "from": 1226,
+            "to": 1227,
+            "name": {
+              "ja": "末主（李睍）",
+              "en": "Li Xian"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "西夏",
+      "en": "Western Xia"
+    }
+  },
+  {
+    "id": "jin-jurchen",
+    "name": {
+      "ja": "金",
+      "en": "Jin dynasty (Jurchen)"
+    },
+    "basemap_names": [],
+    "periods": [
+      {
+        "from": 1115,
+        "to": 1234,
+        "government": {
+          "ja": "猛安・謀克制と州県制の併用",
+          "en": "Meng-an mou-ke tribal units alongside Chinese prefectures"
+        },
+        "capital": {
+          "ja": "会寧→燕京（中都）→開封",
+          "en": "Huining, then Zhongdu (Beijing), then Kaifeng"
+        },
+        "religion": {
+          "ja": "仏教・道教（全真教）",
+          "en": "Buddhism and Daoism (Quanzhen school)"
+        },
+        "summary": {
+          "ja": "ツングース系女真の完顔阿骨打が遼から自立して建てた。1125年に遼を、1127年には靖康の変で北宋を滅ぼして華北を支配し、女真人を猛安・謀克で、漢人を州県制で治めた。女真文字を制定し、海陵王は燕京に遷都した。南宋から歳幣を得たが、モンゴルの攻撃を受け1234年に滅んだ。",
+          "en": "Founded by Wanyan Aguda of the Tungusic Jurchen, who broke from Liao. It destroyed Liao in 1125 and the Northern Song in 1127, ruling north China with Jurchen under the meng-an mou-ke system and Chinese under prefectures. It created the Jurchen script and Prince Hailing moved the capital to Yanjing. Tribute flowed from the Southern Song until Mongol attacks ended the dynasty in 1234."
+        },
+        "rulers": [
+          {
+            "from": 1115,
+            "to": 1123,
+            "name": {
+              "ja": "太祖（完顔阿骨打）",
+              "en": "Taizu (Wanyan Aguda)"
+            },
+            "person": "wanyan-aguda"
+          },
+          {
+            "from": 1123,
+            "to": 1135,
+            "name": {
+              "ja": "太宗",
+              "en": "Taizong"
+            }
+          },
+          {
+            "from": 1149,
+            "to": 1161,
+            "name": {
+              "ja": "海陵王",
+              "en": "Prince Hailing"
+            }
+          },
+          {
+            "from": 1161,
+            "to": 1189,
+            "name": {
+              "ja": "世宗",
+              "en": "Shizong"
+            }
+          },
+          {
+            "from": 1189,
+            "to": 1208,
+            "name": {
+              "ja": "章宗",
+              "en": "Zhangzong"
+            }
+          },
+          {
+            "from": 1213,
+            "to": 1223,
+            "name": {
+              "ja": "宣宗",
+              "en": "Xuanzong"
+            }
+          },
+          {
+            "from": 1224,
+            "to": 1234,
+            "name": {
+              "ja": "哀宗",
+              "en": "Aizong"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "金 (王朝)",
+      "en": "Jin dynasty (1115–1234)"
+    }
+  },
+  {
+    "id": "mongol-empire",
+    "name": {
+      "ja": "モンゴル帝国",
+      "en": "Mongol Empire"
+    },
+    "basemap_names": [
+      "Mongols",
+      "Mongol Empire"
+    ],
+    "periods": [
+      {
+        "from": 1206,
+        "to": 1271,
+        "government": {
+          "ja": "遊牧国家（大ハンとクリルタイ・千戸制）",
+          "en": "Nomadic empire under the Great Khan, kurultai and decimal (mingghan) organization"
+        },
+        "capital": {
+          "ja": "カラコルム",
+          "en": "Karakorum"
+        },
+        "religion": {
+          "ja": "シャーマニズム（諸宗教に寛容）",
+          "en": "Shamanism; tolerance of all faiths"
+        },
+        "summary": {
+          "ja": "1206年にテムジンがクリルタイでチンギス＝ハンに推戴され、千戸制で遊牧民を編成した。ナイマン・西夏・ホラズムを征服し、オゴタイは金を滅ぼしてカラコルムを都とし、バトゥの西征はワールシュタットでドイツ・ポーランド軍を破った。モンケの死後、フビライが大ハンとなり、1271年に国号を元とした。",
+          "en": "In 1206 Temüjin was acclaimed Chinggis Khan at a kurultai and organized the nomads in units of a thousand. He conquered the Naiman, Western Xia and Khwarazm; Ögedei destroyed the Jin and built Karakorum, while Batu's western campaign crushed the German–Polish army at Liegnitz. After Möngke's death Khubilai became Great Khan and in 1271 took the dynastic name Yuan."
+        },
+        "rulers": [
+          {
+            "from": 1206,
+            "to": 1227,
+            "name": {
+              "ja": "チンギス＝ハン",
+              "en": "Chinggis Khan"
+            }
+          },
+          {
+            "from": 1229,
+            "to": 1241,
+            "name": {
+              "ja": "オゴタイ",
+              "en": "Ögedei"
+            }
+          },
+          {
+            "from": 1246,
+            "to": 1248,
+            "name": {
+              "ja": "グユク",
+              "en": "Güyük"
+            }
+          },
+          {
+            "from": 1251,
+            "to": 1259,
+            "name": {
+              "ja": "モンケ",
+              "en": "Möngke"
+            }
+          },
+          {
+            "from": 1260,
+            "to": 1271,
+            "name": {
+              "ja": "フビライ",
+              "en": "Khubilai"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "モンゴル帝国",
+      "en": "Mongol Empire"
+    }
+  },
+  {
+    "id": "yuan-dynasty",
+    "name": {
+      "ja": "元",
+      "en": "Yuan dynasty"
+    },
+    "basemap_names": [
+      "Great Khanate"
+    ],
+    "periods": [
+      {
+        "from": 1271,
+        "to": 1368,
+        "government": {
+          "ja": "モンゴル人第一主義（モンゴル人・色目人・漢人・南人）",
+          "en": "Mongol supremacy over Semu, Han and Southerners"
+        },
+        "capital": {
+          "ja": "大都（北京）",
+          "en": "Dadu (Beijing)"
+        },
+        "religion": {
+          "ja": "チベット仏教（諸宗教に寛容）",
+          "en": "Tibetan Buddhism; religious tolerance"
+        },
+        "summary": {
+          "ja": "フビライが大都に都して国号を元とし、1279年に南宋を滅ぼして中国全土を支配した。モンゴル人・色目人を優遇し、科挙は長く停止、交鈔を発行し駅伝制（ジャムチ）で帝国を結んだ。日本・ベトナム・ジャワへの遠征は失敗し、交鈔の乱発と紅巾の乱で動揺し、1368年に明に追われて北へ退いた。",
+          "en": "Khubilai made Dadu his capital, named the dynasty Yuan, and conquered the Southern Song in 1279 to rule all China. Mongols and Semu held privilege, the examinations were long suspended, paper money (jiaochao) circulated and the postal relay (jam) bound the empire. Expeditions to Japan, Vietnam and Java failed; inflation and the Red Turban revolt shook the state, and in 1368 the Ming drove the court north."
+        },
+        "rulers": [
+          {
+            "from": 1271,
+            "to": 1294,
+            "name": {
+              "ja": "フビライ（世祖）",
+              "en": "Khubilai (Shizu)"
+            }
+          },
+          {
+            "from": 1294,
+            "to": 1307,
+            "name": {
+              "ja": "成宗（テムル）",
+              "en": "Temür (Chengzong)"
+            }
+          },
+          {
+            "from": 1311,
+            "to": 1320,
+            "name": {
+              "ja": "仁宗",
+              "en": "Renzong (Ayurbarwada)"
+            }
+          },
+          {
+            "from": 1328,
+            "to": 1332,
+            "name": {
+              "ja": "文宗",
+              "en": "Wenzong (Tugh Temür)"
+            }
+          },
+          {
+            "from": 1333,
+            "to": 1368,
+            "name": {
+              "ja": "順帝（トゴン＝テムル）",
+              "en": "Toghon Temür (Shundi)"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "元 (王朝)",
+      "en": "Yuan dynasty"
+    }
+  },
+  {
+    "id": "chagatai-khanate",
+    "name": {
+      "ja": "チャガタイ＝ハン国",
+      "en": "Chagatai Khanate"
+    },
+    "basemap_names": [
+      "Chagatai Khanate"
+    ],
+    "periods": [
+      {
+        "from": 1227,
+        "to": 1346,
+        "government": {
+          "ja": "遊牧ハン国（チンギス家）",
+          "en": "Nomadic khanate of the Chinggisid line"
+        },
+        "capital": {
+          "ja": "アルマリク",
+          "en": "Almaliq"
+        },
+        "religion": {
+          "ja": "シャーマニズム→イスラーム",
+          "en": "Shamanism, gradually Islam"
+        },
+        "summary": {
+          "ja": "チンギス＝ハンの次子チャガタイに分与された中央アジアの領土から成立した。イリ地方のアルマリクを中心に天山北麓の草原と西トルキスタンのオアシスを支配した。14世紀にはイスラーム化が進む西部とモンゴルの伝統を守る東部との対立が深まった。",
+          "en": "Formed from the Central Asian lands allotted to Chagatai, second son of Chinggis Khan. From Almaliq in the Ili valley it ruled the steppe north of the Tianshan and the oasis cities of western Turkestan. In the fourteenth century tension grew between the Islamizing west and the traditionalist Mongol east."
+        },
+        "rulers": [
+          {
+            "from": 1227,
+            "to": 1242,
+            "name": {
+              "ja": "チャガタイ",
+              "en": "Chagatai"
+            }
+          },
+          {
+            "from": 1260,
+            "to": 1266,
+            "name": {
+              "ja": "アルグ",
+              "en": "Alghu"
+            }
+          },
+          {
+            "from": 1266,
+            "to": 1271,
+            "name": {
+              "ja": "バラク",
+              "en": "Baraq"
+            }
+          },
+          {
+            "from": 1282,
+            "to": 1307,
+            "name": {
+              "ja": "ドゥア",
+              "en": "Duwa"
+            }
+          },
+          {
+            "from": 1318,
+            "to": 1326,
+            "name": {
+              "ja": "ケベク",
+              "en": "Kebek"
+            }
+          },
+          {
+            "from": 1331,
+            "to": 1334,
+            "name": {
+              "ja": "タルマシリン",
+              "en": "Tarmashirin"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1347,
+        "to": 1680,
+        "government": {
+          "ja": "東西分裂（東チャガタイ＝モグーリスタン）",
+          "en": "Split into west and east (Moghulistan)"
+        },
+        "capital": {
+          "ja": "アルマリク・トゥルファンなど",
+          "en": "Almaliq, later Turfan and others"
+        },
+        "religion": {
+          "ja": "イスラーム",
+          "en": "Islam"
+        },
+        "summary": {
+          "ja": "1340年代に東西に分裂し、西チャガタイ＝ハン国からはティムールが台頭して1370年にティムール朝を建てた。東部はモグーリスタン＝ハン国として存続し、トゥグルク＝ティムールのもとでイスラームを受容してタリム盆地の住民のトルコ＝イスラーム化を進めた。",
+          "en": "In the 1340s the khanate split; Timur rose from the western half to found the Timurid state in 1370. The eastern half survived as Moghulistan, embraced Islam under Tughlugh Timur, and furthered the Turkic-Islamic transformation of the Tarim Basin."
+        },
+        "rulers": [
+          {
+            "from": 1347,
+            "to": 1363,
+            "name": {
+              "ja": "トゥグルク＝ティムール",
+              "en": "Tughlugh Timur"
+            }
+          },
+          {
+            "from": 1389,
+            "to": 1399,
+            "name": {
+              "ja": "ヒズル＝ホージャ",
+              "en": "Khizr Khoja"
+            }
+          },
+          {
+            "from": 1418,
+            "to": 1428,
+            "name": {
+              "ja": "ウワイス＝ハン",
+              "en": "Uwais Khan"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "チャガタイ・ハン国",
+      "en": "Chagatai Khanate"
+    }
+  },
+  {
+    "id": "golden-horde",
+    "name": {
+      "ja": "キプチャク＝ハン国",
+      "en": "Kipchak Khanate (Golden Horde)"
+    },
+    "basemap_names": [
+      "Khanate of the Golden Horde",
+      "Golden Horde",
+      "Blue Horde",
+      "White Horde"
+    ],
+    "periods": [
+      {
+        "from": 1243,
+        "to": 1502,
+        "government": {
+          "ja": "遊牧ハン国（ロシア諸公国を間接支配）",
+          "en": "Nomadic khanate ruling the Russian principalities indirectly"
+        },
+        "capital": {
+          "ja": "サライ",
+          "en": "Sarai"
+        },
+        "religion": {
+          "ja": "イスラーム（ウズベク＝ハン以降）",
+          "en": "Islam from Uzbek Khan onward"
+        },
+        "summary": {
+          "ja": "バトゥの西征ののち、ヴォルガ川下流のサライを都として南ロシアの草原に成立した。キエフなどロシア諸公国を服属させて貢納させ（「タタールのくびき」）、ウズベク＝ハンのときイスラームを国教とした。ティムールの攻撃で衰え、モスクワ大公国の自立を許して分裂した。",
+          "en": "Established after Batu's western campaign on the south Russian steppe with its capital at Sarai on the lower Volga. It subjected the Russian principalities to tribute (the \"Tatar yoke\") and under Uzbek Khan adopted Islam. Weakened by Timur's attacks, it lost control of Muscovy and broke into successor khanates."
+        },
+        "rulers": [
+          {
+            "from": 1227,
+            "to": 1255,
+            "name": {
+              "ja": "バトゥ",
+              "en": "Batu"
+            }
+          },
+          {
+            "from": 1257,
+            "to": 1266,
+            "name": {
+              "ja": "ベルケ",
+              "en": "Berke"
+            }
+          },
+          {
+            "from": 1313,
+            "to": 1341,
+            "name": {
+              "ja": "ウズベク＝ハン",
+              "en": "Uzbek Khan"
+            }
+          },
+          {
+            "from": 1342,
+            "to": 1357,
+            "name": {
+              "ja": "ジャニベク",
+              "en": "Janibek"
+            }
+          },
+          {
+            "from": 1380,
+            "to": 1395,
+            "name": {
+              "ja": "トクタミシュ",
+              "en": "Tokhtamysh"
+            }
+          },
+          {
+            "from": 1465,
+            "to": 1481,
+            "name": {
+              "ja": "アフマド",
+              "en": "Ahmed Khan"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "ジョチ・ウルス",
+      "en": "Golden Horde"
+    }
+  },
+  {
+    "id": "northern-yuan-tatar",
+    "name": {
+      "ja": "タタール（北元）",
+      "en": "Tatars (Northern Yuan)"
+    },
+    "basemap_names": [],
+    "periods": [
+      {
+        "from": 1368,
+        "to": 1634,
+        "government": {
+          "ja": "遊牧諸部の連合（ハンの権威は不安定）",
+          "en": "Loose confederation of nomadic tribes under weak khans"
+        },
+        "capital": {
+          "ja": "カラコルム周辺・帰化城（フフホト）",
+          "en": "Karakorum region; later Guihua (Hohhot)"
+        },
+        "religion": {
+          "ja": "チベット仏教（アルタン＝ハン以降）",
+          "en": "Tibetan Buddhism from Altan Khan"
+        },
+        "summary": {
+          "ja": "元の朝廷がモンゴル高原に退いた北元に始まり、明では韃靼（タタール）と呼ばれた。オイラトと抗争しつつダヤン＝ハンが再統一し、孫のアルタン＝ハンは明と交易を求めて北京を包囲し（庚戌の変）、チベット仏教を受け入れてダライ＝ラマの称号を贈った。17世紀にリンダン＝ハンが後金に敗れて服属した。",
+          "en": "Began as the Northern Yuan when the Mongol court withdrew to the steppe; the Ming called them Tatars. Despite wars with the Oirats, Dayan Khan reunited the eastern Mongols, and his grandson Altan Khan besieged Beijing to force trade (1550) and adopted Tibetan Buddhism, bestowing the title Dalai Lama. In the 17th century Ligdan Khan was defeated by the Later Jin and the Mongols submitted."
+        },
+        "rulers": [
+          {
+            "from": 1368,
+            "to": 1370,
+            "name": {
+              "ja": "トゴン＝テムル",
+              "en": "Toghon Temür"
+            }
+          },
+          {
+            "from": 1370,
+            "to": 1378,
+            "name": {
+              "ja": "アユシリダラ",
+              "en": "Ayushiridara"
+            }
+          },
+          {
+            "from": 1480,
+            "to": 1517,
+            "name": {
+              "ja": "ダヤン＝ハン",
+              "en": "Dayan Khan"
+            }
+          },
+          {
+            "from": 1542,
+            "to": 1582,
+            "name": {
+              "ja": "アルタン＝ハン",
+              "en": "Altan Khan"
+            }
+          },
+          {
+            "from": 1604,
+            "to": 1634,
+            "name": {
+              "ja": "リンダン＝ハン",
+              "en": "Ligdan Khan"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "北元",
+      "en": "Northern Yuan dynasty"
+    }
+  },
+  {
+    "id": "oirat",
+    "name": {
+      "ja": "オイラト",
+      "en": "Oirats"
+    },
+    "basemap_names": [
+      "Oirat Confederation"
+    ],
+    "periods": [
+      {
+        "from": 1399,
+        "to": 1634,
+        "government": {
+          "ja": "遊牧部族連合",
+          "en": "Nomadic tribal confederation"
+        },
+        "capital": {
+          "ja": "ジュンガリア（イリ地方）",
+          "en": "Dzungaria (Ili region)"
+        },
+        "religion": {
+          "ja": "シャーマニズム→チベット仏教",
+          "en": "Shamanism, later Tibetan Buddhism"
+        },
+        "summary": {
+          "ja": "モンゴル高原西部の遊牧部族連合で、明では瓦剌と呼ばれた。15世紀半ばにエセンが東モンゴルを従えて強大化し、1449年の土木の変で明の正統帝を捕らえた。エセンの死後は衰え、17世紀にはその一派ジュンガルが台頭した。",
+          "en": "A confederation of nomadic tribes of western Mongolia, called Wala by the Ming. In the mid-15th century Esen subjugated the eastern Mongols and captured the Ming Zhengtong Emperor at Tumu in 1449. After Esen's death the Oirats declined until the Dzungars rose from among them in the 17th century."
+        },
+        "rulers": [
+          {
+            "from": 1418,
+            "to": 1438,
+            "name": {
+              "ja": "トゴン",
+              "en": "Toghon"
+            }
+          },
+          {
+            "from": 1438,
+            "to": 1454,
+            "name": {
+              "ja": "エセン＝ハン",
+              "en": "Esen Khan"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "オイラト",
+      "en": "Oirats"
+    }
+  },
+  {
+    "id": "dzungar",
+    "name": {
+      "ja": "ジュンガル",
+      "en": "Dzungar Khanate"
+    },
+    "basemap_names": [],
+    "periods": [
+      {
+        "from": 1635,
+        "to": 1758,
+        "government": {
+          "ja": "遊牧国家（オイラトのジュンガル部）",
+          "en": "Nomadic state of the Dzungar Oirats"
+        },
+        "capital": {
+          "ja": "イリ",
+          "en": "Ili"
+        },
+        "religion": {
+          "ja": "チベット仏教",
+          "en": "Tibetan Buddhism"
+        },
+        "summary": {
+          "ja": "オイラトの一部族ジュンガルが天山北路に建てた最後の遊牧帝国。ガルダンはタリム盆地のオアシスを支配し、外モンゴルに侵入して康熙帝の親征を受けた。チベットにも介入して清と対立を続けたが、内紛に乗じた乾隆帝の遠征で1758年に滅亡し、その地は新疆となった。",
+          "en": "The last great nomadic empire, built by the Dzungar branch of the Oirats north of the Tianshan. Galdan seized the Tarim oases and invaded Outer Mongolia, provoking the Kangxi Emperor's campaigns. The Dzungars contended with the Qing over Tibet until internal strife let the Qianlong Emperor destroy them in 1758; their lands became Xinjiang."
+        },
+        "rulers": [
+          {
+            "from": 1635,
+            "to": 1653,
+            "name": {
+              "ja": "バートル＝ホンタイジ",
+              "en": "Batur Khong Tayiji"
+            }
+          },
+          {
+            "from": 1671,
+            "to": 1697,
+            "name": {
+              "ja": "ガルダン",
+              "en": "Galdan"
+            }
+          },
+          {
+            "from": 1697,
+            "to": 1727,
+            "name": {
+              "ja": "ツェワン＝アラブタン",
+              "en": "Tsewang Rabtan"
+            }
+          },
+          {
+            "from": 1727,
+            "to": 1745,
+            "name": {
+              "ja": "ガルダン＝ツェリン",
+              "en": "Galdan Tseren"
+            }
+          },
+          {
+            "from": 1755,
+            "to": 1757,
+            "name": {
+              "ja": "アムルサナ",
+              "en": "Amursana"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "ジュンガル",
+      "en": "Dzungar Khanate"
+    }
+  },
+  {
+    "id": "ming-dynasty",
+    "name": {
+      "ja": "明",
+      "en": "Ming dynasty"
+    },
+    "basemap_names": [
+      "Ming Empire",
+      "Ming Chinese Empire",
+      "Post-Ming Warlords"
+    ],
+    "periods": [
+      {
+        "from": 1368,
+        "to": 1449,
+        "government": {
+          "ja": "皇帝独裁（中書省廃止・六部直属・里甲制）",
+          "en": "Imperial autocracy: chancellery abolished, Six Ministries under the emperor, lijia system"
+        },
+        "capital": {
+          "ja": "南京→北京（1421）",
+          "en": "Nanjing, then Beijing (1421)"
+        },
+        "religion": {
+          "ja": "儒教（朱子学を官学化）",
+          "en": "Confucianism (Neo-Confucian orthodoxy)"
+        },
+        "summary": {
+          "ja": "紅巾の乱から身を起こした朱元璋（洪武帝）が南京で建国し、中書省を廃して六部を直属させ、里甲制・魚鱗図冊・賦役黄冊で農村を把握し、六諭で民衆を教化した。永楽帝は靖難の役で帝位を奪い北京に遷都し、鄭和を南海に派遣した。海禁をしき朝貢貿易を行ったが、1449年の土木の変で正統帝がオイラトに捕らえられた。",
+          "en": "Zhu Yuanzhang (Hongwu), risen from the Red Turban revolt, founded the Ming at Nanjing, abolished the chancellery, placed the Six Ministries under himself, and controlled villages through the lijia system, land and tax registers and the Six Maxims. The Yongle Emperor seized the throne, moved the capital to Beijing and sent Zheng He to the southern seas. Trade was restricted to tribute under the maritime ban; in 1449 the Zhengtong Emperor was captured by the Oirats at Tumu."
+        },
+        "rulers": [
+          {
+            "from": 1368,
+            "to": 1398,
+            "name": {
+              "ja": "洪武帝",
+              "en": "Hongwu Emperor"
+            }
+          },
+          {
+            "from": 1398,
+            "to": 1402,
+            "name": {
+              "ja": "建文帝",
+              "en": "Jianwen Emperor"
+            }
+          },
+          {
+            "from": 1402,
+            "to": 1424,
+            "name": {
+              "ja": "永楽帝",
+              "en": "Yongle Emperor"
+            }
+          },
+          {
+            "from": 1425,
+            "to": 1435,
+            "name": {
+              "ja": "宣徳帝",
+              "en": "Xuande Emperor"
+            }
+          },
+          {
+            "from": 1435,
+            "to": 1449,
+            "name": {
+              "ja": "正統帝（英宗）",
+              "en": "Zhengtong Emperor (Yingzong)"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1449,
+        "to": 1644,
+        "government": {
+          "ja": "皇帝独裁（内閣大学士・宦官の台頭、一条鞭法）",
+          "en": "Imperial autocracy with Grand Secretaries and eunuch power; Single Whip tax"
+        },
+        "capital": {
+          "ja": "北京",
+          "en": "Beijing"
+        },
+        "religion": {
+          "ja": "儒教（陽明学の興隆）",
+          "en": "Confucianism; rise of Wang Yangming's school"
+        },
+        "summary": {
+          "ja": "北虜南倭に苦しみ、アルタン＝ハンの侵入と倭寇の活動で海禁は緩められた。万暦帝の初期には張居正が財政を立て直し、銀納の一条鞭法が広まった。豊臣秀吉の朝鮮侵略への援軍で財政が傾き、宦官と東林派の党争、重税に苦しむ農民の反乱が続き、1644年に李自成が北京を占領して崇禎帝が自殺した。",
+          "en": "Harried by \"northern barbarians and southern pirates\", the court faced Altan Khan's raids and the wokou, and eased the maritime ban. Early in the Wanli reign Zhang Juzheng restored the finances and the silver-based Single Whip tax spread. Aid to Korea against Hideyoshi drained the treasury; eunuch–Donglin strife and peasant revolts followed, and in 1644 Li Zicheng took Beijing and the Chongzhen Emperor hanged himself."
+        },
+        "rulers": [
+          {
+            "from": 1464,
+            "to": 1487,
+            "name": {
+              "ja": "成化帝",
+              "en": "Chenghua Emperor"
+            }
+          },
+          {
+            "from": 1521,
+            "to": 1567,
+            "name": {
+              "ja": "嘉靖帝",
+              "en": "Jiajing Emperor"
+            }
+          },
+          {
+            "from": 1567,
+            "to": 1572,
+            "name": {
+              "ja": "隆慶帝",
+              "en": "Longqing Emperor"
+            }
+          },
+          {
+            "from": 1572,
+            "to": 1620,
+            "name": {
+              "ja": "万暦帝",
+              "en": "Wanli Emperor"
+            }
+          },
+          {
+            "from": 1620,
+            "to": 1627,
+            "name": {
+              "ja": "天啓帝",
+              "en": "Tianqi Emperor"
+            }
+          },
+          {
+            "from": 1627,
+            "to": 1644,
+            "name": {
+              "ja": "崇禎帝",
+              "en": "Chongzhen Emperor"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1644,
+        "to": 1683,
+        "government": {
+          "ja": "南明諸政権と鄭氏台湾",
+          "en": "Southern Ming courts and the Zheng regime on Taiwan"
+        },
+        "capital": {
+          "ja": "南京・福州・肇慶／台湾（承天府）",
+          "en": "Nanjing, Fuzhou, Zhaoqing; Taiwan (Chengtian)"
+        },
+        "summary": {
+          "ja": "北京陥落後、明の皇族が江南や華南で南明政権を立てて清に抵抗したが、永暦帝が1662年に殺されて滅んだ。鄭成功はオランダを追って台湾を拠点とし、子孫が明の年号を奉じて抵抗を続けたが、1683年に清の康熙帝に降伏した。",
+          "en": "After Beijing fell, Ming princes set up Southern Ming courts in the south and resisted the Qing until the Yongli Emperor was killed in 1662. Zheng Chenggong (Koxinga) expelled the Dutch from Taiwan and his heirs held out there under the Ming calendar until they surrendered to the Kangxi Emperor in 1683."
+        },
+        "rulers": [
+          {
+            "from": 1644,
+            "to": 1645,
+            "name": {
+              "ja": "弘光帝",
+              "en": "Hongguang Emperor"
+            }
+          },
+          {
+            "from": 1646,
+            "to": 1662,
+            "name": {
+              "ja": "永暦帝",
+              "en": "Yongli Emperor"
+            }
+          },
+          {
+            "from": 1661,
+            "to": 1662,
+            "name": {
+              "ja": "鄭成功",
+              "en": "Zheng Chenggong (Koxinga)"
+            }
+          },
+          {
+            "from": 1662,
+            "to": 1681,
+            "name": {
+              "ja": "鄭経",
+              "en": "Zheng Jing"
+            }
+          },
+          {
+            "from": 1681,
+            "to": 1683,
+            "name": {
+              "ja": "鄭克塽",
+              "en": "Zheng Keshuang"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "明",
+      "en": "Ming dynasty"
+    }
+  },
+  {
+    "id": "qing-dynasty",
+    "name": {
+      "ja": "清",
+      "en": "Qing dynasty"
+    },
+    "basemap_names": [
+      "Manchu Empire",
+      "Qing Empire"
+    ],
+    "periods": [
+      {
+        "from": 1616,
+        "to": 1644,
+        "government": {
+          "ja": "八旗制による満洲国家（後金→清）",
+          "en": "Manchu state organized by the Eight Banners (Later Jin, then Qing)"
+        },
+        "capital": {
+          "ja": "興京→瀋陽（盛京）",
+          "en": "Hetu Ala, then Shenyang (Mukden)"
+        },
+        "religion": {
+          "ja": "シャーマニズム・チベット仏教",
+          "en": "Shamanism and Tibetan Buddhism"
+        },
+        "summary": {
+          "ja": "ヌルハチが女真（満洲）諸部を統一して1616年に後金を建て、八旗を編成し満洲文字をつくった。ホンタイジは内モンゴルのチャハルを従え、朝鮮を服属させて1636年に国号を清と改め、蒙古八旗・漢軍八旗を加えた。1644年、李自成の乱に乗じて呉三桂の手引きで山海関を越え北京に入った。",
+          "en": "Nurhaci united the Jurchen (Manchu) tribes, founded the Later Jin in 1616, created the Eight Banners and the Manchu script. Hong Taiji subdued the Chahar Mongols and Korea, renamed the state Qing in 1636 and added Mongol and Chinese banners. In 1644, amid Li Zicheng's rebellion, the Qing passed the Shanhai Pass with Wu Sangui's help and entered Beijing."
+        },
+        "rulers": [
+          {
+            "from": 1616,
+            "to": 1626,
+            "name": {
+              "ja": "ヌルハチ（太祖）",
+              "en": "Nurhaci (Taizu)"
+            }
+          },
+          {
+            "from": 1626,
+            "to": 1643,
+            "name": {
+              "ja": "ホンタイジ（太宗）",
+              "en": "Hong Taiji (Taizong)"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1644,
+        "to": 1795,
+        "government": {
+          "ja": "皇帝独裁（満漢併用制・軍機処・藩部は理藩院）",
+          "en": "Imperial autocracy: Manchu–Han dual appointments, Grand Council, Lifan Yuan for the dependencies"
+        },
+        "capital": {
+          "ja": "北京",
+          "en": "Beijing"
+        },
+        "religion": {
+          "ja": "儒教（典礼問題後はキリスト教布教を禁止）",
+          "en": "Confucianism; Christian missions banned after the Rites Controversy"
+        },
+        "summary": {
+          "ja": "康熙帝は三藩の乱を平定し、鄭氏台湾を降し、ロシアとネルチンスク条約を結んだ。雍正帝は軍機処を設けて皇帝独裁を強め、乾隆帝はジュンガルを滅ぼして新疆を藩部とし最大版図を築いた。満漢併用制で漢人を登用する一方、辮髪を強制し文字の獄で思想を統制した。『四庫全書』など大編纂事業が行われた。",
+          "en": "The Kangxi Emperor crushed the Revolt of the Three Feudatories, took Taiwan from the Zhengs and signed the Treaty of Nerchinsk with Russia. Yongzheng created the Grand Council to tighten autocracy, and Qianlong destroyed the Dzungars, making Xinjiang a dependency and the empire its largest. Han officials served alongside Manchus, but the queue was enforced and literary inquisitions policed thought; great compilations such as the Siku Quanshu were produced."
+        },
+        "rulers": [
+          {
+            "from": 1643,
+            "to": 1661,
+            "name": {
+              "ja": "順治帝",
+              "en": "Shunzhi Emperor"
+            }
+          },
+          {
+            "from": 1661,
+            "to": 1722,
+            "name": {
+              "ja": "康熙帝",
+              "en": "Kangxi Emperor"
+            }
+          },
+          {
+            "from": 1722,
+            "to": 1735,
+            "name": {
+              "ja": "雍正帝",
+              "en": "Yongzheng Emperor"
+            }
+          },
+          {
+            "from": 1735,
+            "to": 1795,
+            "name": {
+              "ja": "乾隆帝",
+              "en": "Qianlong Emperor"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1796,
+        "to": 1912,
+        "government": {
+          "ja": "皇帝独裁の動揺（洋務運動・変法・立憲準備）",
+          "en": "Weakening autocracy: Self-Strengthening, Hundred Days, constitutional preparation"
+        },
+        "capital": {
+          "ja": "北京",
+          "en": "Beijing"
+        },
+        "religion": {
+          "ja": "儒教",
+          "en": "Confucianism"
+        },
+        "summary": {
+          "ja": "白蓮教徒の乱で衰えが露わになり、アヘン戦争・アロー戦争で南京条約・北京条約を結んで開港を強いられた。太平天国の乱は曾国藩・李鴻章らの郷勇が鎮圧し、洋務運動が進められたが日清戦争に敗れた。戊戌の変法は西太后に阻まれ、義和団事件後に光緒新政を行ったが、1911年の辛亥革命で宣統帝が退位した。",
+          "en": "The White Lotus rebellion exposed decline, and defeat in the Opium and Arrow Wars forced the Treaties of Nanjing and Beijing. The Taiping rebellion was crushed by the regional armies of Zeng Guofan and Li Hongzhang and the Self-Strengthening Movement followed, but China lost the Sino-Japanese War. Empress Dowager Cixi blocked the Hundred Days' Reform; late reforms after the Boxer uprising came too late, and the 1911 Revolution forced the Xuantong Emperor's abdication."
+        },
+        "rulers": [
+          {
+            "from": 1796,
+            "to": 1820,
+            "name": {
+              "ja": "嘉慶帝",
+              "en": "Jiaqing Emperor"
+            }
+          },
+          {
+            "from": 1820,
+            "to": 1850,
+            "name": {
+              "ja": "道光帝",
+              "en": "Daoguang Emperor"
+            }
+          },
+          {
+            "from": 1850,
+            "to": 1861,
+            "name": {
+              "ja": "咸豊帝",
+              "en": "Xianfeng Emperor"
+            }
+          },
+          {
+            "from": 1861,
+            "to": 1875,
+            "name": {
+              "ja": "同治帝",
+              "en": "Tongzhi Emperor"
+            }
+          },
+          {
+            "from": 1861,
+            "to": 1908,
+            "name": {
+              "ja": "西太后",
+              "en": "Empress Dowager Cixi"
+            }
+          },
+          {
+            "from": 1875,
+            "to": 1908,
+            "name": {
+              "ja": "光緒帝",
+              "en": "Guangxu Emperor"
+            }
+          },
+          {
+            "from": 1908,
+            "to": 1912,
+            "name": {
+              "ja": "宣統帝（溥儀）",
+              "en": "Xuantong Emperor (Puyi)"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "清",
+      "en": "Qing dynasty"
+    }
+  },
+  {
+    "id": "republic-of-china",
+    "name": {
+      "ja": "中華民国",
+      "en": "Republic of China"
+    },
+    "basemap_names": [
+      "Chinese Warlords",
+      "Chinese warlords",
+      "Manchuria",
+      "Xinjiang"
+    ],
+    "periods": [
+      {
+        "from": 1912,
+        "to": 1928,
+        "government": {
+          "ja": "共和制（北京政府・軍閥の割拠）",
+          "en": "Republic under the Beijing government; warlord fragmentation"
+        },
+        "capital": {
+          "ja": "北京",
+          "en": "Beijing"
+        },
+        "summary": {
+          "ja": "辛亥革命により1912年に南京で成立し、孫文が臨時大総統となったが、清帝退位と引き換えに袁世凱が実権を握った。袁の帝政復活の失敗後は北洋軍閥が北京政府を争い、各地に軍閥が割拠した。二十一カ条要求への反発から五・四運動が起こり、孫文は中国国民党を結成して国共合作に進んだ。",
+          "en": "Proclaimed at Nanjing in 1912 after the Xinhai Revolution with Sun Yat-sen as provisional president, but Yuan Shikai took power in exchange for the Qing abdication. After Yuan's failed monarchy, Beiyang warlords fought over the Beijing government while regional warlords held the provinces. Resentment of the Twenty-One Demands sparked the May Fourth Movement; Sun founded the Nationalist Party and formed the first United Front with the Communists."
+        },
+        "rulers": [
+          {
+            "from": 1912,
+            "to": 1912,
+            "name": {
+              "ja": "孫文",
+              "en": "Sun Yat-sen"
+            }
+          },
+          {
+            "from": 1912,
+            "to": 1916,
+            "name": {
+              "ja": "袁世凱",
+              "en": "Yuan Shikai"
+            }
+          },
+          {
+            "from": 1916,
+            "to": 1917,
+            "name": {
+              "ja": "黎元洪",
+              "en": "Li Yuanhong"
+            }
+          },
+          {
+            "from": 1916,
+            "to": 1920,
+            "name": {
+              "ja": "段祺瑞",
+              "en": "Duan Qirui"
+            }
+          },
+          {
+            "from": 1927,
+            "to": 1928,
+            "name": {
+              "ja": "張作霖",
+              "en": "Zhang Zuolin"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1928,
+        "to": 1949,
+        "government": {
+          "ja": "中国国民党の一党訓政（国民政府）",
+          "en": "Nationalist Party tutelage under the National Government"
+        },
+        "capital": {
+          "ja": "南京（1937–45は重慶）",
+          "en": "Nanjing (Chongqing 1937–45)"
+        },
+        "summary": {
+          "ja": "蔣介石の北伐で1928年に全国統一を達成し、南京に国民政府を置いて国民党一党の訓政をしいた。満洲事変・日中戦争では重慶に移って抗戦し、第二次国共合作を結んだ。戦後は国共内戦に敗れ、1949年に政府は台湾に移った。",
+          "en": "Chiang Kai-shek's Northern Expedition unified the country in 1928 and the National Government at Nanjing ruled under one-party Nationalist tutelage. During the Manchurian Incident and the Sino-Japanese War the government withdrew to Chongqing and formed a second United Front with the Communists. Defeated in the postwar civil war, it moved to Taiwan in 1949."
+        },
+        "rulers": [
+          {
+            "from": 1928,
+            "to": 1931,
+            "name": {
+              "ja": "蔣介石（国民政府主席）",
+              "en": "Chiang Kai-shek (Chairman)"
+            }
+          },
+          {
+            "from": 1931,
+            "to": 1943,
+            "name": {
+              "ja": "林森",
+              "en": "Lin Sen"
+            }
+          },
+          {
+            "from": 1943,
+            "to": 1949,
+            "name": {
+              "ja": "蔣介石",
+              "en": "Chiang Kai-shek"
+            }
+          },
+          {
+            "from": 1949,
+            "to": 1949,
+            "name": {
+              "ja": "李宗仁（代総統）",
+              "en": "Li Zongren (acting president)"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "中華民国",
+      "en": "Republic of China (1912–1949)"
+    }
+  },
+  {
+    "id": "peoples-republic-of-china",
+    "name": {
+      "ja": "中華人民共和国",
+      "en": "People's Republic of China"
+    },
+    "basemap_names": [
+      "China"
+    ],
+    "periods": [
+      {
+        "from": 1949,
+        "to": 1976,
+        "government": {
+          "ja": "中国共産党による一党支配の社会主義国家",
+          "en": "Socialist state under one-party rule of the Communist Party"
+        },
+        "capital": {
+          "ja": "北京",
+          "en": "Beijing"
+        },
+        "summary": {
+          "ja": "1949年10月、毛沢東を主席として北京で成立した。土地改革と第1次五カ年計画で社会主義化を進め、朝鮮戦争に参戦した。大躍進の失敗で毛沢東は国家主席を退いたが、1966年からプロレタリア文化大革命を発動して劉少奇らを失脚させた。1971年に国連代表権を得て、1972年にはニクソン訪中と日中国交正常化が実現した。",
+          "en": "Founded at Beijing in October 1949 with Mao Zedong as chairman. Land reform and the First Five-Year Plan pushed socialization, and China entered the Korean War. After the Great Leap Forward failed Mao gave up the state chairmanship, then launched the Cultural Revolution in 1966 and purged Liu Shaoqi. China took the UN seat in 1971, and Nixon's visit and normalization with Japan followed in 1972."
+        },
+        "rulers": [
+          {
+            "from": 1949,
+            "to": 1976,
+            "name": {
+              "ja": "毛沢東",
+              "en": "Mao Zedong"
+            }
+          },
+          {
+            "from": 1949,
+            "to": 1976,
+            "name": {
+              "ja": "周恩来",
+              "en": "Zhou Enlai"
+            }
+          },
+          {
+            "from": 1959,
+            "to": 1968,
+            "name": {
+              "ja": "劉少奇",
+              "en": "Liu Shaoqi"
+            }
+          },
+          {
+            "from": 1969,
+            "to": 1971,
+            "name": {
+              "ja": "林彪",
+              "en": "Lin Biao"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1976,
+        "to": 2026,
+        "government": {
+          "ja": "共産党一党支配のもとでの改革開放・社会主義市場経済",
+          "en": "One-party rule with reform and opening; socialist market economy"
+        },
+        "capital": {
+          "ja": "北京",
+          "en": "Beijing"
+        },
+        "summary": {
+          "ja": "毛沢東の死後、華国鋒が四人組を逮捕し、1978年から鄧小平のもとで改革・開放政策が始まり、人民公社の解体や経済特区の設置が進んだ。1989年の天安門事件で民主化運動は弾圧されたが、江沢民期に社会主義市場経済を掲げて高度成長を続け、香港・マカオが返還された。21世紀には世界第2位の経済大国となり、習近平のもとで権力集中が進んだ。",
+          "en": "After Mao's death Hua Guofeng arrested the Gang of Four, and from 1978 Deng Xiaoping's reform and opening dismantled the communes and created special economic zones. The 1989 Tiananmen crackdown ended the democracy movement, but under Jiang Zemin the \"socialist market economy\" sustained rapid growth and Hong Kong and Macau were returned. In the 21st century China became the world's second-largest economy, with power concentrated under Xi Jinping."
+        },
+        "rulers": [
+          {
+            "from": 1976,
+            "to": 1981,
+            "name": {
+              "ja": "華国鋒",
+              "en": "Hua Guofeng"
+            }
+          },
+          {
+            "from": 1978,
+            "to": 1992,
+            "name": {
+              "ja": "鄧小平",
+              "en": "Deng Xiaoping"
+            }
+          },
+          {
+            "from": 1989,
+            "to": 2002,
+            "name": {
+              "ja": "江沢民",
+              "en": "Jiang Zemin"
+            }
+          },
+          {
+            "from": 2002,
+            "to": 2012,
+            "name": {
+              "ja": "胡錦濤",
+              "en": "Hu Jintao"
+            }
+          },
+          {
+            "from": 2012,
+            "to": 2026,
+            "name": {
+              "ja": "習近平",
+              "en": "Xi Jinping"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "中華人民共和国",
+      "en": "China"
+    }
+  },
+  {
+    "id": "taiwan",
+    "name": {
+      "ja": "台湾（中華民国）",
+      "en": "Taiwan (Republic of China)"
+    },
+    "basemap_names": [
+      "Taiwan",
+      "Dutch Formosa"
+    ],
+    "periods": [
+      {
+        "from": 1624,
+        "to": 1661,
+        "government": {
+          "ja": "オランダ東インド会社の植民地",
+          "en": "Colony of the Dutch East India Company"
+        },
+        "capital": {
+          "ja": "ゼーランディア城（台南）",
+          "en": "Fort Zeelandia (Tainan)"
+        },
+        "summary": {
+          "ja": "オランダ東インド会社が1624年に台湾南部に拠点を築き、ゼーランディア城を中心に中国・日本との中継貿易を行った。先住民を支配し、福建から漢人移民を入植させて砂糖・鹿皮を輸出した。1662年に鄭成功に降伏して撤退した。",
+          "en": "The Dutch East India Company established a base in southern Taiwan in 1624 and used Fort Zeelandia as an entrepôt for trade with China and Japan. It ruled the indigenous peoples and brought in Han settlers from Fujian to produce sugar and deerskins. In 1662 it surrendered to Zheng Chenggong and withdrew."
+        },
+        "rulers": []
+      },
+      {
+        "from": 1662,
+        "to": 1683,
+        "government": {
+          "ja": "鄭氏政権（明の年号を奉じる）",
+          "en": "Zheng family regime loyal to the Ming"
+        },
+        "capital": {
+          "ja": "承天府（台南）",
+          "en": "Chengtian (Tainan)"
+        },
+        "summary": {
+          "ja": "鄭成功がオランダを追い出して台湾を反清復明の拠点とした。子の鄭経は清の遷界令に対抗しつつ日本や東南アジアとの貿易で勢力を保ったが、三藩の乱後に孤立し、1683年に鄭克塽が清に降伏した。",
+          "en": "Zheng Chenggong expelled the Dutch and made Taiwan a base for restoring the Ming. His son Zheng Jing defied the Qing coastal evacuation order and sustained the regime through trade with Japan and Southeast Asia, but after the Three Feudatories revolt it was isolated, and Zheng Keshuang surrendered to the Qing in 1683."
+        },
+        "rulers": [
+          {
+            "from": 1662,
+            "to": 1662,
+            "name": {
+              "ja": "鄭成功",
+              "en": "Zheng Chenggong (Koxinga)"
+            }
+          },
+          {
+            "from": 1662,
+            "to": 1681,
+            "name": {
+              "ja": "鄭経",
+              "en": "Zheng Jing"
+            }
+          },
+          {
+            "from": 1681,
+            "to": 1683,
+            "name": {
+              "ja": "鄭克塽",
+              "en": "Zheng Keshuang"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1684,
+        "to": 1895,
+        "government": {
+          "ja": "清の統治（福建省台湾府→1885年台湾省）",
+          "en": "Qing rule: Taiwan prefecture of Fujian, province from 1885"
+        },
+        "capital": {
+          "ja": "台湾府（台南）→台北",
+          "en": "Taiwan-fu (Tainan), later Taipei"
+        },
+        "summary": {
+          "ja": "清は1684年に台湾を福建省の一府として領有し、漢人の移住が進んで開発が広がった。19世紀後半に列強の関心が高まると1885年に台湾省を設け、劉銘伝が近代化を進めた。日清戦争の敗北により1895年の下関条約で日本に割譲された。",
+          "en": "The Qing annexed Taiwan in 1684 as a prefecture of Fujian, and Han migration steadily opened the island. As foreign interest grew in the late 19th century, Taiwan became a province in 1885 and Liu Mingchuan pursued modernization. Defeat in the Sino-Japanese War led to its cession to Japan by the Treaty of Shimonoseki in 1895."
+        },
+        "rulers": [
+          {
+            "from": 1885,
+            "to": 1891,
+            "name": {
+              "ja": "劉銘伝（台湾巡撫）",
+              "en": "Liu Mingchuan (governor)"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1895,
+        "to": 1945,
+        "government": {
+          "ja": "日本の植民地統治（台湾総督府）",
+          "en": "Japanese colonial rule under the Government-General"
+        },
+        "capital": {
+          "ja": "台北",
+          "en": "Taipei"
+        },
+        "summary": {
+          "ja": "下関条約で日本領となり、台湾総督府が置かれた。武装抵抗を鎮圧したのち、児玉源太郎・後藤新平のもとで土地調査や製糖業の育成が進んだ。1930年の霧社事件など先住民の抵抗もあり、戦時には皇民化政策がとられた。1945年の日本敗戦で中華民国に接収された。",
+          "en": "Ceded by the Treaty of Shimonoseki, Taiwan was governed by a Japanese Government-General. After armed resistance was crushed, Kodama Gentaro and Goto Shinpei carried out land surveys and built up the sugar industry. Indigenous uprisings such as the Wushe incident of 1930 occurred, and wartime assimilation policies followed. Japan's defeat in 1945 returned the island to the Republic of China."
+        },
+        "rulers": [
+          {
+            "from": 1895,
+            "to": 1896,
+            "name": {
+              "ja": "樺山資紀",
+              "en": "Kabayama Sukenori"
+            }
+          },
+          {
+            "from": 1898,
+            "to": 1906,
+            "name": {
+              "ja": "児玉源太郎",
+              "en": "Kodama Gentaro"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1945,
+        "to": 2026,
+        "government": {
+          "ja": "中華民国（国民党一党支配から1990年代に民主化）",
+          "en": "Republic of China: Nationalist one-party rule, democratized in the 1990s"
+        },
+        "capital": {
+          "ja": "台北",
+          "en": "Taipei"
+        },
+        "summary": {
+          "ja": "1945年に中華民国が接収し、1947年の二・二八事件で本省人を弾圧した。1949年に国共内戦に敗れた国民政府が移り、戒厳令下で蔣介石が独裁したが、輸出志向工業化で経済が成長した。1971年に国連代表権を失い、1987年に戒厳令が解除されて李登輝のもとで民主化が進み、1996年に総統直接選挙が行われた。",
+          "en": "Taken over by the Republic of China in 1945, Taiwan saw the February 28 incident of 1947 suppress the local population. The Nationalist government moved there after losing the civil war in 1949 and ruled under martial law and Chiang Kai-shek's dictatorship, while export-oriented industry drove rapid growth. Taiwan lost its UN seat in 1971; martial law ended in 1987 and under Lee Teng-hui democratization led to the first direct presidential election in 1996."
+        },
+        "rulers": [
+          {
+            "from": 1950,
+            "to": 1975,
+            "name": {
+              "ja": "蔣介石",
+              "en": "Chiang Kai-shek"
+            }
+          },
+          {
+            "from": 1978,
+            "to": 1988,
+            "name": {
+              "ja": "蔣経国",
+              "en": "Chiang Ching-kuo"
+            }
+          },
+          {
+            "from": 1988,
+            "to": 2000,
+            "name": {
+              "ja": "李登輝",
+              "en": "Lee Teng-hui"
+            }
+          },
+          {
+            "from": 2000,
+            "to": 2008,
+            "name": {
+              "ja": "陳水扁",
+              "en": "Chen Shui-bian"
+            }
+          },
+          {
+            "from": 2008,
+            "to": 2016,
+            "name": {
+              "ja": "馬英九",
+              "en": "Ma Ying-jeou"
+            }
+          },
+          {
+            "from": 2016,
+            "to": 2024,
+            "name": {
+              "ja": "蔡英文",
+              "en": "Tsai Ing-wen"
+            }
+          },
+          {
+            "from": 2024,
+            "to": 2026,
+            "name": {
+              "ja": "頼清徳",
+              "en": "Lai Ching-te"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "台湾",
+      "en": "Taiwan"
+    }
+  },
+  {
+    "id": "gojoseon",
+    "name": {
+      "ja": "古朝鮮",
+      "en": "Gojoseon"
+    },
+    "basemap_names": [
+      "Gojoseon"
+    ],
+    "periods": [
+      {
+        "from": -400,
+        "to": -195,
+        "government": {
+          "ja": "部族連合的王国",
+          "en": "Tribal kingdom"
+        },
+        "capital": {
+          "ja": "王倹城（平壌付近）",
+          "en": "Wanggeom-seong (near Pyongyang)"
+        },
+        "summary": {
+          "ja": "檀君や殷の箕子が建てたと伝えられる、朝鮮半島北部から遼東にかけての最古の国家。前4世紀ごろには王を称して戦国時代の燕と争い、中国から鉄器文化を受け入れた。秦漢交替期の混乱で多くの中国人亡命者を受け入れ、衛満もその一人であった。",
+          "en": "The earliest state in northern Korea and Liaodong, traditionally founded by Dangun or by Jizi of Shang. It contended with the Warring State of Yan and adopted iron culture. During the Qin–Han transition it absorbed many refugees from China."
+        },
+        "rulers": []
+      },
+      {
+        "from": -195,
+        "to": -108,
+        "government": {
+          "ja": "衛氏朝鮮（王権）",
+          "en": "Wiman Joseon monarchy"
+        },
+        "capital": {
+          "ja": "王倹城（平壌付近）",
+          "en": "Wanggeom-seong (near Pyongyang)"
+        },
+        "summary": {
+          "ja": "燕から亡命した衛満が古朝鮮の王を追って建てた国。漢の外臣として周辺諸族を従え、中継貿易の利を握った。孫の右渠王のとき漢の武帝の遠征を受け、前108年に滅ぼされて楽浪郡など四郡が置かれた。",
+          "en": "Founded when Wiman, a refugee from Yan, deposed the king of Gojoseon. As a nominal vassal of Han it subdued neighboring tribes and profited from controlling trade with China. Under his grandson Ugeo it was attacked by Emperor Wu of Han and destroyed in 108 BC, after which the Lelang and three other commanderies were established."
+        },
+        "rulers": [
+          {
+            "from": -195,
+            "to": -180,
+            "name": {
+              "ja": "衛満",
+              "en": "Wiman"
+            }
+          },
+          {
+            "from": -128,
+            "to": -108,
+            "name": {
+              "ja": "右渠王",
+              "en": "King Ugeo"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "古朝鮮",
+      "en": "Gojoseon"
+    }
+  },
+  {
+    "id": "lelang-commandery",
+    "name": {
+      "ja": "楽浪郡",
+      "en": "Lelang Commandery"
+    },
+    "basemap_names": [],
+    "periods": [
+      {
+        "from": -108,
+        "to": 313,
+        "government": {
+          "ja": "漢（のち魏・晋）の直轄郡",
+          "en": "Han, later Wei and Jin, commandery"
+        },
+        "capital": {
+          "ja": "楽浪（平壌）",
+          "en": "Lelang (Pyongyang)"
+        },
+        "summary": {
+          "ja": "前108年に漢の武帝が衛氏朝鮮を滅ぼして置いた朝鮮四郡の中心で、平壌付近にあった。中国文化が朝鮮半島や倭に伝わる窓口となり、倭の奴国などの朝貢もここを通じて行われた。3世紀には南部に帯方郡が分置され、313年に高句麗に滅ぼされた。",
+          "en": "The chief of the four commanderies that Emperor Wu of Han set up in 108 BC after destroying Wiman Joseon, centered near Pyongyang. It was the channel through which Chinese culture reached Korea and Wa, and embassies such as that of the state of Na in Wa passed through it. Daifang commandery was split off to the south in the 3rd century; Goguryeo destroyed Lelang in 313."
+        },
+        "rulers": []
+      }
+    ],
+    "wiki": {
+      "ja": "楽浪郡",
+      "en": "Lelang Commandery"
+    }
+  },
+  {
+    "id": "goguryeo",
+    "name": {
+      "ja": "高句麗",
+      "en": "Goguryeo"
+    },
+    "basemap_names": [
+      "Koguryo"
+    ],
+    "periods": [
+      {
+        "from": -37,
+        "to": 427,
+        "government": {
+          "ja": "部族連合から中央集権的王国へ",
+          "en": "Tribal confederation evolving into a centralized kingdom"
+        },
+        "capital": {
+          "ja": "丸都城（国内城）",
+          "en": "Hwando (Gungnae)"
+        },
+        "religion": {
+          "ja": "仏教（372年公伝）",
+          "en": "Buddhism (introduced 372)"
+        },
+        "summary": {
+          "ja": "ツングース系貊族が鴨緑江中流域に建てた国で、朱蒙（東明王）を始祖と伝える。中国東北部に勢力を広げ、313年に楽浪郡を滅ぼした。小獣林王は仏教を受容し太学を設け律令を定め、広開土王は百済や倭を破って領土を大きく広げた。",
+          "en": "Founded by the Tungusic Maek people on the middle Yalu, tracing its origin to Jumong (King Dongmyeong). It expanded into northeast China and destroyed the Lelang commandery in 313. King Sosurim adopted Buddhism, founded a national academy and promulgated laws, and King Gwanggaeto defeated Baekje and Wa to expand the kingdom greatly."
+        },
+        "rulers": [
+          {
+            "from": 53,
+            "to": 146,
+            "name": {
+              "ja": "太祖王",
+              "en": "King Taejo"
+            }
+          },
+          {
+            "from": 179,
+            "to": 197,
+            "name": {
+              "ja": "故国川王",
+              "en": "King Gogukcheon"
+            }
+          },
+          {
+            "from": 300,
+            "to": 331,
+            "name": {
+              "ja": "美川王",
+              "en": "King Micheon"
+            }
+          },
+          {
+            "from": 371,
+            "to": 384,
+            "name": {
+              "ja": "小獣林王",
+              "en": "King Sosurim"
+            }
+          },
+          {
+            "from": 391,
+            "to": 412,
+            "name": {
+              "ja": "広開土王",
+              "en": "King Gwanggaeto"
+            }
+          }
+        ]
+      },
+      {
+        "from": 427,
+        "to": 668,
+        "government": {
+          "ja": "中央集権的王国（のち淵蓋蘇文の専権）",
+          "en": "Centralized kingdom, later dominated by Yeon Gaesomun"
+        },
+        "capital": {
+          "ja": "平壌",
+          "en": "Pyongyang"
+        },
+        "religion": {
+          "ja": "仏教・道教",
+          "en": "Buddhism and Daoism"
+        },
+        "summary": {
+          "ja": "長寿王は427年に平壌に遷都し、南下して百済の漢城を奪い、朝鮮半島北部から満洲にわたる最盛期を築いた。隋の煬帝の遠征を乙支文徳が撃退し、唐の太宗の攻撃も退けたが、淵蓋蘇文の死後に内紛が起こり、668年に唐・新羅連合軍に滅ぼされた。",
+          "en": "King Jangsu moved the capital to Pyongyang in 427, pushed south to seize Baekje's Hanseong, and brought the kingdom to its height from northern Korea to Manchuria. Eulji Mundeok repelled Emperor Yang of Sui and the attacks of Tang Taizong were also beaten off, but strife after the death of Yeon Gaesomun let the Tang–Silla alliance destroy Goguryeo in 668."
+        },
+        "rulers": [
+          {
+            "from": 413,
+            "to": 491,
+            "name": {
+              "ja": "長寿王",
+              "en": "King Jangsu"
+            }
+          },
+          {
+            "from": 590,
+            "to": 618,
+            "name": {
+              "ja": "嬰陽王",
+              "en": "King Yeongyang"
+            }
+          },
+          {
+            "from": 618,
+            "to": 642,
+            "name": {
+              "ja": "栄留王",
+              "en": "King Yeongnyu"
+            }
+          },
+          {
+            "from": 642,
+            "to": 668,
+            "name": {
+              "ja": "宝蔵王",
+              "en": "King Bojang"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "高句麗",
+      "en": "Goguryeo"
+    }
+  },
+  {
+    "id": "baekje",
+    "name": {
+      "ja": "百済",
+      "en": "Baekje"
+    },
+    "basemap_names": [
+      "Paekche"
+    ],
+    "periods": [
+      {
+        "from": -18,
+        "to": 660,
+        "government": {
+          "ja": "王国（王族と貴族による統治）",
+          "en": "Monarchy governed by royal and aristocratic clans"
+        },
+        "capital": {
+          "ja": "漢城→熊津（475）→泗沘（538）",
+          "en": "Hanseong, Ungjin (475), Sabi (538)"
+        },
+        "religion": {
+          "ja": "仏教（384年公伝）",
+          "en": "Buddhism (introduced 384)"
+        },
+        "summary": {
+          "ja": "馬韓の地に扶余系の王族が建てた国で、漢江流域の漢城を都とした。近肖古王のとき高句麗を破って最盛期を迎え、倭に七支刀を贈った。高句麗に漢城を奪われて熊津、さらに泗沘に遷都し、聖王は倭に仏教を伝えた。新羅と対立し、660年に唐・新羅連合軍に滅ぼされた。",
+          "en": "Founded in the Mahan region by a royal house of Buyeo origin with its capital at Hanseong on the Han River. Under King Geunchogo it defeated Goguryeo, reached its peak and sent the Seven-Branched Sword to Wa. After Goguryeo took Hanseong the capital moved to Ungjin and then Sabi, and King Seong transmitted Buddhism to Japan. At war with Silla, Baekje was destroyed by the Tang–Silla alliance in 660."
+        },
+        "rulers": [
+          {
+            "from": -18,
+            "to": 28,
+            "name": {
+              "ja": "温祚王",
+              "en": "King Onjo"
+            }
+          },
+          {
+            "from": 346,
+            "to": 375,
+            "name": {
+              "ja": "近肖古王",
+              "en": "King Geunchogo"
+            }
+          },
+          {
+            "from": 475,
+            "to": 477,
+            "name": {
+              "ja": "文周王",
+              "en": "King Munju"
+            }
+          },
+          {
+            "from": 501,
+            "to": 523,
+            "name": {
+              "ja": "武寧王",
+              "en": "King Muryeong"
+            }
+          },
+          {
+            "from": 523,
+            "to": 554,
+            "name": {
+              "ja": "聖王（聖明王）",
+              "en": "King Seong"
+            }
+          },
+          {
+            "from": 600,
+            "to": 641,
+            "name": {
+              "ja": "武王",
+              "en": "King Mu"
+            }
+          },
+          {
+            "from": 641,
+            "to": 660,
+            "name": {
+              "ja": "義慈王",
+              "en": "King Uija"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "百済",
+      "en": "Baekje"
+    }
+  },
+  {
+    "id": "gaya",
+    "name": {
+      "ja": "加耶（加羅）",
+      "en": "Gaya confederacy"
+    },
+    "basemap_names": [
+      "Gaya"
+    ],
+    "periods": [
+      {
+        "from": 42,
+        "to": 562,
+        "government": {
+          "ja": "小国連合（金官加耶・大加耶が中心）",
+          "en": "Confederacy of small states led by Geumgwan and Daegaya"
+        },
+        "capital": {
+          "ja": "金海（金官加耶）・高霊（大加耶）",
+          "en": "Gimhae (Geumgwan Gaya), Goryeong (Daegaya)"
+        },
+        "summary": {
+          "ja": "洛東江下流の弁韓の地に成立した小国連合で、鉄の産地として倭や楽浪郡と交易した。日本の史料では任那とも呼ばれ、倭との関係が深かった。統一王権を形成できず、532年に金官加耶、562年に大加耶が新羅に併合された。",
+          "en": "A league of small states in the former Byeonhan region on the lower Nakdong River, trading its iron with Wa and the Lelang commandery. Japanese sources call it Mimana and it had close ties with Wa. It never formed a unified kingdom: Silla absorbed Geumgwan Gaya in 532 and Daegaya in 562."
+        },
+        "rulers": []
+      }
+    ],
+    "wiki": {
+      "ja": "伽耶",
+      "en": "Gaya confederacy"
+    }
+  },
+  {
+    "id": "silla",
+    "name": {
+      "ja": "新羅",
+      "en": "Silla"
+    },
+    "basemap_names": [
+      "Silla",
+      "Silia"
+    ],
+    "periods": [
+      {
+        "from": -57,
+        "to": 676,
+        "government": {
+          "ja": "王国（骨品制による貴族制）",
+          "en": "Monarchy with the bone-rank aristocratic system"
+        },
+        "capital": {
+          "ja": "金城（慶州）",
+          "en": "Geumseong (Gyeongju)"
+        },
+        "religion": {
+          "ja": "仏教（527年公認）",
+          "en": "Buddhism (recognized 527)"
+        },
+        "summary": {
+          "ja": "辰韓の斯盧国から発展し、三国のうち最も遅れて国家を形成した。法興王は律令と仏教を公認し、真興王は加耶を併合して漢江流域に進出した。骨品制により貴族の身分を定め、花郎の制度で人材を養った。唐と結んで660年に百済、668年に高句麗を滅ぼし、676年に唐の勢力を半島から追った。",
+          "en": "Grew out of the Jinhan state of Saro and was the last of the Three Kingdoms to form a state. King Beopheung issued laws and recognized Buddhism, and King Jinheung annexed Gaya and advanced to the Han River. The bone-rank system fixed aristocratic status and the hwarang trained the elite. Allied with Tang, Silla destroyed Baekje in 660 and Goguryeo in 668, then expelled Tang forces from the peninsula in 676."
+        },
+        "rulers": [
+          {
+            "from": 356,
+            "to": 402,
+            "name": {
+              "ja": "奈勿王",
+              "en": "King Naemul"
+            }
+          },
+          {
+            "from": 514,
+            "to": 540,
+            "name": {
+              "ja": "法興王",
+              "en": "King Beopheung"
+            }
+          },
+          {
+            "from": 540,
+            "to": 576,
+            "name": {
+              "ja": "真興王",
+              "en": "King Jinheung"
+            }
+          },
+          {
+            "from": 632,
+            "to": 647,
+            "name": {
+              "ja": "善徳女王",
+              "en": "Queen Seondeok"
+            }
+          },
+          {
+            "from": 654,
+            "to": 661,
+            "name": {
+              "ja": "武烈王（金春秋）",
+              "en": "King Muyeol (Kim Chun-chu)"
+            }
+          },
+          {
+            "from": 661,
+            "to": 681,
+            "name": {
+              "ja": "文武王",
+              "en": "King Munmu"
+            }
+          }
+        ]
+      },
+      {
+        "from": 676,
+        "to": 935,
+        "government": {
+          "ja": "統一新羅（唐制にならう中央集権・骨品制）",
+          "en": "Unified Silla: Tang-style centralization with the bone-rank system"
+        },
+        "capital": {
+          "ja": "金城（慶州）",
+          "en": "Geumseong (Gyeongju)"
+        },
+        "religion": {
+          "ja": "仏教（仏国寺・石窟庵）",
+          "en": "Buddhism (Bulguksa, Seokguram)"
+        },
+        "summary": {
+          "ja": "朝鮮半島の大部分を統一し、唐の冊封を受けて律令制や州郡制を整え、仏教文化が栄えて仏国寺や石窟庵が造られた。骨品制が続いて貴族の力は強く、8世紀後半から王位争いが続いた。9世紀末に農民反乱が起こり、後百済・後高句麗が分立して後三国時代となり、935年に高麗に降った。",
+          "en": "Having unified most of the peninsula, Silla accepted Tang investiture, adopted Tang-style laws and provinces, and produced a flourishing Buddhist culture at Bulguksa and Seokguram. The bone-rank system kept the aristocracy strong and succession struggles multiplied from the late 8th century. Peasant revolts in the 890s led to the Later Three Kingdoms, and Silla surrendered to Goryeo in 935."
+        },
+        "rulers": [
+          {
+            "from": 681,
+            "to": 692,
+            "name": {
+              "ja": "神文王",
+              "en": "King Sinmun"
+            }
+          },
+          {
+            "from": 702,
+            "to": 737,
+            "name": {
+              "ja": "聖徳王",
+              "en": "King Seongdeok"
+            }
+          },
+          {
+            "from": 742,
+            "to": 765,
+            "name": {
+              "ja": "景徳王",
+              "en": "King Gyeongdeok"
+            }
+          },
+          {
+            "from": 765,
+            "to": 780,
+            "name": {
+              "ja": "恵恭王",
+              "en": "King Hyegong"
+            }
+          },
+          {
+            "from": 887,
+            "to": 897,
+            "name": {
+              "ja": "真聖女王",
+              "en": "Queen Jinseong"
+            }
+          },
+          {
+            "from": 927,
+            "to": 935,
+            "name": {
+              "ja": "敬順王",
+              "en": "King Gyeongsun"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "新羅",
+      "en": "Silla"
+    }
+  },
+  {
+    "id": "balhae",
+    "name": {
+      "ja": "渤海",
+      "en": "Balhae"
+    },
+    "basemap_names": [
+      "Parhae",
+      "Balhae"
+    ],
+    "periods": [
+      {
+        "from": 698,
+        "to": 926,
+        "government": {
+          "ja": "王国（唐の律令制にならう三省六部）",
+          "en": "Monarchy modeled on Tang institutions"
+        },
+        "capital": {
+          "ja": "上京竜泉府",
+          "en": "Sanggyeong (Shangjing Longquanfu)"
+        },
+        "religion": {
+          "ja": "仏教",
+          "en": "Buddhism"
+        },
+        "summary": {
+          "ja": "高句麗の遺民大祚栄が靺鞨人を率いて中国東北地方に建てた国。唐の冊封を受けて律令制を取り入れ、「海東の盛国」と呼ばれて栄え、日本とも使節を交換した。926年に契丹の耶律阿保機に滅ぼされた。",
+          "en": "Founded in northeast China by Dae Joyeong, a Goguryeo survivor, leading Mohe people. It accepted Tang investiture, adopted Tang-style institutions, prospered as the \"flourishing land east of the sea\" and exchanged envoys with Japan. The Khitan ruler Yelü Abaoji destroyed it in 926."
+        },
+        "rulers": [
+          {
+            "from": 698,
+            "to": 719,
+            "name": {
+              "ja": "高王（大祚栄）",
+              "en": "King Go (Dae Joyeong)"
+            }
+          },
+          {
+            "from": 719,
+            "to": 737,
+            "name": {
+              "ja": "武王（大武芸）",
+              "en": "King Mu"
+            }
+          },
+          {
+            "from": 737,
+            "to": 793,
+            "name": {
+              "ja": "文王（大欽茂）",
+              "en": "King Mun"
+            }
+          },
+          {
+            "from": 818,
+            "to": 830,
+            "name": {
+              "ja": "宣王（大仁秀）",
+              "en": "King Seon"
+            }
+          },
+          {
+            "from": 906,
+            "to": 926,
+            "name": {
+              "ja": "大諲譔",
+              "en": "Dae Inseon"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "渤海 (国)",
+      "en": "Balhae"
+    }
+  },
+  {
+    "id": "goryeo",
+    "name": {
+      "ja": "高麗",
+      "en": "Goryeo"
+    },
+    "basemap_names": [
+      "Goryeo"
+    ],
+    "periods": [
+      {
+        "from": 918,
+        "to": 1170,
+        "government": {
+          "ja": "文班・武班の両班による貴族政治（科挙導入）",
+          "en": "Aristocratic government of civil and military yangban; examinations introduced"
+        },
+        "capital": {
+          "ja": "開城",
+          "en": "Gaeseong (Kaesong)"
+        },
+        "religion": {
+          "ja": "仏教（高麗版大蔵経）",
+          "en": "Buddhism (Tripitaka Koreana)"
+        },
+        "summary": {
+          "ja": "王建が後高句麗を継いで建国し、936年に後三国を統一した。光宗は科挙を導入し、唐・宋の制度にならって官制を整え、文班・武班の両班が支配層となった。仏教を保護して大蔵経を刊行し、契丹（遼）の侵入を退け、宋と交流して高麗青磁が栄えた。",
+          "en": "Wang Geon succeeded Later Goguryeo and unified the Later Three Kingdoms in 936. King Gwangjong introduced civil service examinations and the state adopted Tang and Song institutions, with civil and military yangban as the ruling class. Buddhism was patronized and the Tripitaka printed; Khitan (Liao) invasions were repelled and exchanges with Song fostered Goryeo celadon."
+        },
+        "rulers": [
+          {
+            "from": 918,
+            "to": 943,
+            "name": {
+              "ja": "太祖（王建）",
+              "en": "Taejo (Wang Geon)"
+            }
+          },
+          {
+            "from": 949,
+            "to": 975,
+            "name": {
+              "ja": "光宗",
+              "en": "Gwangjong"
+            }
+          },
+          {
+            "from": 981,
+            "to": 997,
+            "name": {
+              "ja": "成宗",
+              "en": "Seongjong"
+            }
+          },
+          {
+            "from": 1009,
+            "to": 1031,
+            "name": {
+              "ja": "顕宗",
+              "en": "Hyeonjong"
+            }
+          },
+          {
+            "from": 1046,
+            "to": 1083,
+            "name": {
+              "ja": "文宗",
+              "en": "Munjong"
+            }
+          },
+          {
+            "from": 1122,
+            "to": 1146,
+            "name": {
+              "ja": "仁宗",
+              "en": "Injong"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1170,
+        "to": 1270,
+        "government": {
+          "ja": "武臣政権（崔氏の専権）",
+          "en": "Military regime dominated by the Choe family"
+        },
+        "capital": {
+          "ja": "開城→江華島（1232–70）",
+          "en": "Gaeseong; Ganghwa Island (1232–70)"
+        },
+        "religion": {
+          "ja": "仏教（禅宗の興隆）",
+          "en": "Buddhism (rise of Seon)"
+        },
+        "summary": {
+          "ja": "1170年の武臣の乱で文臣が排除され、崔忠献以後は崔氏が4代にわたり実権を握った。1231年からモンゴルの侵入を受け、朝廷は江華島に移って抗戦し、その間に高麗版大蔵経（八万大蔵経）が再刻された。1259年に講和し、1270年に開城へ戻ると三別抄が抵抗を続けた。",
+          "en": "A military coup in 1170 drove out the civil officials, and from Choe Chung-heon four generations of the Choe family held real power. Mongol invasions began in 1231; the court moved to Ganghwa Island to resist, and the Tripitaka Koreana was re-carved during the war. Peace came in 1259, and when the court returned to Gaeseong in 1270 the Sambyeolcho units continued resistance."
+        },
+        "rulers": [
+          {
+            "from": 1170,
+            "to": 1197,
+            "name": {
+              "ja": "明宗",
+              "en": "Myeongjong"
+            }
+          },
+          {
+            "from": 1196,
+            "to": 1219,
+            "name": {
+              "ja": "崔忠献",
+              "en": "Choe Chung-heon"
+            }
+          },
+          {
+            "from": 1213,
+            "to": 1259,
+            "name": {
+              "ja": "高宗",
+              "en": "Gojong"
+            }
+          },
+          {
+            "from": 1259,
+            "to": 1274,
+            "name": {
+              "ja": "元宗",
+              "en": "Wonjong"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1270,
+        "to": 1392,
+        "government": {
+          "ja": "元の駙馬国としての王権（のち恭愍王の反元改革）",
+          "en": "Kingdom under Yuan domination; anti-Yuan reforms under Gongmin"
+        },
+        "capital": {
+          "ja": "開城",
+          "en": "Gaeseong (Kaesong)"
+        },
+        "religion": {
+          "ja": "仏教（朱子学の受容）",
+          "en": "Buddhism; introduction of Neo-Confucianism"
+        },
+        "summary": {
+          "ja": "元に服属して王は元の公主を娶り、元の日本遠征に動員された。14世紀半ばに恭愍王は元の衰退に乗じて反元政策をとり、朱子学を学んだ新興士大夫が台頭した。紅巾の乱や倭寇に苦しむなか、李成桂が威化島回軍で実権を握り、1392年に朝鮮を建てた。",
+          "en": "Subject to the Yuan, kings married Mongol princesses and Goryeo was mobilized for the invasions of Japan. In the mid-14th century King Gongmin exploited Yuan decline to pursue anti-Yuan reforms, and a new scholar-official class trained in Neo-Confucianism rose. Amid Red Turban raids and wokou piracy, Yi Seong-gye seized power by turning his army back from Wihwa Island and founded Joseon in 1392."
+        },
+        "rulers": [
+          {
+            "from": 1274,
+            "to": 1308,
+            "name": {
+              "ja": "忠烈王",
+              "en": "Chungnyeol"
+            }
+          },
+          {
+            "from": 1351,
+            "to": 1374,
+            "name": {
+              "ja": "恭愍王",
+              "en": "Gongmin"
+            }
+          },
+          {
+            "from": 1374,
+            "to": 1388,
+            "name": {
+              "ja": "禑王",
+              "en": "U"
+            }
+          },
+          {
+            "from": 1389,
+            "to": 1392,
+            "name": {
+              "ja": "恭譲王",
+              "en": "Gongyang"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "高麗",
+      "en": "Goryeo"
+    }
+  },
+  {
+    "id": "joseon",
+    "name": {
+      "ja": "朝鮮王朝",
+      "en": "Joseon dynasty"
+    },
+    "basemap_names": [
+      "Korea"
+    ],
+    "periods": [
+      {
+        "from": 1392,
+        "to": 1592,
+        "government": {
+          "ja": "両班官僚制による中央集権（科挙・議政府）",
+          "en": "Centralized yangban bureaucracy with examinations and the State Council"
+        },
+        "capital": {
+          "ja": "漢城（漢陽）",
+          "en": "Hanseong (Seoul)"
+        },
+        "religion": {
+          "ja": "朱子学（仏教を抑圧）",
+          "en": "Neo-Confucianism; Buddhism suppressed"
+        },
+        "summary": {
+          "ja": "李成桂（太祖）が高麗を倒して建国し、漢城に都して明の冊封を受けた。朱子学を国教として仏教を抑え、両班が科挙を通じて官僚となった。世宗は訓民正音（ハングル）を制定し、金属活字や暦法など文化が栄えた。16世紀には士林派の進出で党争が始まった。",
+          "en": "Yi Seong-gye (Taejo) overthrew Goryeo, made Hanseong his capital and accepted Ming investiture. Neo-Confucianism became the state creed, Buddhism was curbed, and the yangban entered office through examinations. King Sejong promulgated the Korean alphabet (Hangul), and metal type and astronomy flourished. In the 16th century the rise of the sarim scholars began factional strife."
+        },
+        "rulers": [
+          {
+            "from": 1392,
+            "to": 1398,
+            "name": {
+              "ja": "太祖（李成桂）",
+              "en": "Taejo (Yi Seong-gye)"
+            }
+          },
+          {
+            "from": 1400,
+            "to": 1418,
+            "name": {
+              "ja": "太宗",
+              "en": "Taejong"
+            }
+          },
+          {
+            "from": 1418,
+            "to": 1450,
+            "name": {
+              "ja": "世宗",
+              "en": "Sejong"
+            }
+          },
+          {
+            "from": 1455,
+            "to": 1468,
+            "name": {
+              "ja": "世祖",
+              "en": "Sejo"
+            }
+          },
+          {
+            "from": 1469,
+            "to": 1494,
+            "name": {
+              "ja": "成宗",
+              "en": "Seongjong"
+            }
+          },
+          {
+            "from": 1506,
+            "to": 1544,
+            "name": {
+              "ja": "中宗",
+              "en": "Jungjong"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1592,
+        "to": 1897,
+        "government": {
+          "ja": "両班官僚制（党争・勢道政治）",
+          "en": "Yangban bureaucracy; factionalism and in-law politics"
+        },
+        "capital": {
+          "ja": "漢城",
+          "en": "Hanseong (Seoul)"
+        },
+        "religion": {
+          "ja": "朱子学（実学の興隆、天主教の流入）",
+          "en": "Neo-Confucianism; Silhak reformism and the arrival of Catholicism"
+        },
+        "summary": {
+          "ja": "豊臣秀吉の侵略（壬辰・丁酉倭乱）を李舜臣の水軍と明の援軍で退けたが国土は荒廃した。後金・清の侵入を受けて1637年に清に服属し、鎖国的政策のもと日本には通信使を送った。英祖・正祖は党争を抑える蕩平策をとり実学が栄えたが、19世紀には勢道政治と民乱が続き、大院君の鎖国後に江華島事件で開国し、日清戦争後に清の冊封から離れた。",
+          "en": "Hideyoshi's invasions (1592–98) were repelled with Yi Sun-sin's navy and Ming aid, but the land was devastated. Invaded by the Later Jin and Qing, Joseon submitted to the Qing in 1637 and pursued seclusion while sending embassies to Japan. Yeongjo and Jeongjo curbed factionalism and Silhak scholarship flourished, but 19th-century in-law politics and uprisings followed; after the Daewongun's isolationism, the Ganghwa incident forced opening, and the Sino-Japanese War ended Qing suzerainty."
+        },
+        "rulers": [
+          {
+            "from": 1567,
+            "to": 1608,
+            "name": {
+              "ja": "宣祖",
+              "en": "Seonjo"
+            }
+          },
+          {
+            "from": 1608,
+            "to": 1623,
+            "name": {
+              "ja": "光海君",
+              "en": "Gwanghaegun"
+            }
+          },
+          {
+            "from": 1623,
+            "to": 1649,
+            "name": {
+              "ja": "仁祖",
+              "en": "Injo"
+            }
+          },
+          {
+            "from": 1674,
+            "to": 1720,
+            "name": {
+              "ja": "粛宗",
+              "en": "Sukjong"
+            }
+          },
+          {
+            "from": 1724,
+            "to": 1776,
+            "name": {
+              "ja": "英祖",
+              "en": "Yeongjo"
+            }
+          },
+          {
+            "from": 1776,
+            "to": 1800,
+            "name": {
+              "ja": "正祖",
+              "en": "Jeongjo"
+            }
+          },
+          {
+            "from": 1863,
+            "to": 1873,
+            "name": {
+              "ja": "興宣大院君",
+              "en": "Heungseon Daewongun"
+            }
+          },
+          {
+            "from": 1863,
+            "to": 1897,
+            "name": {
+              "ja": "高宗",
+              "en": "Gojong"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1897,
+        "to": 1910,
+        "government": {
+          "ja": "大韓帝国（皇帝専制）",
+          "en": "Korean Empire: imperial autocracy"
+        },
+        "capital": {
+          "ja": "漢城",
+          "en": "Hanseong (Seoul)"
+        },
+        "summary": {
+          "ja": "高宗は1897年に皇帝に即位して国号を大韓帝国と改め、光武改革を進めた。日露戦争後、日本は日韓協約で外交権を奪い統監府を置き、ハーグ密使事件を機に高宗を退位させた。義兵闘争や安重根による伊藤博文暗殺ののち、1910年の韓国併合条約で日本に併合された。",
+          "en": "In 1897 Gojong took the title of emperor, renamed the state the Korean Empire and launched the Gwangmu reforms. After the Russo-Japanese War, Japan stripped Korea of its diplomacy through the Japan–Korea agreements, installed a Residency-General and forced Gojong's abdication after the Hague secret mission. Despite the righteous armies and An Jung-geun's assassination of Ito Hirobumi, the annexation treaty of 1910 made Korea part of Japan."
+        },
+        "rulers": [
+          {
+            "from": 1897,
+            "to": 1907,
+            "name": {
+              "ja": "高宗",
+              "en": "Gojong"
+            }
+          },
+          {
+            "from": 1907,
+            "to": 1910,
+            "name": {
+              "ja": "純宗",
+              "en": "Sunjong"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "李氏朝鮮",
+      "en": "Joseon"
+    }
+  },
+  {
+    "id": "korea-under-japanese-rule",
+    "name": {
+      "ja": "日本統治下の朝鮮",
+      "en": "Korea under Japanese rule"
+    },
+    "basemap_names": [],
+    "periods": [
+      {
+        "from": 1910,
+        "to": 1945,
+        "government": {
+          "ja": "朝鮮総督府による植民地統治",
+          "en": "Colonial rule by the Government-General of Korea"
+        },
+        "capital": {
+          "ja": "京城（ソウル）",
+          "en": "Keijo (Seoul)"
+        },
+        "summary": {
+          "ja": "韓国併合により朝鮮総督府が置かれ、憲兵警察による武断政治と土地調査事業が行われた。1919年の三・一独立運動後は「文化政治」に転じたが、上海に大韓民国臨時政府が成立した。日中戦争以降は皇民化政策で創氏改名や神社参拝が強制され、1945年の日本の敗戦で解放された。",
+          "en": "After annexation the Government-General ruled through military police and carried out a land survey. The March First Movement of 1919 prompted a shift to \"cultural rule\", while the Provisional Government of Korea was formed in Shanghai. From the Sino-Japanese War assimilation policies imposed Japanese names and shrine worship; Japan's defeat in 1945 brought liberation."
+        },
+        "rulers": [
+          {
+            "from": 1910,
+            "to": 1916,
+            "name": {
+              "ja": "寺内正毅",
+              "en": "Terauchi Masatake"
+            }
+          },
+          {
+            "from": 1919,
+            "to": 1927,
+            "name": {
+              "ja": "斎藤実",
+              "en": "Saito Makoto"
+            }
+          },
+          {
+            "from": 1931,
+            "to": 1936,
+            "name": {
+              "ja": "宇垣一成",
+              "en": "Ugaki Kazushige"
+            }
+          },
+          {
+            "from": 1936,
+            "to": 1942,
+            "name": {
+              "ja": "南次郎",
+              "en": "Minami Jiro"
+            }
+          },
+          {
+            "from": 1944,
+            "to": 1945,
+            "name": {
+              "ja": "阿部信行",
+              "en": "Abe Nobuyuki"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "日本統治時代の朝鮮",
+      "en": "Korea under Japanese rule"
+    }
+  },
+  {
+    "id": "south-korea",
+    "name": {
+      "ja": "大韓民国",
+      "en": "Republic of Korea"
+    },
+    "basemap_names": [
+      "Korea (USA)",
+      "Korea, Republic of"
+    ],
+    "periods": [
+      {
+        "from": 1945,
+        "to": 1948,
+        "government": {
+          "ja": "アメリカ軍政",
+          "en": "United States Army military government"
+        },
+        "capital": {
+          "ja": "ソウル",
+          "en": "Seoul"
+        },
+        "summary": {
+          "ja": "日本の敗戦後、北緯38度線以南をアメリカ軍が占領して軍政をしいた。米ソ共同委員会による統一政府の樹立交渉は決裂し、国連監視下の南朝鮮単独選挙を経て1948年8月に大韓民国が成立した。",
+          "en": "After Japan's surrender, U.S. forces occupied Korea south of the 38th parallel under military government. Talks in the U.S.–Soviet Joint Commission on a unified government collapsed; a UN-supervised election in the south alone led to the founding of the Republic of Korea in August 1948."
+        },
+        "rulers": [
+          {
+            "from": 1945,
+            "to": 1948,
+            "name": {
+              "ja": "ホッジ（軍政長官）",
+              "en": "John R. Hodge (military governor)"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1948,
+        "to": 1987,
+        "government": {
+          "ja": "共和制（李承晩・朴正熙・全斗煥の権威主義体制）",
+          "en": "Republic under the authoritarian rule of Rhee, Park and Chun"
+        },
+        "capital": {
+          "ja": "ソウル",
+          "en": "Seoul"
+        },
+        "summary": {
+          "ja": "李承晩を初代大統領として成立し、1950年からの朝鮮戦争で国土は荒廃した。1960年の四月革命で李承晩が退陣、翌年のクーデタで朴正熙が政権を握り、日韓基本条約を結んで開発独裁のもと「漢江の奇跡」と呼ばれる高度成長を実現した。1979年の朴暗殺後、全斗煥は光州事件を弾圧して政権を握った。",
+          "en": "Founded with Syngman Rhee as first president, the republic was devastated by the Korean War from 1950. Rhee fell in the April Revolution of 1960; Park Chung-hee seized power in a 1961 coup, normalized relations with Japan and drove the \"Miracle on the Han\" under developmental dictatorship. After Park's assassination in 1979 Chun Doo-hwan crushed the Gwangju uprising and took power."
+        },
+        "rulers": [
+          {
+            "from": 1948,
+            "to": 1960,
+            "name": {
+              "ja": "李承晩",
+              "en": "Syngman Rhee"
+            }
+          },
+          {
+            "from": 1963,
+            "to": 1979,
+            "name": {
+              "ja": "朴正熙",
+              "en": "Park Chung-hee"
+            }
+          },
+          {
+            "from": 1980,
+            "to": 1988,
+            "name": {
+              "ja": "全斗煥",
+              "en": "Chun Doo-hwan"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1987,
+        "to": 2026,
+        "government": {
+          "ja": "民主化後の大統領制共和国",
+          "en": "Democratic presidential republic"
+        },
+        "capital": {
+          "ja": "ソウル",
+          "en": "Seoul"
+        },
+        "summary": {
+          "ja": "1987年の民主化宣言で大統領直接選挙が復活し、盧泰愚のもとでソウル五輪を開催、ソ連・中国と国交を結び南北同時に国連に加盟した。金泳三は文民政権を実現し、通貨危機ののち金大中は南北首脳会談を行った。経済・文化の世界的発展が続く一方、2017年には朴槿恵が弾劾で罷免された。",
+          "en": "The 1987 democratization declaration restored direct presidential elections; under Roh Tae-woo Korea hosted the Seoul Olympics, established ties with the USSR and China and joined the UN alongside the North. Kim Young-sam brought civilian rule, and after the 1997 financial crisis Kim Dae-jung held the first inter-Korean summit. Korea's economy and culture gained global reach, while in 2017 Park Geun-hye was removed by impeachment."
+        },
+        "rulers": [
+          {
+            "from": 1988,
+            "to": 1993,
+            "name": {
+              "ja": "盧泰愚",
+              "en": "Roh Tae-woo"
+            }
+          },
+          {
+            "from": 1993,
+            "to": 1998,
+            "name": {
+              "ja": "金泳三",
+              "en": "Kim Young-sam"
+            }
+          },
+          {
+            "from": 1998,
+            "to": 2003,
+            "name": {
+              "ja": "金大中",
+              "en": "Kim Dae-jung"
+            }
+          },
+          {
+            "from": 2003,
+            "to": 2008,
+            "name": {
+              "ja": "盧武鉉",
+              "en": "Roh Moo-hyun"
+            }
+          },
+          {
+            "from": 2008,
+            "to": 2013,
+            "name": {
+              "ja": "李明博",
+              "en": "Lee Myung-bak"
+            }
+          },
+          {
+            "from": 2013,
+            "to": 2017,
+            "name": {
+              "ja": "朴槿恵",
+              "en": "Park Geun-hye"
+            }
+          },
+          {
+            "from": 2017,
+            "to": 2022,
+            "name": {
+              "ja": "文在寅",
+              "en": "Moon Jae-in"
+            }
+          },
+          {
+            "from": 2022,
+            "to": 2025,
+            "name": {
+              "ja": "尹錫悦",
+              "en": "Yoon Suk-yeol"
+            }
+          },
+          {
+            "from": 2025,
+            "to": 2026,
+            "name": {
+              "ja": "李在明",
+              "en": "Lee Jae-myung"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "大韓民国",
+      "en": "South Korea"
+    }
+  },
+  {
+    "id": "north-korea",
+    "name": {
+      "ja": "朝鮮民主主義人民共和国",
+      "en": "Democratic People's Republic of Korea"
+    },
+    "basemap_names": [
+      "Korea (USSR)",
+      "Korea, Democratic People's Republic of"
+    ],
+    "periods": [
+      {
+        "from": 1945,
+        "to": 1948,
+        "government": {
+          "ja": "ソ連軍政（人民委員会）",
+          "en": "Soviet military administration with people's committees"
+        },
+        "capital": {
+          "ja": "平壌",
+          "en": "Pyongyang"
+        },
+        "summary": {
+          "ja": "北緯38度線以北をソ連軍が占領し、人民委員会を通じて統治した。1946年に金日成を委員長とする北朝鮮臨時人民委員会が土地改革を実施し、南の単独選挙に対抗して1948年9月に朝鮮民主主義人民共和国が成立した。",
+          "en": "Soviet forces occupied Korea north of the 38th parallel and governed through people's committees. In 1946 the Provisional People's Committee chaired by Kim Il-sung carried out land reform, and in answer to the separate election in the south the Democratic People's Republic of Korea was proclaimed in September 1948."
+        },
+        "rulers": [
+          {
+            "from": 1946,
+            "to": 1948,
+            "name": {
+              "ja": "金日成（臨時人民委員会委員長）",
+              "en": "Kim Il-sung (chairman of the Provisional People's Committee)"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1948,
+        "to": 2026,
+        "government": {
+          "ja": "朝鮮労働党による一党支配の社会主義国家（主体思想・世襲体制）",
+          "en": "One-party socialist state under the Workers' Party; Juche ideology and hereditary rule"
+        },
+        "capital": {
+          "ja": "平壌",
+          "en": "Pyongyang"
+        },
+        "summary": {
+          "ja": "金日成が首相（のち主席）として建国し、1950年に南に侵攻して朝鮮戦争を起こした。休戦後は主体思想を掲げて個人崇拝と計画経済を進め、1994年の金日成の死後は金正日、2011年からは金正恩が権力を世襲した。1990年代の食糧難を経て核・ミサイル開発を進め、国際的に孤立している。",
+          "en": "Founded under Kim Il-sung as premier (later president), the North invaded the South in 1950, starting the Korean War. After the armistice it promoted the Juche ideology, a cult of personality and a planned economy; power passed to Kim Jong-il on Kim Il-sung's death in 1994 and to Kim Jong-un in 2011. Through the famine of the 1990s it pursued nuclear and missile programs and remains internationally isolated."
+        },
+        "rulers": [
+          {
+            "from": 1948,
+            "to": 1994,
+            "name": {
+              "ja": "金日成",
+              "en": "Kim Il-sung"
+            }
+          },
+          {
+            "from": 1994,
+            "to": 2011,
+            "name": {
+              "ja": "金正日",
+              "en": "Kim Jong-il"
+            }
+          },
+          {
+            "from": 2011,
+            "to": 2026,
+            "name": {
+              "ja": "金正恩",
+              "en": "Kim Jong-un"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "朝鮮民主主義人民共和国",
+      "en": "North Korea"
+    }
+  },
+  {
+    "id": "japan",
+    "name": {
+      "ja": "日本",
+      "en": "Japan"
+    },
+    "basemap_names": [
+      "Yamato",
+      "Japan",
+      "Imperial Japan (Fujiwara)",
+      "Shogun Japan (Kamakura)",
+      "Japan (Warring States)",
+      "Tokugawa shogunate",
+      "Imperial Japan",
+      "Empire of Japan",
+      "Japan (USA)"
+    ],
+    "periods": [
+      {
+        "from": 300,
+        "to": 645,
+        "government": {
+          "ja": "ヤマト政権（氏姓制度による豪族連合）",
+          "en": "Yamato polity: confederation of clans under the uji-kabane system"
+        },
+        "capital": {
+          "ja": "大和（飛鳥）",
+          "en": "Yamato (Asuka)"
+        },
+        "religion": {
+          "ja": "祖先祭祀・神祇信仰（538年仏教公伝）",
+          "en": "Ancestral and kami worship; Buddhism arrives 538"
+        },
+        "summary": {
+          "ja": "3世紀後半から近畿の豪族連合が前方後円墳を築き、ヤマト政権として列島の統合を進めた。倭の五王は中国の南朝に朝貢し、朝鮮半島に進出して百済と結び、渡来人が漢字や仏教を伝えた。6世紀末、推古天皇のもとで聖徳太子（厩戸王）が冠位十二階や憲法十七条を定め、遣隋使を送った。",
+          "en": "From the late 3rd century a confederation of clans in the Kinai built keyhole tombs and, as the Yamato polity, extended control over the archipelago. The Five Kings of Wa sent tribute to the Chinese Southern dynasties, intervened in Korea in alliance with Baekje, and immigrants brought writing and Buddhism. Under Empress Suiko, Prince Shotoku instituted the twelve cap ranks and the Seventeen-Article Constitution and sent embassies to Sui."
+        },
+        "rulers": [
+          {
+            "from": 456,
+            "to": 479,
+            "name": {
+              "ja": "雄略天皇（倭王武）",
+              "en": "Emperor Yuryaku (King Bu of Wa)"
+            }
+          },
+          {
+            "from": 507,
+            "to": 531,
+            "name": {
+              "ja": "継体天皇",
+              "en": "Emperor Keitai"
+            }
+          },
+          {
+            "from": 539,
+            "to": 571,
+            "name": {
+              "ja": "欽明天皇",
+              "en": "Emperor Kinmei"
+            }
+          },
+          {
+            "from": 592,
+            "to": 628,
+            "name": {
+              "ja": "推古天皇",
+              "en": "Empress Suiko"
+            }
+          },
+          {
+            "from": 593,
+            "to": 622,
+            "name": {
+              "ja": "聖徳太子（厩戸王）",
+              "en": "Prince Shotoku (Umayado)"
+            }
+          },
+          {
+            "from": 629,
+            "to": 641,
+            "name": {
+              "ja": "舒明天皇",
+              "en": "Emperor Jomei"
+            }
+          }
+        ]
+      },
+      {
+        "from": 645,
+        "to": 794,
+        "government": {
+          "ja": "律令国家（二官八省・班田収授法）",
+          "en": "Ritsuryo state: Council of State and Eight Ministries, land allotment"
+        },
+        "capital": {
+          "ja": "飛鳥→藤原京→平城京（710）",
+          "en": "Asuka, Fujiwara-kyo, Heijo-kyo (710)"
+        },
+        "religion": {
+          "ja": "仏教（鎮護国家）・神祇信仰",
+          "en": "State-protecting Buddhism and kami worship"
+        },
+        "summary": {
+          "ja": "大化の改新で中大兄皇子（天智天皇）らが蘇我氏を倒し、唐にならった中央集権化を進めた。白村江の敗戦と壬申の乱を経て天武天皇が天皇権力を確立し、大宝律令（701）で律令国家が完成した。平城京に遷都した奈良時代には聖武天皇が東大寺大仏を造り、遣唐使が天平文化をもたらした。",
+          "en": "In the Taika reforms Prince Naka no Oe (Emperor Tenji) overthrew the Soga and pursued Tang-style centralization. After defeat at Baekgang and the Jinshin War, Emperor Tenmu consolidated imperial power, and the Taiho Code of 701 completed the ritsuryo state. In the Nara period at Heijo-kyo, Emperor Shomu built the Great Buddha of Todaiji and embassies to Tang nourished Tenpyo culture."
+        },
+        "rulers": [
+          {
+            "from": 668,
+            "to": 671,
+            "name": {
+              "ja": "天智天皇",
+              "en": "Emperor Tenji"
+            }
+          },
+          {
+            "from": 673,
+            "to": 686,
+            "name": {
+              "ja": "天武天皇",
+              "en": "Emperor Tenmu"
+            }
+          },
+          {
+            "from": 690,
+            "to": 697,
+            "name": {
+              "ja": "持統天皇",
+              "en": "Empress Jito"
+            }
+          },
+          {
+            "from": 697,
+            "to": 707,
+            "name": {
+              "ja": "文武天皇",
+              "en": "Emperor Monmu"
+            }
+          },
+          {
+            "from": 724,
+            "to": 749,
+            "name": {
+              "ja": "聖武天皇",
+              "en": "Emperor Shomu"
+            }
+          },
+          {
+            "from": 764,
+            "to": 770,
+            "name": {
+              "ja": "称徳天皇",
+              "en": "Empress Shotoku"
+            }
+          },
+          {
+            "from": 781,
+            "to": 806,
+            "name": {
+              "ja": "桓武天皇",
+              "en": "Emperor Kanmu"
+            }
+          }
+        ]
+      },
+      {
+        "from": 794,
+        "to": 1185,
+        "government": {
+          "ja": "摂関政治→院政（荘園公領制）",
+          "en": "Fujiwara regency, then rule by retired emperors; estate system"
+        },
+        "capital": {
+          "ja": "平安京（京都）",
+          "en": "Heian-kyo (Kyoto)"
+        },
+        "religion": {
+          "ja": "仏教（天台・真言、浄土信仰）",
+          "en": "Buddhism (Tendai, Shingon, Pure Land devotion)"
+        },
+        "summary": {
+          "ja": "桓武天皇が平安京に遷都した。9世紀後半から藤原氏が摂政・関白を独占し、藤原道長・頼通の時代に摂関政治が全盛を迎え、遣唐使の停止後は仮名文学などの国風文化が栄えた。1086年から白河上皇が院政を始め、保元・平治の乱を経て平清盛が武家として初めて政権を握った。",
+          "en": "Emperor Kanmu moved the capital to Heian-kyo. From the late 9th century the Fujiwara monopolized the offices of regent and chancellor, peaking under Michinaga and Yorimichi, while after embassies to Tang ceased a native court culture of kana literature flourished. From 1086 retired emperor Shirakawa governed as cloistered sovereign; after the Hogen and Heiji disturbances, Taira no Kiyomori became the first warrior to dominate the court."
+        },
+        "rulers": [
+          {
+            "from": 809,
+            "to": 823,
+            "name": {
+              "ja": "嵯峨天皇",
+              "en": "Emperor Saga"
+            }
+          },
+          {
+            "from": 858,
+            "to": 872,
+            "name": {
+              "ja": "藤原良房（摂政）",
+              "en": "Fujiwara no Yoshifusa (regent)"
+            }
+          },
+          {
+            "from": 897,
+            "to": 930,
+            "name": {
+              "ja": "醍醐天皇",
+              "en": "Emperor Daigo"
+            }
+          },
+          {
+            "from": 995,
+            "to": 1027,
+            "name": {
+              "ja": "藤原道長",
+              "en": "Fujiwara no Michinaga"
+            }
+          },
+          {
+            "from": 1017,
+            "to": 1068,
+            "name": {
+              "ja": "藤原頼通（関白）",
+              "en": "Fujiwara no Yorimichi (chancellor)"
+            }
+          },
+          {
+            "from": 1086,
+            "to": 1129,
+            "name": {
+              "ja": "白河上皇（院政）",
+              "en": "Retired Emperor Shirakawa"
+            }
+          },
+          {
+            "from": 1158,
+            "to": 1192,
+            "name": {
+              "ja": "後白河上皇（院政）",
+              "en": "Retired Emperor Go-Shirakawa"
+            }
+          },
+          {
+            "from": 1167,
+            "to": 1181,
+            "name": {
+              "ja": "平清盛",
+              "en": "Taira no Kiyomori"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1185,
+        "to": 1333,
+        "government": {
+          "ja": "鎌倉幕府（将軍と御家人の主従関係、執権政治）",
+          "en": "Kamakura shogunate: lord–vassal bonds, Hojo regency"
+        },
+        "capital": {
+          "ja": "鎌倉（幕府）・京都（朝廷）",
+          "en": "Kamakura (shogunate); Kyoto (court)"
+        },
+        "religion": {
+          "ja": "鎌倉新仏教（浄土宗・禅宗・日蓮宗）",
+          "en": "New Kamakura Buddhism: Pure Land, Zen, Nichiren"
+        },
+        "summary": {
+          "ja": "源頼朝が平氏を滅ぼし、守護・地頭を置いて鎌倉幕府を開き、1192年に征夷大将軍となった。頼朝の死後は北条氏が執権として実権を握り、承久の乱で朝廷を抑え、御成敗式目を定めた。北条時宗のとき元軍の襲来（文永・弘安の役）を退けたが御家人は窮乏し、後醍醐天皇の討幕運動で1333年に滅んだ。",
+          "en": "Minamoto no Yoritomo destroyed the Taira, appointed military governors and estate stewards, and became shogun in 1192. After his death the Hojo ruled as regents, crushed the court in the Jokyu War and issued the Goseibai code. Under Hojo Tokimune the Mongol invasions of 1274 and 1281 were repelled, but impoverished vassals and Emperor Go-Daigo's campaign brought the shogunate down in 1333."
+        },
+        "rulers": [
+          {
+            "from": 1192,
+            "to": 1199,
+            "name": {
+              "ja": "源頼朝",
+              "en": "Minamoto no Yoritomo"
+            },
+            "person": "minamoto-yoritomo"
+          },
+          {
+            "from": 1205,
+            "to": 1224,
+            "name": {
+              "ja": "北条義時",
+              "en": "Hojo Yoshitoki"
+            }
+          },
+          {
+            "from": 1224,
+            "to": 1242,
+            "name": {
+              "ja": "北条泰時",
+              "en": "Hojo Yasutoki"
+            }
+          },
+          {
+            "from": 1246,
+            "to": 1256,
+            "name": {
+              "ja": "北条時頼",
+              "en": "Hojo Tokiyori"
+            }
+          },
+          {
+            "from": 1268,
+            "to": 1284,
+            "name": {
+              "ja": "北条時宗",
+              "en": "Hojo Tokimune"
+            }
+          },
+          {
+            "from": 1316,
+            "to": 1326,
+            "name": {
+              "ja": "北条高時",
+              "en": "Hojo Takatoki"
+            }
+          },
+          {
+            "from": 1318,
+            "to": 1339,
+            "name": {
+              "ja": "後醍醐天皇",
+              "en": "Emperor Go-Daigo"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1336,
+        "to": 1467,
+        "government": {
+          "ja": "室町幕府（守護大名の連合政権）",
+          "en": "Muromachi shogunate: coalition of provincial military governors"
+        },
+        "capital": {
+          "ja": "京都",
+          "en": "Kyoto"
+        },
+        "religion": {
+          "ja": "禅宗（五山文学）",
+          "en": "Zen Buddhism (Gozan culture)"
+        },
+        "summary": {
+          "ja": "建武の新政が崩れると足利尊氏が京都に幕府を開き、南北朝の内乱が続いた。足利義満は1392年に南北朝を合一し、明と勘合貿易を行って「日本国王」に封じられ、北山文化が栄えた。守護大名の力が強く、足利義政の時代に応仁の乱が起こって幕府の権威は失われた。",
+          "en": "After the Kenmu Restoration collapsed, Ashikaga Takauji set up his shogunate in Kyoto and the Northern and Southern Courts fought for decades. Ashikaga Yoshimitsu reunited the courts in 1392, traded with Ming under the tally system as \"King of Japan\", and fostered Kitayama culture. The provincial governors grew powerful, and the Onin War under Yoshimasa destroyed the shogunate's authority."
+        },
+        "rulers": [
+          {
+            "from": 1338,
+            "to": 1358,
+            "name": {
+              "ja": "足利尊氏",
+              "en": "Ashikaga Takauji"
+            }
+          },
+          {
+            "from": 1358,
+            "to": 1367,
+            "name": {
+              "ja": "足利義詮",
+              "en": "Ashikaga Yoshiakira"
+            }
+          },
+          {
+            "from": 1368,
+            "to": 1408,
+            "name": {
+              "ja": "足利義満",
+              "en": "Ashikaga Yoshimitsu"
+            }
+          },
+          {
+            "from": 1408,
+            "to": 1423,
+            "name": {
+              "ja": "足利義持",
+              "en": "Ashikaga Yoshimochi"
+            }
+          },
+          {
+            "from": 1429,
+            "to": 1441,
+            "name": {
+              "ja": "足利義教",
+              "en": "Ashikaga Yoshinori"
+            }
+          },
+          {
+            "from": 1449,
+            "to": 1473,
+            "name": {
+              "ja": "足利義政",
+              "en": "Ashikaga Yoshimasa"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1467,
+        "to": 1603,
+        "government": {
+          "ja": "戦国大名の割拠→織豊政権",
+          "en": "Warring States daimyo, then Oda–Toyotomi unification"
+        },
+        "capital": {
+          "ja": "京都（名目）・安土・大坂",
+          "en": "Kyoto (nominal); Azuchi, Osaka"
+        },
+        "religion": {
+          "ja": "仏教（一向一揆）・キリスト教伝来（1549）",
+          "en": "Buddhism (Ikko uprisings); Christianity arrives 1549"
+        },
+        "summary": {
+          "ja": "応仁の乱後、下剋上で各地に戦国大名が自立し、鉄砲とキリスト教が伝来した。織田信長は室町幕府を滅ぼし、豊臣秀吉が検地・刀狩で兵農分離を進めて1590年に全国を統一し、朝鮮に出兵した。秀吉の死後、徳川家康が関ヶ原の戦いに勝って覇権を握った。",
+          "en": "After the Onin War, warlords rose through \"the low overthrowing the high\", while firearms and Christianity arrived from Europe. Oda Nobunaga ended the Muromachi shogunate; Toyotomi Hideyoshi separated warriors from peasants through land surveys and the sword hunt, unified the country in 1590 and invaded Korea. After his death Tokugawa Ieyasu won at Sekigahara and seized supremacy."
+        },
+        "rulers": [
+          {
+            "from": 1568,
+            "to": 1573,
+            "name": {
+              "ja": "足利義昭",
+              "en": "Ashikaga Yoshiaki"
+            }
+          },
+          {
+            "from": 1568,
+            "to": 1582,
+            "name": {
+              "ja": "織田信長",
+              "en": "Oda Nobunaga"
+            }
+          },
+          {
+            "from": 1585,
+            "to": 1598,
+            "name": {
+              "ja": "豊臣秀吉",
+              "en": "Toyotomi Hideyoshi"
+            }
+          },
+          {
+            "from": 1600,
+            "to": 1603,
+            "name": {
+              "ja": "徳川家康",
+              "en": "Tokugawa Ieyasu"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1603,
+        "to": 1867,
+        "government": {
+          "ja": "幕藩体制（江戸幕府と諸藩、鎖国）",
+          "en": "Bakuhan system: Edo shogunate over domains; national seclusion"
+        },
+        "capital": {
+          "ja": "江戸（幕府）・京都（朝廷）",
+          "en": "Edo (shogunate); Kyoto (court)"
+        },
+        "religion": {
+          "ja": "仏教（寺請制度）・儒教（朱子学）",
+          "en": "Buddhism (temple registration) and Neo-Confucianism"
+        },
+        "summary": {
+          "ja": "徳川家康が1603年に征夷大将軍となり江戸に幕府を開いた。武家諸法度と参勤交代で大名を統制し、キリスト教を禁じて鎖国を完成させ、長崎で清・オランダとのみ貿易した。享保・寛政・天保の改革で財政再建が図られたが、1853年のペリー来航で開国し、尊王攘夷運動を経て1867年に徳川慶喜が大政奉還した。",
+          "en": "Tokugawa Ieyasu became shogun in 1603 and ruled from Edo. The shogunate controlled the daimyo through the Laws for Military Houses and alternate attendance, banned Christianity and closed the country, trading only with Qing and the Dutch at Nagasaki. The Kyoho, Kansei and Tenpo reforms sought fiscal recovery; Perry's arrival in 1853 forced opening, and after the sonno joi movement Tokugawa Yoshinobu returned power to the emperor in 1867."
+        },
+        "rulers": [
+          {
+            "from": 1603,
+            "to": 1605,
+            "name": {
+              "ja": "徳川家康",
+              "en": "Tokugawa Ieyasu"
+            }
+          },
+          {
+            "from": 1605,
+            "to": 1623,
+            "name": {
+              "ja": "徳川秀忠",
+              "en": "Tokugawa Hidetada"
+            }
+          },
+          {
+            "from": 1623,
+            "to": 1651,
+            "name": {
+              "ja": "徳川家光",
+              "en": "Tokugawa Iemitsu"
+            }
+          },
+          {
+            "from": 1680,
+            "to": 1709,
+            "name": {
+              "ja": "徳川綱吉",
+              "en": "Tokugawa Tsunayoshi"
+            }
+          },
+          {
+            "from": 1716,
+            "to": 1745,
+            "name": {
+              "ja": "徳川吉宗",
+              "en": "Tokugawa Yoshimune"
+            }
+          },
+          {
+            "from": 1787,
+            "to": 1837,
+            "name": {
+              "ja": "徳川家斉",
+              "en": "Tokugawa Ienari"
+            }
+          },
+          {
+            "from": 1853,
+            "to": 1858,
+            "name": {
+              "ja": "徳川家定",
+              "en": "Tokugawa Iesada"
+            }
+          },
+          {
+            "from": 1866,
+            "to": 1867,
+            "name": {
+              "ja": "徳川慶喜",
+              "en": "Tokugawa Yoshinobu"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1868,
+        "to": 1945,
+        "government": {
+          "ja": "立憲君主制（大日本帝国憲法）",
+          "en": "Constitutional monarchy under the Meiji Constitution"
+        },
+        "capital": {
+          "ja": "東京",
+          "en": "Tokyo"
+        },
+        "religion": {
+          "ja": "国家神道",
+          "en": "State Shinto"
+        },
+        "summary": {
+          "ja": "明治維新で天皇中心の中央集権国家を建設し、廃藩置県・徴兵令・地租改正を行い、1889年に大日本帝国憲法を発布した。日清・日露戦争に勝って朝鮮を併合し、第一次世界大戦後は五大国の一つとなったが、満洲事変から日中戦争・太平洋戦争に進み、1945年にポツダム宣言を受諾して降伏した。",
+          "en": "The Meiji Restoration built a centralized state around the emperor, abolished the domains, introduced conscription and the land tax, and promulgated the Meiji Constitution in 1889. Victories over Qing and Russia led to the annexation of Korea, and after World War I Japan ranked among the great powers; but from the Manchurian Incident it slid into the Sino-Japanese and Pacific Wars and surrendered in 1945 by accepting the Potsdam Declaration."
+        },
+        "rulers": [
+          {
+            "from": 1867,
+            "to": 1912,
+            "name": {
+              "ja": "明治天皇",
+              "en": "Emperor Meiji"
+            }
+          },
+          {
+            "from": 1885,
+            "to": 1888,
+            "name": {
+              "ja": "伊藤博文（初代内閣総理大臣）",
+              "en": "Ito Hirobumi (first prime minister)"
+            }
+          },
+          {
+            "from": 1912,
+            "to": 1926,
+            "name": {
+              "ja": "大正天皇",
+              "en": "Emperor Taisho"
+            }
+          },
+          {
+            "from": 1918,
+            "to": 1921,
+            "name": {
+              "ja": "原敬",
+              "en": "Hara Takashi"
+            }
+          },
+          {
+            "from": 1926,
+            "to": 1945,
+            "name": {
+              "ja": "昭和天皇",
+              "en": "Emperor Showa (Hirohito)"
+            }
+          },
+          {
+            "from": 1941,
+            "to": 1944,
+            "name": {
+              "ja": "東条英機",
+              "en": "Tojo Hideki"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1945,
+        "to": 1952,
+        "government": {
+          "ja": "連合国軍（GHQ）の占領下の間接統治",
+          "en": "Indirect rule under Allied (GHQ) occupation"
+        },
+        "capital": {
+          "ja": "東京",
+          "en": "Tokyo"
+        },
+        "summary": {
+          "ja": "敗戦後、マッカーサーを最高司令官とするGHQが占領し、財閥解体・農地改革・労働改革などの民主化を進めた。1946年に国民主権・平和主義を掲げる日本国憲法が公布され、天皇は象徴となった。冷戦の進行で占領政策は転換し、1951年のサンフランシスコ平和条約と日米安全保障条約で翌年独立を回復した。",
+          "en": "After defeat Japan was occupied by GHQ under General MacArthur, which dissolved the zaibatsu and carried out land and labor reforms. The 1946 Constitution of Japan established popular sovereignty and pacifism, making the emperor a symbol. As the Cold War deepened policy shifted, and the 1951 San Francisco Peace Treaty and U.S.–Japan Security Treaty restored sovereignty the next year."
+        },
+        "rulers": [
+          {
+            "from": 1945,
+            "to": 1952,
+            "name": {
+              "ja": "昭和天皇",
+              "en": "Emperor Showa (Hirohito)"
+            }
+          },
+          {
+            "from": 1945,
+            "to": 1951,
+            "name": {
+              "ja": "マッカーサー（GHQ最高司令官）",
+              "en": "Douglas MacArthur (SCAP)"
+            }
+          },
+          {
+            "from": 1948,
+            "to": 1952,
+            "name": {
+              "ja": "吉田茂",
+              "en": "Yoshida Shigeru"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1952,
+        "to": 2026,
+        "government": {
+          "ja": "議院内閣制の象徴天皇制国家（日本国憲法）",
+          "en": "Parliamentary democracy with a symbolic emperor"
+        },
+        "capital": {
+          "ja": "東京",
+          "en": "Tokyo"
+        },
+        "summary": {
+          "ja": "独立回復後、1955年から自由民主党の長期政権（55年体制）が続き、高度経済成長で1968年に資本主義国第2位の経済大国となった。1972年に沖縄が返還され日中国交正常化が実現した。冷戦終結後はバブル崩壊と長期不況を経験し、1993年に非自民連立政権が成立して55年体制は終わった。",
+          "en": "After regaining independence, the Liberal Democratic Party held power from 1955 (the \"1955 system\") and rapid growth made Japan the second-largest capitalist economy by 1968. Okinawa was returned and relations with China normalized in 1972. After the Cold War the bubble burst and a long recession followed; a non-LDP coalition in 1993 ended the 1955 system."
+        },
+        "rulers": [
+          {
+            "from": 1952,
+            "to": 1989,
+            "name": {
+              "ja": "昭和天皇",
+              "en": "Emperor Showa (Hirohito)"
+            }
+          },
+          {
+            "from": 1957,
+            "to": 1960,
+            "name": {
+              "ja": "岸信介",
+              "en": "Kishi Nobusuke"
+            }
+          },
+          {
+            "from": 1960,
+            "to": 1964,
+            "name": {
+              "ja": "池田勇人",
+              "en": "Ikeda Hayato"
+            }
+          },
+          {
+            "from": 1964,
+            "to": 1972,
+            "name": {
+              "ja": "佐藤栄作",
+              "en": "Sato Eisaku"
+            }
+          },
+          {
+            "from": 1972,
+            "to": 1974,
+            "name": {
+              "ja": "田中角栄",
+              "en": "Tanaka Kakuei"
+            }
+          },
+          {
+            "from": 1982,
+            "to": 1987,
+            "name": {
+              "ja": "中曽根康弘",
+              "en": "Nakasone Yasuhiro"
+            }
+          },
+          {
+            "from": 1989,
+            "to": 2019,
+            "name": {
+              "ja": "明仁（平成）",
+              "en": "Emperor Akihito (Heisei)"
+            }
+          },
+          {
+            "from": 2001,
+            "to": 2006,
+            "name": {
+              "ja": "小泉純一郎",
+              "en": "Koizumi Junichiro"
+            }
+          },
+          {
+            "from": 2012,
+            "to": 2020,
+            "name": {
+              "ja": "安倍晋三",
+              "en": "Abe Shinzo"
+            }
+          },
+          {
+            "from": 2019,
+            "to": 2026,
+            "name": {
+              "ja": "徳仁（令和）",
+              "en": "Emperor Naruhito (Reiwa)"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "日本",
+      "en": "Japan"
+    }
+  },
+  {
+    "id": "ryukyu-kingdom",
+    "name": {
+      "ja": "琉球王国",
+      "en": "Ryukyu Kingdom"
+    },
+    "basemap_names": [
+      "Chūzan",
+      "Hokuzan",
+      "Nanzan"
+    ],
+    "periods": [
+      {
+        "from": 1322,
+        "to": 1429,
+        "government": {
+          "ja": "三山（北山・中山・南山）の分立",
+          "en": "Three rival principalities: Hokuzan, Chuzan, Nanzan"
+        },
+        "capital": {
+          "ja": "浦添（中山）",
+          "en": "Urasoe (Chuzan)"
+        },
+        "summary": {
+          "ja": "14世紀の沖縄本島では、グスクを拠点とする按司たちが北山・中山・南山の三つの勢力にまとまり、それぞれ明に朝貢して冊封を受けた。中山王察度は1372年に初めて明に入貢し、明から海船を与えられて中継貿易の基盤を築いた。三山は1429年に尚巴志によって統一された。",
+          "en": "In the 14th century the local lords (aji) of Okinawa coalesced into three principalities, Hokuzan, Chuzan and Nanzan, each sending tribute to the Ming and receiving investiture. Satto of Chuzan first sent tribute in 1372 and laid the basis for the island's entrepôt trade."
+        },
+        "rulers": [
+          {
+            "from": 1350,
+            "to": 1395,
+            "name": {
+              "ja": "察度（中山王）",
+              "en": "Satto, King of Chuzan"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1429,
+        "to": 1879,
+        "government": {
+          "ja": "王国（明・清の冊封、1609年以降は薩摩藩にも従属）",
+          "en": "Kingdom under Ming/Qing investiture; subordinate also to Satsuma from 1609"
+        },
+        "capital": {
+          "ja": "首里",
+          "en": "Shuri"
+        },
+        "summary": {
+          "ja": "尚巴志が三山を統一して首里を都とし、明の冊封を受けて東南アジア・中国・日本を結ぶ中継貿易で栄えた。尚真は按司を首里に集めて中央集権を強めた。1609年に薩摩藩に征服され、以後は中国への朝貢と薩摩への従属という両属の立場に置かれ、1879年の琉球処分で日本の沖縄県となった。",
+          "en": "Sho Hashi unified the three principalities, made Shuri his capital, and under Ming investiture the kingdom prospered on entrepôt trade linking Southeast Asia, China and Japan. Sho Shin centralized power by gathering the aji at Shuri. Conquered by Satsuma in 1609, Ryukyu was thereafter subordinate both to China through tribute and to Satsuma, until Japan annexed it as Okinawa prefecture in 1879."
+        },
+        "rulers": [
+          {
+            "from": 1422,
+            "to": 1439,
+            "name": {
+              "ja": "尚巴志",
+              "en": "Sho Hashi"
+            }
+          },
+          {
+            "from": 1477,
+            "to": 1526,
+            "name": {
+              "ja": "尚真",
+              "en": "Sho Shin"
+            }
+          },
+          {
+            "from": 1589,
+            "to": 1620,
+            "name": {
+              "ja": "尚寧",
+              "en": "Sho Nei"
+            }
+          },
+          {
+            "from": 1848,
+            "to": 1879,
+            "name": {
+              "ja": "尚泰",
+              "en": "Sho Tai"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "琉球王国",
+      "en": "Ryukyu Kingdom"
+    }
+  },
+  {
+    "id": "xiongnu",
+    "name": {
+      "ja": "匈奴",
+      "en": "Xiongnu"
+    },
+    "basemap_names": [
+      "Xiongnu",
+      "Southern Xiongnu",
+      "S. Xiongnu"
+    ],
+    "periods": [
+      {
+        "from": -209,
+        "to": 48,
+        "government": {
+          "ja": "遊牧国家（単于のもとに左右賢王など十進法的軍事組織）",
+          "en": "Nomadic empire under the chanyu with Wise Kings of the Left and Right and decimal military units"
+        },
+        "capital": {
+          "ja": "単于庭（モンゴル高原）",
+          "en": "Court of the chanyu (Mongolian plateau)"
+        },
+        "summary": {
+          "ja": "モンゴル高原の遊牧民で、前3世紀末に冒頓単于が月氏や東胡を破って強大化し、漢の高祖を白登山で破って漢を圧迫した。武帝の反撃で漠北に退き、内紛で東西に分裂したのち呼韓邪単于が漢に服属した。王昭君が嫁いだことでも知られる。",
+          "en": "Nomads of the Mongolian plateau. At the end of the 3rd century BC Modu Chanyu crushed the Yuezhi and Donghu and defeated Han Gaozu at Baideng, forcing the Han to pay tribute. Emperor Wu's counterattacks drove them north of the Gobi; civil war split them east and west, and Huhanye Chanyu submitted to the Han, receiving the court lady Wang Zhaojun in marriage."
+        },
+        "rulers": [
+          {
+            "from": -220,
+            "to": -209,
+            "name": {
+              "ja": "頭曼単于",
+              "en": "Touman"
+            }
+          },
+          {
+            "from": -209,
+            "to": -174,
+            "name": {
+              "ja": "冒頓単于",
+              "en": "Modu Chanyu"
+            }
+          },
+          {
+            "from": -174,
+            "to": -161,
+            "name": {
+              "ja": "老上単于",
+              "en": "Laoshang Chanyu"
+            }
+          },
+          {
+            "from": -161,
+            "to": -126,
+            "name": {
+              "ja": "軍臣単于",
+              "en": "Junchen Chanyu"
+            }
+          },
+          {
+            "from": -126,
+            "to": -114,
+            "name": {
+              "ja": "伊稚斜単于",
+              "en": "Yizhixie Chanyu"
+            }
+          },
+          {
+            "from": -58,
+            "to": -31,
+            "name": {
+              "ja": "呼韓邪単于",
+              "en": "Huhanye Chanyu"
+            }
+          },
+          {
+            "from": -56,
+            "to": -36,
+            "name": {
+              "ja": "郅支単于",
+              "en": "Zhizhi Chanyu"
+            }
+          }
+        ]
+      },
+      {
+        "from": 48,
+        "to": 216,
+        "government": {
+          "ja": "南北分裂（南匈奴は後漢に服属）",
+          "en": "Split into Northern and Southern Xiongnu; the South subject to Han"
+        },
+        "capital": {
+          "ja": "美稷（内モンゴル）",
+          "en": "Meiji (Inner Mongolia)"
+        },
+        "summary": {
+          "ja": "48年に南北に分裂し、南匈奴は後漢に服属して長城地帯に移住した。北匈奴は後漢と南匈奴・鮮卑に攻められて91年に西方へ去り、後のフン人との関係も論じられる。南匈奴は3世紀初めに曹操に五部に分けられ、その子孫の劉淵が五胡十六国の口火を切った。",
+          "en": "In AD 48 the Xiongnu split: the Southern Xiongnu submitted to the Later Han and settled along the Great Wall. The Northern Xiongnu, attacked by the Han, the South and the Xianbei, withdrew west in 91, and a link with the later Huns is debated. Cao Cao divided the Southern Xiongnu into five divisions in the early 3rd century; their descendant Liu Yuan opened the era of the Sixteen Kingdoms."
+        },
+        "rulers": [
+          {
+            "from": 48,
+            "to": 56,
+            "name": {
+              "ja": "比（南匈奴呼韓邪単于）",
+              "en": "Bi (Huhanye II of the Southern Xiongnu)"
+            }
+          },
+          {
+            "from": 188,
+            "to": 195,
+            "name": {
+              "ja": "於夫羅",
+              "en": "Yufuluo"
+            }
+          },
+          {
+            "from": 195,
+            "to": 216,
+            "name": {
+              "ja": "呼廚泉",
+              "en": "Huchuquan"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "匈奴",
+      "en": "Xiongnu"
+    }
+  },
+  {
+    "id": "xianbei",
+    "name": {
+      "ja": "鮮卑",
+      "en": "Xianbei"
+    },
+    "basemap_names": [],
+    "periods": [
+      {
+        "from": 100,
+        "to": 386,
+        "government": {
+          "ja": "遊牧部族連合（檀石槐の下で一時統合）",
+          "en": "Nomadic tribal confederation, briefly united under Tanshihuai"
+        },
+        "capital": {
+          "ja": "弾汗山（モンゴル高原東部）",
+          "en": "Danhan Mountain (eastern Mongolia)"
+        },
+        "summary": {
+          "ja": "東胡の子孫とされる遊牧民で、北匈奴が去ったのちモンゴル高原を占めた。2世紀後半に檀石槐が諸部を統合して後漢を脅かしたが、その死後は分裂した。4世紀には慕容部が前燕・後燕を、拓跋部が代、ついで北魏を建て、華北を統一した。",
+          "en": "Nomads descended from the Donghu who occupied the Mongolian plateau after the Northern Xiongnu left. In the late 2nd century Tanshihuai united the tribes and menaced the Later Han, but the confederation broke up after his death. In the 4th century the Murong founded Former and Later Yan, and the Tuoba founded Dai and then Northern Wei, which unified north China."
+        },
+        "rulers": [
+          {
+            "from": 156,
+            "to": 181,
+            "name": {
+              "ja": "檀石槐",
+              "en": "Tanshihuai"
+            }
+          },
+          {
+            "from": 220,
+            "to": 235,
+            "name": {
+              "ja": "軻比能",
+              "en": "Kebineng"
+            }
+          },
+          {
+            "from": 285,
+            "to": 333,
+            "name": {
+              "ja": "慕容廆",
+              "en": "Murong Hui"
+            }
+          },
+          {
+            "from": 338,
+            "to": 376,
+            "name": {
+              "ja": "拓跋什翼犍",
+              "en": "Tuoba Shiyijian"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "鮮卑",
+      "en": "Xianbei"
+    }
+  },
+  {
+    "id": "rouran",
+    "name": {
+      "ja": "柔然",
+      "en": "Rouran Khaganate"
+    },
+    "basemap_names": [
+      "Ruanruan"
+    ],
+    "periods": [
+      {
+        "from": 402,
+        "to": 555,
+        "government": {
+          "ja": "遊牧国家（可汗号を初めて用いる）",
+          "en": "Nomadic khaganate; first to use the title khagan"
+        },
+        "capital": {
+          "ja": "モンゴル高原（オルホン川流域）",
+          "en": "Mongolian plateau (Orkhon valley)"
+        },
+        "summary": {
+          "ja": "5世紀初めに社崙が可汗を称してモンゴル高原を統一した遊牧国家で、君主の称号として可汗を用いた最初の例とされる。北魏と対立して長城地帯を脅かし、北魏は六鎮を置いて防いだ。6世紀半ばに従属していた突厥に滅ぼされた。",
+          "en": "A nomadic state that unified the Mongolian plateau when Shelun took the title khagan in the early 5th century, the first ruler known to use it. It fought the Northern Wei and raided the frontier, prompting the Wei to establish the Six Garrisons. In the mid-6th century it was destroyed by its former subjects, the Türks."
+        },
+        "rulers": [
+          {
+            "from": 402,
+            "to": 410,
+            "name": {
+              "ja": "社崙",
+              "en": "Shelun"
+            }
+          },
+          {
+            "from": 444,
+            "to": 464,
+            "name": {
+              "ja": "吐賀真",
+              "en": "Tuhezhen"
+            }
+          },
+          {
+            "from": 520,
+            "to": 552,
+            "name": {
+              "ja": "阿那瓌",
+              "en": "Anagui"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "柔然",
+      "en": "Rouran Khaganate"
+    }
+  },
+  {
+    "id": "gokturks",
+    "name": {
+      "ja": "突厥",
+      "en": "Türk Khaganate (Göktürks)"
+    },
+    "basemap_names": [
+      "Göktürks",
+      "Western Gokturk Khaganate"
+    ],
+    "periods": [
+      {
+        "from": 552,
+        "to": 583,
+        "government": {
+          "ja": "遊牧国家（可汗制）",
+          "en": "Nomadic khaganate"
+        },
+        "capital": {
+          "ja": "オテュケン山（モンゴル高原）",
+          "en": "Ötüken (Mongolian plateau)"
+        },
+        "summary": {
+          "ja": "アルタイ山脈で製鉄に従事していたトルコ系の突厥が、552年に伊利可汗（ブミン）のもとで柔然を倒して独立した。木杆可汗はササン朝と結んでエフタルを滅ぼし、モンゴル高原から中央アジアに至る大帝国を築き、ソグド人が交易と外交を担った。",
+          "en": "The Turkic Türks, ironworkers in the Altai, overthrew the Rouran under Bumin (Illig Khagan) in 552. Muqan Khagan allied with Sasanian Persia to destroy the Hephthalites, creating an empire from Mongolia to Central Asia in which Sogdian merchants handled trade and diplomacy."
+        },
+        "rulers": [
+          {
+            "from": 552,
+            "to": 552,
+            "name": {
+              "ja": "伊利可汗（ブミン）",
+              "en": "Bumin (Illig Khagan)"
+            }
+          },
+          {
+            "from": 553,
+            "to": 572,
+            "name": {
+              "ja": "木杆可汗（ムカン）",
+              "en": "Muqan Khagan"
+            }
+          },
+          {
+            "from": 572,
+            "to": 581,
+            "name": {
+              "ja": "他鉢可汗",
+              "en": "Taspar Khagan"
+            }
+          }
+        ]
+      },
+      {
+        "from": 583,
+        "to": 657,
+        "government": {
+          "ja": "東突厥・西突厥の分裂",
+          "en": "Division into Eastern and Western Khaganates"
+        },
+        "capital": {
+          "ja": "オテュケン（東）・砕葉（西）",
+          "en": "Ötüken (East); Suyab (West)"
+        },
+        "summary": {
+          "ja": "583年に東西に分裂し、東突厥は隋・唐と和戦を繰り返したが、630年に唐の太宗に敗れ、太宗は「天可汗」の称号を受けた。西突厥は中央アジアのソグド諸都市を支配しビザンツ帝国とも通交したが、657年に唐に滅ぼされ羈縻州が置かれた。",
+          "en": "The khaganate split in 583. The Eastern Türks alternately fought and allied with Sui and Tang until Tang Taizong defeated them in 630 and took the title \"Heavenly Khagan\". The Western Türks ruled the Sogdian cities of Central Asia and exchanged envoys with Byzantium, but Tang destroyed them in 657 and set up loose-rein prefectures."
+        },
+        "rulers": [
+          {
+            "from": 581,
+            "to": 587,
+            "name": {
+              "ja": "沙鉢略可汗",
+              "en": "Ishbara Khagan"
+            }
+          },
+          {
+            "from": 599,
+            "to": 609,
+            "name": {
+              "ja": "啓民可汗",
+              "en": "Qimin Khagan"
+            }
+          },
+          {
+            "from": 609,
+            "to": 619,
+            "name": {
+              "ja": "始畢可汗",
+              "en": "Shibi Khagan"
+            }
+          },
+          {
+            "from": 620,
+            "to": 630,
+            "name": {
+              "ja": "頡利可汗",
+              "en": "Illig Khagan (Xieli)"
+            }
+          },
+          {
+            "from": 618,
+            "to": 628,
+            "name": {
+              "ja": "統葉護可汗（西突厥）",
+              "en": "Tong Yabghu Khagan (West)"
+            }
+          },
+          {
+            "from": 651,
+            "to": 657,
+            "name": {
+              "ja": "阿史那賀魯（西突厥）",
+              "en": "Ashina Helu (West)"
+            }
+          }
+        ]
+      },
+      {
+        "from": 682,
+        "to": 744,
+        "government": {
+          "ja": "突厥第二帝国（可汗制）",
+          "en": "Second Türk Khaganate"
+        },
+        "capital": {
+          "ja": "オテュケン山",
+          "en": "Ötüken"
+        },
+        "summary": {
+          "ja": "唐の支配下にあった東突厥が682年に骨咄禄のもとで独立し、第二帝国を建てた。黙啜可汗は唐を圧迫し、毘伽可汗の時代にオルホン碑文が突厥文字で刻まれ、遊牧民最古の自らの文字記録となった。内紛ののち744年にウイグルに滅ぼされた。",
+          "en": "The Eastern Türks under Tang control regained independence in 682 under Ilterish (Qutlugh) and founded the Second Khaganate. Qapaghan Khagan pressed the Tang, and under Bilge Khagan the Orkhon inscriptions were carved in the Old Turkic script, the earliest written record by steppe nomads in their own language. After internal strife the Uyghurs destroyed the khaganate in 744."
+        },
+        "rulers": [
+          {
+            "from": 682,
+            "to": 691,
+            "name": {
+              "ja": "骨咄禄（イルテリシュ可汗）",
+              "en": "Ilterish Khagan (Qutlugh)"
+            }
+          },
+          {
+            "from": 691,
+            "to": 716,
+            "name": {
+              "ja": "黙啜可汗（カパガン）",
+              "en": "Qapaghan Khagan"
+            }
+          },
+          {
+            "from": 716,
+            "to": 734,
+            "name": {
+              "ja": "毘伽可汗（ビルゲ）",
+              "en": "Bilge Khagan"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "突厥",
+      "en": "Göktürks"
+    }
+  },
+  {
+    "id": "uyghur-khaganate",
+    "name": {
+      "ja": "ウイグル",
+      "en": "Uyghur Khaganate"
+    },
+    "basemap_names": [
+      "Uyghurs"
+    ],
+    "periods": [
+      {
+        "from": 744,
+        "to": 840,
+        "government": {
+          "ja": "遊牧国家（可汗制、都市を建設）",
+          "en": "Nomadic khaganate that built cities"
+        },
+        "capital": {
+          "ja": "カラバルガスン（オルドバリク）",
+          "en": "Karabalghasun (Ordu-Baliq)"
+        },
+        "religion": {
+          "ja": "マニ教（国教）",
+          "en": "Manichaeism (state religion)"
+        },
+        "summary": {
+          "ja": "トルコ系のウイグルが744年に突厥を滅ぼしてモンゴル高原を支配した。安史の乱では唐に援軍を送り、その見返りに絹馬貿易で多くの絹を得た。ソグド人の影響でマニ教を国教とし、カラバルガスンなどの都市を築いた。840年にキルギスに滅ぼされ、一部は天山方面に移って定住化し、トルキスタンの形成につながった。",
+          "en": "The Turkic Uyghurs destroyed the Türk Khaganate in 744 and ruled the Mongolian plateau. They aided the Tang against An Lushan and were rewarded with silk through the horse-for-silk trade. Under Sogdian influence they made Manichaeism the state religion and built cities such as Karabalghasun. Destroyed by the Kyrgyz in 840, part of the people moved to the Tianshan, settled, and helped form Turkestan."
+        },
+        "rulers": [
+          {
+            "from": 744,
+            "to": 747,
+            "name": {
+              "ja": "骨力裴羅（クトルグ＝ボイラ）",
+              "en": "Qutlugh Boyla"
+            }
+          },
+          {
+            "from": 747,
+            "to": 759,
+            "name": {
+              "ja": "磨延啜",
+              "en": "Bayanchur Khagan"
+            }
+          },
+          {
+            "from": 759,
+            "to": 779,
+            "name": {
+              "ja": "牟羽可汗（ボグ＝カガン）",
+              "en": "Bögü Khagan"
+            }
+          },
+          {
+            "from": 779,
+            "to": 789,
+            "name": {
+              "ja": "頓莫賀",
+              "en": "Tun Bagha Tarkhan"
+            }
+          },
+          {
+            "from": 808,
+            "to": 821,
+            "name": {
+              "ja": "保義可汗",
+              "en": "Baoyi Khagan"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "回鶻",
+      "en": "Uyghur Khaganate"
+    }
+  },
+  {
+    "id": "yenisei-kyrgyz",
+    "name": {
+      "ja": "キルギス",
+      "en": "Yenisei Kyrgyz"
+    },
+    "basemap_names": [],
+    "periods": [
+      {
+        "from": 840,
+        "to": 924,
+        "government": {
+          "ja": "遊牧国家（可汗制）",
+          "en": "Nomadic khaganate"
+        },
+        "capital": {
+          "ja": "エニセイ川上流→オルホン川流域",
+          "en": "Upper Yenisei, then the Orkhon valley"
+        },
+        "summary": {
+          "ja": "エニセイ川上流に住んでいたトルコ系遊牧民で、840年にウイグルを滅ぼしてモンゴル高原に進出した。しかし高原を長く支配することはなく、10世紀に契丹の興隆とともにエニセイ方面に退いた。モンゴル高原はその後、モンゴル系の諸部族の地となった。",
+          "en": "Turkic nomads of the upper Yenisei who destroyed the Uyghur Khaganate in 840 and moved onto the Mongolian plateau. They did not hold it for long and withdrew toward the Yenisei in the 10th century as the Khitan rose, leaving the plateau to Mongolic peoples."
+        },
+        "rulers": [
+          {
+            "from": 840,
+            "to": 847,
+            "name": {
+              "ja": "阿熱",
+              "en": "Are (Ajo)"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "黠戛斯",
+      "en": "Yenisei Kyrgyz"
+    }
+  },
+  {
+    "id": "tibet",
+    "name": {
+      "ja": "吐蕃（チベット）",
+      "en": "Tibet (Tufan)"
+    },
+    "basemap_names": [
+      "Tufan Empire",
+      "Tibetan Empire",
+      "Tibet"
+    ],
+    "periods": [
+      {
+        "from": 629,
+        "to": 842,
+        "government": {
+          "ja": "吐蕃王国（ツェンポによる統一王権）",
+          "en": "Tibetan Empire under the tsenpo"
+        },
+        "capital": {
+          "ja": "ラサ",
+          "en": "Lhasa"
+        },
+        "religion": {
+          "ja": "仏教（インド仏教を受容）・ボン教",
+          "en": "Buddhism (Indian school adopted) and Bon"
+        },
+        "summary": {
+          "ja": "7世紀にソンツェン＝ガンポがチベット高原を統一し、唐の文成公主を迎え、インド系文字をもとにチベット文字をつくった。安史の乱に乗じて一時長安を占領し、河西・西域を支配した。ティソン＝デツェンはインド仏教を国教としサムイェー寺を建てたが、ラン＝ダルマの廃仏後に王国は分裂した。",
+          "en": "Songtsen Gampo unified the Tibetan plateau in the 7th century, married the Tang princess Wencheng and had a script created on an Indian model. Exploiting the An Lushan rebellion, Tibet briefly occupied Chang'an and ruled the Hexi corridor and the Western Regions. Trisong Detsen made Indian Buddhism the state religion and built Samye monastery; after Lang Darma's persecution of Buddhism the empire fell apart."
+        },
+        "rulers": [
+          {
+            "from": 629,
+            "to": 649,
+            "name": {
+              "ja": "ソンツェン＝ガンポ",
+              "en": "Songtsen Gampo"
+            },
+            "person": "songtsen-gampo"
+          },
+          {
+            "from": 650,
+            "to": 676,
+            "name": {
+              "ja": "マンソン＝マンツェン",
+              "en": "Mangsong Mangtsen"
+            }
+          },
+          {
+            "from": 704,
+            "to": 755,
+            "name": {
+              "ja": "ティデ＝ツクツェン",
+              "en": "Tride Tsuktsen"
+            }
+          },
+          {
+            "from": 755,
+            "to": 797,
+            "name": {
+              "ja": "ティソン＝デツェン",
+              "en": "Trisong Detsen"
+            }
+          },
+          {
+            "from": 815,
+            "to": 838,
+            "name": {
+              "ja": "ティツク＝デツェン（ラルパチェン）",
+              "en": "Tritsuk Detsen (Ralpachen)"
+            }
+          },
+          {
+            "from": 838,
+            "to": 842,
+            "name": {
+              "ja": "ラン＝ダルマ",
+              "en": "Lang Darma"
+            }
+          }
+        ]
+      },
+      {
+        "from": 842,
+        "to": 1246,
+        "government": {
+          "ja": "分裂期（諸豪族と仏教教団の割拠）",
+          "en": "Era of fragmentation among local lords and Buddhist orders"
+        },
+        "capital": {
+          "ja": "（統一政権なし）",
+          "en": "(no central government)"
+        },
+        "religion": {
+          "ja": "チベット仏教（後伝期、諸宗派の成立）",
+          "en": "Tibetan Buddhism: later diffusion, rise of the schools"
+        },
+        "summary": {
+          "ja": "王国の崩壊後、チベットは約400年にわたり統一政権を欠いた。11世紀からインドの僧アティーシャらにより仏教が再興され（後伝期）、カダム派・サキャ派・カギュ派などの宗派が成立して、寺院と結びついた豪族が各地を支配した。",
+          "en": "After the empire collapsed Tibet lacked a central government for some four centuries. From the 11th century Buddhism was revived by the Indian master Atisha and others (the later diffusion), and the Kadam, Sakya and Kagyu schools emerged, with local lords allied to monasteries ruling the regions."
+        },
+        "rulers": []
+      },
+      {
+        "from": 1247,
+        "to": 1354,
+        "government": {
+          "ja": "モンゴル（元）の支配下でのサキャ派政権",
+          "en": "Sakya rule under Mongol (Yuan) overlordship"
+        },
+        "capital": {
+          "ja": "サキャ",
+          "en": "Sakya"
+        },
+        "religion": {
+          "ja": "チベット仏教（サキャ派）",
+          "en": "Tibetan Buddhism (Sakya school)"
+        },
+        "summary": {
+          "ja": "1247年にサキャ派の高僧がモンゴルに服属し、フビライはパクパを帝師として厚遇し、パスパ文字を作らせた。元はサキャ派を通じてチベットを統治し、チベット仏教はモンゴル宮廷に広まった。14世紀半ばに元の衰退とともにサキャ派の支配は崩れた。",
+          "en": "In 1247 the Sakya hierarch submitted to the Mongols; Khubilai honored Phagpa as imperial preceptor and had him devise the Phags-pa script. The Yuan governed Tibet through the Sakya school, and Tibetan Buddhism spread at the Mongol court. Sakya rule collapsed in the mid-14th century as the Yuan declined."
+        },
+        "rulers": [
+          {
+            "from": 1260,
+            "to": 1280,
+            "name": {
+              "ja": "パクパ（帝師）",
+              "en": "Phagpa (imperial preceptor)"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1354,
+        "to": 1642,
+        "government": {
+          "ja": "パクモドゥ政権・ツァン政権",
+          "en": "Phagmodru and later Tsang regimes"
+        },
+        "capital": {
+          "ja": "ネウドン→シガツェ",
+          "en": "Nedong, later Shigatse"
+        },
+        "religion": {
+          "ja": "チベット仏教（ツォンカパによる黄帽派＝ゲルク派の成立）",
+          "en": "Tibetan Buddhism; Tsongkhapa founds the Gelug (Yellow Hat) school"
+        },
+        "summary": {
+          "ja": "パクモドゥ派が中央チベットを支配し、明は諸教団を冊封して間接的に関係した。ツォンカパが戒律を重んじる黄帽派（ゲルク派）を興し、16世紀にその高僧ソナム＝ギャツォがアルタン＝ハンからダライ＝ラマの称号を受けた。ツァン政権と紅帽派の対立ののち、1642年にオイラトのグシ＝ハンがゲルク派政権を樹立した。",
+          "en": "The Phagmodru regime ruled central Tibet while the Ming dealt with the religious orders through investiture. Tsongkhapa founded the disciplined Gelug (Yellow Hat) school, and in the 16th century its hierarch Sonam Gyatso received the title Dalai Lama from Altan Khan. After conflict with the Tsang regime and the Red Hat orders, the Oirat Güshi Khan installed Gelug rule in 1642."
+        },
+        "rulers": [
+          {
+            "from": 1354,
+            "to": 1364,
+            "name": {
+              "ja": "チャンチュプ＝ギェルツェン",
+              "en": "Changchub Gyaltsen"
+            }
+          },
+          {
+            "from": 1578,
+            "to": 1588,
+            "name": {
+              "ja": "ダライ＝ラマ3世（ソナム＝ギャツォ）",
+              "en": "Sonam Gyatso, 3rd Dalai Lama"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1642,
+        "to": 1959,
+        "government": {
+          "ja": "ダライ＝ラマ政権（ガンデンポタン、1720年以降は清の藩部）",
+          "en": "Ganden Phodrang government of the Dalai Lamas; Qing dependency from 1720"
+        },
+        "capital": {
+          "ja": "ラサ（ポタラ宮）",
+          "en": "Lhasa (Potala Palace)"
+        },
+        "religion": {
+          "ja": "チベット仏教（ゲルク派）",
+          "en": "Tibetan Buddhism (Gelug school)"
+        },
+        "summary": {
+          "ja": "ダライ＝ラマ5世がポタラ宮を建てて政教一致の政権を確立した。18世紀にジュンガルの侵入を機に清軍が入り、駐蔵大臣を置いて藩部とした。辛亥革命後ダライ＝ラマ13世は独立を宣言したが、1950年に中華人民共和国軍が進駐し、1959年のチベット動乱でダライ＝ラマ14世はインドに亡命した。",
+          "en": "The 5th Dalai Lama built the Potala and established a theocratic government. In the 18th century Dzungar incursions brought in Qing troops, and Tibet became a dependency under resident ambans. After the 1911 Revolution the 13th Dalai Lama declared independence, but the People's Liberation Army entered in 1950, and after the 1959 uprising the 14th Dalai Lama fled to India."
+        },
+        "rulers": [
+          {
+            "from": 1642,
+            "to": 1682,
+            "name": {
+              "ja": "ダライ＝ラマ5世",
+              "en": "5th Dalai Lama"
+            }
+          },
+          {
+            "from": 1728,
+            "to": 1747,
+            "name": {
+              "ja": "ポラネー",
+              "en": "Pholhane"
+            }
+          },
+          {
+            "from": 1895,
+            "to": 1933,
+            "name": {
+              "ja": "ダライ＝ラマ13世",
+              "en": "13th Dalai Lama"
+            }
+          },
+          {
+            "from": 1950,
+            "to": 1959,
+            "name": {
+              "ja": "ダライ＝ラマ14世",
+              "en": "14th Dalai Lama"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "吐蕃",
+      "en": "Tibetan Empire"
+    }
+  },
+  {
+    "id": "nanzhao-dali",
+    "name": {
+      "ja": "南詔・大理",
+      "en": "Nanzhao and Dali"
+    },
+    "basemap_names": [
+      "Nan-Zhao",
+      "Nan Chao"
+    ],
+    "periods": [
+      {
+        "from": 738,
+        "to": 902,
+        "government": {
+          "ja": "王国（チベット＝ビルマ系）",
+          "en": "Kingdom of Tibeto-Burman peoples"
+        },
+        "capital": {
+          "ja": "太和城→羊苴咩城（大理）",
+          "en": "Taihe, then Yangjumie (Dali)"
+        },
+        "religion": {
+          "ja": "仏教",
+          "en": "Buddhism"
+        },
+        "summary": {
+          "ja": "雲南の洱海周辺にあった六詔を皮羅閣が統一して建てた国で、唐の冊封を受けて南詔王となった。唐と吐蕃の間で巧みに立ち回り、閣羅鳳は吐蕃に属して唐軍を破り、異牟尋は再び唐と結んだ。9世紀には四川や安南に侵入したが、902年に滅んだ。",
+          "en": "Piluoge united the six zhao around Lake Erhai in Yunnan and was invested by the Tang as king of Nanzhao. Playing Tang against Tibet, Geluofeng sided with Tibet and defeated Tang armies, while Yimouxun realigned with the Tang. In the 9th century Nanzhao raided Sichuan and Annam, but it fell in 902."
+        },
+        "rulers": [
+          {
+            "from": 728,
+            "to": 748,
+            "name": {
+              "ja": "皮羅閣",
+              "en": "Piluoge"
+            }
+          },
+          {
+            "from": 748,
+            "to": 779,
+            "name": {
+              "ja": "閣羅鳳",
+              "en": "Geluofeng"
+            }
+          },
+          {
+            "from": 779,
+            "to": 808,
+            "name": {
+              "ja": "異牟尋",
+              "en": "Yimouxun"
+            }
+          },
+          {
+            "from": 823,
+            "to": 859,
+            "name": {
+              "ja": "勧豊祐",
+              "en": "Quanfengyou"
+            }
+          },
+          {
+            "from": 859,
+            "to": 877,
+            "name": {
+              "ja": "世隆",
+              "en": "Shilong"
+            }
+          }
+        ]
+      },
+      {
+        "from": 937,
+        "to": 1254,
+        "government": {
+          "ja": "王国（段氏、高氏が実権）",
+          "en": "Kingdom of the Duan family; the Gao family held real power"
+        },
+        "capital": {
+          "ja": "大理",
+          "en": "Dali"
+        },
+        "religion": {
+          "ja": "仏教（密教）",
+          "en": "Buddhism (esoteric)"
+        },
+        "summary": {
+          "ja": "段思平が南詔の後継諸政権を倒して建てた国で、雲南に仏教文化を栄えさせ、宋とは馬の交易を行った。宋は大理を討たず、「宋揮玉斧」の故事で知られる。1253年、南宋を包囲しようとしたフビライの遠征により翌年滅ぼされ、雲南は元の行省となった。",
+          "en": "Founded by Duan Siping after overthrowing the successor regimes of Nanzhao, Dali fostered a Buddhist culture in Yunnan and traded horses with the Song, which never tried to conquer it. In 1253 Khubilai's campaign to outflank the Southern Song destroyed it the following year, and Yunnan became a Yuan province."
+        },
+        "rulers": [
+          {
+            "from": 937,
+            "to": 944,
+            "name": {
+              "ja": "段思平",
+              "en": "Duan Siping"
+            }
+          },
+          {
+            "from": 1108,
+            "to": 1147,
+            "name": {
+              "ja": "段正厳",
+              "en": "Duan Zhengyan"
+            }
+          },
+          {
+            "from": 1251,
+            "to": 1254,
+            "name": {
+              "ja": "段興智",
+              "en": "Duan Xingzhi"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "南詔",
+      "en": "Nanzhao"
+    }
+  },
+  {
+    "id": "mongolia",
+    "name": {
+      "ja": "モンゴル（外モンゴル）",
+      "en": "Mongolia (Outer Mongolia)"
+    },
+    "basemap_names": [
+      "Mongolia"
+    ],
+    "periods": [
+      {
+        "from": 1911,
+        "to": 1924,
+        "government": {
+          "ja": "ボグド＝ハーン政権（活仏を元首とする君主制）",
+          "en": "Bogd Khan monarchy headed by the Jebtsundamba Khutuktu"
+        },
+        "capital": {
+          "ja": "ウルガ（フレー）",
+          "en": "Urga (Khüree)"
+        },
+        "religion": {
+          "ja": "チベット仏教",
+          "en": "Tibetan Buddhism"
+        },
+        "summary": {
+          "ja": "辛亥革命を機に1911年、外モンゴルは活仏ジェプツンダンバ＝ホトクトをボグド＝ハーンとして清からの独立を宣言した。1915年のキャフタ協定で中国の宗主権下の自治とされ、1919年に中国軍に占領された。1921年にスフバートルらの人民党がソヴィエト＝ロシアの支援で独立を回復した。",
+          "en": "With the 1911 Revolution Outer Mongolia declared independence from the Qing under the Jebtsundamba Khutuktu as Bogd Khan. The 1915 Kyakhta agreement reduced it to autonomy under Chinese suzerainty and Chinese troops occupied it in 1919. In 1921 the People's Party under Sükhbaatar, backed by Soviet Russia, restored independence."
+        },
+        "rulers": [
+          {
+            "from": 1911,
+            "to": 1924,
+            "name": {
+              "ja": "ボグド＝ハーン",
+              "en": "Bogd Khan"
+            }
+          },
+          {
+            "from": 1921,
+            "to": 1923,
+            "name": {
+              "ja": "スフバートル",
+              "en": "Damdin Sükhbaatar"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1924,
+        "to": 1992,
+        "government": {
+          "ja": "モンゴル人民共和国（人民革命党の一党支配の社会主義国家）",
+          "en": "Mongolian People's Republic: one-party socialist state"
+        },
+        "capital": {
+          "ja": "ウランバートル",
+          "en": "Ulaanbaatar"
+        },
+        "summary": {
+          "ja": "1924年にボグド＝ハーンが没すると世界で2番目の社会主義国モンゴル人民共和国が成立した。チョイバルサンのもとで仏教寺院が破壊され遊牧民の集団化が進み、1939年のノモンハン事件ではソ連とともに日本軍と戦った。1945年の国民投票で独立が確認され、1961年に国連に加盟した。",
+          "en": "On the Bogd Khan's death in 1924 the Mongolian People's Republic was proclaimed, the world's second socialist state. Under Choibalsan monasteries were destroyed and herders collectivized, and in 1939 Mongolia fought Japan alongside the USSR at Nomonhan (Khalkhin Gol). A 1945 plebiscite confirmed independence and Mongolia joined the UN in 1961."
+        },
+        "rulers": [
+          {
+            "from": 1939,
+            "to": 1952,
+            "name": {
+              "ja": "チョイバルサン",
+              "en": "Khorloogiin Choibalsan"
+            }
+          },
+          {
+            "from": 1952,
+            "to": 1984,
+            "name": {
+              "ja": "ツェデンバル",
+              "en": "Yumjaagiin Tsedenbal"
+            }
+          },
+          {
+            "from": 1984,
+            "to": 1990,
+            "name": {
+              "ja": "バトムンフ",
+              "en": "Jambyn Batmönkh"
+            }
+          }
+        ]
+      },
+      {
+        "from": 1992,
+        "to": 2026,
+        "government": {
+          "ja": "民主化後の共和制（モンゴル国）",
+          "en": "Democratic republic (Mongolia)"
+        },
+        "capital": {
+          "ja": "ウランバートル",
+          "en": "Ulaanbaatar"
+        },
+        "religion": {
+          "ja": "チベット仏教",
+          "en": "Tibetan Buddhism"
+        },
+        "summary": {
+          "ja": "1990年の民主化運動で複数政党制に移行し、1992年の新憲法で国号をモンゴル国と改めて社会主義を放棄した。市場経済に転換し、鉱物資源の輸出に依存しつつ、ロシアと中国にはさまれて「第三の隣国」政策で欧米や日本との関係を重視している。",
+          "en": "The 1990 democracy movement brought a multiparty system, and the 1992 constitution renamed the country Mongolia and abandoned socialism. It shifted to a market economy dependent on mineral exports and, wedged between Russia and China, pursues a \"third neighbor\" policy toward the West and Japan."
+        },
+        "rulers": [
+          {
+            "from": 1990,
+            "to": 1997,
+            "name": {
+              "ja": "オチルバト",
+              "en": "Punsalmaagiin Ochirbat"
+            }
+          },
+          {
+            "from": 1997,
+            "to": 2005,
+            "name": {
+              "ja": "バガバンディ",
+              "en": "Natsagiin Bagabandi"
+            }
+          },
+          {
+            "from": 2009,
+            "to": 2017,
+            "name": {
+              "ja": "エルベグドルジ",
+              "en": "Tsakhiagiin Elbegdorj"
+            }
+          },
+          {
+            "from": 2017,
+            "to": 2021,
+            "name": {
+              "ja": "バトトルガ",
+              "en": "Khaltmaagiin Battulga"
+            }
+          },
+          {
+            "from": 2021,
+            "to": 2026,
+            "name": {
+              "ja": "フレルスフ",
+              "en": "Ukhnaagiin Khürelsükh"
+            }
+          }
+        ]
+      }
+    ],
+    "wiki": {
+      "ja": "モンゴル国",
+      "en": "Mongolia"
+    }
+  }
+]
