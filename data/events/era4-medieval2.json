@@ -1,0 +1,2754 @@
+[
+  {
+    "id": "fourth-crusade-sack-of-constantinople",
+    "type": "battle",
+    "year": 1202,
+    "year_end": 1204,
+    "lat": 41.01,
+    "lon": 28.98,
+    "name": {
+      "ja": "第4回十字軍",
+      "en": "Fourth Crusade"
+    },
+    "desc": {
+      "ja": "ヴェネツィア商人の意向で十字軍が目的地を変え、1204年にコンスタンティノープルを占領してラテン帝国を建てた。ビザンツ帝国は一時中断した。",
+      "en": "Diverted by Venetian interests, the crusaders captured Constantinople in 1204 and set up the Latin Empire, temporarily interrupting the Byzantine Empire."
+    },
+    "importance": 2,
+    "persons": [
+      "innocent-iii"
+    ],
+    "wiki": {
+      "ja": "第4回十字軍",
+      "en": "Fourth Crusade"
+    }
+  },
+  {
+    "id": "founding-of-delhi-sultanate",
+    "type": "founding",
+    "year": 1206,
+    "lat": 28.65,
+    "lon": 77.23,
+    "name": {
+      "ja": "奴隷王朝の成立",
+      "en": "Founding of the Delhi Sultanate (Mamluk dynasty)"
+    },
+    "desc": {
+      "ja": "ゴール朝の奴隷出身の武将アイバクがデリーで自立し、インド最初のイスラーム王朝である奴隷王朝を開いた。以後デリー＝スルタン朝が続く。",
+      "en": "Qutb al-Din Aibak, a slave general of the Ghurids, set himself up at Delhi, founding the first Muslim dynasty in India and beginning the Delhi Sultanate."
+    },
+    "importance": 2,
+    "persons": [
+      "qutb-al-din-aibak"
+    ],
+    "wiki": {
+      "ja": "奴隷王朝",
+      "en": "Mamluk dynasty (Delhi)"
+    }
+  },
+  {
+    "id": "chinggis-khan-proclaimed",
+    "type": "founding",
+    "year": 1206,
+    "lat": 48,
+    "lon": 108.7,
+    "name": {
+      "ja": "モンゴル帝国の成立",
+      "en": "Founding of the Mongol Empire"
+    },
+    "desc": {
+      "ja": "テムジンがモンゴル高原の諸部族を統一し、クリルタイでチンギス＝ハンの称号を得てモンゴル帝国を建てた。千戸制で遊牧民を軍事組織化した。",
+      "en": "Temujin unified the tribes of the Mongolian plateau and was proclaimed Chinggis Khan at a kurultai, founding the Mongol Empire organized under the decimal system."
+    },
+    "importance": 3,
+    "persons": [
+      "chinggis-khan"
+    ],
+    "wiki": {
+      "ja": "モンゴル帝国",
+      "en": "Mongol Empire"
+    }
+  },
+  {
+    "id": "albigensian-crusade",
+    "type": "religion",
+    "year": 1209,
+    "year_end": 1229,
+    "lat": 43.6,
+    "lon": 2.24,
+    "name": {
+      "ja": "アルビジョワ十字軍",
+      "en": "Albigensian Crusade"
+    },
+    "desc": {
+      "ja": "教皇インノケンティウス3世の呼びかけで、南フランスの異端カタリ派(アルビジョワ派)を討伐する十字軍が行われ、フランス王権の南部進出を促した。",
+      "en": "Called by Pope Innocent III against the Cathar (Albigensian) heretics of southern France, the crusade also extended French royal power into the south."
+    },
+    "importance": 1,
+    "persons": [
+      "innocent-iii"
+    ],
+    "wiki": {
+      "ja": "アルビジョア十字軍",
+      "en": "Albigensian Crusade"
+    }
+  },
+  {
+    "id": "battle-of-las-navas-de-tolosa",
+    "type": "battle",
+    "year": 1212,
+    "lat": 38.28,
+    "lon": -3.58,
+    "name": {
+      "ja": "ラス＝ナバス＝デ＝トロサの戦い",
+      "en": "Battle of Las Navas de Tolosa"
+    },
+    "desc": {
+      "ja": "カスティリャ・アラゴン・ナバラの連合軍がムワッヒド朝軍を破った。レコンキスタの転機となり、イベリア半島のイスラーム勢力は衰退した。",
+      "en": "The combined forces of Castile, Aragon and Navarre crushed the Almohads, a turning point of the Reconquista after which Muslim power in Iberia declined."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "ナバス・デ・トロサの戦い",
+      "en": "Battle of Las Navas de Tolosa"
+    }
+  },
+  {
+    "id": "battle-of-bouvines",
+    "type": "battle",
+    "year": 1214,
+    "lat": 50.58,
+    "lon": 3.19,
+    "name": {
+      "ja": "ブーヴィーヌの戦い",
+      "en": "Battle of Bouvines"
+    },
+    "desc": {
+      "ja": "フランス王フィリップ2世がイギリス王ジョンと結んだ神聖ローマ皇帝オットー4世らを破り、イギリスの大陸領の多くを確保した。",
+      "en": "Philip II of France defeated Emperor Otto IV and the allies of King John of England, securing the French conquest of most of the Angevin lands on the continent."
+    },
+    "importance": 1,
+    "persons": [
+      "philip-ii-of-france"
+    ],
+    "wiki": {
+      "ja": "ブーヴィーヌの戦い",
+      "en": "Battle of Bouvines"
+    }
+  },
+  {
+    "id": "magna-carta",
+    "type": "politics",
+    "year": 1215,
+    "lat": 51.44,
+    "lon": -0.56,
+    "name": {
+      "ja": "マグナ＝カルタ",
+      "en": "Magna Carta"
+    },
+    "desc": {
+      "ja": "失政を重ねたイギリス王ジョンに貴族が迫り、課税には貴族の同意が必要なことなどを定めた大憲章を承認させた。イギリス立憲政治の起点とされる。",
+      "en": "English barons forced King John to accept the Great Charter, which required baronial consent to taxation and limited royal power; it became a foundation of English constitutionalism."
+    },
+    "importance": 3,
+    "persons": [
+      "king-john"
+    ],
+    "wiki": {
+      "ja": "マグナ・カルタ",
+      "en": "Magna Carta"
+    }
+  },
+  {
+    "id": "fourth-lateran-council",
+    "type": "religion",
+    "year": 1215,
+    "lat": 41.89,
+    "lon": 12.51,
+    "name": {
+      "ja": "第4ラテラノ公会議",
+      "en": "Fourth Lateran Council"
+    },
+    "desc": {
+      "ja": "教皇インノケンティウス3世が招集した公会議。化体説を正式の教義とし、異端取り締まりを強化するなど、教皇権の絶頂期を示した。",
+      "en": "Convened by Innocent III, the council affirmed transubstantiation and tightened measures against heresy, marking the zenith of papal authority."
+    },
+    "importance": 2,
+    "persons": [
+      "innocent-iii"
+    ],
+    "wiki": {
+      "ja": "第4ラテラン公会議",
+      "en": "Fourth Council of the Lateran"
+    }
+  },
+  {
+    "id": "mongol-conquest-of-khwarazm",
+    "type": "fall",
+    "year": 1219,
+    "year_end": 1221,
+    "lat": 39.65,
+    "lon": 66.97,
+    "name": {
+      "ja": "ホラズム＝シャー朝の征服",
+      "en": "Mongol conquest of the Khwarazmian Empire"
+    },
+    "desc": {
+      "ja": "使節殺害を口実にチンギス＝ハンが西征し、サマルカンドなど中央アジアの諸都市を破壊してホラズム＝シャー朝を事実上滅ぼした。",
+      "en": "Using the killing of his envoys as a pretext, Chinggis Khan marched west, destroying Samarkand and other cities and effectively ending the Khwarazmian Empire."
+    },
+    "importance": 2,
+    "persons": [
+      "chinggis-khan"
+    ],
+    "wiki": {
+      "ja": "モンゴルのホラズム・シャー朝征服",
+      "en": "Mongol invasion of the Khwarazmian Empire"
+    }
+  },
+  {
+    "id": "fall-of-western-xia",
+    "type": "fall",
+    "year": 1227,
+    "lat": 38.47,
+    "lon": 106.27,
+    "name": {
+      "ja": "西夏の滅亡",
+      "en": "Fall of the Western Xia"
+    },
+    "desc": {
+      "ja": "チンギス＝ハンの最後の遠征でタングート人の西夏が滅ぼされた。チンギス＝ハンはこの遠征中に陣中で死去し、帝国は子のオゴタイに引き継がれた。",
+      "en": "The Tangut state of Western Xia was destroyed in Chinggis Khan's final campaign, during which the khan himself died."
+    },
+    "importance": 1,
+    "persons": [
+      "chinggis-khan"
+    ],
+    "wiki": {
+      "ja": "西夏",
+      "en": "Western Xia"
+    }
+  },
+  {
+    "id": "fall-of-jin-dynasty",
+    "type": "fall",
+    "year": 1234,
+    "lat": 34.8,
+    "lon": 114.35,
+    "name": {
+      "ja": "金の滅亡",
+      "en": "Fall of the Jin dynasty"
+    },
+    "desc": {
+      "ja": "オゴタイ＝ハンが南宋と結んで金を滅ぼし、華北を支配下に置いた。モンゴルは耶律楚材を用いて中国式の統治を整えた。南宋との対立はその後も続いた。",
+      "en": "Ögedei Khan, in alliance with the Southern Song, destroyed the Jurchen Jin dynasty and took control of North China, drawing on advisers such as Yelü Chucai."
+    },
+    "importance": 2,
+    "persons": [
+      "ogedei-khan"
+    ],
+    "wiki": {
+      "ja": "金 (王朝)",
+      "en": "Jin dynasty (1115–1234)"
+    }
+  },
+  {
+    "id": "karakorum-founded",
+    "type": "founding",
+    "year": 1235,
+    "lat": 47.2,
+    "lon": 102.85,
+    "name": {
+      "ja": "カラコルムの建設",
+      "en": "Founding of Karakorum"
+    },
+    "desc": {
+      "ja": "オゴタイ＝ハンがモンゴル高原のオルホン川流域に都カラコルムを築いた。駅伝制(ジャムチ)の整備とあわせ、帝国の中心となった。",
+      "en": "Ögedei built the capital Karakorum in the Orkhon valley; with the jamchi relay-post system it became the hub of the Mongol Empire."
+    },
+    "importance": 1,
+    "persons": [
+      "ogedei-khan"
+    ],
+    "wiki": {
+      "ja": "カラコルム",
+      "en": "Karakorum"
+    }
+  },
+  {
+    "id": "batu-western-campaign",
+    "type": "battle",
+    "year": 1236,
+    "year_end": 1242,
+    "lat": 50.45,
+    "lon": 30.52,
+    "name": {
+      "ja": "バトゥの西征",
+      "en": "Batu's western campaign"
+    },
+    "desc": {
+      "ja": "バトゥの率いるモンゴル軍がキエフなどロシア諸公国を征服し、ポーランド・ハンガリーに侵入した。東欧は大きな衝撃を受けた。",
+      "en": "Mongol armies under Batu conquered Kiev and the Rus' principalities and swept into Poland and Hungary, shocking Christian Europe."
+    },
+    "importance": 3,
+    "persons": [
+      "batu"
+    ],
+    "wiki": {
+      "ja": "モンゴルのルーシ侵攻",
+      "en": "Mongol invasion of Kievan Rus'"
+    }
+  },
+  {
+    "id": "battle-of-legnica",
+    "type": "battle",
+    "year": 1241,
+    "lat": 51.21,
+    "lon": 16.16,
+    "name": {
+      "ja": "ワールシュタットの戦い",
+      "en": "Battle of Legnica (Wahlstatt)"
+    },
+    "desc": {
+      "ja": "バトゥのモンゴル軍がシュレジエンのワールシュタットでドイツ・ポーランド諸侯連合軍を撃破した。オゴタイの死の報で軍は引き返した。",
+      "en": "Batu's Mongols crushed a German-Polish army at Wahlstatt in Silesia; the Mongols withdrew soon after on news of Ögedei's death."
+    },
+    "importance": 3,
+    "persons": [
+      "batu"
+    ],
+    "wiki": {
+      "ja": "ワールシュタットの戦い",
+      "en": "Battle of Legnica"
+    }
+  },
+  {
+    "id": "founding-of-golden-horde",
+    "type": "founding",
+    "year": 1243,
+    "lat": 48,
+    "lon": 46.5,
+    "name": {
+      "ja": "キプチャク＝ハン国の成立",
+      "en": "Founding of the Golden Horde"
+    },
+    "desc": {
+      "ja": "西征から戻ったバトゥがヴォルガ川下流のサライを都としてキプチャク＝ハン国を建て、ロシア諸公国を支配下に置いた。ロシアは約2世紀半その支配を受けた。",
+      "en": "Returning from the west, Batu established the Golden Horde (Kipchak Khanate) with its capital at Sarai on the lower Volga and ruled over the Rus' principalities."
+    },
+    "importance": 2,
+    "persons": [
+      "batu"
+    ],
+    "wiki": {
+      "ja": "ジョチ・ウルス",
+      "en": "Golden Horde"
+    }
+  },
+  {
+    "id": "plano-carpini-mission",
+    "type": "exploration",
+    "year": 1245,
+    "year_end": 1247,
+    "lat": 47.2,
+    "lon": 102.85,
+    "name": {
+      "ja": "プラノ＝カルピニのモンゴル派遣",
+      "en": "Mission of John of Plano Carpini"
+    },
+    "desc": {
+      "ja": "教皇インノケンティウス4世がフランチェスコ会士プラノ＝カルピニをカラコルムに派遣した。モンゴルの情報をヨーロッパに伝えた。",
+      "en": "Pope Innocent IV sent the Franciscan John of Plano Carpini to Karakorum, bringing back the first detailed European account of the Mongols."
+    },
+    "importance": 1,
+    "persons": [
+      "plano-carpini"
+    ],
+    "wiki": {
+      "ja": "プラノ・カルピニ",
+      "en": "Giovanni da Pian del Carpine"
+    }
+  },
+  {
+    "id": "seventh-crusade-louis-ix",
+    "type": "battle",
+    "year": 1248,
+    "year_end": 1254,
+    "lat": 31.42,
+    "lon": 31.81,
+    "name": {
+      "ja": "第6回十字軍(ルイ9世)",
+      "en": "Seventh Crusade of Louis IX"
+    },
+    "desc": {
+      "ja": "フランス王ルイ9世がエジプトに遠征したが、マンスーラで敗れて捕虜となった。山川教科書ではこれを第6回十字軍と数える。",
+      "en": "Louis IX of France invaded Egypt but was defeated and captured at Mansurah; Japanese textbooks count this as the Sixth Crusade."
+    },
+    "importance": 1,
+    "persons": [
+      "louis-ix"
+    ],
+    "wiki": {
+      "ja": "第7回十字軍",
+      "en": "Seventh Crusade"
+    }
+  },
+  {
+    "id": "founding-of-mamluk-sultanate",
+    "type": "founding",
+    "year": 1250,
+    "lat": 30.05,
+    "lon": 31.24,
+    "name": {
+      "ja": "マムルーク朝の成立",
+      "en": "Founding of the Mamluk Sultanate"
+    },
+    "desc": {
+      "ja": "アイユーブ朝の奴隷軍人(マムルーク)がカイロで自立し、マムルーク朝を建てた。以後エジプト・シリアを支配し東西貿易で繁栄した。",
+      "en": "Slave soldiers (mamluks) of the Ayyubids took power in Cairo, founding the Mamluk Sultanate, which ruled Egypt and Syria and prospered on east-west trade."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "マムルーク朝",
+      "en": "Mamluk Sultanate"
+    }
+  },
+  {
+    "id": "rubruck-mission",
+    "type": "exploration",
+    "year": 1253,
+    "year_end": 1255,
+    "lat": 47.2,
+    "lon": 102.85,
+    "name": {
+      "ja": "ルブルックのモンゴル派遣",
+      "en": "Mission of William of Rubruck"
+    },
+    "desc": {
+      "ja": "フランス王ルイ9世がフランチェスコ会士ルブルックをカラコルムに派遣し、モンケ＝ハンに謁見させた。詳細な旅行記を残した。",
+      "en": "Louis IX sent the Franciscan William of Rubruck to Karakorum, where he met Möngke Khan and left a detailed travel account."
+    },
+    "importance": 1,
+    "persons": [
+      "rubruck",
+      "louis-ix"
+    ],
+    "wiki": {
+      "ja": "ギヨーム・ド・ルブルック",
+      "en": "William of Rubruck"
+    }
+  },
+  {
+    "id": "great-interregnum",
+    "type": "politics",
+    "year": 1256,
+    "year_end": 1273,
+    "lat": 50.11,
+    "lon": 8.68,
+    "name": {
+      "ja": "大空位時代",
+      "en": "Great Interregnum"
+    },
+    "desc": {
+      "ja": "シュタウフェン朝断絶後、神聖ローマ帝国で事実上皇帝不在の状態が続いた。諸侯の自立が進み、ドイツの分裂傾向が強まった。",
+      "en": "After the Hohenstaufen line died out, the Holy Roman Empire went nearly two decades without an effective emperor, strengthening the independence of the princes."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "大空位時代",
+      "en": "Great Interregnum"
+    }
+  },
+  {
+    "id": "fall-of-baghdad-1258",
+    "type": "fall",
+    "year": 1258,
+    "lat": 33.34,
+    "lon": 44.4,
+    "name": {
+      "ja": "バグダード陥落",
+      "en": "Siege of Baghdad"
+    },
+    "desc": {
+      "ja": "フラグの率いるモンゴル軍がバグダードを攻略し、アッバース朝を滅ぼした。500年続いたカリフ政権が倒れ、イル＝ハン国が成立した。",
+      "en": "Hülegü's Mongol army sacked Baghdad and destroyed the Abbasid Caliphate after five centuries; the Ilkhanate was established in its place."
+    },
+    "importance": 3,
+    "persons": [
+      "hulagu"
+    ],
+    "wiki": {
+      "ja": "バグダードの戦い",
+      "en": "Siege of Baghdad (1258)"
+    }
+  },
+  {
+    "id": "founding-of-ilkhanate",
+    "type": "founding",
+    "year": 1258,
+    "lat": 38.08,
+    "lon": 46.29,
+    "name": {
+      "ja": "イル＝ハン国の成立",
+      "en": "Founding of the Ilkhanate"
+    },
+    "desc": {
+      "ja": "フラグがイランを中心にイル＝ハン国を建て、タブリーズを都とした。のちガザン＝ハンがイスラーム教を国教とし、イラン＝イスラーム文化が栄えた。",
+      "en": "Hülegü founded the Ilkhanate in Iran with its capital at Tabriz; Ghazan Khan later adopted Islam and Irano-Islamic culture flourished."
+    },
+    "importance": 2,
+    "persons": [
+      "hulagu"
+    ],
+    "wiki": {
+      "ja": "イルハン朝",
+      "en": "Ilkhanate"
+    }
+  },
+  {
+    "id": "battle-of-ain-jalut",
+    "type": "battle",
+    "year": 1260,
+    "lat": 32.55,
+    "lon": 35.36,
+    "name": {
+      "ja": "アイン＝ジャールートの戦い",
+      "en": "Battle of Ain Jalut"
+    },
+    "desc": {
+      "ja": "マムルーク朝のバイバルスらがパレスチナでモンゴル軍を破り、モンゴルの西進を食い止めた。マムルーク朝の威信が高まった。",
+      "en": "Mamluk forces under Baybars defeated the Mongols in Palestine, halting the Mongol advance westward and raising Mamluk prestige."
+    },
+    "importance": 2,
+    "persons": [
+      "baybars"
+    ],
+    "wiki": {
+      "ja": "アイン・ジャールートの戦い",
+      "en": "Battle of Ain Jalut"
+    }
+  },
+  {
+    "id": "kublai-becomes-khan",
+    "type": "politics",
+    "year": 1260,
+    "lat": 42.36,
+    "lon": 116.18,
+    "name": {
+      "ja": "フビライの即位",
+      "en": "Kublai's accession as Great Khan"
+    },
+    "desc": {
+      "ja": "モンケの死後、フビライが開平(上都)で大ハンに即位した。弟アリクブケとの継承争いに勝利したが、帝国の分裂が進んだ。各ハン国は事実上独立した。",
+      "en": "After Möngke's death, Kublai was proclaimed Great Khan at Kaiping (Shangdu) and defeated his brother Ariq Böke, though the empire grew increasingly divided."
+    },
+    "importance": 1,
+    "persons": [
+      "kublai-khan"
+    ],
+    "wiki": {
+      "ja": "クビライ",
+      "en": "Kublai Khan"
+    }
+  },
+  {
+    "id": "byzantine-recovery-of-constantinople",
+    "type": "politics",
+    "year": 1261,
+    "lat": 41.01,
+    "lon": 28.98,
+    "name": {
+      "ja": "ビザンツ帝国の復活",
+      "en": "Byzantine recapture of Constantinople"
+    },
+    "desc": {
+      "ja": "ニケーア帝国のミカエル8世がコンスタンティノープルを奪回し、ラテン帝国を滅ぼしてビザンツ帝国(パレオロゴス朝)を再興した。",
+      "en": "Michael VIII of Nicaea recaptured Constantinople, ending the Latin Empire and restoring the Byzantine Empire under the Palaiologos dynasty."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "ラテン帝国",
+      "en": "Latin Empire"
+    }
+  },
+  {
+    "id": "simon-de-montfort-parliament",
+    "type": "politics",
+    "year": 1265,
+    "lat": 51.5,
+    "lon": -0.12,
+    "name": {
+      "ja": "シモン＝ド＝モンフォールの議会",
+      "en": "Simon de Montfort's Parliament"
+    },
+    "desc": {
+      "ja": "ヘンリ3世に反乱した貴族シモン＝ド＝モンフォールが、州と都市の代表を加えた議会を招集した。イギリス議会の起源とされる。",
+      "en": "Simon de Montfort, leading a baronial revolt against Henry III, summoned a parliament including knights of the shires and burgesses, regarded as the origin of the English Parliament."
+    },
+    "importance": 2,
+    "persons": [
+      "simon-de-montfort"
+    ],
+    "wiki": {
+      "ja": "シモン・ド・モンフォール (第6代レスター伯)",
+      "en": "Simon de Montfort's Parliament"
+    }
+  },
+  {
+    "id": "founding-of-yuan",
+    "type": "founding",
+    "year": 1271,
+    "lat": 39.9,
+    "lon": 116.4,
+    "name": {
+      "ja": "元の成立",
+      "en": "Founding of the Yuan dynasty"
+    },
+    "desc": {
+      "ja": "フビライ＝ハンが都を大都(北京)に移し、国号を中国風に元と定めた。モンゴル人を頂点とし、色目人を重用する支配体制を築いた。",
+      "en": "Kublai Khan moved his capital to Dadu (Beijing) and adopted the Chinese-style dynastic name Yuan, ruling through a hierarchy led by Mongols and Semu."
+    },
+    "importance": 3,
+    "persons": [
+      "kublai-khan"
+    ],
+    "wiki": {
+      "ja": "元 (王朝)",
+      "en": "Yuan dynasty"
+    }
+  },
+  {
+    "id": "marco-polo-travels",
+    "type": "exploration",
+    "year": 1271,
+    "year_end": 1295,
+    "lat": 39.9,
+    "lon": 116.4,
+    "name": {
+      "ja": "マルコ＝ポーロの東方旅行",
+      "en": "Travels of Marco Polo"
+    },
+    "desc": {
+      "ja": "ヴェネツィアの商人マルコ＝ポーロが陸路で大都に至り、フビライに仕えた後に海路で帰国した。『世界の記述(東方見聞録)』を残した。",
+      "en": "The Venetian merchant Marco Polo traveled overland to Dadu, served Kublai, and returned by sea; his account, the Travels, became famous in Europe."
+    },
+    "importance": 3,
+    "persons": [
+      "marco-polo",
+      "kublai-khan"
+    ],
+    "wiki": {
+      "ja": "マルコ・ポーロ",
+      "en": "Marco Polo"
+    }
+  },
+  {
+    "id": "mongol-invasion-of-japan-1274",
+    "type": "battle",
+    "year": 1274,
+    "lat": 33.59,
+    "lon": 130.4,
+    "name": {
+      "ja": "文永の役",
+      "en": "First Mongol invasion of Japan (Bun'ei)"
+    },
+    "desc": {
+      "ja": "フビライが高麗軍を加えた遠征軍を日本に送り、博多湾に上陸したが撤退した。元寇の最初の侵攻で、鎌倉幕府は防備を固めた。",
+      "en": "Kublai sent a Mongol-Korean expedition that landed at Hakata Bay but withdrew; the first of the Mongol invasions, prompting the Kamakura shogunate to fortify the coast."
+    },
+    "importance": 3,
+    "persons": [
+      "kublai-khan"
+    ],
+    "wiki": {
+      "ja": "文永の役",
+      "en": "Mongol invasions of Japan"
+    }
+  },
+  {
+    "id": "fall-of-southern-song",
+    "type": "fall",
+    "year": 1279,
+    "lat": 22.42,
+    "lon": 113.1,
+    "name": {
+      "ja": "南宋の滅亡",
+      "en": "Fall of the Southern Song"
+    },
+    "desc": {
+      "ja": "元軍が臨安を占領した後、崖山の戦いで南宋の残存勢力を滅ぼし、中国全土を統一した。中国全土が初めて異民族の支配下に入った。",
+      "en": "After taking Lin'an, Yuan forces annihilated the last Song loyalists at Yamen, uniting all of China under foreign rule for the first time."
+    },
+    "importance": 3,
+    "persons": [
+      "kublai-khan"
+    ],
+    "wiki": {
+      "ja": "崖山の戦い",
+      "en": "Battle of Yamen"
+    }
+  },
+  {
+    "id": "mongol-invasion-of-japan-1281",
+    "type": "battle",
+    "year": 1281,
+    "lat": 33.6,
+    "lon": 130.3,
+    "name": {
+      "ja": "弘安の役",
+      "en": "Second Mongol invasion of Japan (Kōan)"
+    },
+    "desc": {
+      "ja": "フビライが南宋の降兵を加えた大軍を再び日本に送ったが、暴風雨と日本側の防戦で失敗した。元の日本遠征は以後断念された。",
+      "en": "Kublai launched a second, larger invasion of Japan, which failed amid a storm and Japanese resistance; no further invasion was attempted."
+    },
+    "importance": 2,
+    "persons": [
+      "kublai-khan"
+    ],
+    "wiki": {
+      "ja": "弘安の役",
+      "en": "Mongol invasions of Japan"
+    }
+  },
+  {
+    "id": "sicilian-vespers",
+    "type": "revolution",
+    "year": 1282,
+    "lat": 38.12,
+    "lon": 13.36,
+    "name": {
+      "ja": "シチリアの晩鐘",
+      "en": "Sicilian Vespers"
+    },
+    "desc": {
+      "ja": "シチリア島でフランスのアンジュー家支配に対する反乱が起こり、アラゴン王がシチリア王位を得た。地中海の勢力図が変わった。",
+      "en": "A revolt in Sicily against Angevin French rule led to the island passing to the crown of Aragon, reshaping Mediterranean politics."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "シチリアの晩祷",
+      "en": "Sicilian Vespers"
+    }
+  },
+  {
+    "id": "swiss-confederation-founded",
+    "type": "founding",
+    "year": 1291,
+    "lat": 46.95,
+    "lon": 8.6,
+    "name": {
+      "ja": "スイス独立の始まり",
+      "en": "Founding of the Swiss Confederation"
+    },
+    "desc": {
+      "ja": "ウーリ・シュヴィーツ・ウンターヴァルデンの3州がハプスブルク家の支配に抵抗して永久同盟を結んだ。スイスの独立運動の起点である。",
+      "en": "The three forest cantons of Uri, Schwyz and Unterwalden swore a perpetual alliance against Habsburg rule, beginning the Swiss struggle for independence."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "スイスの歴史",
+      "en": "Old Swiss Confederacy"
+    }
+  },
+  {
+    "id": "fall-of-acre",
+    "type": "fall",
+    "year": 1291,
+    "lat": 32.92,
+    "lon": 35.07,
+    "name": {
+      "ja": "アッコン陥落",
+      "en": "Fall of Acre"
+    },
+    "desc": {
+      "ja": "マムルーク朝が十字軍最後の拠点アッコンを攻略し、シリアの十字軍国家は完全に消滅した。約200年の十字軍時代が終わった。",
+      "en": "The Mamluks captured Acre, the last crusader stronghold in Syria, ending the crusader states and the two-century era of the Crusades."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "アッコン包囲戦 (1291年)",
+      "en": "Siege of Acre (1291)"
+    }
+  },
+  {
+    "id": "model-parliament",
+    "type": "politics",
+    "year": 1295,
+    "lat": 51.5,
+    "lon": -0.12,
+    "name": {
+      "ja": "模範議会",
+      "en": "Model Parliament"
+    },
+    "desc": {
+      "ja": "エドワード1世が戦費調達のため聖職者・貴族のほか各州の騎士と都市の代表を招集した議会。のちの身分制議会の模範とされた。",
+      "en": "Edward I summoned clergy, barons, knights of the shires and burgesses, creating a parliament later regarded as the model for the English estates."
+    },
+    "importance": 3,
+    "persons": [
+      "edward-i"
+    ],
+    "wiki": {
+      "ja": "模範議会",
+      "en": "Model Parliament"
+    }
+  },
+  {
+    "id": "founding-of-ottoman-empire",
+    "type": "founding",
+    "year": 1299,
+    "lat": 40.14,
+    "lon": 29.98,
+    "name": {
+      "ja": "オスマン帝国の成立",
+      "en": "Founding of the Ottoman Empire"
+    },
+    "desc": {
+      "ja": "アナトリア西北部でトルコ系のオスマン1世が自立し、オスマン帝国の基礎を築いた。ビザンツ領を侵食しつつ勢力を広げた。ブルサを都とした。",
+      "en": "Osman I, a Turkish frontier chief in northwestern Anatolia, asserted independence and laid the foundations of the Ottoman state at Byzantine expense."
+    },
+    "importance": 3,
+    "persons": [
+      "osman-i"
+    ],
+    "wiki": {
+      "ja": "オスマン帝国",
+      "en": "Ottoman Empire"
+    }
+  },
+  {
+    "id": "estates-general-1302",
+    "type": "politics",
+    "year": 1302,
+    "lat": 48.85,
+    "lon": 2.35,
+    "name": {
+      "ja": "三部会の招集",
+      "en": "First Estates-General"
+    },
+    "desc": {
+      "ja": "フィリップ4世が教皇との対立で国内の支持を得るため、聖職者・貴族・平民の代表からなる三部会を初めて招集した。王権の強化につながった。",
+      "en": "To rally support against the pope, Philip IV summoned the first Estates-General, an assembly of clergy, nobles and commoners."
+    },
+    "importance": 2,
+    "persons": [
+      "philip-iv"
+    ],
+    "wiki": {
+      "ja": "三部会",
+      "en": "Estates General (France)"
+    }
+  },
+  {
+    "id": "anagni-incident",
+    "type": "politics",
+    "year": 1303,
+    "lat": 41.74,
+    "lon": 13.16,
+    "name": {
+      "ja": "アナーニ事件",
+      "en": "Outrage of Anagni"
+    },
+    "desc": {
+      "ja": "聖職者課税をめぐり対立したフランス王フィリップ4世が教皇ボニファティウス8世をアナーニで捕らえた。教皇は憤死し、教皇権の衰退が始まった。",
+      "en": "In a dispute over taxing the clergy, Philip IV of France had Pope Boniface VIII seized at Anagni; the pope died soon after, marking the start of papal decline."
+    },
+    "importance": 2,
+    "persons": [
+      "philip-iv",
+      "boniface-viii"
+    ],
+    "wiki": {
+      "ja": "アナーニ事件",
+      "en": "Outrage of Anagni"
+    }
+  },
+  {
+    "id": "avignon-papacy",
+    "type": "religion",
+    "year": 1309,
+    "year_end": 1377,
+    "lat": 43.95,
+    "lon": 4.81,
+    "name": {
+      "ja": "教皇のバビロン捕囚",
+      "en": "Avignon Papacy (Babylonian Captivity)"
+    },
+    "desc": {
+      "ja": "フランス王の圧力で教皇庁が南フランスのアヴィニョンに移され、約70年間フランス王の影響下に置かれた。教皇権の失墜を象徴する。",
+      "en": "Under French royal pressure the papal court moved to Avignon, where it remained under French influence for nearly seventy years, symbolizing the papacy's decline."
+    },
+    "importance": 3,
+    "persons": [
+      "philip-iv"
+    ],
+    "wiki": {
+      "ja": "アヴィニョン捕囚",
+      "en": "Avignon Papacy"
+    }
+  },
+  {
+    "id": "dante-divine-comedy",
+    "type": "culture",
+    "year": 1321,
+    "lat": 43.77,
+    "lon": 11.26,
+    "name": {
+      "ja": "ダンテ『神曲』",
+      "en": "Dante's Divine Comedy"
+    },
+    "desc": {
+      "ja": "フィレンツェの詩人ダンテがトスカナ語で『神曲』を完成させた。ルネサンス文学の先駆とされ、イタリア語の成立にも寄与した。",
+      "en": "The Florentine poet Dante completed the Divine Comedy in the Tuscan vernacular, a forerunner of Renaissance literature that helped shape the Italian language."
+    },
+    "importance": 2,
+    "persons": [
+      "dante"
+    ],
+    "wiki": {
+      "ja": "神曲",
+      "en": "Divine Comedy"
+    }
+  },
+  {
+    "id": "mansa-musa-pilgrimage",
+    "type": "religion",
+    "year": 1324,
+    "year_end": 1325,
+    "lat": 21.42,
+    "lon": 39.83,
+    "name": {
+      "ja": "マンサ＝ムーサのメッカ巡礼",
+      "en": "Mansa Musa's pilgrimage to Mecca"
+    },
+    "desc": {
+      "ja": "マリ王国の王マンサ＝ムーサが大量の金を携えてメッカ巡礼を行い、カイロで金の価格を下落させた。マリの富が西アジアに知られた。",
+      "en": "Mansa Musa of Mali made the hajj with vast quantities of gold, depressing gold prices in Cairo and spreading the fame of Mali's wealth."
+    },
+    "importance": 2,
+    "persons": [
+      "mansa-musa"
+    ],
+    "wiki": {
+      "ja": "マンサ・ムーサ",
+      "en": "Mansa Musa"
+    }
+  },
+  {
+    "id": "founding-of-tenochtitlan",
+    "type": "founding",
+    "year": 1325,
+    "lat": 19.43,
+    "lon": -99.13,
+    "name": {
+      "ja": "テノチティトラン建設",
+      "en": "Founding of Tenochtitlan"
+    },
+    "desc": {
+      "ja": "アステカ人がメキシコ高原のテスココ湖の島に都テノチティトランを建設した。15世紀には周辺を支配するアステカ王国の中心となった。",
+      "en": "The Aztecs founded Tenochtitlan on an island in Lake Texcoco; by the fifteenth century it was the capital of the Aztec kingdom dominating central Mexico."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "テノチティトラン",
+      "en": "Tenochtitlan"
+    }
+  },
+  {
+    "id": "ibn-battuta-travels",
+    "type": "exploration",
+    "year": 1325,
+    "year_end": 1354,
+    "lat": 31.63,
+    "lon": -7.99,
+    "name": {
+      "ja": "イブン＝バットゥータの旅行",
+      "en": "Travels of Ibn Battuta"
+    },
+    "desc": {
+      "ja": "モロッコ生まれの法学者イブン＝バットゥータがメッカ巡礼を機に西アジア・インド・中国・マリまで旅し、『旅行記(三大陸周遊記)』を残した。",
+      "en": "The Moroccan jurist Ibn Battuta traveled from Mecca through West Asia, India, China and Mali, recording his journeys in the Rihla."
+    },
+    "importance": 2,
+    "persons": [
+      "ibn-battuta"
+    ],
+    "wiki": {
+      "ja": "イブン・バットゥータ",
+      "en": "Ibn Battuta"
+    }
+  },
+  {
+    "id": "tughluq-capital-transfer",
+    "type": "politics",
+    "year": 1327,
+    "lat": 19.9,
+    "lon": 75.3,
+    "name": {
+      "ja": "トゥグルク朝の遷都",
+      "en": "Tughluq transfer of the capital to Daulatabad"
+    },
+    "desc": {
+      "ja": "トゥグルク朝のムハンマド＝ビン＝トゥグルクがデリーからデカンのダウラターバードへ遷都を強行したが失敗した。デリー＝スルタン朝の南進を示す。",
+      "en": "Muhammad bin Tughluq forced a move of the capital from Delhi to Daulatabad in the Deccan, which failed but marked the sultanate's push southward."
+    },
+    "importance": 1,
+    "persons": [
+      "muhammad-bin-tughluq"
+    ],
+    "wiki": {
+      "ja": "トゥグルク朝",
+      "en": "Tughlaq dynasty"
+    }
+  },
+  {
+    "id": "vijayanagara-founded",
+    "type": "founding",
+    "year": 1336,
+    "lat": 15.33,
+    "lon": 76.46,
+    "name": {
+      "ja": "ヴィジャヤナガル王国の成立",
+      "en": "Founding of the Vijayanagara Empire"
+    },
+    "desc": {
+      "ja": "南インドでヒンドゥー教のヴィジャヤナガル王国が成立し、デリー＝スルタン朝に対抗した。香辛料貿易で栄え、16世紀まで続いた。",
+      "en": "The Hindu kingdom of Vijayanagara arose in South India as a counterweight to the Delhi Sultanate, prospering on the spice trade until the sixteenth century."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "ヴィジャヤナガル王国",
+      "en": "Vijayanagara Empire"
+    }
+  },
+  {
+    "id": "hundred-years-war",
+    "type": "battle",
+    "year": 1339,
+    "year_end": 1453,
+    "lat": 49.5,
+    "lon": 1,
+    "name": {
+      "ja": "百年戦争",
+      "en": "Hundred Years' War"
+    },
+    "desc": {
+      "ja": "フランス王位継承とフランドル・ギエンヌの支配をめぐりイギリスとフランスが断続的に戦った。両国の王権強化と国民意識の形成を促した。",
+      "en": "England and France fought intermittently over the French succession and control of Flanders and Guyenne; the war strengthened both monarchies and national identities."
+    },
+    "importance": 3,
+    "persons": [
+      "edward-iii",
+      "joan-of-arc",
+      "charles-vii"
+    ],
+    "wiki": {
+      "ja": "百年戦争",
+      "en": "Hundred Years' War"
+    }
+  },
+  {
+    "id": "battle-of-crecy",
+    "type": "battle",
+    "year": 1346,
+    "lat": 50.26,
+    "lon": 1.9,
+    "name": {
+      "ja": "クレシーの戦い",
+      "en": "Battle of Crécy"
+    },
+    "desc": {
+      "ja": "百年戦争初期の決戦で、エドワード3世の率いる長弓兵を主力とするイギリス軍がフランスの騎士軍を大敗させた。騎士の没落を象徴する戦いである。",
+      "en": "In an early decisive battle of the Hundred Years' War, Edward III's English longbowmen routed the French knights."
+    },
+    "importance": 2,
+    "persons": [
+      "edward-iii",
+      "edward-the-black-prince"
+    ],
+    "wiki": {
+      "ja": "クレシーの戦い",
+      "en": "Battle of Crécy"
+    }
+  },
+  {
+    "id": "black-death",
+    "type": "other",
+    "year": 1348,
+    "year_end": 1350,
+    "lat": 43.77,
+    "lon": 11.26,
+    "name": {
+      "ja": "黒死病の流行",
+      "en": "Black Death"
+    },
+    "desc": {
+      "ja": "ペストがヨーロッパ全域に広がり、人口の約3分の1が失われた。労働力不足から農民の地位が向上し、荘園制の解体を早めた。",
+      "en": "Plague swept across Europe, killing roughly a third of the population; the labor shortage raised peasants' status and hastened the decline of the manorial system."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "黒死病",
+      "en": "Black Death"
+    }
+  },
+  {
+    "id": "ayutthaya-founded",
+    "type": "founding",
+    "year": 1351,
+    "lat": 14.35,
+    "lon": 100.57,
+    "name": {
+      "ja": "アユタヤ朝の成立",
+      "en": "Founding of the Ayutthaya kingdom"
+    },
+    "desc": {
+      "ja": "タイ人のアユタヤ朝がチャオプラヤ川下流に成立した。カンボジアを圧迫し、米や鹿皮の輸出で国際貿易の拠点として栄えた。上座部仏教が栄えた。",
+      "en": "The Thai kingdom of Ayutthaya arose on the lower Chao Phraya, pressing Cambodia and flourishing as a trading hub exporting rice and deerskins."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "アユタヤ王朝",
+      "en": "Ayutthaya Kingdom"
+    }
+  },
+  {
+    "id": "red-turban-rebellion",
+    "type": "revolution",
+    "year": 1351,
+    "year_end": 1366,
+    "lat": 32.9,
+    "lon": 117,
+    "name": {
+      "ja": "紅巾の乱",
+      "en": "Red Turban Rebellion"
+    },
+    "desc": {
+      "ja": "元末の飢饉と重税を背景に白蓮教徒が紅巾の乱を起こし、各地で反乱が続発した。この中から朱元璋が台頭して明を建てた。元は北方に退いた。",
+      "en": "White Lotus sectarians rose in the Red Turban Rebellion amid famine and heavy taxes in the late Yuan; from this turmoil Zhu Yuanzhang emerged to found the Ming."
+    },
+    "importance": 2,
+    "persons": [
+      "hongwu-emperor"
+    ],
+    "wiki": {
+      "ja": "紅巾の乱",
+      "en": "Red Turban Rebellions"
+    }
+  },
+  {
+    "id": "boccaccio-decameron",
+    "type": "culture",
+    "year": 1353,
+    "lat": 43.77,
+    "lon": 11.26,
+    "name": {
+      "ja": "ボッカチオ『デカメロン』",
+      "en": "Boccaccio's Decameron"
+    },
+    "desc": {
+      "ja": "ボッカチオが黒死病を背景に人間の欲望を赤裸々に描いた物語集『デカメロン』を著した。近代小説の先駆とされる。ペトラルカとともに人文主義を代表する。",
+      "en": "Against the backdrop of the plague, Boccaccio wrote the Decameron, candidly depicting human desires; it is regarded as a precursor of the modern novel."
+    },
+    "importance": 1,
+    "persons": [
+      "boccaccio"
+    ],
+    "wiki": {
+      "ja": "デカメロン",
+      "en": "The Decameron"
+    }
+  },
+  {
+    "id": "golden-bull-1356",
+    "type": "politics",
+    "year": 1356,
+    "lat": 50.11,
+    "lon": 8.68,
+    "name": {
+      "ja": "金印勅書",
+      "en": "Golden Bull of 1356"
+    },
+    "desc": {
+      "ja": "神聖ローマ皇帝カール4世が、皇帝選挙権を7人の選帝侯に限定する金印勅書を発布した。諸侯の領邦支配が確立し、帝国の分裂が固定化した。",
+      "en": "Emperor Charles IV issued the Golden Bull fixing the election of the emperor in seven prince-electors, entrenching princely territorial rule and German fragmentation."
+    },
+    "importance": 2,
+    "persons": [
+      "charles-iv-hre"
+    ],
+    "wiki": {
+      "ja": "金印勅書",
+      "en": "Golden Bull of 1356"
+    }
+  },
+  {
+    "id": "battle-of-poitiers",
+    "type": "battle",
+    "year": 1356,
+    "lat": 46.55,
+    "lon": 0.4,
+    "name": {
+      "ja": "ポワティエの戦い",
+      "en": "Battle of Poitiers"
+    },
+    "desc": {
+      "ja": "エドワード黒太子の率いるイギリス軍がフランス軍を破り、フランス王ジャン2世を捕虜にした。フランスは混乱に陥った。農民の負担が増大した。",
+      "en": "The English under Edward the Black Prince defeated the French and captured King John II, plunging France into turmoil."
+    },
+    "importance": 2,
+    "persons": [
+      "edward-the-black-prince"
+    ],
+    "wiki": {
+      "ja": "ポワティエの戦い (1356年)",
+      "en": "Battle of Poitiers"
+    }
+  },
+  {
+    "id": "jacquerie",
+    "type": "revolution",
+    "year": 1358,
+    "lat": 49.42,
+    "lon": 2.83,
+    "name": {
+      "ja": "ジャックリーの乱",
+      "en": "Jacquerie"
+    },
+    "desc": {
+      "ja": "百年戦争と黒死病で疲弊した北フランスの農民が、重税と領主の圧迫に抗して蜂起した。短期間で鎮圧されたが、封建社会の動揺を示した。",
+      "en": "Peasants of northern France, exhausted by war and plague, rose against heavy taxes and seigneurial pressure; quickly suppressed, it revealed the shaking of feudal society."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "ジャックリーの乱",
+      "en": "Jacquerie"
+    }
+  },
+  {
+    "id": "founding-of-ming",
+    "type": "founding",
+    "year": 1368,
+    "lat": 32.06,
+    "lon": 118.78,
+    "name": {
+      "ja": "明の成立",
+      "en": "Founding of the Ming dynasty"
+    },
+    "desc": {
+      "ja": "紅巾の乱から台頭した朱元璋が南京で即位して明を建て(洪武帝)、元を北方に追った。里甲制・六諭などで皇帝独裁体制を整えた。",
+      "en": "Zhu Yuanzhang, risen from the Red Turban rebellion, took the throne at Nanjing as the Hongwu Emperor, drove the Yuan north and built an autocratic order with the lijia system."
+    },
+    "importance": 3,
+    "persons": [
+      "hongwu-emperor"
+    ],
+    "wiki": {
+      "ja": "明",
+      "en": "Ming dynasty"
+    }
+  },
+  {
+    "id": "hanseatic-league-peace-of-stralsund",
+    "type": "treaty",
+    "year": 1370,
+    "lat": 54.31,
+    "lon": 13.09,
+    "name": {
+      "ja": "ハンザ同盟の最盛期(シュトラルズントの和約)",
+      "en": "Hanseatic League at its height (Treaty of Stralsund)"
+    },
+    "desc": {
+      "ja": "リューベックを盟主とする北ドイツ都市のハンザ同盟がデンマークに勝利し、シュトラルズントの和約でバルト海貿易の特権を確保した。",
+      "en": "The Hanseatic League of north German cities led by Lübeck defeated Denmark and secured its Baltic trading privileges in the Treaty of Stralsund."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "ハンザ同盟",
+      "en": "Hanseatic League"
+    }
+  },
+  {
+    "id": "timur-rises",
+    "type": "founding",
+    "year": 1370,
+    "lat": 39.65,
+    "lon": 66.97,
+    "name": {
+      "ja": "ティムール朝の成立",
+      "en": "Founding of the Timurid Empire"
+    },
+    "desc": {
+      "ja": "チャガタイ＝ハン国の混乱に乗じてティムールがサマルカンドを都に自立した。以後イラン・イラクを征服し中央アジアに大帝国を築いた。",
+      "en": "Amid the disintegration of the Chagatai Khanate, Timur established himself at Samarkand and went on to conquer Iran and Iraq, building a vast Central Asian empire."
+    },
+    "importance": 2,
+    "persons": [
+      "timur"
+    ],
+    "wiki": {
+      "ja": "ティムール朝",
+      "en": "Timurid Empire"
+    }
+  },
+  {
+    "id": "great-schism",
+    "type": "religion",
+    "year": 1378,
+    "year_end": 1417,
+    "lat": 41.9,
+    "lon": 12.45,
+    "name": {
+      "ja": "教会大分裂",
+      "en": "Western Schism"
+    },
+    "desc": {
+      "ja": "教皇庁のローマ帰還後、ローマとアヴィニョンに二人の教皇が並び立ち、教会が分裂した。コンスタンツ公会議で解消されるまで約40年続いた。",
+      "en": "After the papacy returned to Rome, rival popes at Rome and Avignon split the Church for nearly forty years until the Council of Constance resolved it."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "教会大分裂",
+      "en": "Western Schism"
+    }
+  },
+  {
+    "id": "wat-tyler-rebellion",
+    "type": "revolution",
+    "year": 1381,
+    "lat": 51.51,
+    "lon": -0.09,
+    "name": {
+      "ja": "ワット＝タイラーの乱",
+      "en": "Peasants' Revolt (Wat Tyler)"
+    },
+    "desc": {
+      "ja": "人頭税に反発したイギリスの農民がワット＝タイラーの指導で蜂起しロンドンに迫った。ジョン＝ボールの「アダムが耕しイヴが紡いだとき…」の説教で知られる。",
+      "en": "English peasants led by Wat Tyler rose against the poll tax and marched on London; John Ball's sermon on Adam and Eve became famous."
+    },
+    "importance": 2,
+    "persons": [
+      "wat-tyler"
+    ],
+    "wiki": {
+      "ja": "ワット・タイラーの乱",
+      "en": "Peasants' Revolt"
+    }
+  },
+  {
+    "id": "battle-of-kosovo-1389",
+    "type": "battle",
+    "year": 1389,
+    "lat": 42.66,
+    "lon": 21.1,
+    "name": {
+      "ja": "コソヴォの戦い",
+      "en": "Battle of Kosovo"
+    },
+    "desc": {
+      "ja": "オスマン帝国のムラト1世がセルビアを中心とするバルカン諸侯連合軍を破った。バルカン半島のオスマン支配が確立した。ムラト1世は戦場で死去した。",
+      "en": "Ottoman Sultan Murad I defeated a Balkan coalition led by Serbia, consolidating Ottoman control over the Balkans."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "コソボの戦い",
+      "en": "Battle of Kosovo"
+    }
+  },
+  {
+    "id": "founding-of-joseon",
+    "type": "founding",
+    "year": 1392,
+    "lat": 37.57,
+    "lon": 126.98,
+    "name": {
+      "ja": "朝鮮王朝の成立",
+      "en": "Founding of the Joseon dynasty"
+    },
+    "desc": {
+      "ja": "高麗の武将李成桂が倭寇撃退で名を上げ、高麗を倒して朝鮮王朝を建てた。漢城(ソウル)を都とし、朱子学を官学とした。明に朝貢して冊封を受けた。",
+      "en": "The Goryeo general Yi Seong-gye, famed for repelling the Wakō pirates, overthrew Goryeo and founded Joseon with its capital at Hanseong (Seoul) and Neo-Confucianism as state doctrine."
+    },
+    "importance": 3,
+    "persons": [
+      "yi-seong-gye"
+    ],
+    "wiki": {
+      "ja": "李氏朝鮮",
+      "en": "Joseon"
+    }
+  },
+  {
+    "id": "battle-of-nicopolis",
+    "type": "battle",
+    "year": 1396,
+    "lat": 43.7,
+    "lon": 24.9,
+    "name": {
+      "ja": "ニコポリスの戦い",
+      "en": "Battle of Nicopolis"
+    },
+    "desc": {
+      "ja": "オスマン帝国のバヤジット1世がハンガリー王ジギスムントの率いるヨーロッパ諸国の十字軍を破った。バルカン支配が確固となった。",
+      "en": "Ottoman Sultan Bayezid I crushed a European crusading army led by Sigismund of Hungary, confirming Ottoman dominance in the Balkans."
+    },
+    "importance": 1,
+    "persons": [
+      "bayezid-i"
+    ],
+    "wiki": {
+      "ja": "ニコポリスの戦い",
+      "en": "Battle of Nicopolis"
+    }
+  },
+  {
+    "id": "kalmar-union",
+    "type": "treaty",
+    "year": 1397,
+    "lat": 56.66,
+    "lon": 16.36,
+    "name": {
+      "ja": "カルマル同盟",
+      "en": "Kalmar Union"
+    },
+    "desc": {
+      "ja": "デンマークのマルグレーテの主導でデンマーク・スウェーデン・ノルウェーが同君連合を結んだ。北欧の統合はスウェーデンの離脱まで続いた。",
+      "en": "Under Margaret of Denmark, Denmark, Sweden and Norway were joined in a personal union that lasted until Sweden broke away in the sixteenth century."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "カルマル同盟",
+      "en": "Kalmar Union"
+    }
+  },
+  {
+    "id": "timur-sack-of-delhi",
+    "type": "battle",
+    "year": 1398,
+    "lat": 28.65,
+    "lon": 77.23,
+    "name": {
+      "ja": "ティムールのデリー侵入",
+      "en": "Timur's sack of Delhi"
+    },
+    "desc": {
+      "ja": "ティムールが北インドに侵入してデリーを略奪し、トゥグルク朝に大打撃を与えた。デリー＝スルタン朝の衰退が決定的となった。",
+      "en": "Timur invaded northern India and sacked Delhi, dealing a crippling blow to the Tughluq dynasty and hastening the decline of the Delhi Sultanate."
+    },
+    "importance": 1,
+    "persons": [
+      "timur"
+    ],
+    "wiki": {
+      "ja": "ティムール",
+      "en": "Timur"
+    }
+  },
+  {
+    "id": "jingnan-campaign",
+    "type": "revolution",
+    "year": 1399,
+    "year_end": 1402,
+    "lat": 32.06,
+    "lon": 118.78,
+    "name": {
+      "ja": "靖難の役",
+      "en": "Jingnan campaign"
+    },
+    "desc": {
+      "ja": "洪武帝の子で北平を拠点とする燕王が、甥の建文帝に対し挙兵して南京を攻略し、帝位を奪って永楽帝となった。明初最大の内乱である。",
+      "en": "The Prince of Yan, a son of the Hongwu Emperor based at Beiping, rose against his nephew the Jianwen Emperor, took Nanjing and seized the throne as the Yongle Emperor."
+    },
+    "importance": 1,
+    "persons": [
+      "yongle-emperor"
+    ],
+    "wiki": {
+      "ja": "靖難の変",
+      "en": "Jingnan campaign"
+    }
+  },
+  {
+    "id": "founding-of-malacca",
+    "type": "founding",
+    "year": 1400,
+    "lat": 2.19,
+    "lon": 102.25,
+    "name": {
+      "ja": "マラッカ王国の成立",
+      "en": "Founding of the Malacca Sultanate"
+    },
+    "desc": {
+      "ja": "マレー半島南西部にマラッカ王国が成立し、15世紀にはイスラーム化して東南アジア海上交易の中心となった。鄭和の遠征の拠点ともなった。",
+      "en": "The kingdom of Malacca arose on the Malay Peninsula, adopted Islam and became the hub of Southeast Asian maritime trade and a base for Zheng He's voyages."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "マラッカ王国",
+      "en": "Malacca Sultanate"
+    }
+  },
+  {
+    "id": "battle-of-ankara",
+    "type": "battle",
+    "year": 1402,
+    "lat": 39.93,
+    "lon": 32.86,
+    "name": {
+      "ja": "アンカラの戦い",
+      "en": "Battle of Ankara"
+    },
+    "desc": {
+      "ja": "ティムールがアンカラでオスマン帝国のバヤジット1世を破って捕虜とした。オスマン帝国は一時分裂の危機に陥った。ティムールは明遠征の途上で病死した。",
+      "en": "Timur defeated and captured Ottoman Sultan Bayezid I at Ankara, throwing the Ottoman state into a decade of civil war."
+    },
+    "importance": 3,
+    "persons": [
+      "timur",
+      "bayezid-i"
+    ],
+    "wiki": {
+      "ja": "アンカラの戦い",
+      "en": "Battle of Ankara"
+    }
+  },
+  {
+    "id": "zheng-he-voyages",
+    "type": "exploration",
+    "year": 1405,
+    "year_end": 1433,
+    "lat": 3.17,
+    "lon": 101.4,
+    "name": {
+      "ja": "鄭和の南海遠征",
+      "en": "Voyages of Zheng He"
+    },
+    "desc": {
+      "ja": "永楽帝の命で宦官鄭和が7回にわたり大艦隊を率いて東南アジア・インド洋に遠征し、アフリカ東岸にも達した。朝貢国を増やした。",
+      "en": "On the Yongle Emperor's orders the eunuch admiral Zheng He led seven great fleets through Southeast Asia and the Indian Ocean, reaching East Africa and expanding the tribute system."
+    },
+    "importance": 3,
+    "persons": [
+      "zheng-he",
+      "yongle-emperor"
+    ],
+    "wiki": {
+      "ja": "鄭和",
+      "en": "Ming treasure voyages"
+    }
+  },
+  {
+    "id": "battle-of-grunwald",
+    "type": "battle",
+    "year": 1410,
+    "lat": 53.49,
+    "lon": 20.1,
+    "name": {
+      "ja": "タンネンベルクの戦い",
+      "en": "Battle of Grunwald (Tannenberg)"
+    },
+    "desc": {
+      "ja": "ポーランド・リトアニア連合軍がドイツ騎士団を破った。ヤゲウォ朝のポーランドは東欧の大国として発展した。ドイツ騎士団は衰退に向かった。",
+      "en": "The Polish-Lithuanian army defeated the Teutonic Knights; Jagiellonian Poland rose as a major power in Eastern Europe."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "グルンヴァルトの戦い",
+      "en": "Battle of Grunwald"
+    }
+  },
+  {
+    "id": "council-of-constance",
+    "type": "religion",
+    "year": 1414,
+    "year_end": 1418,
+    "lat": 47.66,
+    "lon": 9.17,
+    "name": {
+      "ja": "コンスタンツ公会議",
+      "en": "Council of Constance"
+    },
+    "desc": {
+      "ja": "神聖ローマ皇帝ジギスムントの提唱で開かれ、教会大分裂を解消して新教皇を選出した。ウィクリフを異端とし、フスを火刑に処した。",
+      "en": "Convened at the urging of Emperor Sigismund, the council ended the Western Schism, condemned Wycliffe as a heretic and burned Jan Hus at the stake."
+    },
+    "importance": 3,
+    "persons": [
+      "jan-hus"
+    ],
+    "wiki": {
+      "ja": "コンスタンツ公会議",
+      "en": "Council of Constance"
+    }
+  },
+  {
+    "id": "hussite-wars",
+    "type": "revolution",
+    "year": 1419,
+    "year_end": 1436,
+    "lat": 50.08,
+    "lon": 14.42,
+    "name": {
+      "ja": "フス戦争",
+      "en": "Hussite Wars"
+    },
+    "desc": {
+      "ja": "フスの処刑に憤ったベーメンのフス派が蜂起し、皇帝ジギスムントの派遣した討伐軍を数次にわたり退けた。宗教改革の先駆とされる。",
+      "en": "Outraged by Hus's execution, the Hussites of Bohemia rose in revolt and repelled repeated imperial crusades; the movement is seen as a forerunner of the Reformation."
+    },
+    "importance": 1,
+    "persons": [
+      "jan-hus"
+    ],
+    "wiki": {
+      "ja": "フス戦争",
+      "en": "Hussite Wars"
+    }
+  },
+  {
+    "id": "ming-capital-to-beijing",
+    "type": "politics",
+    "year": 1421,
+    "lat": 39.9,
+    "lon": 116.4,
+    "name": {
+      "ja": "北京遷都",
+      "en": "Ming capital moved to Beijing"
+    },
+    "desc": {
+      "ja": "永楽帝が都を南京から北京に移し、紫禁城を造営した。モンゴル高原への親征を重ねるなど積極的な対外政策をとった。北京は以後中国の首都となった。",
+      "en": "The Yongle Emperor moved the capital from Nanjing to Beijing and built the Forbidden City, pursuing an active foreign policy including campaigns into Mongolia."
+    },
+    "importance": 1,
+    "persons": [
+      "yongle-emperor"
+    ],
+    "wiki": {
+      "ja": "永楽帝",
+      "en": "Yongle Emperor"
+    }
+  },
+  {
+    "id": "le-dynasty-founded",
+    "type": "founding",
+    "year": 1428,
+    "lat": 21.03,
+    "lon": 105.85,
+    "name": {
+      "ja": "黎朝の成立",
+      "en": "Founding of the Lê dynasty"
+    },
+    "desc": {
+      "ja": "明の支配に抵抗した黎利が明軍を追い出し、ハノイを都に黎朝(大越)を建てた。明の制度を取り入れて中央集権を進めた。科挙も整備された。",
+      "en": "Lê Lợi drove out the Ming occupiers and founded the Lê dynasty of Đại Việt at Hanoi, adopting Ming-style institutions to centralize the state."
+    },
+    "importance": 1,
+    "persons": [
+      "le-loi"
+    ],
+    "wiki": {
+      "ja": "黎朝",
+      "en": "Lê dynasty"
+    }
+  },
+  {
+    "id": "siege-of-orleans",
+    "type": "battle",
+    "year": 1429,
+    "lat": 47.9,
+    "lon": 1.9,
+    "name": {
+      "ja": "オルレアンの解放",
+      "en": "Relief of Orléans"
+    },
+    "desc": {
+      "ja": "農民の娘ジャンヌ＝ダルクが神の啓示を受けたとして包囲されたオルレアンを救い、シャルル7世の戴冠を実現した。百年戦争の形勢は逆転した。",
+      "en": "Joan of Arc, a peasant girl claiming divine inspiration, lifted the English siege of Orléans and saw Charles VII crowned, turning the tide of the Hundred Years' War."
+    },
+    "importance": 3,
+    "persons": [
+      "joan-of-arc",
+      "charles-vii"
+    ],
+    "wiki": {
+      "ja": "オルレアン包囲戦",
+      "en": "Siege of Orléans"
+    }
+  },
+  {
+    "id": "pachacuti-inca-expansion",
+    "type": "founding",
+    "year": 1438,
+    "lat": -13.52,
+    "lon": -71.97,
+    "name": {
+      "ja": "インカ帝国の拡大",
+      "en": "Pachacuti's expansion of the Inca Empire"
+    },
+    "desc": {
+      "ja": "クスコの王パチャクティが周辺を征服してインカ帝国の基礎を築いた。帝国はアンデス一帯に広がり、キープや道路網による統治を整えた。",
+      "en": "Pachacuti, ruler of Cusco, conquered neighboring peoples and laid the foundations of the Inca Empire, which spread across the Andes and was governed with quipu and a road network."
+    },
+    "importance": 2,
+    "persons": [
+      "pachacuti"
+    ],
+    "wiki": {
+      "ja": "パチャクテク",
+      "en": "Pachacuti"
+    }
+  },
+  {
+    "id": "hangul-promulgated",
+    "type": "culture",
+    "year": 1446,
+    "lat": 37.57,
+    "lon": 126.98,
+    "name": {
+      "ja": "訓民正音(ハングル)の制定",
+      "en": "Promulgation of Hangul"
+    },
+    "desc": {
+      "ja": "朝鮮王朝の世宗が朝鮮語を表記する表音文字の訓民正音を制定・公布した。金属活字の改良など学問文化の発展も進めた。両班の間では漢字が用いられ続けた。",
+      "en": "King Sejong of Joseon promulgated Hunminjeongeum (Hangul), a phonetic script for Korean, amid a flourishing of scholarship including improved metal movable type."
+    },
+    "importance": 3,
+    "persons": [
+      "sejong"
+    ],
+    "wiki": {
+      "ja": "訓民正音",
+      "en": "Hunminjeongeum"
+    }
+  },
+  {
+    "id": "tumu-crisis",
+    "type": "battle",
+    "year": 1449,
+    "lat": 40.39,
+    "lon": 115.5,
+    "name": {
+      "ja": "土木の変",
+      "en": "Tumu Crisis"
+    },
+    "desc": {
+      "ja": "オイラトのエセン＝ハンが明に侵入し、親征した正統帝を土木堡で捕虜にした。明は守勢に転じ、万里の長城の修築を進めた。北虜の脅威が続いた。",
+      "en": "Esen Khan of the Oirats invaded Ming China and captured the Zhengtong Emperor at Tumu; the Ming turned to the defensive and rebuilt the Great Wall."
+    },
+    "importance": 2,
+    "persons": [
+      "esen-taishi"
+    ],
+    "wiki": {
+      "ja": "土木の変",
+      "en": "Tumu Crisis"
+    }
+  },
+  {
+    "id": "gutenberg-printing-press",
+    "type": "culture",
+    "year": 1450,
+    "lat": 49.99,
+    "lon": 8.27,
+    "name": {
+      "ja": "活版印刷術の発明",
+      "en": "Gutenberg's printing press"
+    },
+    "desc": {
+      "ja": "マインツのグーテンベルクが金属活字による活版印刷術を実用化し、聖書を印刷した。書物の普及が学問と宗教改革の展開を支えた。",
+      "en": "Johannes Gutenberg of Mainz perfected printing with metal movable type and printed the Bible; cheap books fueled learning and later the Reformation."
+    },
+    "importance": 3,
+    "persons": [
+      "gutenberg"
+    ],
+    "wiki": {
+      "ja": "ヨハネス・グーテンベルク",
+      "en": "Johannes Gutenberg"
+    }
+  },
+  {
+    "id": "great-zimbabwe-mutapa",
+    "type": "other",
+    "year": 1450,
+    "lat": -20.27,
+    "lon": 30.93,
+    "name": {
+      "ja": "大ジンバブエの衰退とモノモタパ王国",
+      "en": "Decline of Great Zimbabwe and the Mutapa kingdom"
+    },
+    "desc": {
+      "ja": "インド洋貿易の金で栄えた大ジンバブエの石造都市が15世紀半ばに衰え、北方にモノモタパ王国が成立した。モノモタパ王国はポルトガル人とも金を交易した。",
+      "en": "The stone city of Great Zimbabwe, enriched by gold exported through the Indian Ocean trade, declined in the mid-fifteenth century as the Mutapa kingdom rose to the north."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "グレート・ジンバブエ遺跡",
+      "en": "Great Zimbabwe"
+    }
+  },
+  {
+    "id": "fall-of-constantinople",
+    "type": "fall",
+    "year": 1453,
+    "lat": 41.01,
+    "lon": 28.98,
+    "name": {
+      "ja": "コンスタンティノープルの陥落",
+      "en": "Fall of Constantinople"
+    },
+    "desc": {
+      "ja": "オスマン帝国のメフメト2世がコンスタンティノープルを攻略し、ビザンツ帝国を滅ぼした。都はイスタンブルと呼ばれオスマン帝国の首都となった。",
+      "en": "Sultan Mehmed II captured Constantinople and ended the Byzantine Empire; renamed Istanbul, the city became the Ottoman capital."
+    },
+    "importance": 3,
+    "persons": [
+      "mehmed-ii"
+    ],
+    "wiki": {
+      "ja": "コンスタンティノープルの陥落",
+      "en": "Fall of Constantinople"
+    }
+  },
+  {
+    "id": "wars-of-the-roses",
+    "type": "battle",
+    "year": 1455,
+    "year_end": 1485,
+    "lat": 52.3,
+    "lon": -1.5,
+    "name": {
+      "ja": "バラ戦争",
+      "en": "Wars of the Roses"
+    },
+    "desc": {
+      "ja": "百年戦争後、イギリスでランカスター家とヨーク家が王位を争った。貴族が疲弊して没落し、勝利したヘンリ7世がテューダー朝を開いた。",
+      "en": "After the Hundred Years' War the houses of Lancaster and York fought for the English crown; the nobility was exhausted and the victor Henry VII founded the Tudor dynasty."
+    },
+    "importance": 3,
+    "persons": [
+      "henry-vii"
+    ],
+    "wiki": {
+      "ja": "薔薇戦争",
+      "en": "Wars of the Roses"
+    }
+  },
+  {
+    "id": "songhai-sonni-ali-timbuktu",
+    "type": "founding",
+    "year": 1468,
+    "lat": 16.77,
+    "lon": -3,
+    "name": {
+      "ja": "ソンガイ王国の台頭",
+      "en": "Rise of the Songhai Empire"
+    },
+    "desc": {
+      "ja": "ガオを拠点とするソンガイ王国のソンニ＝アリがトンブクトゥを征服し、衰えたマリ王国に代わってニジェール川流域を支配した。",
+      "en": "Sonni Ali of Songhai, based at Gao, took Timbuktu and replaced the declining Mali Empire as the dominant power of the Niger bend."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "ソンガイ帝国",
+      "en": "Songhai Empire"
+    }
+  },
+  {
+    "id": "ivan-iii-ends-mongol-rule",
+    "type": "politics",
+    "year": 1480,
+    "lat": 55.75,
+    "lon": 37.62,
+    "name": {
+      "ja": "モスクワ大公国の自立",
+      "en": "Ivan III ends Mongol overlordship"
+    },
+    "desc": {
+      "ja": "モスクワ大公イヴァン3世がキプチャク＝ハン国から自立し、ビザンツ皇帝の後継者としてツァーリの称号を用いた。「タタールのくびき」の終わりである。",
+      "en": "Grand Prince Ivan III of Moscow threw off the Golden Horde's overlordship and styled himself tsar as heir of Byzantium, ending the 'Tatar yoke'."
+    },
+    "importance": 2,
+    "persons": [
+      "ivan-iii"
+    ],
+    "wiki": {
+      "ja": "イヴァン3世",
+      "en": "Ivan III of Russia"
+    }
+  },
+  {
+    "id": "dias-cape-of-good-hope",
+    "type": "exploration",
+    "year": 1488,
+    "lat": -34.36,
+    "lon": 18.47,
+    "name": {
+      "ja": "バルトロメウ＝ディアスの喜望峰到達",
+      "en": "Bartolomeu Dias rounds the Cape of Good Hope"
+    },
+    "desc": {
+      "ja": "ポルトガルのバルトロメウ＝ディアスがアフリカ南端の喜望峰に到達した。エンリケ航海王子以来のアフリカ西岸探検がインド航路へつながった。",
+      "en": "The Portuguese navigator Bartolomeu Dias reached the Cape of Good Hope, linking the West African exploration begun under Henry the Navigator to the route to India."
+    },
+    "importance": 2,
+    "persons": [
+      "bartolomeu-dias"
+    ],
+    "wiki": {
+      "ja": "バルトロメウ・ディアス",
+      "en": "Bartolomeu Dias"
+    }
+  },
+  {
+    "id": "fall-of-granada",
+    "type": "fall",
+    "year": 1492,
+    "lat": 37.18,
+    "lon": -3.6,
+    "name": {
+      "ja": "グラナダ陥落",
+      "en": "Fall of Granada"
+    },
+    "desc": {
+      "ja": "スペインのイサベルとフェルナンドがナスル朝の都グラナダを攻略し、レコンキスタが完成した。スペインは海外進出へ向かった。",
+      "en": "Isabella and Ferdinand of Spain took Granada, capital of the Nasrid dynasty, completing the Reconquista and turning Spain toward overseas expansion."
+    },
+    "importance": 3,
+    "persons": [
+      "isabella-i"
+    ],
+    "wiki": {
+      "ja": "グラナダ陥落",
+      "en": "Granada War"
+    }
+  },
+  {
+    "id": "columbus-first-voyage",
+    "type": "exploration",
+    "year": 1492,
+    "lat": 24,
+    "lon": -74.5,
+    "name": {
+      "ja": "コロンブスの大西洋横断",
+      "en": "Columbus's first voyage"
+    },
+    "desc": {
+      "ja": "スペイン女王イサベルの支援を受けたコロンブスが大西洋を横断し、カリブ海のサンサルバドル島に到達した。「新大陸」への道が開かれた。",
+      "en": "Backed by Queen Isabella of Spain, Columbus crossed the Atlantic and reached San Salvador in the Caribbean, opening the way to the 'New World'."
+    },
+    "importance": 3,
+    "persons": [
+      "columbus",
+      "isabella-i"
+    ],
+    "wiki": {
+      "ja": "クリストファー・コロンブス",
+      "en": "Voyages of Christopher Columbus"
+    }
+  },
+  {
+    "id": "treaty-of-tordesillas",
+    "type": "treaty",
+    "year": 1494,
+    "lat": 41.5,
+    "lon": -5,
+    "name": {
+      "ja": "トルデシリャス条約",
+      "en": "Treaty of Tordesillas"
+    },
+    "desc": {
+      "ja": "スペインとポルトガルが教皇の裁定に基づき、大西洋上に境界線を引いて新領土の分割を取り決めた。ブラジルはポルトガル領となった。",
+      "en": "Spain and Portugal, following a papal ruling, drew a line in the Atlantic to divide newly discovered lands; Brazil fell to Portugal."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "トルデシリャス条約",
+      "en": "Treaty of Tordesillas"
+    }
+  },
+  {
+    "id": "vasco-da-gama-india",
+    "type": "exploration",
+    "year": 1498,
+    "lat": 11.25,
+    "lon": 75.78,
+    "name": {
+      "ja": "ヴァスコ＝ダ＝ガマのインド航路開拓",
+      "en": "Vasco da Gama reaches India"
+    },
+    "desc": {
+      "ja": "ポルトガルのヴァスコ＝ダ＝ガマが喜望峰を回ってインドのカリカットに到達し、インド航路を開いた。ポルトガルは香辛料貿易を独占した。",
+      "en": "Vasco da Gama sailed around the Cape to Calicut in India, opening the sea route to Asia and giving Portugal a hold on the spice trade."
+    },
+    "importance": 3,
+    "persons": [
+      "vasco-da-gama"
+    ],
+    "wiki": {
+      "ja": "ヴァスコ・ダ・ガマ",
+      "en": "Vasco da Gama"
+    }
+  },
+  {
+    "id": "cabral-brazil",
+    "type": "exploration",
+    "year": 1500,
+    "lat": -16.4,
+    "lon": -39.1,
+    "name": {
+      "ja": "カブラルのブラジル到達",
+      "en": "Cabral reaches Brazil"
+    },
+    "desc": {
+      "ja": "ポルトガルのカブラルがインドへ向かう途中でブラジルに漂着し、ポルトガル領と宣言した。トルデシリャス条約の境界線の東側であった。",
+      "en": "Pedro Álvares Cabral, bound for India, landed in Brazil and claimed it for Portugal, as it lay east of the Tordesillas line."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "ペドロ・アルヴァレス・カブラル",
+      "en": "Pedro Álvares Cabral"
+    }
+  },
+  {
+    "id": "founding-of-safavid-dynasty",
+    "type": "founding",
+    "year": 1501,
+    "lat": 38.08,
+    "lon": 46.29,
+    "name": {
+      "ja": "サファヴィー朝の成立",
+      "en": "Founding of the Safavid dynasty"
+    },
+    "desc": {
+      "ja": "神秘主義教団の長イスマーイール1世がタブリーズでサファヴィー朝を建て、シーア派を国教としシャーの称号を用いた。イランの国家的統一が進んだ。",
+      "en": "Ismail I, head of a Sufi order, founded the Safavid dynasty at Tabriz, adopted Twelver Shi'ism as the state religion and took the title of shah."
+    },
+    "importance": 2,
+    "persons": [
+      "ismail-i"
+    ],
+    "wiki": {
+      "ja": "サファヴィー朝",
+      "en": "Safavid Iran"
+    }
+  },
+  {
+    "id": "high-renaissance-florence",
+    "type": "culture",
+    "year": 1503,
+    "lat": 43.77,
+    "lon": 11.26,
+    "name": {
+      "ja": "ルネサンス美術の最盛期",
+      "en": "High Renaissance in Florence and Rome"
+    },
+    "desc": {
+      "ja": "レオナルド＝ダ＝ヴィンチが『モナ＝リザ』を描き、ミケランジェロが『ダヴィデ像』を完成させた。ラファエロとともにルネサンス美術の頂点を示した。",
+      "en": "Leonardo da Vinci painted the Mona Lisa and Michelangelo completed his David; with Raphael they marked the summit of Renaissance art."
+    },
+    "importance": 2,
+    "persons": [
+      "leonardo-da-vinci",
+      "michelangelo"
+    ],
+    "wiki": {
+      "ja": "盛期ルネサンス",
+      "en": "High Renaissance"
+    }
+  },
+  {
+    "id": "portuguese-capture-of-malacca",
+    "type": "fall",
+    "year": 1511,
+    "lat": 2.19,
+    "lon": 102.25,
+    "name": {
+      "ja": "マラッカ占領",
+      "en": "Portuguese capture of Malacca"
+    },
+    "desc": {
+      "ja": "ポルトガルのアルブケルケがマラッカを占領し、東南アジア香辛料貿易の拠点とした。マラッカ王国は滅び、イスラーム商人はジョホールなどへ移った。",
+      "en": "Afonso de Albuquerque seized Malacca for Portugal as a base for the spice trade; the sultanate fell and Muslim merchants shifted to Johor and other ports."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "マラッカ占領",
+      "en": "Capture of Malacca (1511)"
+    }
+  },
+  {
+    "id": "ninety-five-theses",
+    "type": "religion",
+    "year": 1517,
+    "lat": 51.87,
+    "lon": 12.65,
+    "name": {
+      "ja": "九十五カ条の論題",
+      "en": "Ninety-five Theses"
+    },
+    "desc": {
+      "ja": "ヴィッテンベルク大学の神学教授ルターが贖宥状の販売を批判して九十五カ条の論題を発表した。宗教改革の発端となった。活版印刷でドイツ各地に広まった。",
+      "en": "Martin Luther, a theology professor at Wittenberg, posted the Ninety-five Theses attacking the sale of indulgences, igniting the Reformation."
+    },
+    "importance": 3,
+    "persons": [
+      "martin-luther"
+    ],
+    "wiki": {
+      "ja": "95か条の論題",
+      "en": "Ninety-five Theses"
+    }
+  },
+  {
+    "id": "ottoman-conquest-of-egypt",
+    "type": "fall",
+    "year": 1517,
+    "lat": 30.05,
+    "lon": 31.24,
+    "name": {
+      "ja": "マムルーク朝の滅亡",
+      "en": "Ottoman conquest of Mamluk Egypt"
+    },
+    "desc": {
+      "ja": "オスマン帝国のセリム1世がシリア・エジプトを征服してマムルーク朝を滅ぼし、メッカ・メディナの保護権を得た。スルタンはイスラーム世界の盟主となった。",
+      "en": "Selim I conquered Syria and Egypt, destroying the Mamluk Sultanate and gaining guardianship of the holy cities of Mecca and Medina."
+    },
+    "importance": 2,
+    "persons": [
+      "selim-i"
+    ],
+    "wiki": {
+      "ja": "オスマン・マムルーク戦争 (1516年-1517年)",
+      "en": "Ottoman–Mamluk War (1516–1517)"
+    }
+  },
+  {
+    "id": "magellan-circumnavigation",
+    "type": "exploration",
+    "year": 1519,
+    "year_end": 1522,
+    "lat": -52.6,
+    "lon": -70,
+    "name": {
+      "ja": "マゼラン一行の世界周航",
+      "en": "Magellan expedition's circumnavigation"
+    },
+    "desc": {
+      "ja": "スペインの支援でマゼランが南米南端の海峡を抜け太平洋を横断した。本人はフィリピンで戦死したが、部下が帰国して初の世界周航を達成した。",
+      "en": "With Spanish backing Magellan passed the strait at South America's tip and crossed the Pacific; he was killed in the Philippines but his crew completed the first circumnavigation."
+    },
+    "importance": 3,
+    "persons": [
+      "magellan"
+    ],
+    "wiki": {
+      "ja": "フェルディナンド・マゼラン",
+      "en": "Magellan expedition"
+    }
+  },
+  {
+    "id": "fall-of-aztec-empire",
+    "type": "fall",
+    "year": 1521,
+    "lat": 19.43,
+    "lon": -99.13,
+    "name": {
+      "ja": "アステカ王国の滅亡",
+      "en": "Fall of the Aztec Empire"
+    },
+    "desc": {
+      "ja": "スペインの征服者コルテスがテノチティトランを攻略してアステカ王国を滅ぼした。メキシコはスペインの植民地となった。先住民は疫病でも激減した。",
+      "en": "The Spanish conquistador Hernán Cortés captured Tenochtitlan and destroyed the Aztec Empire, making Mexico a Spanish colony."
+    },
+    "importance": 3,
+    "persons": [
+      "cortes"
+    ],
+    "wiki": {
+      "ja": "アステカ帝国",
+      "en": "Spanish conquest of the Aztec Empire"
+    }
+  },
+  {
+    "id": "diet-of-worms",
+    "type": "politics",
+    "year": 1521,
+    "lat": 49.63,
+    "lon": 8.36,
+    "name": {
+      "ja": "ヴォルムス帝国議会",
+      "en": "Diet of Worms"
+    },
+    "desc": {
+      "ja": "皇帝カール5世が帝国議会にルターを召喚して自説の撤回を迫ったが、ルターは拒否した。ザクセン選帝侯に保護され聖書のドイツ語訳を進めた。",
+      "en": "Emperor Charles V summoned Luther to the imperial diet and demanded he recant; Luther refused and, sheltered by the Elector of Saxony, translated the Bible into German."
+    },
+    "importance": 2,
+    "persons": [
+      "martin-luther",
+      "charles-v"
+    ],
+    "wiki": {
+      "ja": "ヴォルムス帝国議会 (1521年)",
+      "en": "Diet of Worms"
+    }
+  },
+  {
+    "id": "german-peasants-war",
+    "type": "revolution",
+    "year": 1524,
+    "year_end": 1525,
+    "lat": 48.5,
+    "lon": 9.5,
+    "name": {
+      "ja": "ドイツ農民戦争",
+      "en": "German Peasants' War"
+    },
+    "desc": {
+      "ja": "ルターの思想に影響された南ドイツの農民がミュンツァーらの指導で農奴制廃止などを求めて蜂起した。ルターは諸侯側につき、反乱は鎮圧された。",
+      "en": "Peasants in southern Germany, inspired by Luther and led by Thomas Müntzer and others, rose demanding the end of serfdom; Luther sided with the princes and the revolt was crushed."
+    },
+    "importance": 2,
+    "persons": [
+      "martin-luther"
+    ],
+    "wiki": {
+      "ja": "ドイツ農民戦争",
+      "en": "German Peasants' War"
+    }
+  },
+  {
+    "id": "first-battle-of-panipat",
+    "type": "battle",
+    "year": 1526,
+    "lat": 29.39,
+    "lon": 76.97,
+    "name": {
+      "ja": "パーニーパットの戦い",
+      "en": "First Battle of Panipat"
+    },
+    "desc": {
+      "ja": "ティムールの子孫でカーブルを拠点としたバーブルが、鉄砲と大砲を用いてパーニーパットでロディー朝を破り、デリーを占領してムガル帝国を建てた。",
+      "en": "Babur, a descendant of Timur, defeated the Lodi dynasty at Panipat and took Delhi, founding the Mughal Empire."
+    },
+    "importance": 3,
+    "persons": [
+      "babur"
+    ],
+    "wiki": {
+      "ja": "第一次パーニーパットの戦い",
+      "en": "First Battle of Panipat"
+    }
+  },
+  {
+    "id": "battle-of-mohacs",
+    "type": "battle",
+    "year": 1526,
+    "lat": 45.94,
+    "lon": 18.68,
+    "name": {
+      "ja": "モハーチの戦い",
+      "en": "Battle of Mohács"
+    },
+    "desc": {
+      "ja": "オスマン帝国のスレイマン1世がハンガリー軍を破り、国王ラヨシュ2世を戦死させた。ハンガリーの大部分がオスマン領となった。",
+      "en": "Suleiman I crushed the Hungarian army and King Louis II was killed; most of Hungary passed under Ottoman rule."
+    },
+    "importance": 1,
+    "persons": [
+      "suleiman-i"
+    ],
+    "wiki": {
+      "ja": "モハーチの戦い",
+      "en": "Battle of Mohács"
+    }
+  },
+  {
+    "id": "siege-of-vienna-1529",
+    "type": "battle",
+    "year": 1529,
+    "lat": 48.21,
+    "lon": 16.37,
+    "name": {
+      "ja": "ウィーン包囲",
+      "en": "Siege of Vienna"
+    },
+    "desc": {
+      "ja": "スレイマン1世の率いるオスマン軍がハプスブルク家の都ウィーンを包囲した。攻略には失敗したが、ヨーロッパに大きな脅威を与えた。",
+      "en": "Suleiman I's Ottoman army besieged the Habsburg capital Vienna; the siege failed but struck fear across Europe."
+    },
+    "importance": 3,
+    "persons": [
+      "suleiman-i",
+      "charles-v"
+    ],
+    "wiki": {
+      "ja": "第一次ウィーン包囲",
+      "en": "Siege of Vienna (1529)"
+    }
+  },
+  {
+    "id": "fall-of-inca-empire",
+    "type": "fall",
+    "year": 1533,
+    "lat": -13.52,
+    "lon": -71.97,
+    "name": {
+      "ja": "インカ帝国の滅亡",
+      "en": "Fall of the Inca Empire"
+    },
+    "desc": {
+      "ja": "スペインの征服者ピサロが皇帝アタワルパを捕らえて処刑し、都クスコを占領してインカ帝国を滅ぼした。ペルーはスペイン領となった。",
+      "en": "Francisco Pizarro captured and executed the emperor Atahualpa and seized Cusco, destroying the Inca Empire and bringing Peru under Spanish rule."
+    },
+    "importance": 3,
+    "persons": [
+      "pizarro"
+    ],
+    "wiki": {
+      "ja": "インカ帝国",
+      "en": "Spanish conquest of the Inca Empire"
+    }
+  },
+  {
+    "id": "act-of-supremacy",
+    "type": "religion",
+    "year": 1534,
+    "lat": 51.5,
+    "lon": -0.12,
+    "name": {
+      "ja": "首長法",
+      "en": "Act of Supremacy"
+    },
+    "desc": {
+      "ja": "離婚問題で教皇と対立したヘンリ8世が首長法を発布し、国王をイギリス国教会の首長とした。ローマ教会から離脱し修道院を解散した。",
+      "en": "Henry VIII, at odds with the pope over his divorce, made the king supreme head of the Church of England, breaking with Rome and dissolving the monasteries."
+    },
+    "importance": 2,
+    "persons": [
+      "henry-viii"
+    ],
+    "wiki": {
+      "ja": "国王至上法",
+      "en": "Acts of Supremacy"
+    }
+  },
+  {
+    "id": "founding-of-jesuits",
+    "type": "religion",
+    "year": 1534,
+    "lat": 48.89,
+    "lon": 2.34,
+    "name": {
+      "ja": "イエズス会の結成",
+      "en": "Founding of the Society of Jesus"
+    },
+    "desc": {
+      "ja": "イグナティウス＝ロヨラがフランシスコ＝ザビエルらとパリで結成した。対抗宗教改革の中心となり、アジア・アメリカへの布教を進めた。",
+      "en": "Ignatius of Loyola, Francis Xavier and companions founded the Jesuits in Paris; the order led the Counter-Reformation and missions to Asia and the Americas."
+    },
+    "importance": 2,
+    "persons": [
+      "ignatius-loyola",
+      "francis-xavier"
+    ],
+    "wiki": {
+      "ja": "イエズス会",
+      "en": "Jesuits"
+    }
+  },
+  {
+    "id": "battle-of-preveza",
+    "type": "battle",
+    "year": 1538,
+    "lat": 38.95,
+    "lon": 20.75,
+    "name": {
+      "ja": "プレヴェザの海戦",
+      "en": "Battle of Preveza"
+    },
+    "desc": {
+      "ja": "オスマン帝国の艦隊がスペイン・ヴェネツィア・教皇の連合艦隊を破り、地中海の制海権を握った。スレイマン1世の最盛期を象徴する。",
+      "en": "The Ottoman fleet defeated the combined navies of Spain, Venice and the papacy, securing Ottoman naval supremacy in the Mediterranean under Suleiman I."
+    },
+    "importance": 2,
+    "persons": [
+      "suleiman-i"
+    ],
+    "wiki": {
+      "ja": "プレヴェザの海戦",
+      "en": "Battle of Preveza"
+    }
+  },
+  {
+    "id": "calvin-geneva-reform",
+    "type": "religion",
+    "year": 1541,
+    "lat": 46.2,
+    "lon": 6.15,
+    "name": {
+      "ja": "カルヴァンのジュネーヴ改革",
+      "en": "Calvin's reform of Geneva"
+    },
+    "desc": {
+      "ja": "カルヴァンがジュネーヴに招かれ、予定説に基づく厳格な神権政治を行った。その教えは商工業者に広がり、フランス・オランダ・スコットランドなどに広まった。",
+      "en": "John Calvin was recalled to Geneva, where he established a strict theocracy based on predestination; his teaching spread among merchants to France, the Netherlands and Scotland."
+    },
+    "importance": 2,
+    "persons": [
+      "john-calvin"
+    ],
+    "wiki": {
+      "ja": "ジャン・カルヴァン",
+      "en": "John Calvin"
+    }
+  },
+  {
+    "id": "copernicus-heliocentrism",
+    "type": "culture",
+    "year": 1543,
+    "lat": 53.78,
+    "lon": 20.49,
+    "name": {
+      "ja": "コペルニクスの地動説",
+      "en": "Copernicus's heliocentric theory"
+    },
+    "desc": {
+      "ja": "ポーランドの聖職者コペルニクスが『天球回転論』で地動説を発表した。教会の天動説に挑戦し、近代科学の出発点となった。地動説の公表は彼の死の年であった。",
+      "en": "The Polish cleric Copernicus published On the Revolutions of the Heavenly Spheres, proposing a heliocentric universe that challenged Church doctrine and launched modern science."
+    },
+    "importance": 2,
+    "persons": [
+      "copernicus"
+    ],
+    "wiki": {
+      "ja": "ニコラウス・コペルニクス",
+      "en": "De revolutionibus orbium coelestium"
+    }
+  },
+  {
+    "id": "potosi-silver-mine",
+    "type": "other",
+    "year": 1545,
+    "lat": -19.58,
+    "lon": -65.75,
+    "name": {
+      "ja": "ポトシ銀山の発見",
+      "en": "Discovery of the Potosí silver mines"
+    },
+    "desc": {
+      "ja": "アンデスのポトシで大銀山が発見され、先住民を強制労働させて採掘した。大量の銀がヨーロッパに流入し価格革命を引き起こした。",
+      "en": "Vast silver deposits were found at Potosí in the Andes and worked with forced native labor; the flood of silver into Europe helped trigger the Price Revolution."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "ポトシ",
+      "en": "Potosí"
+    }
+  },
+  {
+    "id": "council-of-trent",
+    "type": "religion",
+    "year": 1545,
+    "year_end": 1563,
+    "lat": 46.07,
+    "lon": 11.12,
+    "name": {
+      "ja": "トリエント公会議",
+      "en": "Council of Trent"
+    },
+    "desc": {
+      "ja": "カトリック教会が教皇の至上権と教義を再確認し、禁書目録や宗教裁判の強化で立て直しをはかった。対抗宗教改革の中心となった。",
+      "en": "The Catholic Church reaffirmed papal supremacy and doctrine and tightened the Index and the Inquisition, forming the core of the Counter-Reformation."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "トリエント公会議",
+      "en": "Council of Trent"
+    }
+  },
+  {
+    "id": "altan-khan-siege-of-beijing",
+    "type": "battle",
+    "year": 1550,
+    "lat": 39.9,
+    "lon": 116.4,
+    "name": {
+      "ja": "庚戌の変(北虜南倭)",
+      "en": "Altan Khan's raid on Beijing"
+    },
+    "desc": {
+      "ja": "タタールのアルタン＝ハンが北京を包囲した。北方のモンゴルと南方の倭寇の侵攻は「北虜南倭」と呼ばれ、明の財政を圧迫した。",
+      "en": "Altan Khan of the Tümed Mongols besieged Beijing; Mongol raids in the north and Wakō piracy in the south ('northern captives, southern pirates') strained Ming finances."
+    },
+    "importance": 1,
+    "persons": [
+      "altan-khan"
+    ],
+    "wiki": {
+      "ja": "庚戌の変",
+      "en": "Altan Khan"
+    }
+  },
+  {
+    "id": "peace-of-augsburg",
+    "type": "treaty",
+    "year": 1555,
+    "lat": 48.37,
+    "lon": 10.9,
+    "name": {
+      "ja": "アウクスブルクの和議",
+      "en": "Peace of Augsburg"
+    },
+    "desc": {
+      "ja": "カール5世がルター派諸侯と和議を結び、諸侯がカトリックかルター派かを選ぶ権利を認めた。ただし個人の信仰の自由やカルヴァン派は認められなかった。",
+      "en": "Charles V came to terms with the Lutheran princes, allowing each prince to choose Catholicism or Lutheranism for his territory, though Calvinism and individual choice were excluded."
+    },
+    "importance": 3,
+    "persons": [
+      "charles-v"
+    ],
+    "wiki": {
+      "ja": "アウクスブルクの和議",
+      "en": "Peace of Augsburg"
+    }
+  },
+  {
+    "id": "french-wars-of-religion",
+    "type": "battle",
+    "year": 1562,
+    "year_end": 1598,
+    "lat": 48.85,
+    "lon": 2.35,
+    "name": {
+      "ja": "ユグノー戦争",
+      "en": "French Wars of Religion"
+    },
+    "desc": {
+      "ja": "フランスでカルヴァン派(ユグノー)とカトリックが対立し、貴族の党争も絡んで内戦が続いた。アンリ4世のナントの王令で終結した。",
+      "en": "Calvinist Huguenots and Catholics fought a series of civil wars in France entangled with noble factionalism, ended by Henry IV's Edict of Nantes."
+    },
+    "importance": 2,
+    "persons": [
+      "henry-iv-of-france"
+    ],
+    "wiki": {
+      "ja": "ユグノー戦争",
+      "en": "French Wars of Religion"
+    }
+  },
+  {
+    "id": "dutch-revolt",
+    "type": "revolution",
+    "year": 1568,
+    "year_end": 1609,
+    "lat": 52.37,
+    "lon": 4.9,
+    "name": {
+      "ja": "オランダ独立戦争",
+      "en": "Dutch Revolt"
+    },
+    "desc": {
+      "ja": "スペインのフェリペ2世のカトリック強制と重税に対し、ネーデルラントがオラニエ公ウィレムを指導者に反乱を起こした。北部7州は1581年に独立を宣言した。",
+      "en": "The Netherlands rose against Philip II's enforcement of Catholicism and heavy taxation under William of Orange; the seven northern provinces declared independence in 1581."
+    },
+    "importance": 2,
+    "persons": [
+      "william-of-orange",
+      "philip-ii-of-spain"
+    ],
+    "wiki": {
+      "ja": "八十年戦争",
+      "en": "Eighty Years' War"
+    }
+  },
+  {
+    "id": "battle-of-lepanto",
+    "type": "battle",
+    "year": 1571,
+    "lat": 38.4,
+    "lon": 21.3,
+    "name": {
+      "ja": "レパントの海戦",
+      "en": "Battle of Lepanto"
+    },
+    "desc": {
+      "ja": "スペイン・ヴェネツィア・教皇の連合艦隊がギリシア沖でオスマン帝国艦隊を破った。オスマンの地中海制海権は揺らいだが、まもなく艦隊は再建された。",
+      "en": "The allied fleet of Spain, Venice and the papacy defeated the Ottoman navy off Greece; Ottoman naval supremacy was shaken though the fleet was quickly rebuilt."
+    },
+    "importance": 2,
+    "persons": [
+      "philip-ii-of-spain"
+    ],
+    "wiki": {
+      "ja": "レパントの海戦",
+      "en": "Battle of Lepanto"
+    }
+  },
+  {
+    "id": "st-bartholomews-day-massacre",
+    "type": "religion",
+    "year": 1572,
+    "lat": 48.86,
+    "lon": 2.34,
+    "name": {
+      "ja": "サンバルテルミの虐殺",
+      "en": "St. Bartholomew's Day Massacre"
+    },
+    "desc": {
+      "ja": "ユグノー戦争中、パリで婚礼に集まったユグノーの貴族らがカトリック側に大量虐殺された。内戦はいっそう激化した。アンリ4世の即位まで混乱が続いた。",
+      "en": "During the Wars of Religion, Huguenot nobles gathered in Paris for a royal wedding were massacred by Catholics, intensifying the civil war."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "サン・バルテルミの虐殺",
+      "en": "St. Bartholomew's Day massacre"
+    }
+  },
+  {
+    "id": "union-of-utrecht",
+    "type": "treaty",
+    "year": 1579,
+    "lat": 52.09,
+    "lon": 5.12,
+    "name": {
+      "ja": "ユトレヒト同盟",
+      "en": "Union of Utrecht"
+    },
+    "desc": {
+      "ja": "南部10州がスペインに屈したのに対し、ホラント州を中心とする北部7州がユトレヒト同盟を結んで抗戦を続けた。ネーデルラント連邦共和国の母体となった。",
+      "en": "While the southern provinces submitted to Spain, the seven northern provinces led by Holland formed the Union of Utrecht to continue the fight, the nucleus of the Dutch Republic."
+    },
+    "importance": 2,
+    "persons": [
+      "william-of-orange"
+    ],
+    "wiki": {
+      "ja": "ユトレヒト同盟",
+      "en": "Union of Utrecht"
+    }
+  },
+  {
+    "id": "spanish-armada",
+    "type": "battle",
+    "year": 1588,
+    "lat": 50.8,
+    "lon": -1,
+    "name": {
+      "ja": "無敵艦隊の敗北",
+      "en": "Defeat of the Spanish Armada"
+    },
+    "desc": {
+      "ja": "フェリペ2世がイギリスに送った無敵艦隊(アルマダ)がエリザベス1世の艦隊に敗れた。スペインの海上覇権は揺らぎ、イギリスの海外進出が進んだ。",
+      "en": "Philip II's Armada sent against England was defeated by Elizabeth I's navy; Spanish maritime supremacy faltered and English overseas expansion advanced."
+    },
+    "importance": 3,
+    "persons": [
+      "elizabeth-i",
+      "philip-ii-of-spain"
+    ],
+    "wiki": {
+      "ja": "アルマダの海戦",
+      "en": "Spanish Armada"
+    }
+  },
+  {
+    "id": "japanese-invasions-of-korea",
+    "type": "battle",
+    "year": 1592,
+    "year_end": 1598,
+    "lat": 35.1,
+    "lon": 129.04,
+    "name": {
+      "ja": "豊臣秀吉の朝鮮侵略",
+      "en": "Japanese invasions of Korea (Imjin War)"
+    },
+    "desc": {
+      "ja": "豊臣秀吉が朝鮮に大軍を送り(壬辰・丁酉倭乱)、朝鮮は明の援軍と李舜臣の水軍で抵抗した。明の財政は悪化し、朝鮮は荒廃した。",
+      "en": "Toyotomi Hideyoshi sent huge armies into Korea; Joseon resisted with Ming reinforcements and Yi Sun-sin's navy, but the war devastated Korea and drained Ming finances."
+    },
+    "importance": 2,
+    "persons": [
+      "toyotomi-hideyoshi",
+      "yi-sun-sin"
+    ],
+    "wiki": {
+      "ja": "文禄・慶長の役",
+      "en": "Japanese invasions of Korea (1592–1598)"
+    }
+  },
+  {
+    "id": "edict-of-nantes",
+    "type": "treaty",
+    "year": 1598,
+    "lat": 47.22,
+    "lon": -1.55,
+    "name": {
+      "ja": "ナントの王令",
+      "en": "Edict of Nantes"
+    },
+    "desc": {
+      "ja": "ブルボン朝を開いたアンリ4世がユグノーに信仰の自由を認めるナントの王令を発し、ユグノー戦争を終結させた。カトリックを国教としつつ宗教的寛容を認めた。",
+      "en": "Henry IV, founder of the Bourbon dynasty, granted the Huguenots freedom of worship in the Edict of Nantes, ending the Wars of Religion."
+    },
+    "importance": 2,
+    "persons": [
+      "henry-iv-of-france"
+    ],
+    "wiki": {
+      "ja": "ナントの勅令",
+      "en": "Edict of Nantes"
+    }
+  },
+  {
+    "id": "abbas-i-isfahan-capital",
+    "type": "politics",
+    "year": 1598,
+    "lat": 32.65,
+    "lon": 51.68,
+    "name": {
+      "ja": "イスファハーンへの遷都",
+      "en": "Abbas I moves the Safavid capital to Isfahan"
+    },
+    "desc": {
+      "ja": "サファヴィー朝のアッバース1世が都をイスファハーンに移し、壮麗な王の広場やモスクを建設した。「イスファハーンは世界の半分」と称えられた。",
+      "en": "Shah Abbas I moved the Safavid capital to Isfahan and built its magnificent royal square and mosques; the city was praised as 'half the world'."
+    },
+    "importance": 1,
+    "persons": [
+      "abbas-i"
+    ],
+    "wiki": {
+      "ja": "アッバース1世",
+      "en": "Abbas the Great"
+    }
+  }
+]

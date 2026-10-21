@@ -8,6 +8,7 @@ export type Selection =
   | { kind: 'event'; event: HistEvent }
   | { kind: 'person'; person: Person }
   | { kind: 'polity'; polity: Polity }
+  | { kind: 'overview' }
   | null;
 
 export interface Layers { territories: boolean; labels: boolean; events: boolean; persons: boolean; rivers: boolean }

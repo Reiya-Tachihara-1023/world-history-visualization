@@ -149,3 +149,13 @@ a { color: var(--accent-2); }
   #legend, #attribution { display: none; }
   .eras { display: none; }
 }
+
+#search { position: relative; }
+#search input { width: 200px; font: inherit; font-size: 13px; padding: 5px 10px; border-radius: 8px; border: 1px solid var(--panel-border); background: var(--panel); color: var(--fg); outline: none; }
+#search input:focus { border-color: var(--accent-2); }
+#search ul { position: absolute; top: 34px; left: 0; width: 340px; max-height: 60vh; overflow: auto; margin: 0; padding: 4px 0; list-style: none; background: var(--panel); border: 1px solid var(--panel-border); border-radius: 8px; z-index: 30; box-shadow: 0 8px 24px rgba(0,0,0,0.5); }
+#search li { padding: 5px 10px; font-size: 13px; cursor: pointer; display: flex; gap: 8px; align-items: baseline; }
+#search li.on, #search li:hover { background: rgba(255,255,255,0.1); }
+#search li .k { font-size: 10px; color: var(--muted); min-width: 40px; }
+#search li .y { margin-left: auto; color: var(--muted); font-size: 11px; white-space: nowrap; }
+@media (max-width: 720px) { #search input { width: 120px; } #search ul { width: 280px; } }

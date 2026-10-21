@@ -1,0 +1,1552 @@
+[
+  {
+    "id": "metternich",
+    "name": {
+      "ja": "メッテルニヒ",
+      "en": "Klemens von Metternich"
+    },
+    "born": 1773,
+    "died": 1859,
+    "active": [
+      1815,
+      1848
+    ],
+    "role": {
+      "ja": "オーストリア外相・宰相",
+      "en": "Austrian foreign minister and chancellor"
+    },
+    "lat": 48.21,
+    "lon": 16.37,
+    "desc": {
+      "ja": "ウィーン会議を主宰し、正統主義と勢力均衡にもとづくウィーン体制を築いた。自由主義・国民主義運動を弾圧したが、1848年の三月革命で失脚し亡命した。",
+      "en": "Presided over the Congress of Vienna and built the Vienna system on legitimacy and the balance of power. He suppressed liberal and national movements until the March Revolution of 1848 drove him into exile."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "クレメンス・フォン・メッテルニヒ",
+      "en": "Klemens von Metternich"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "bolivar",
+    "name": {
+      "ja": "ボリバル",
+      "en": "Simón Bolívar"
+    },
+    "born": 1783,
+    "died": 1830,
+    "active": [
+      1810,
+      1830
+    ],
+    "role": {
+      "ja": "南アメリカ独立運動の指導者",
+      "en": "Leader of South American independence"
+    },
+    "lat": 10.48,
+    "lon": -66.9,
+    "desc": {
+      "ja": "ベネズエラ出身のクリオーリョで、「解放者」と呼ばれる。大コロンビアを建国し、ペルー・ボリビアを解放したが、南米統合の構想は実現しなかった。",
+      "en": "A Venezuelan creole known as 'the Liberator'. He founded Gran Colombia and freed Peru and Bolivia from Spain, but his vision of a united South America failed."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "シモン・ボリバル",
+      "en": "Simón Bolívar"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "san-martin",
+    "name": {
+      "ja": "サン＝マルティン",
+      "en": "José de San Martín"
+    },
+    "born": 1778,
+    "died": 1850,
+    "active": [
+      1812,
+      1822
+    ],
+    "role": {
+      "ja": "アルゼンチン・チリ・ペルー独立の指導者",
+      "en": "Liberator of Argentina, Chile and Peru"
+    },
+    "lat": -34.6,
+    "lon": -58.38,
+    "desc": {
+      "ja": "アルゼンチン出身の軍人。アンデス山脈を越えてチリを解放し、1821年にペルーの独立を宣言した。ボリバルとの会談後に身を引き、ヨーロッパで没した。",
+      "en": "An Argentine soldier who crossed the Andes to liberate Chile and proclaimed Peru's independence in 1821. After meeting Bolívar he withdrew from politics and died in Europe."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ホセ・デ・サン・マルティン",
+      "en": "José de San Martín"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "louis-philippe",
+    "name": {
+      "ja": "ルイ＝フィリップ",
+      "en": "Louis Philippe I"
+    },
+    "born": 1773,
+    "died": 1850,
+    "active": [
+      1830,
+      1848
+    ],
+    "role": {
+      "ja": "フランス王（七月王政）",
+      "en": "King of the French"
+    },
+    "lat": 48.86,
+    "lon": 2.35,
+    "desc": {
+      "ja": "七月革命によって即位した「フランス人の王」。銀行家など大ブルジョワジーを基盤とする立憲王政を行ったが、選挙権拡大を拒んで二月革命で退位した。",
+      "en": "The 'King of the French' brought to the throne by the July Revolution. His constitutional monarchy rested on bankers and the upper bourgeoisie; his refusal to widen the franchise led to his fall in 1848."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ルイ・フィリップ (フランス王)",
+      "en": "Louis Philippe I"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "napoleon-iii",
+    "name": {
+      "ja": "ナポレオン3世",
+      "en": "Napoleon III"
+    },
+    "born": 1808,
+    "died": 1873,
+    "active": [
+      1848,
+      1870
+    ],
+    "role": {
+      "ja": "フランス皇帝",
+      "en": "Emperor of the French"
+    },
+    "lat": 48.86,
+    "lon": 2.35,
+    "desc": {
+      "ja": "ナポレオン1世の甥。第二共和政の大統領からクーデタを経て皇帝となり、第二帝政を開いた。クリミア戦争やイタリア統一戦争に介入したが、普仏戦争で捕虜となり退位した。",
+      "en": "Nephew of Napoleon I. President of the Second Republic, he seized power by coup and founded the Second Empire. He intervened in the Crimean and Italian wars but was captured at Sedan and deposed."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ナポレオン3世",
+      "en": "Napoleon III"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "mazzini",
+    "name": {
+      "ja": "マッツィーニ",
+      "en": "Giuseppe Mazzini"
+    },
+    "born": 1805,
+    "died": 1872,
+    "active": [
+      1831,
+      1870
+    ],
+    "role": {
+      "ja": "イタリアの共和主義者",
+      "en": "Italian republican nationalist"
+    },
+    "lat": 44.41,
+    "lon": 8.93,
+    "desc": {
+      "ja": "青年イタリアを結成し、共和政による統一をめざした。1849年にローマ共和国を樹立したが倒され、以後も亡命先から蜂起を指導し、王政による統一には批判的だった。",
+      "en": "Founder of Young Italy, he sought a united Italian republic. He led the short-lived Roman Republic of 1849 and continued to direct risings from exile, remaining critical of unification under a monarchy."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ジュゼッペ・マッツィーニ",
+      "en": "Giuseppe Mazzini"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "cavour",
+    "name": {
+      "ja": "カヴール",
+      "en": "Camillo Benso di Cavour"
+    },
+    "born": 1810,
+    "died": 1861,
+    "active": [
+      1852,
+      1861
+    ],
+    "role": {
+      "ja": "サルデーニャ王国首相",
+      "en": "Prime Minister of Sardinia"
+    },
+    "lat": 45.07,
+    "lon": 7.69,
+    "desc": {
+      "ja": "サルデーニャ王国の首相として産業振興と軍備強化を進め、クリミア戦争に参戦して国際的地位を高めた。フランスと結んでオーストリアを破り、イタリア王国の成立を実現した。",
+      "en": "As Sardinian prime minister he modernised the economy and army, joined the Crimean War to gain standing, and allied with France to defeat Austria, bringing about the Kingdom of Italy."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "カミッロ・カヴール",
+      "en": "Camillo Benso, Count of Cavour"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "garibaldi",
+    "name": {
+      "ja": "ガリバルディ",
+      "en": "Giuseppe Garibaldi"
+    },
+    "born": 1807,
+    "died": 1882,
+    "active": [
+      1848,
+      1871
+    ],
+    "role": {
+      "ja": "イタリア統一運動の軍事指導者",
+      "en": "Italian military leader of unification"
+    },
+    "lat": 41.21,
+    "lon": 9.46,
+    "desc": {
+      "ja": "青年イタリアの共和主義者で、南米でも戦った軍人。1860年に千人隊を率いて両シチリア王国を征服し、占領地をサルデーニャ王に献上してイタリア統一に貢献した。",
+      "en": "A republican follower of Mazzini who also fought in South America. In 1860 he led the Thousand to conquer the Kingdom of the Two Sicilies and handed it to the King of Sardinia, decisively advancing unification."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ジュゼッペ・ガリバルディ",
+      "en": "Giuseppe Garibaldi"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "bismarck",
+    "name": {
+      "ja": "ビスマルク",
+      "en": "Otto von Bismarck"
+    },
+    "born": 1815,
+    "died": 1898,
+    "active": [
+      1862,
+      1890
+    ],
+    "role": {
+      "ja": "プロイセン首相・ドイツ帝国宰相",
+      "en": "Prussian Minister-President and German Chancellor"
+    },
+    "lat": 52.52,
+    "lon": 13.4,
+    "desc": {
+      "ja": "「鉄血政策」で3つの戦争を通じてドイツ統一を達成し、帝国宰相として内政・外交を主導した。フランスを孤立させる同盟網を築いたが、ヴィルヘルム2世と対立して辞職した。",
+      "en": "Achieved German unification through three wars under his 'blood and iron' policy and dominated the empire as chancellor. He built an alliance system to isolate France before clashing with Wilhelm II and resigning."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "オットー・フォン・ビスマルク",
+      "en": "Otto von Bismarck"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "wilhelm-i",
+    "name": {
+      "ja": "ヴィルヘルム1世",
+      "en": "William I"
+    },
+    "born": 1797,
+    "died": 1888,
+    "active": [
+      1861,
+      1888
+    ],
+    "role": {
+      "ja": "プロイセン王・ドイツ皇帝",
+      "en": "King of Prussia and German Emperor"
+    },
+    "lat": 52.52,
+    "lon": 13.4,
+    "desc": {
+      "ja": "プロイセン王として軍制改革を進め、ビスマルクを首相に登用した。普仏戦争の勝利後、1871年ヴェルサイユ宮殿で初代ドイツ皇帝に即位した。",
+      "en": "As King of Prussia he pursued army reform and appointed Bismarck as minister-president. After victory over France he was proclaimed the first German Emperor at Versailles in 1871."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ヴィルヘルム1世 (ドイツ皇帝)",
+      "en": "William I, German Emperor"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "wilhelm-ii",
+    "name": {
+      "ja": "ヴィルヘルム2世",
+      "en": "Wilhelm II"
+    },
+    "born": 1859,
+    "died": 1941,
+    "active": [
+      1888,
+      1918
+    ],
+    "role": {
+      "ja": "ドイツ皇帝",
+      "en": "German Emperor"
+    },
+    "lat": 52.52,
+    "lon": 13.4,
+    "desc": {
+      "ja": "1888年に即位し、ビスマルクを辞任させて親政を行った。「世界政策」を掲げて海軍を増強し、3B政策やモロッコ事件で英仏と対立を深め、第一次世界大戦に突入した。",
+      "en": "Came to the throne in 1888, dismissed Bismarck and ruled personally. His 'world policy' of naval expansion, the Berlin-Baghdad railway and the Moroccan crises deepened conflict with Britain and France, leading to the First World War."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ヴィルヘルム2世 (ドイツ皇帝)",
+      "en": "Wilhelm II, German Emperor"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "nicholas-i",
+    "name": {
+      "ja": "ニコライ1世",
+      "en": "Nicholas I"
+    },
+    "born": 1796,
+    "died": 1855,
+    "active": [
+      1825,
+      1855
+    ],
+    "role": {
+      "ja": "ロシア皇帝",
+      "en": "Emperor of Russia"
+    },
+    "lat": 59.94,
+    "lon": 30.31,
+    "desc": {
+      "ja": "即位時にデカブリストの乱を鎮圧し、専制政治を強化した。ポーランド反乱やハンガリー革命を抑えて「ヨーロッパの憲兵」と呼ばれ、南下政策をとってクリミア戦争を起こした。",
+      "en": "Crushed the Decembrist revolt on his accession and strengthened autocracy. Suppressing the Polish and Hungarian revolutions earned him the name 'gendarme of Europe'; his southward policy led to the Crimean War."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ニコライ1世",
+      "en": "Nicholas I of Russia"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "alexander-ii",
+    "name": {
+      "ja": "アレクサンドル2世",
+      "en": "Alexander II"
+    },
+    "born": 1818,
+    "died": 1881,
+    "active": [
+      1855,
+      1881
+    ],
+    "role": {
+      "ja": "ロシア皇帝",
+      "en": "Emperor of Russia"
+    },
+    "lat": 59.94,
+    "lon": 30.31,
+    "desc": {
+      "ja": "クリミア戦争の敗北を受けて農奴解放令を発布し、地方自治機関ゼムストヴォの設置など「大改革」を進めた。ポーランド反乱後は反動化し、「人民の意志」派に暗殺された。",
+      "en": "After the Crimean defeat he emancipated the serfs and carried out the 'Great Reforms', including the zemstvo local assemblies. He turned reactionary after the Polish revolt and was assassinated by the People's Will."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "アレクサンドル2世",
+      "en": "Alexander II of Russia"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "nicholas-ii",
+    "name": {
+      "ja": "ニコライ2世",
+      "en": "Nicholas II"
+    },
+    "born": 1868,
+    "died": 1918,
+    "active": [
+      1894,
+      1917
+    ],
+    "role": {
+      "ja": "ロシア皇帝（最後の皇帝）",
+      "en": "Last Emperor of Russia"
+    },
+    "lat": 59.94,
+    "lon": 30.31,
+    "desc": {
+      "ja": "ロマノフ朝最後の皇帝。日露戦争の敗北と1905年革命に直面して十月宣言で国会開設を認めたが専制を維持し、第一次世界大戦中の二月革命で退位した。",
+      "en": "The last Romanov tsar. Faced with defeat by Japan and the 1905 Revolution he conceded a Duma in the October Manifesto but clung to autocracy, and was overthrown in the February Revolution of 1917."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ニコライ2世 (ロシア皇帝)",
+      "en": "Nicholas II"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "victoria",
+    "name": {
+      "ja": "ヴィクトリア女王",
+      "en": "Queen Victoria"
+    },
+    "born": 1819,
+    "died": 1901,
+    "active": [
+      1837,
+      1901
+    ],
+    "role": {
+      "ja": "イギリス女王・インド皇帝",
+      "en": "Queen of the United Kingdom and Empress of India"
+    },
+    "lat": 51.5,
+    "lon": -0.12,
+    "desc": {
+      "ja": "64年にわたる在位中、イギリスは産業と海外帝国の頂点に達した。グラッドストンとディズレーリの二大政党政治のもとで「君臨すれども統治せず」の立憲君主の典型となった。",
+      "en": "During her 64-year reign Britain reached the height of its industrial and imperial power. Under the two-party politics of Gladstone and Disraeli she embodied the constitutional monarch who reigns but does not rule."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ヴィクトリア (イギリス女王)",
+      "en": "Queen Victoria"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "gladstone",
+    "name": {
+      "ja": "グラッドストン",
+      "en": "William Ewart Gladstone"
+    },
+    "born": 1809,
+    "died": 1898,
+    "active": [
+      1868,
+      1894
+    ],
+    "role": {
+      "ja": "イギリス首相（自由党）",
+      "en": "British Prime Minister (Liberal)"
+    },
+    "lat": 51.5,
+    "lon": -0.12,
+    "desc": {
+      "ja": "自由党の指導者として4度首相を務めた。教育法や第3回選挙法改正など内政改革を進め、アイルランド自治法案を提出したが党の分裂を招いて失敗した。",
+      "en": "Four times Liberal prime minister. He carried domestic reforms including the Education Act and the Third Reform Act, and introduced Irish Home Rule bills that split his party and failed."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ウィリアム・グラッドストン",
+      "en": "William Ewart Gladstone"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "disraeli",
+    "name": {
+      "ja": "ディズレーリ",
+      "en": "Benjamin Disraeli"
+    },
+    "born": 1804,
+    "died": 1881,
+    "active": [
+      1868,
+      1880
+    ],
+    "role": {
+      "ja": "イギリス首相（保守党）",
+      "en": "British Prime Minister (Conservative)"
+    },
+    "lat": 51.5,
+    "lon": -0.12,
+    "desc": {
+      "ja": "保守党を率いて2度首相を務め、帝国主義政策を推進した。スエズ運河会社株を買収し、ヴィクトリア女王をインド皇帝とし、ベルリン会議でロシアの南下を阻んだ。",
+      "en": "Twice Conservative prime minister and champion of imperial policy. He bought the Suez Canal shares, made Victoria Empress of India and checked Russia at the Congress of Berlin."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ベンジャミン・ディズレーリ",
+      "en": "Benjamin Disraeli"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "lincoln",
+    "name": {
+      "ja": "リンカン",
+      "en": "Abraham Lincoln"
+    },
+    "born": 1809,
+    "died": 1865,
+    "active": [
+      1861,
+      1865
+    ],
+    "role": {
+      "ja": "アメリカ合衆国第16代大統領",
+      "en": "16th President of the United States"
+    },
+    "lat": 38.9,
+    "lon": -77.04,
+    "desc": {
+      "ja": "共和党初の大統領。南北戦争を指導して合衆国の統一を守り、奴隷解放宣言を発した。ゲティスバーグ演説で民主政治の理念を示し、戦争終結直後に暗殺された。",
+      "en": "The first Republican president. He led the Union through the Civil War, issued the Emancipation Proclamation and defined democratic government in the Gettysburg Address, before being assassinated as the war ended."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "エイブラハム・リンカーン",
+      "en": "Abraham Lincoln"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "andrew-jackson",
+    "name": {
+      "ja": "ジャクソン",
+      "en": "Andrew Jackson"
+    },
+    "born": 1767,
+    "died": 1845,
+    "active": [
+      1829,
+      1837
+    ],
+    "role": {
+      "ja": "アメリカ合衆国第7代大統領",
+      "en": "7th President of the United States"
+    },
+    "lat": 38.9,
+    "lon": -77.04,
+    "desc": {
+      "ja": "西部出身の初の大統領で、民主党の基礎を築いた。白人男性普通選挙の普及など民主化を進める一方、先住民強制移住法で先住民を西方へ追いやった。",
+      "en": "The first president from the West and founder of the Democratic Party. His era saw the spread of white male suffrage, but his Indian Removal Act drove Native Americans west of the Mississippi."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "アンドリュー・ジャクソン",
+      "en": "Andrew Jackson"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "theodore-roosevelt",
+    "name": {
+      "ja": "セオドア＝ローズヴェルト",
+      "en": "Theodore Roosevelt"
+    },
+    "born": 1858,
+    "died": 1919,
+    "active": [
+      1901,
+      1909
+    ],
+    "role": {
+      "ja": "アメリカ合衆国第26代大統領",
+      "en": "26th President of the United States"
+    },
+    "lat": 38.9,
+    "lon": -77.04,
+    "desc": {
+      "ja": "「棍棒外交」でカリブ海政策を推進し、パナマ運河の建設に着手した。日露戦争の講和を仲介してノーベル平和賞を受け、国内では革新主義にもとづく独占規制を進めた。",
+      "en": "Pursued a 'big stick' policy in the Caribbean and began the Panama Canal. He mediated the Russo-Japanese peace, winning the Nobel Peace Prize, and at home curbed trusts under the Progressive banner."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "セオドア・ルーズベルト",
+      "en": "Theodore Roosevelt"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "lin-zexu",
+    "name": {
+      "ja": "林則徐",
+      "en": "Lin Zexu"
+    },
+    "born": 1785,
+    "died": 1850,
+    "active": [
+      1839,
+      1842
+    ],
+    "role": {
+      "ja": "清の欽差大臣",
+      "en": "Qing imperial commissioner"
+    },
+    "lat": 23.13,
+    "lon": 113.26,
+    "desc": {
+      "ja": "欽差大臣として広州に派遣され、イギリス商人のアヘンを没収・廃棄してアヘン貿易を取り締まった。これがアヘン戦争の口実となり、敗戦の責任を問われて新疆に左遷された。",
+      "en": "Sent to Canton as imperial commissioner, he confiscated and destroyed British opium. The action became Britain's pretext for the Opium War, and he was blamed for the defeat and exiled to Xinjiang."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "林則徐",
+      "en": "Lin Zexu"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "hong-xiuquan",
+    "name": {
+      "ja": "洪秀全",
+      "en": "Hong Xiuquan"
+    },
+    "born": 1814,
+    "died": 1864,
+    "active": [
+      1851,
+      1864
+    ],
+    "role": {
+      "ja": "太平天国の天王",
+      "en": "Heavenly King of the Taiping"
+    },
+    "lat": 32.06,
+    "lon": 118.8,
+    "desc": {
+      "ja": "科挙に失敗後、キリスト教の影響を受けて拝上帝会を組織し、1851年に太平天国を建てて天王を称した。南京を都に清朝打倒をめざしたが、内紛と郷勇の攻撃で陥落直前に病死した。",
+      "en": "A failed examination candidate influenced by Christianity, he founded the God Worshipping Society and proclaimed the Taiping Heavenly Kingdom in 1851. He ruled from Nanjing until his death shortly before the city fell."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "洪秀全",
+      "en": "Hong Xiuquan"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "zeng-guofan",
+    "name": {
+      "ja": "曽国藩",
+      "en": "Zeng Guofan"
+    },
+    "born": 1811,
+    "died": 1872,
+    "active": [
+      1853,
+      1872
+    ],
+    "role": {
+      "ja": "清の漢人官僚",
+      "en": "Qing statesman and general"
+    },
+    "lat": 32.06,
+    "lon": 118.8,
+    "desc": {
+      "ja": "湖南で郷勇の湘軍を組織して太平天国の鎮圧に功績をあげた。李鴻章らを育て、洋務運動の先駆けとなる軍需工業の建設に着手した。",
+      "en": "Organised the Xiang Army militia in Hunan and played the leading role in suppressing the Taiping. A mentor of Li Hongzhang, he began the arsenals that pioneered the Self-Strengthening Movement."
+    },
+    "importance": 1,
+    "wiki": {
+      "ja": "曽国藩",
+      "en": "Zeng Guofan"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "li-hongzhang",
+    "name": {
+      "ja": "李鴻章",
+      "en": "Li Hongzhang"
+    },
+    "born": 1823,
+    "died": 1901,
+    "active": [
+      1862,
+      1901
+    ],
+    "role": {
+      "ja": "清の北洋大臣",
+      "en": "Qing statesman"
+    },
+    "lat": 39.08,
+    "lon": 117.2,
+    "desc": {
+      "ja": "淮軍を率いて太平天国の鎮圧に活躍し、洋務運動の中心として北洋艦隊や軍需工業を建設した。外交を担い、下関条約や北京議定書の交渉にあたった。",
+      "en": "Commanded the Huai Army against the Taiping and became the leading figure of the Self-Strengthening Movement, building the Beiyang fleet and modern industries. He negotiated the treaties of Shimonoseki and the Boxer Protocol."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "李鴻章",
+      "en": "Li Hongzhang"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "cixi",
+    "name": {
+      "ja": "西太后",
+      "en": "Empress Dowager Cixi"
+    },
+    "born": 1835,
+    "died": 1908,
+    "active": [
+      1861,
+      1908
+    ],
+    "role": {
+      "ja": "清の皇太后",
+      "en": "Empress Dowager of the Qing"
+    },
+    "lat": 39.9,
+    "lon": 116.4,
+    "desc": {
+      "ja": "同治帝の生母として摂政となり、光緒帝の時代も実権を握り続けた。戊戌の変法を戊戌の政変で挫折させ、義和団を支持して列強に宣戦したが敗れ、晩年に光緒新政を進めた。",
+      "en": "Mother of the Tongzhi Emperor, she ruled as regent and kept power through the Guangxu reign. She crushed the Hundred Days' Reform, backed the Boxers against the powers, and belatedly launched late-Qing reforms."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "西太后",
+      "en": "Empress Dowager Cixi"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "guangxu",
+    "name": {
+      "ja": "光緒帝",
+      "en": "Guangxu Emperor"
+    },
+    "born": 1871,
+    "died": 1908,
+    "active": [
+      1889,
+      1898
+    ],
+    "role": {
+      "ja": "清の皇帝",
+      "en": "Emperor of the Qing"
+    },
+    "lat": 39.9,
+    "lon": 116.4,
+    "desc": {
+      "ja": "清の第11代皇帝。康有為らを登用して戊戌の変法を進めたが、西太后のクーデタにより幽閉され、以後実権を失った。西太后の死の前日に没した。",
+      "en": "The eleventh Qing emperor. He sponsored Kang Youwei's Hundred Days' Reform, but was confined after Cixi's coup and never regained power, dying the day before she did."
+    },
+    "importance": 1,
+    "wiki": {
+      "ja": "光緒帝",
+      "en": "Guangxu Emperor"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "kang-youwei",
+    "name": {
+      "ja": "康有為",
+      "en": "Kang Youwei"
+    },
+    "born": 1858,
+    "died": 1927,
+    "active": [
+      1895,
+      1898
+    ],
+    "role": {
+      "ja": "清末の変法派の思想家",
+      "en": "Chinese reformist scholar"
+    },
+    "lat": 39.9,
+    "lon": 116.4,
+    "desc": {
+      "ja": "公羊学の立場から孔子を改革者と解釈し、日本の明治維新を手本とする立憲君主政をめざして光緒帝のもとで戊戌の変法を指導した。政変後は日本へ亡命した。",
+      "en": "Reinterpreting Confucius as a reformer, he urged constitutional monarchy on the Japanese model and led the Hundred Days' Reform under the Guangxu Emperor. After the coup he fled to Japan."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "康有為",
+      "en": "Kang Youwei"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "sun-yat-sen",
+    "name": {
+      "ja": "孫文",
+      "en": "Sun Yat-sen"
+    },
+    "born": 1866,
+    "died": 1925,
+    "active": [
+      1894,
+      1925
+    ],
+    "role": {
+      "ja": "中国革命の指導者・中華民国臨時大総統",
+      "en": "Chinese revolutionary and first provisional president"
+    },
+    "lat": 23.13,
+    "lon": 113.26,
+    "desc": {
+      "ja": "興中会・中国同盟会を組織し、三民主義を掲げて清朝打倒の革命運動を指導した。辛亥革命後に中華民国の臨時大総統となり、のちに中国国民党を結成した。",
+      "en": "Founded the Revive China Society and the Tongmenghui and led the revolutionary movement under the Three Principles of the People. He became provisional president of the Republic of China and later founded the Kuomintang."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "孫文",
+      "en": "Sun Yat-sen"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "yuan-shikai",
+    "name": {
+      "ja": "袁世凱",
+      "en": "Yuan Shikai"
+    },
+    "born": 1859,
+    "died": 1916,
+    "active": [
+      1895,
+      1916
+    ],
+    "role": {
+      "ja": "清の軍人・中華民国大総統",
+      "en": "Qing general and President of the Republic of China"
+    },
+    "lat": 39.9,
+    "lon": 116.4,
+    "desc": {
+      "ja": "清末に新軍を育成して軍閥の基礎を築いた。辛亥革命では革命派と取引して宣統帝を退位させ、中華民国の大総統となり、独裁を強めて帝政復活を企てたが失敗した。",
+      "en": "Built the New Army in the late Qing, the basis of later warlordism. In the Xinhai Revolution he forced the emperor's abdication in exchange for the presidency, then ruled as a dictator and tried in vain to make himself emperor."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "袁世凱",
+      "en": "Yuan Shikai"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "emperor-meiji",
+    "name": {
+      "ja": "明治天皇",
+      "en": "Emperor Meiji"
+    },
+    "born": 1852,
+    "died": 1912,
+    "active": [
+      1867,
+      1912
+    ],
+    "role": {
+      "ja": "日本の天皇",
+      "en": "Emperor of Japan"
+    },
+    "lat": 35.68,
+    "lon": 139.69,
+    "desc": {
+      "ja": "明治維新により新政府の中心に据えられ、その治世に日本は大日本帝国憲法の制定、日清・日露戦争の勝利を経て近代国家として列強に加わった。",
+      "en": "Placed at the centre of the new government by the Meiji Restoration. During his reign Japan adopted the Meiji Constitution, won the Sino-Japanese and Russo-Japanese wars and joined the ranks of the great powers."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "明治天皇",
+      "en": "Emperor Meiji"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "ito-hirobumi",
+    "name": {
+      "ja": "伊藤博文",
+      "en": "Itō Hirobumi"
+    },
+    "born": 1841,
+    "died": 1909,
+    "active": [
+      1885,
+      1909
+    ],
+    "role": {
+      "ja": "日本の初代内閣総理大臣",
+      "en": "First Prime Minister of Japan"
+    },
+    "lat": 35.68,
+    "lon": 139.69,
+    "desc": {
+      "ja": "大日本帝国憲法の起草を主導し、初代内閣総理大臣となった。下関条約に調印し、韓国統監として韓国の保護国化を進めたが、ハルビンで安重根に暗殺された。",
+      "en": "Chief architect of the Meiji Constitution and Japan's first prime minister. He signed the Treaty of Shimonoseki and as Resident-General made Korea a protectorate, before being assassinated at Harbin by An Jung-geun."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "伊藤博文",
+      "en": "Itō Hirobumi"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "muhammad-ali",
+    "name": {
+      "ja": "ムハンマド＝アリー",
+      "en": "Muhammad Ali of Egypt"
+    },
+    "born": 1769,
+    "died": 1849,
+    "active": [
+      1805,
+      1848
+    ],
+    "role": {
+      "ja": "エジプト総督",
+      "en": "Governor of Egypt"
+    },
+    "lat": 30.04,
+    "lon": 31.24,
+    "desc": {
+      "ja": "オスマン帝国のエジプト総督となり、マムルークを一掃して富国強兵と近代化を進めた。ギリシア独立戦争に出兵し、シリアを求めてオスマン帝国と戦い、総督の世襲権を獲得した。",
+      "en": "Ottoman governor of Egypt who destroyed the Mamluks and modernised the army and economy. He fought in the Greek war and twice against the sultan for Syria, winning hereditary rule over Egypt."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ムハンマド・アリー",
+      "en": "Muhammad Ali of Egypt"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "abdulhamid-ii",
+    "name": {
+      "ja": "アブデュルハミト2世",
+      "en": "Abdul Hamid II"
+    },
+    "born": 1842,
+    "died": 1918,
+    "active": [
+      1876,
+      1909
+    ],
+    "role": {
+      "ja": "オスマン帝国のスルタン",
+      "en": "Ottoman Sultan"
+    },
+    "lat": 41.01,
+    "lon": 28.98,
+    "desc": {
+      "ja": "即位後ミドハト憲法を発布したが、ロシア＝トルコ戦争を口実に停止して専制政治を行った。パン＝イスラーム主義を唱えたが、青年トルコ革命で憲法復活を強いられ廃位された。",
+      "en": "Promulgated the Midhat constitution on his accession but suspended it during the war with Russia and ruled as an autocrat, promoting Pan-Islamism. The Young Turk Revolution forced its restoration and he was deposed in 1909."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "アブデュルハミト2世",
+      "en": "Abdul Hamid II"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "midhat-pasha",
+    "name": {
+      "ja": "ミドハト＝パシャ",
+      "en": "Midhat Pasha"
+    },
+    "born": 1822,
+    "died": 1883,
+    "active": [
+      1872,
+      1877
+    ],
+    "role": {
+      "ja": "オスマン帝国の大宰相",
+      "en": "Ottoman Grand Vizier"
+    },
+    "lat": 41.01,
+    "lon": 28.98,
+    "desc": {
+      "ja": "タンジマートを推進した改革派官僚で、大宰相としてオスマン帝国初の憲法を起草・発布した。アブデュルハミト2世に追放され、のち獄中で殺害された。",
+      "en": "A reforming statesman of the Tanzimat who as grand vizier drafted and promulgated the Ottoman Empire's first constitution. Banished by Abdul Hamid II, he was later murdered in prison."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ミドハト・パシャ",
+      "en": "Midhat Pasha"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "urabi",
+    "name": {
+      "ja": "ウラービー",
+      "en": "Ahmed Urabi"
+    },
+    "born": 1841,
+    "died": 1911,
+    "active": [
+      1879,
+      1882
+    ],
+    "role": {
+      "ja": "エジプトの軍人・民族運動指導者",
+      "en": "Egyptian officer and nationalist leader"
+    },
+    "lat": 30.04,
+    "lon": 31.24,
+    "desc": {
+      "ja": "「エジプト人のためのエジプト」を掲げ、英仏の財政支配と総督の専制に反対して蜂起した。イギリス軍に敗れてセイロンに流され、エジプトはイギリスの占領下に置かれた。",
+      "en": "Rose under the slogan 'Egypt for the Egyptians' against Anglo-French financial control and the khedive's autocracy. Defeated by British forces, he was exiled to Ceylon and Egypt fell under British occupation."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "アフマド・ウラービー",
+      "en": "Ahmed ʻUrabi"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "muhammad-ahmad",
+    "name": {
+      "ja": "ムハンマド＝アフマド",
+      "en": "Muhammad Ahmad"
+    },
+    "born": 1844,
+    "died": 1885,
+    "active": [
+      1881,
+      1885
+    ],
+    "role": {
+      "ja": "スーダンのマフディー",
+      "en": "Sudanese Mahdi"
+    },
+    "lat": 15.65,
+    "lon": 32.48,
+    "desc": {
+      "ja": "スーダンでマフディー（救世主）を称してエジプト・イギリスの支配に対する聖戦を指導し、ハルツームを陥落させてマフディー国家を建てた。直後に病死した。",
+      "en": "Proclaimed himself the Mahdi in the Sudan and led a holy war against Egyptian-British rule, capturing Khartoum and founding the Mahdist state. He died of illness shortly afterwards."
+    },
+    "importance": 1,
+    "wiki": {
+      "ja": "ムハンマド・アフマド",
+      "en": "Muhammad Ahmad"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "al-afghani",
+    "name": {
+      "ja": "アフガーニー",
+      "en": "Jamal al-Din al-Afghani"
+    },
+    "born": 1838,
+    "died": 1897,
+    "active": [
+      1870,
+      1897
+    ],
+    "role": {
+      "ja": "パン＝イスラーム主義の思想家",
+      "en": "Pan-Islamist thinker"
+    },
+    "lat": 30.04,
+    "lon": 31.24,
+    "desc": {
+      "ja": "ヨーロッパの侵略に対抗するためムスリムの団結を説いたパン＝イスラーム主義の提唱者。エジプトやイランで活動し、ウラービー運動やタバコ＝ボイコット運動に影響を与えた。",
+      "en": "Advocate of Pan-Islamism, calling for Muslim unity against European encroachment. Active in Egypt, Iran and elsewhere, he influenced the Urabi revolt and the Iranian Tobacco Protest."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ジャマールッディーン・アフガーニー",
+      "en": "Jamal al-Din al-Afghani"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "cecil-rhodes",
+    "name": {
+      "ja": "セシル＝ローズ",
+      "en": "Cecil Rhodes"
+    },
+    "born": 1853,
+    "died": 1902,
+    "active": [
+      1880,
+      1902
+    ],
+    "role": {
+      "ja": "ケープ植民地首相・実業家",
+      "en": "Prime Minister of the Cape Colony and businessman"
+    },
+    "lat": -33.93,
+    "lon": 18.42,
+    "desc": {
+      "ja": "ダイヤモンド・金鉱で富を築き、ケープ植民地首相としてアフリカ縦断政策を推進した。ローデシアを建設し、トランスヴァールへの侵入事件で失脚したが、南アフリカ戦争の背景をつくった。",
+      "en": "Made a fortune in diamonds and gold and as Cape prime minister pushed the Cape-to-Cairo policy, founding Rhodesia. The Jameson Raid into the Transvaal ended his career but helped bring on the Boer War."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "セシル・ローズ",
+      "en": "Cecil Rhodes"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "leopold-ii",
+    "name": {
+      "ja": "レオポルド2世",
+      "en": "Leopold II of Belgium"
+    },
+    "born": 1835,
+    "died": 1909,
+    "active": [
+      1865,
+      1909
+    ],
+    "role": {
+      "ja": "ベルギー王",
+      "en": "King of the Belgians"
+    },
+    "lat": 50.85,
+    "lon": 4.35,
+    "desc": {
+      "ja": "スタンリーの探検を支援してコンゴ進出をはかり、ベルリン会議でコンゴ自由国を私領として承認された。ゴム採取の過酷な支配が国際的に非難され、1908年にベルギー領に移された。",
+      "en": "Sponsored Stanley's expeditions to claim the Congo and had the Congo Free State recognised as his personal possession at the Berlin Conference. The brutal rubber regime drew world condemnation, and Belgium took over in 1908."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "レオポルド2世 (ベルギー王)",
+      "en": "Leopold II of Belgium"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "menelik-ii",
+    "name": {
+      "ja": "メネリク2世",
+      "en": "Menelik II"
+    },
+    "born": 1844,
+    "died": 1913,
+    "active": [
+      1889,
+      1913
+    ],
+    "role": {
+      "ja": "エチオピア皇帝",
+      "en": "Emperor of Ethiopia"
+    },
+    "lat": 9.03,
+    "lon": 38.74,
+    "desc": {
+      "ja": "エチオピアの皇帝として領土を拡大し、近代化を進めた。1896年のアドワの戦いでイタリア軍を撃破し、アフリカ分割の中でエチオピアの独立を守った。",
+      "en": "Expanded and modernised the Ethiopian empire. His victory over the Italians at Adwa in 1896 preserved Ethiopia's independence during the Scramble for Africa."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "メネリク2世",
+      "en": "Menelik II"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "chulalongkorn",
+    "name": {
+      "ja": "チュラロンコン",
+      "en": "Chulalongkorn (Rama V)"
+    },
+    "born": 1853,
+    "died": 1910,
+    "active": [
+      1868,
+      1910
+    ],
+    "role": {
+      "ja": "タイ（シャム）国王",
+      "en": "King of Siam"
+    },
+    "lat": 13.75,
+    "lon": 100.5,
+    "desc": {
+      "ja": "ラタナコーシン朝（チャクリ朝）5代の王。行政・司法・軍制・教育の近代化と奴隷制廃止を進め、英仏の圧力をかわしてタイの独立を維持した。",
+      "en": "Fifth king of the Chakri dynasty. He modernised administration, justice, the army and education, abolished slavery, and preserved Siam's independence between British and French pressure."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ラーマ5世",
+      "en": "Chulalongkorn"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "jose-rizal",
+    "name": {
+      "ja": "ホセ＝リサール",
+      "en": "José Rizal"
+    },
+    "born": 1861,
+    "died": 1896,
+    "active": [
+      1887,
+      1896
+    ],
+    "role": {
+      "ja": "フィリピンの民族運動家",
+      "en": "Filipino nationalist and writer"
+    },
+    "lat": 14.6,
+    "lon": 120.98,
+    "desc": {
+      "ja": "小説でスペイン支配を批判し、フィリピン民族同盟を結成して平和的な改革を求めた。フィリピン革命勃発後に反乱扇動の罪で処刑され、独立運動の象徴となった。",
+      "en": "Criticised Spanish rule in his novels and founded the Liga Filipina to seek peaceful reform. Executed for sedition after the Philippine Revolution broke out, he became the symbol of the independence movement."
+    },
+    "importance": 1,
+    "wiki": {
+      "ja": "ホセ・リサール",
+      "en": "José Rizal"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "marx",
+    "name": {
+      "ja": "マルクス",
+      "en": "Karl Marx"
+    },
+    "born": 1818,
+    "died": 1883,
+    "active": [
+      1843,
+      1883
+    ],
+    "role": {
+      "ja": "ドイツの思想家・経済学者",
+      "en": "German philosopher and economist"
+    },
+    "lat": 51.5,
+    "lon": -0.12,
+    "desc": {
+      "ja": "エンゲルスとともに『共産党宣言』を発表し、史的唯物論にもとづく科学的社会主義を確立した。ロンドンに亡命して『資本論』を著し、第1インターナショナルを指導した。",
+      "en": "With Engels he wrote the Communist Manifesto and founded scientific socialism on historical materialism. In exile in London he wrote Das Kapital and led the First International."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "カール・マルクス",
+      "en": "Karl Marx"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "engels",
+    "name": {
+      "ja": "エンゲルス",
+      "en": "Friedrich Engels"
+    },
+    "born": 1820,
+    "died": 1895,
+    "active": [
+      1844,
+      1895
+    ],
+    "role": {
+      "ja": "ドイツの思想家・マルクスの協力者",
+      "en": "German thinker and collaborator of Marx"
+    },
+    "lat": 51.5,
+    "lon": -0.12,
+    "desc": {
+      "ja": "マンチェスターの工場経営にたずさわりながらマルクスを支え、『共産党宣言』を共同で執筆した。マルクスの死後『資本論』の続巻を編集し、第2インターナショナルの結成を助けた。",
+      "en": "Managed a Manchester cotton business while supporting Marx and co-writing the Communist Manifesto. After Marx's death he edited the later volumes of Das Kapital and helped found the Second International."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "フリードリヒ・エンゲルス",
+      "en": "Friedrich Engels"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "darwin",
+    "name": {
+      "ja": "ダーウィン",
+      "en": "Charles Darwin"
+    },
+    "born": 1809,
+    "died": 1882,
+    "active": [
+      1831,
+      1882
+    ],
+    "role": {
+      "ja": "イギリスの博物学者",
+      "en": "English naturalist"
+    },
+    "lat": 51.5,
+    "lon": -0.12,
+    "desc": {
+      "ja": "ビーグル号での航海の観察をもとに自然選択による進化論を構想し、1859年『種の起源』を刊行した。進化論は生物学を変革し、社会進化論など思想にも大きな影響を及ぼした。",
+      "en": "Developed the theory of evolution by natural selection from observations made on the voyage of the Beagle, publishing On the Origin of Species in 1859. His ideas transformed biology and influenced social thought."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "チャールズ・ダーウィン",
+      "en": "Charles Darwin"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "nightingale",
+    "name": {
+      "ja": "ナイティンゲール",
+      "en": "Florence Nightingale"
+    },
+    "born": 1820,
+    "died": 1910,
+    "active": [
+      1854,
+      1910
+    ],
+    "role": {
+      "ja": "イギリスの看護師",
+      "en": "English nurse and reformer"
+    },
+    "lat": 51.5,
+    "lon": -0.12,
+    "desc": {
+      "ja": "クリミア戦争で看護師団を率いて野戦病院の衛生改革に尽くし、「クリミアの天使」と呼ばれた。帰国後は看護学校を設立し、近代看護の基礎を築いた。",
+      "en": "Led a team of nurses in the Crimean War and reformed hospital sanitation, earning the name 'the Lady with the Lamp'. She later founded a nursing school and laid the basis of modern nursing."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "フローレンス・ナイチンゲール",
+      "en": "Florence Nightingale"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "edison",
+    "name": {
+      "ja": "エジソン",
+      "en": "Thomas Edison"
+    },
+    "born": 1847,
+    "died": 1931,
+    "active": [
+      1870,
+      1931
+    ],
+    "role": {
+      "ja": "アメリカの発明家",
+      "en": "American inventor"
+    },
+    "lat": 40.56,
+    "lon": -74.34,
+    "desc": {
+      "ja": "蓄音機・白熱電球・映画撮影機など多数の発明を行い、「発明王」と呼ばれた。発電所を建設して電灯事業を始め、第2次産業革命の電力時代を切り開いた。",
+      "en": "Inventor of the phonograph, the practical incandescent lamp, the motion-picture camera and much else. By building power stations he launched the electric age of the Second Industrial Revolution."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "トーマス・エジソン",
+      "en": "Thomas Edison"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "pasteur",
+    "name": {
+      "ja": "パスツール",
+      "en": "Louis Pasteur"
+    },
+    "born": 1822,
+    "died": 1895,
+    "active": [
+      1857,
+      1895
+    ],
+    "role": {
+      "ja": "フランスの化学者・細菌学者",
+      "en": "French chemist and microbiologist"
+    },
+    "lat": 48.86,
+    "lon": 2.35,
+    "desc": {
+      "ja": "発酵と腐敗が微生物によることを証明し、低温殺菌法を考案した。狂犬病ワクチンの接種に成功し、コッホとともに細菌学と予防医学の基礎を築いた。",
+      "en": "Proved that fermentation and decay are caused by microbes and devised pasteurisation. His rabies vaccine succeeded in 1885, and with Koch he founded bacteriology and preventive medicine."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ルイ・パスツール",
+      "en": "Louis Pasteur"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "nobel",
+    "name": {
+      "ja": "ノーベル",
+      "en": "Alfred Nobel"
+    },
+    "born": 1833,
+    "died": 1896,
+    "active": [
+      1866,
+      1896
+    ],
+    "role": {
+      "ja": "スウェーデンの化学者・実業家",
+      "en": "Swedish chemist and industrialist"
+    },
+    "lat": 59.33,
+    "lon": 18.07,
+    "desc": {
+      "ja": "1866年にダイナマイトを発明して巨富を築いた。その遺言により、人類に貢献した人々に贈るノーベル賞が創設され、1901年から授与が始まった。",
+      "en": "Invented dynamite in 1866 and amassed a great fortune. His will established the Nobel Prizes for those who benefit humanity, first awarded in 1901."
+    },
+    "importance": 1,
+    "wiki": {
+      "ja": "アルフレッド・ノーベル",
+      "en": "Alfred Nobel"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "kossuth",
+    "name": {
+      "ja": "コシュート",
+      "en": "Lajos Kossuth"
+    },
+    "born": 1802,
+    "died": 1894,
+    "active": [
+      1847,
+      1849
+    ],
+    "role": {
+      "ja": "ハンガリー民族運動の指導者",
+      "en": "Leader of the Hungarian revolution"
+    },
+    "lat": 47.5,
+    "lon": 19.04,
+    "desc": {
+      "ja": "1848年革命でハンガリーの独立運動を指導し、1849年に独立を宣言して執政となった。ロシア軍の介入で敗れて亡命し、以後も海外から民族運動を支援した。",
+      "en": "Led Hungary's struggle in the revolution of 1848, declaring independence in 1849 and becoming governor-president. Defeated by Russian intervention, he spent the rest of his life in exile."
+    },
+    "importance": 1,
+    "wiki": {
+      "ja": "コシュート・ラヨシュ",
+      "en": "Lajos Kossuth"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  }
+]

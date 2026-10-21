@@ -1,0 +1,3268 @@
+[
+  {
+    "id": "carlsbad-decrees",
+    "type": "politics",
+    "year": 1819,
+    "year_end": null,
+    "lat": 50.23,
+    "lon": 12.87,
+    "name": {
+      "ja": "カールスバート決議",
+      "en": "Carlsbad Decrees"
+    },
+    "desc": {
+      "ja": "ブルシェンシャフト（ドイツ学生組合）の自由主義運動に対し、メッテルニヒの主導でドイツ連邦が出した弾圧決議。大学の監視と出版の検閲を定めた。",
+      "en": "Repressive resolutions pushed through the German Confederation by Metternich against the liberal student Burschenschaft movement, imposing university surveillance and press censorship."
+    },
+    "importance": 2,
+    "persons": [
+      "metternich"
+    ],
+    "wiki": {
+      "ja": "カールスバート決議",
+      "en": "Carlsbad Decrees"
+    }
+  },
+  {
+    "id": "peterloo-massacre",
+    "type": "politics",
+    "year": 1819,
+    "year_end": null,
+    "lat": 53.48,
+    "lon": -2.24,
+    "name": {
+      "ja": "ピータールー事件",
+      "en": "Peterloo Massacre"
+    },
+    "desc": {
+      "ja": "マンチェスターで選挙法改正を求める民衆集会に騎兵隊が突入し、多数の死傷者を出した事件。政府は弾圧を強めたが、改革要求はかえって高まった。",
+      "en": "Cavalry charged a mass meeting for parliamentary reform in Manchester, killing and wounding many. The government tightened repression, but demands for reform only grew."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "ピータールーの虐殺",
+      "en": "Peterloo Massacre"
+    }
+  },
+  {
+    "id": "missouri-compromise",
+    "type": "politics",
+    "year": 1820,
+    "year_end": null,
+    "lat": 38.9,
+    "lon": -77.04,
+    "name": {
+      "ja": "ミズーリ協定",
+      "en": "Missouri Compromise"
+    },
+    "desc": {
+      "ja": "ミズーリを奴隷州、メインを自由州として加盟させ、以後北緯36度30分以北には奴隷州をつくらないと定めた。南北の勢力均衡を保つための妥協であった。",
+      "en": "Admitted Missouri as a slave state and Maine as a free state, and banned slavery north of 36°30' in the Louisiana Purchase, preserving the balance between North and South."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "ミズーリ協定",
+      "en": "Missouri Compromise"
+    }
+  },
+  {
+    "id": "greek-war-of-independence",
+    "type": "revolution",
+    "year": 1821,
+    "year_end": 1829,
+    "lat": 37.98,
+    "lon": 23.73,
+    "name": {
+      "ja": "ギリシア独立戦争",
+      "en": "Greek War of Independence"
+    },
+    "desc": {
+      "ja": "オスマン帝国の支配に対してギリシアが蜂起。英・仏・露が支援し、1829年のアドリアノープル条約で独立が認められ、1830年のロンドン会議で国際的に承認された。",
+      "en": "Greeks rose against Ottoman rule; with British, French and Russian support, independence was conceded at Adrianople in 1829 and recognised internationally at the London Conference of 1830."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "ギリシャ独立戦争",
+      "en": "Greek War of Independence"
+    }
+  },
+  {
+    "id": "mexican-independence",
+    "type": "founding",
+    "year": 1821,
+    "year_end": null,
+    "lat": 19.43,
+    "lon": -99.13,
+    "name": {
+      "ja": "メキシコ独立",
+      "en": "Mexican Independence"
+    },
+    "desc": {
+      "ja": "1810年のイダルゴの蜂起に始まる独立戦争の末、イトゥルビデがスペインからの独立を達成した。初めは帝国、1824年に連邦共和国となった。",
+      "en": "After a war of independence begun by Hidalgo's revolt in 1810, Iturbide secured independence from Spain; Mexico was first an empire and became a federal republic in 1824."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "メキシコ独立革命",
+      "en": "Mexican War of Independence"
+    }
+  },
+  {
+    "id": "brazilian-independence",
+    "type": "founding",
+    "year": 1822,
+    "year_end": null,
+    "lat": -22.91,
+    "lon": -43.17,
+    "name": {
+      "ja": "ブラジル独立",
+      "en": "Independence of Brazil"
+    },
+    "desc": {
+      "ja": "ポルトガル王子ペドロが本国からの独立を宣言し、皇帝ペドロ1世として即位した。ラテンアメリカで唯一、帝政をとる独立国となった。",
+      "en": "Portuguese prince Pedro declared independence from Portugal and was crowned Emperor Pedro I, making Brazil the only monarchy among the newly independent Latin American states."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "ブラジル独立",
+      "en": "Independence of Brazil"
+    }
+  },
+  {
+    "id": "monroe-doctrine",
+    "type": "politics",
+    "year": 1823,
+    "year_end": null,
+    "lat": 38.9,
+    "lon": -77.04,
+    "name": {
+      "ja": "モンロー宣言",
+      "en": "Monroe Doctrine"
+    },
+    "desc": {
+      "ja": "アメリカ大統領モンローが年次教書で、ヨーロッパとアメリカ大陸の相互不干渉を表明。ラテンアメリカ独立への列強の干渉をけん制し、孤立主義の原則となった。",
+      "en": "President Monroe declared mutual non-interference between Europe and the Americas, warning the powers against intervening in Latin America and setting the principle of US isolationism."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "モンロー主義",
+      "en": "Monroe Doctrine"
+    }
+  },
+  {
+    "id": "battle-of-ayacucho",
+    "type": "battle",
+    "year": 1824,
+    "year_end": null,
+    "lat": -13.16,
+    "lon": -74.22,
+    "name": {
+      "ja": "アヤクチョの戦い",
+      "en": "Battle of Ayacucho"
+    },
+    "desc": {
+      "ja": "ボリバルの部将スクレがペルーでスペイン軍に決定的な勝利をおさめ、南米大陸におけるスペインの支配は事実上終わった。翌年ボリビアが独立した。",
+      "en": "Bolívar's general Sucre won a decisive victory over the Spanish army in Peru, effectively ending Spanish rule on the South American mainland. Bolivia became independent the next year."
+    },
+    "importance": 2,
+    "persons": [
+      "bolivar"
+    ],
+    "wiki": {
+      "ja": "アヤクーチョの戦い",
+      "en": "Battle of Ayacucho"
+    }
+  },
+  {
+    "id": "anglo-burmese-wars",
+    "type": "battle",
+    "year": 1824,
+    "year_end": 1886,
+    "lat": 21.98,
+    "lon": 96.08,
+    "name": {
+      "ja": "ビルマ戦争",
+      "en": "Anglo-Burmese Wars"
+    },
+    "desc": {
+      "ja": "イギリスは3次にわたる戦争でコンバウン朝を圧迫し、1885年に首都マンダレーを占領して王朝を滅ぼした。翌年ビルマはインド帝国に併合された。",
+      "en": "In three wars Britain steadily reduced the Konbaung dynasty, capturing the capital Mandalay in 1885 and abolishing the monarchy. Burma was annexed to the Indian Empire the next year."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "en": "Anglo-Burmese wars"
+    }
+  },
+  {
+    "id": "decembrist-revolt",
+    "type": "revolution",
+    "year": 1825,
+    "year_end": null,
+    "lat": 59.94,
+    "lon": 30.31,
+    "name": {
+      "ja": "デカブリストの乱",
+      "en": "Decembrist revolt"
+    },
+    "desc": {
+      "ja": "ニコライ1世の即位に際し、自由主義的な青年貴族将校がペテルブルクで農奴制の廃止と立憲政治を求めて蜂起したが、即日鎮圧された。",
+      "en": "On the accession of Nicholas I, liberal young noble officers rose in St Petersburg demanding the abolition of serfdom and a constitution; the revolt was crushed the same day."
+    },
+    "importance": 2,
+    "persons": [
+      "nicholas-i"
+    ],
+    "wiki": {
+      "ja": "デカブリストの乱",
+      "en": "Decembrist revolt"
+    }
+  },
+  {
+    "id": "jackson-presidency",
+    "type": "politics",
+    "year": 1829,
+    "year_end": null,
+    "lat": 38.9,
+    "lon": -77.04,
+    "name": {
+      "ja": "ジャクソン大統領の就任",
+      "en": "Presidency of Andrew Jackson"
+    },
+    "desc": {
+      "ja": "西部出身の初の大統領ジャクソンが就任。白人男性普通選挙の広がりなど「ジャクソニアン＝デモクラシー」を進める一方、先住民強制移住法を制定した。",
+      "en": "Jackson, the first president from the West, took office. His era of 'Jacksonian democracy' widened white male suffrage, but he also signed the Indian Removal Act."
+    },
+    "importance": 1,
+    "persons": [
+      "andrew-jackson"
+    ],
+    "wiki": {
+      "ja": "アンドリュー・ジャクソン",
+      "en": "Andrew Jackson"
+    }
+  },
+  {
+    "id": "july-revolution",
+    "type": "revolution",
+    "year": 1830,
+    "year_end": null,
+    "lat": 48.86,
+    "lon": 2.35,
+    "name": {
+      "ja": "七月革命",
+      "en": "July Revolution"
+    },
+    "desc": {
+      "ja": "シャルル10世の反動政治に対してパリ民衆が蜂起し、国王を追放した。自由主義的なルイ＝フィリップが即位して七月王政が成立し、革命は各国に波及した。",
+      "en": "Parisians rose against the reactionary rule of Charles X and drove him from the throne. The liberal Louis-Philippe became king, founding the July Monarchy, and the revolution spread across Europe."
+    },
+    "importance": 3,
+    "persons": [
+      "louis-philippe"
+    ],
+    "wiki": {
+      "ja": "フランス7月革命",
+      "en": "July Revolution"
+    }
+  },
+  {
+    "id": "belgian-revolution",
+    "type": "revolution",
+    "year": 1830,
+    "year_end": null,
+    "lat": 50.85,
+    "lon": 4.35,
+    "name": {
+      "ja": "ベルギー独立",
+      "en": "Belgian Revolution"
+    },
+    "desc": {
+      "ja": "七月革命の影響でオランダからの分離を求めて蜂起し、独立を宣言した。1831年に立憲王国となり、1839年のロンドン条約で永世中立国として承認された。",
+      "en": "Inspired by the July Revolution, the Belgians rose against Dutch rule and declared independence. A constitutional kingdom was established in 1831 and recognised as permanently neutral in 1839."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "ベルギー独立革命",
+      "en": "Belgian Revolution"
+    }
+  },
+  {
+    "id": "polish-uprising-1830",
+    "type": "revolution",
+    "year": 1830,
+    "year_end": 1831,
+    "lat": 52.23,
+    "lon": 21.01,
+    "name": {
+      "ja": "ポーランド反乱",
+      "en": "November Uprising"
+    },
+    "desc": {
+      "ja": "七月革命の影響を受け、ワルシャワの士官候補生らがロシアの支配に対して蜂起したが、翌年ニコライ1世の軍に鎮圧され、ポーランドの自治も奪われた。",
+      "en": "Encouraged by the July Revolution, cadets in Warsaw rose against Russian rule, but the uprising was crushed by Nicholas I's army the next year and Polish autonomy was abolished."
+    },
+    "importance": 2,
+    "persons": [
+      "nicholas-i"
+    ],
+    "wiki": {
+      "ja": "11月蜂起",
+      "en": "November Uprising"
+    }
+  },
+  {
+    "id": "young-italy",
+    "type": "politics",
+    "year": 1831,
+    "year_end": null,
+    "lat": 43.3,
+    "lon": 5.37,
+    "name": {
+      "ja": "青年イタリアの結成",
+      "en": "Young Italy founded"
+    },
+    "desc": {
+      "ja": "マッツィーニが亡命先のマルセイユで結成した共和主義の秘密結社。イタリアの統一と共和政をめざして蜂起を繰り返したが、いずれも失敗に終わった。",
+      "en": "A republican secret society founded by Mazzini in exile at Marseille. It aimed at a united Italian republic and organised repeated uprisings, all of which failed."
+    },
+    "importance": 2,
+    "persons": [
+      "mazzini"
+    ],
+    "wiki": {
+      "ja": "青年イタリア",
+      "en": "Young Italy"
+    }
+  },
+  {
+    "id": "egyptian-ottoman-war",
+    "type": "battle",
+    "year": 1831,
+    "year_end": 1840,
+    "lat": 30.04,
+    "lon": 31.24,
+    "name": {
+      "ja": "エジプト＝トルコ戦争",
+      "en": "Egyptian–Ottoman Wars"
+    },
+    "desc": {
+      "ja": "ムハンマド＝アリーがシリアの領有を求めてオスマン帝国と2度戦った。列強の介入によりシリアは失ったが、1840年のロンドン会議でエジプト総督の世襲権を認められた。",
+      "en": "Muhammad Ali twice fought the Ottoman sultan for possession of Syria. The powers intervened and he lost Syria, but the London Convention of 1840 confirmed his family's hereditary rule over Egypt."
+    },
+    "importance": 2,
+    "persons": [
+      "muhammad-ali"
+    ],
+    "wiki": {
+      "ja": "エジプト・トルコ戦争",
+      "en": "Egyptian–Ottoman War (1831–1833)"
+    }
+  },
+  {
+    "id": "reform-act-1832",
+    "type": "politics",
+    "year": 1832,
+    "year_end": null,
+    "lat": 51.5,
+    "lon": -0.12,
+    "name": {
+      "ja": "第1回選挙法改正",
+      "en": "Reform Act 1832"
+    },
+    "desc": {
+      "ja": "ホイッグ党のグレイ内閣が実現した改革。腐敗選挙区を廃止して新興都市に議席を配分し、産業資本家ら中産階級に選挙権を広げた。労働者は除外された。",
+      "en": "Passed by Grey's Whig ministry, it abolished rotten boroughs, gave seats to the new industrial towns and extended the vote to the middle classes, while still excluding workers."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "1832年改革法",
+      "en": "Reform Act 1832"
+    }
+  },
+  {
+    "id": "zollverein",
+    "type": "politics",
+    "year": 1834,
+    "year_end": null,
+    "lat": 52.52,
+    "lon": 13.4,
+    "name": {
+      "ja": "ドイツ関税同盟",
+      "en": "German Zollverein"
+    },
+    "desc": {
+      "ja": "プロイセンを中心に発足し、オーストリアを除く大部分のドイツ諸邦のあいだの関税を撤廃した。経済学者リストが提唱し、ドイツの経済的統一の基礎となった。",
+      "en": "A customs union led by Prussia that abolished tariffs among most German states, excluding Austria. Advocated by the economist List, it laid the economic basis of German unification."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "ドイツ関税同盟",
+      "en": "Zollverein"
+    }
+  },
+  {
+    "id": "chartist-movement",
+    "type": "revolution",
+    "year": 1838,
+    "year_end": 1848,
+    "lat": 51.5,
+    "lon": -0.12,
+    "name": {
+      "ja": "チャーティスト運動",
+      "en": "Chartism"
+    },
+    "desc": {
+      "ja": "選挙法改正から除外された労働者が、男性普通選挙など6か条の「人民憲章」を掲げて展開した政治運動。議会への請願を繰り返したが退けられ、しだいに衰退した。",
+      "en": "A working-class political movement demanding the six points of the People's Charter, including universal male suffrage. Its repeated petitions to Parliament were rejected and it faded after 1848."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "チャーティスト運動",
+      "en": "Chartism"
+    }
+  },
+  {
+    "id": "trail-of-tears",
+    "type": "other",
+    "year": 1838,
+    "year_end": 1839,
+    "lat": 35.47,
+    "lon": -97.52,
+    "name": {
+      "ja": "涙の旅路",
+      "en": "Trail of Tears"
+    },
+    "desc": {
+      "ja": "先住民強制移住法（1830年）にもとづき、チェロキーなど南東部の先住民がミシシッピ川以西の保留地へ強制的に移住させられ、多くが途上で命を落とした。",
+      "en": "Under the Indian Removal Act of 1830, the Cherokee and other south-eastern peoples were forcibly marched to reservations west of the Mississippi; thousands died on the way."
+    },
+    "importance": 1,
+    "persons": [
+      "andrew-jackson"
+    ],
+    "wiki": {
+      "ja": "涙の道",
+      "en": "Trail of Tears"
+    }
+  },
+  {
+    "id": "tanzimat",
+    "type": "politics",
+    "year": 1839,
+    "year_end": null,
+    "lat": 41.01,
+    "lon": 28.98,
+    "name": {
+      "ja": "タンジマート",
+      "en": "Tanzimat reforms"
+    },
+    "desc": {
+      "ja": "スルタンのアブデュルメジト1世がギュルハネ勅令を発布して始めた西欧化改革。法の下の平等や税制・軍制の改革を進めたが、列強の経済的進出を招いた。",
+      "en": "Westernising reforms begun by Sultan Abdülmecid I with the Gülhane Edict. They proclaimed legal equality and reformed taxation and the army, but also opened the empire to European economic penetration."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "タンジマート",
+      "en": "Tanzimat"
+    }
+  },
+  {
+    "id": "opium-war",
+    "type": "battle",
+    "year": 1840,
+    "year_end": 1842,
+    "lat": 23.13,
+    "lon": 113.26,
+    "name": {
+      "ja": "アヘン戦争",
+      "en": "First Opium War"
+    },
+    "desc": {
+      "ja": "林則徐によるアヘン没収を口実にイギリスが清に開戦した。近代的な艦隊で清軍を圧倒して南京条約を結ばせ、清の弱体を露呈させて東アジアの国際秩序を揺るがした。",
+      "en": "Britain went to war with the Qing after Lin Zexu confiscated opium at Canton. Its modern fleet overwhelmed Chinese forces and imposed the Treaty of Nanjing, exposing Qing weakness and shaking the East Asian order."
+    },
+    "importance": 3,
+    "persons": [
+      "lin-zexu"
+    ],
+    "wiki": {
+      "ja": "アヘン戦争",
+      "en": "First Opium War"
+    }
+  },
+  {
+    "id": "treaty-of-nanjing",
+    "type": "treaty",
+    "year": 1842,
+    "year_end": null,
+    "lat": 32.06,
+    "lon": 118.8,
+    "name": {
+      "ja": "南京条約",
+      "en": "Treaty of Nanjing"
+    },
+    "desc": {
+      "ja": "アヘン戦争の講和条約。清は香港島の割譲、上海など5港の開港、賠償金の支払いを認め、翌年の追加条約で領事裁判権・協定関税・最恵国待遇を与えた。",
+      "en": "The peace ending the Opium War. The Qing ceded Hong Kong Island, opened five ports including Shanghai and paid an indemnity; supplementary treaties added extraterritoriality, fixed tariffs and most-favoured-nation status."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "南京条約",
+      "en": "Treaty of Nanking"
+    }
+  },
+  {
+    "id": "irish-famine",
+    "type": "other",
+    "year": 1845,
+    "year_end": 1849,
+    "lat": 53.35,
+    "lon": -6.26,
+    "name": {
+      "ja": "アイルランド大飢饉",
+      "en": "Great Irish Famine"
+    },
+    "desc": {
+      "ja": "ジャガイモの疫病による大凶作で約100万人が餓死・病死し、多数がアメリカなどへ移民した。人口は激減し、イギリス支配への反感と自治要求が強まった。",
+      "en": "Potato blight caused mass starvation; about a million died and many more emigrated, above all to America. Ireland's population collapsed and resentment of British rule deepened."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "ジャガイモ飢饉",
+      "en": "Great Famine (Ireland)"
+    }
+  },
+  {
+    "id": "repeal-of-corn-laws",
+    "type": "politics",
+    "year": 1846,
+    "year_end": null,
+    "lat": 51.5,
+    "lon": -0.12,
+    "name": {
+      "ja": "穀物法廃止",
+      "en": "Repeal of the Corn Laws"
+    },
+    "desc": {
+      "ja": "コブデンやブライトの反穀物法同盟の運動を受け、ピール内閣が地主を保護する穀物法を廃止した。1849年の航海法廃止とあわせ、イギリスの自由貿易体制が確立した。",
+      "en": "Under pressure from Cobden and Bright's Anti-Corn Law League, Peel's government repealed the protectionist Corn Laws. With the repeal of the Navigation Acts in 1849, Britain embraced free trade."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "穀物法",
+      "en": "Corn Laws"
+    }
+  },
+  {
+    "id": "mexican-american-war",
+    "type": "battle",
+    "year": 1846,
+    "year_end": 1848,
+    "lat": 19.43,
+    "lon": -99.13,
+    "name": {
+      "ja": "アメリカ＝メキシコ戦争",
+      "en": "Mexican–American War"
+    },
+    "desc": {
+      "ja": "1845年のテキサス併合をめぐって開戦し、アメリカ軍がメキシコ市を占領した。1848年の講和でカリフォルニアやニューメキシコを獲得し、領土は太平洋岸に達した。",
+      "en": "War broke out over the 1845 annexation of Texas and US forces occupied Mexico City. By the 1848 peace the United States gained California and New Mexico, reaching the Pacific."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "米墨戦争",
+      "en": "Mexican–American War"
+    }
+  },
+  {
+    "id": "liberia-independence",
+    "type": "founding",
+    "year": 1847,
+    "year_end": null,
+    "lat": 6.3,
+    "lon": -10.8,
+    "name": {
+      "ja": "リベリア独立",
+      "en": "Independence of Liberia"
+    },
+    "desc": {
+      "ja": "アメリカ植民協会が解放奴隷を入植させて建設した植民地が共和国として独立した。エチオピアとともに、列強によるアフリカ分割の中で独立を保った。",
+      "en": "The settlement founded by the American Colonization Society for freed slaves declared itself an independent republic. With Ethiopia it remained independent through the Scramble for Africa."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "リベリア",
+      "en": "Liberia"
+    }
+  },
+  {
+    "id": "communist-manifesto",
+    "type": "culture",
+    "year": 1848,
+    "year_end": null,
+    "lat": 51.5,
+    "lon": -0.12,
+    "name": {
+      "ja": "共産党宣言",
+      "en": "The Communist Manifesto"
+    },
+    "desc": {
+      "ja": "マルクスとエンゲルスが共産主義者同盟の綱領として発表した。階級闘争の歴史観を示し、「万国の労働者よ、団結せよ」と訴えて社会主義運動の指針となった。",
+      "en": "Written by Marx and Engels as the programme of the Communist League. It set out a view of history as class struggle and, with the call 'Workers of the world, unite!', became the guide of socialist movements."
+    },
+    "importance": 3,
+    "persons": [
+      "marx",
+      "engels"
+    ],
+    "wiki": {
+      "ja": "共産党宣言",
+      "en": "The Communist Manifesto"
+    }
+  },
+  {
+    "id": "february-revolution-1848",
+    "type": "revolution",
+    "year": 1848,
+    "year_end": null,
+    "lat": 48.86,
+    "lon": 2.35,
+    "name": {
+      "ja": "二月革命",
+      "en": "French Revolution of 1848"
+    },
+    "desc": {
+      "ja": "選挙権拡大を求める改革宴会の禁止を機にパリ民衆が蜂起し、ルイ＝フィリップは亡命した。第二共和政が成立し、革命は全ヨーロッパに広がった（諸国民の春）。",
+      "en": "The banning of reform banquets demanding wider suffrage sparked a rising in Paris; Louis-Philippe fled and the Second Republic was proclaimed. Revolution spread across Europe in the 'Springtime of Nations'."
+    },
+    "importance": 3,
+    "persons": [
+      "louis-philippe"
+    ],
+    "wiki": {
+      "en": "French Revolution of 1848"
+    }
+  },
+  {
+    "id": "march-revolution-vienna",
+    "type": "revolution",
+    "year": 1848,
+    "year_end": null,
+    "lat": 48.21,
+    "lon": 16.37,
+    "name": {
+      "ja": "三月革命（ウィーン）",
+      "en": "Vienna Revolution of 1848"
+    },
+    "desc": {
+      "ja": "二月革命の影響でウィーンの学生・市民が蜂起し、メッテルニヒは失脚してイギリスへ亡命した。ウィーン体制は崩壊したが、10月に革命は軍により鎮圧された。",
+      "en": "Students and citizens of Vienna rose under the influence of the February Revolution; Metternich fell and fled to England, ending the Vienna system. The army crushed the revolution in October."
+    },
+    "importance": 2,
+    "persons": [
+      "metternich"
+    ],
+    "wiki": {
+      "en": "Revolutions of 1848 in the Austrian Empire"
+    }
+  },
+  {
+    "id": "march-revolution-berlin",
+    "type": "revolution",
+    "year": 1848,
+    "year_end": null,
+    "lat": 52.52,
+    "lon": 13.4,
+    "name": {
+      "ja": "三月革命（ベルリン）",
+      "en": "March Revolution in Berlin"
+    },
+    "desc": {
+      "ja": "ベルリンで市民と労働者が蜂起し、国王フリードリヒ＝ヴィルヘルム4世は憲法制定を約束して自由主義内閣を認めた。年末には反動が強まり、欽定憲法が与えられた。",
+      "en": "Citizens and workers rose in Berlin; King Frederick William IV promised a constitution and accepted a liberal ministry. Reaction set in by year's end and a constitution was imposed from above."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "en": "German revolutions of 1848–1849"
+    }
+  },
+  {
+    "id": "frankfurt-parliament",
+    "type": "politics",
+    "year": 1848,
+    "year_end": 1849,
+    "lat": 50.11,
+    "lon": 8.68,
+    "name": {
+      "ja": "フランクフルト国民議会",
+      "en": "Frankfurt Parliament"
+    },
+    "desc": {
+      "ja": "ドイツの統一と憲法制定をめざして開かれた最初の全ドイツ議会。小ドイツ主義にもとづきプロイセン王を皇帝に選んだが拒否され、統一は失敗に終わった。",
+      "en": "The first all-German assembly, convened to unify Germany and draft a constitution. It chose the Prussian king as emperor of a 'Lesser Germany' excluding Austria, but he refused and the effort collapsed."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "フランクフルト国民議会",
+      "en": "Frankfurt Parliament"
+    }
+  },
+  {
+    "id": "hungarian-revolution-1848",
+    "type": "revolution",
+    "year": 1848,
+    "year_end": 1849,
+    "lat": 47.5,
+    "lon": 19.04,
+    "name": {
+      "ja": "ハンガリー民族運動",
+      "en": "Hungarian Revolution of 1848"
+    },
+    "desc": {
+      "ja": "コシュートの指導のもと、ハンガリーがオーストリアからの独立を宣言したが、ニコライ1世のロシア軍が介入して鎮圧された。民族運動の挫折はウィーン体制崩壊後の反動を象徴した。",
+      "en": "Led by Kossuth, Hungary declared independence from Austria, but the revolution was crushed when Nicholas I sent Russian troops to intervene."
+    },
+    "importance": 1,
+    "persons": [
+      "kossuth",
+      "nicholas-i"
+    ],
+    "wiki": {
+      "ja": "1848年ハンガリー革命",
+      "en": "Hungarian Revolution of 1848"
+    }
+  },
+  {
+    "id": "babi-uprisings",
+    "type": "religion",
+    "year": 1848,
+    "year_end": 1852,
+    "lat": 29.59,
+    "lon": 52.58,
+    "name": {
+      "ja": "バーブ教徒の乱",
+      "en": "Bábí uprisings"
+    },
+    "desc": {
+      "ja": "シーラーズで興ったバーブ教の信徒がガージャール朝の圧政に対して各地で蜂起した。教祖バーブは処刑されて運動は弾圧されたが、のちにバハーイー教が派生した。",
+      "en": "Followers of the Báb, whose movement arose in Shiraz, rose in several places against Qajar oppression. The Báb was executed and the movement crushed, but the Bahá'í faith later grew from it."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "バーブ教",
+      "en": "Bábism"
+    }
+  },
+  {
+    "id": "california-gold-rush",
+    "type": "other",
+    "year": 1849,
+    "year_end": null,
+    "lat": 38.58,
+    "lon": -121.49,
+    "name": {
+      "ja": "ゴールドラッシュ",
+      "en": "California Gold Rush"
+    },
+    "desc": {
+      "ja": "1848年のカリフォルニアでの金鉱発見を機に、世界中から移民が殺到した。人口の急増によりカリフォルニアは1850年に州となり、太平洋岸の開発が進んだ。",
+      "en": "The discovery of gold in California in 1848 drew migrants from around the world. The population boom made California a state in 1850 and spurred development of the Pacific coast."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "カリフォルニア・ゴールドラッシュ",
+      "en": "California gold rush"
+    }
+  },
+  {
+    "id": "taiping-rebellion",
+    "type": "revolution",
+    "year": 1851,
+    "year_end": 1864,
+    "lat": 23.46,
+    "lon": 110.08,
+    "name": {
+      "ja": "太平天国の乱",
+      "en": "Taiping Rebellion"
+    },
+    "desc": {
+      "ja": "洪秀全が拝上帝会を率いて広西で挙兵し、「滅満興漢」を掲げて南京を天京と改め都とした。曽国藩らの郷勇と列強の常勝軍によって鎮圧された。",
+      "en": "Hong Xiuquan's God Worshippers rose in Guangxi, proclaiming the overthrow of the Manchus, and made Nanjing their Heavenly Capital. Regional militias under Zeng Guofan and the foreign-led Ever-Victorious Army crushed them."
+    },
+    "importance": 3,
+    "persons": [
+      "hong-xiuquan",
+      "zeng-guofan",
+      "li-hongzhang"
+    ],
+    "wiki": {
+      "ja": "太平天国の乱",
+      "en": "Taiping Rebellion"
+    }
+  },
+  {
+    "id": "second-french-empire",
+    "type": "founding",
+    "year": 1852,
+    "year_end": null,
+    "lat": 48.86,
+    "lon": 2.35,
+    "name": {
+      "ja": "第二帝政の成立",
+      "en": "Second French Empire"
+    },
+    "desc": {
+      "ja": "ルイ＝ナポレオンが国民投票で皇帝ナポレオン3世となり、第二帝政が始まった。パリ改造や産業振興を進め、対外戦争で威信を高めたが、1870年に崩壊した。",
+      "en": "Louis-Napoleon became Emperor Napoleon III by plebiscite. His regime rebuilt Paris, promoted industry and sought prestige through foreign wars before collapsing in 1870."
+    },
+    "importance": 2,
+    "persons": [
+      "napoleon-iii"
+    ],
+    "wiki": {
+      "ja": "フランス第二帝政",
+      "en": "Second French Empire"
+    }
+  },
+  {
+    "id": "crimean-war",
+    "type": "battle",
+    "year": 1853,
+    "year_end": 1856,
+    "lat": 44.6,
+    "lon": 33.52,
+    "name": {
+      "ja": "クリミア戦争",
+      "en": "Crimean War"
+    },
+    "desc": {
+      "ja": "聖地管理権問題を口実にロシアがオスマン帝国に開戦。英・仏・サルデーニャがオスマン側で参戦してセヴァストーポリを陥落させ、ロシアの南下政策は挫折した。",
+      "en": "Russia went to war with the Ottoman Empire over the Holy Places; Britain, France and Sardinia joined the Ottoman side and took Sevastopol, halting Russia's southward expansion."
+    },
+    "importance": 3,
+    "persons": [
+      "nicholas-i",
+      "alexander-ii",
+      "napoleon-iii",
+      "nightingale"
+    ],
+    "wiki": {
+      "ja": "クリミア戦争",
+      "en": "Crimean War"
+    }
+  },
+  {
+    "id": "perry-expedition",
+    "type": "politics",
+    "year": 1853,
+    "year_end": null,
+    "lat": 35.24,
+    "lon": 139.72,
+    "name": {
+      "ja": "ペリー来航",
+      "en": "Perry Expedition"
+    },
+    "desc": {
+      "ja": "アメリカ東インド艦隊司令長官ペリーが浦賀に来航し開国を要求した。翌年の日米和親条約で日本は鎖国を終え、1858年の修好通商条約で不平等条約体制に組み込まれた。",
+      "en": "Commodore Perry's squadron arrived at Uraga demanding that Japan open its ports. The Treaty of Kanagawa in 1854 ended seclusion, and the commercial treaty of 1858 drew Japan into the unequal-treaty system."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "黒船来航",
+      "en": "Perry Expedition"
+    }
+  },
+  {
+    "id": "kansas-nebraska-act",
+    "type": "politics",
+    "year": 1854,
+    "year_end": null,
+    "lat": 38.9,
+    "lon": -77.04,
+    "name": {
+      "ja": "カンザス＝ネブラスカ法",
+      "en": "Kansas–Nebraska Act"
+    },
+    "desc": {
+      "ja": "両準州の奴隷制の可否を住民の投票に委ねると定め、ミズーリ協定を事実上廃棄した。反発した北部では奴隷制の拡大に反対する共和党が結成された。",
+      "en": "Left the question of slavery in the two territories to popular sovereignty, effectively repealing the Missouri Compromise. In the outraged North the Republican Party was founded to oppose slavery's expansion."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "カンザス・ネブラスカ法",
+      "en": "Kansas–Nebraska Act"
+    }
+  },
+  {
+    "id": "treaty-of-paris-1856",
+    "type": "treaty",
+    "year": 1856,
+    "year_end": null,
+    "lat": 48.86,
+    "lon": 2.35,
+    "name": {
+      "ja": "パリ条約（1856年）",
+      "en": "Treaty of Paris (1856)"
+    },
+    "desc": {
+      "ja": "クリミア戦争の講和条約。黒海の中立化によりロシアの軍艦航行を禁じ、オスマン帝国の領土保全を確認した。ウィーン体制以来の列強協調は崩れた。",
+      "en": "The peace ending the Crimean War neutralised the Black Sea, barring Russian warships, and guaranteed Ottoman territorial integrity. The concert of powers inherited from Vienna broke down."
+    },
+    "importance": 2,
+    "persons": [
+      "napoleon-iii",
+      "alexander-ii"
+    ],
+    "wiki": {
+      "ja": "パリ条約 (1856年)",
+      "en": "Treaty of Paris (1856)"
+    }
+  },
+  {
+    "id": "arrow-war",
+    "type": "battle",
+    "year": 1856,
+    "year_end": 1860,
+    "lat": 23.13,
+    "lon": 113.26,
+    "name": {
+      "ja": "アロー戦争",
+      "en": "Second Opium War"
+    },
+    "desc": {
+      "ja": "アロー号事件を口実にイギリスがフランスとともに清に開戦。広州・天津を占領し、北京に進んで円明園を略奪し、清に天津条約・北京条約を結ばせた。",
+      "en": "Using the Arrow incident as pretext, Britain and France attacked the Qing, occupying Canton and Tianjin, marching on Beijing and looting the Summer Palace. China was forced to sign the treaties of Tianjin and Beijing."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "アロー戦争",
+      "en": "Second Opium War"
+    }
+  },
+  {
+    "id": "indian-mutiny",
+    "type": "revolution",
+    "year": 1857,
+    "year_end": 1859,
+    "lat": 28.98,
+    "lon": 77.71,
+    "name": {
+      "ja": "インド大反乱",
+      "en": "Indian Rebellion of 1857"
+    },
+    "desc": {
+      "ja": "東インド会社のシパーヒー（インド人傭兵）がメーラトで蜂起し、デリーを占領してムガル皇帝を擁立した。旧支配層や農民も加わったがイギリス軍に鎮圧され、ムガル帝国は滅亡した。",
+      "en": "Sepoys of the East India Company mutinied at Meerut, seized Delhi and proclaimed the Mughal emperor their leader. Princes and peasants joined, but British forces crushed the revolt and the Mughal Empire was abolished."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "インド大反乱",
+      "en": "Indian Rebellion of 1857"
+    }
+  },
+  {
+    "id": "british-direct-rule-india",
+    "type": "politics",
+    "year": 1858,
+    "year_end": null,
+    "lat": 22.57,
+    "lon": 88.36,
+    "name": {
+      "ja": "東インド会社の解散",
+      "en": "Direct British rule in India"
+    },
+    "desc": {
+      "ja": "大反乱を受けてイギリスは東インド会社を解散し、インドを本国政府の直接統治下に置いた。インド省を設けて総督を派遣し、藩王国は保護国として温存された。",
+      "en": "After the rebellion Britain dissolved the East India Company and placed India under direct Crown rule, with an India Office and a viceroy. The princely states were preserved as protectorates."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "en": "Government of India Act 1858"
+    }
+  },
+  {
+    "id": "treaty-of-tianjin",
+    "type": "treaty",
+    "year": 1858,
+    "year_end": null,
+    "lat": 39.08,
+    "lon": 117.2,
+    "name": {
+      "ja": "天津条約",
+      "en": "Treaty of Tientsin"
+    },
+    "desc": {
+      "ja": "アロー戦争中に清が英・仏・米・露と結んだ条約。外国公使の北京駐在、キリスト教布教の自由、開港場の追加などを認めたが、批准をめぐって戦闘が再発した。",
+      "en": "Signed by the Qing with Britain, France, the United States and Russia during the Arrow War. It allowed resident ministers in Beijing, freedom of Christian missions and more open ports, but fighting resumed over ratification."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "天津条約 (1858年)",
+      "en": "Treaty of Tientsin"
+    }
+  },
+  {
+    "id": "treaty-of-aigun",
+    "type": "treaty",
+    "year": 1858,
+    "year_end": null,
+    "lat": 50.25,
+    "lon": 127.48,
+    "name": {
+      "ja": "アイグン条約",
+      "en": "Treaty of Aigun"
+    },
+    "desc": {
+      "ja": "東シベリア総督ムラヴィヨフがアロー戦争の混乱に乗じて清と結んだ条約。黒竜江（アムール川）以北をロシア領とし、沿海州を両国の共同管理地とした。",
+      "en": "Concluded by the Siberian governor Muravyov while the Qing were distracted by the Arrow War. Russia gained the left bank of the Amur, and the Maritime Province became a joint possession."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "アイグン条約",
+      "en": "Treaty of Aigun"
+    }
+  },
+  {
+    "id": "origin-of-species",
+    "type": "culture",
+    "year": 1859,
+    "year_end": null,
+    "lat": 51.5,
+    "lon": -0.12,
+    "name": {
+      "ja": "種の起源",
+      "en": "On the Origin of Species"
+    },
+    "desc": {
+      "ja": "ダーウィンが自然選択による生物の進化論を体系的に示した著作。人間の起源をめぐって激しい論争をよび、宗教・思想・社会科学に大きな影響を与えた。",
+      "en": "Darwin's systematic account of evolution by natural selection. It provoked fierce controversy over human origins and profoundly influenced religion, thought and the social sciences."
+    },
+    "importance": 2,
+    "persons": [
+      "darwin"
+    ],
+    "wiki": {
+      "ja": "種の起源",
+      "en": "On the Origin of Species"
+    }
+  },
+  {
+    "id": "battle-of-solferino",
+    "type": "battle",
+    "year": 1859,
+    "year_end": null,
+    "lat": 45.37,
+    "lon": 10.57,
+    "name": {
+      "ja": "ソルフェリーノの戦い",
+      "en": "Battle of Solferino"
+    },
+    "desc": {
+      "ja": "プロンビエールの密約にもとづくサルデーニャ＝フランス連合軍がオーストリア軍を破った激戦。サルデーニャはロンバルディアを獲得し、惨状はデュナンに赤十字の創設を促した。",
+      "en": "Franco-Sardinian forces, allied under the Plombières agreement, defeated Austria in a bloody battle. Sardinia gained Lombardy, and the carnage inspired Dunant to found the Red Cross."
+    },
+    "importance": 1,
+    "persons": [
+      "cavour",
+      "napoleon-iii"
+    ],
+    "wiki": {
+      "ja": "ソルフェリーノの戦い",
+      "en": "Battle of Solferino"
+    }
+  },
+  {
+    "id": "expedition-of-the-thousand",
+    "type": "battle",
+    "year": 1860,
+    "year_end": null,
+    "lat": 38.12,
+    "lon": 13.36,
+    "name": {
+      "ja": "ガリバルディのシチリア遠征",
+      "en": "Expedition of the Thousand"
+    },
+    "desc": {
+      "ja": "ガリバルディが赤シャツの義勇兵「千人隊」を率いてシチリアとナポリを征服し、両シチリア王国を倒した。占領地をサルデーニャ王に献上し、統一を前進させた。",
+      "en": "Garibaldi led his red-shirted volunteers, the Thousand, to conquer Sicily and Naples, toppling the Kingdom of the Two Sicilies. He handed his conquests to the King of Sardinia, advancing unification."
+    },
+    "importance": 3,
+    "persons": [
+      "garibaldi",
+      "cavour"
+    ],
+    "wiki": {
+      "ja": "千人隊",
+      "en": "Expedition of the Thousand"
+    }
+  },
+  {
+    "id": "convention-of-beijing",
+    "type": "treaty",
+    "year": 1860,
+    "year_end": null,
+    "lat": 39.9,
+    "lon": 116.4,
+    "name": {
+      "ja": "北京条約",
+      "en": "Convention of Peking"
+    },
+    "desc": {
+      "ja": "英仏軍の北京占領後にロシアの仲介で結ばれたアロー戦争の最終講和。天津の開港と九竜半島南部の割譲を認め、ロシアは仲介の代償として沿海州を獲得した。",
+      "en": "The final settlement of the Arrow War, mediated by Russia after Anglo-French troops occupied Beijing. China opened Tianjin and ceded Kowloon; Russia took the Maritime Province as its reward."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "北京条約",
+      "en": "Convention of Peking"
+    }
+  },
+  {
+    "id": "kingdom-of-italy",
+    "type": "founding",
+    "year": 1861,
+    "year_end": null,
+    "lat": 45.07,
+    "lon": 7.69,
+    "name": {
+      "ja": "イタリア王国の成立",
+      "en": "Kingdom of Italy proclaimed"
+    },
+    "desc": {
+      "ja": "サルデーニャ王ヴィットーリオ＝エマヌエーレ2世を国王としてイタリア王国が成立し、統一がほぼ達成された。ヴェネツィアとローマは「未回収のイタリア」として残った。",
+      "en": "The Kingdom of Italy was proclaimed with Victor Emmanuel II of Sardinia as king, largely completing unification. Venetia and Rome still remained outside the new state."
+    },
+    "importance": 3,
+    "persons": [
+      "cavour",
+      "garibaldi"
+    ],
+    "wiki": {
+      "ja": "イタリア王国",
+      "en": "Kingdom of Italy"
+    }
+  },
+  {
+    "id": "emancipation-of-serfs",
+    "type": "politics",
+    "year": 1861,
+    "year_end": null,
+    "lat": 59.94,
+    "lon": 30.31,
+    "name": {
+      "ja": "農奴解放令",
+      "en": "Emancipation of the serfs"
+    },
+    "desc": {
+      "ja": "クリミア戦争の敗北で近代化の必要を痛感したアレクサンドル2世が発布。農奴に人格的自由を認めたが、土地は有償で買い戻すため、農民はミール（農村共同体）に縛られた。",
+      "en": "Issued by Alexander II after the Crimean defeat exposed Russia's backwardness. Serfs gained personal freedom, but had to redeem their land at a price and remained bound to the village commune (mir)."
+    },
+    "importance": 3,
+    "persons": [
+      "alexander-ii"
+    ],
+    "wiki": {
+      "ja": "農奴解放令",
+      "en": "Emancipation reform of 1861"
+    }
+  },
+  {
+    "id": "american-civil-war",
+    "type": "battle",
+    "year": 1861,
+    "year_end": 1865,
+    "lat": 32.75,
+    "lon": -79.87,
+    "name": {
+      "ja": "南北戦争",
+      "en": "American Civil War"
+    },
+    "desc": {
+      "ja": "奴隷制拡大に反対するリンカンの当選に反発した南部諸州がアメリカ連合国を結成し、サムター要塞攻撃で開戦。工業力に勝る北部が1865年に勝利し、統一と奴隷制廃止を確定させた。",
+      "en": "Southern states, rejecting the election of Lincoln, formed the Confederacy and opened war at Fort Sumter. The industrial North prevailed in 1865, preserving the Union and ending slavery."
+    },
+    "importance": 3,
+    "persons": [
+      "lincoln"
+    ],
+    "wiki": {
+      "ja": "南北戦争",
+      "en": "American Civil War"
+    }
+  },
+  {
+    "id": "self-strengthening-movement",
+    "type": "politics",
+    "year": 1861,
+    "year_end": 1894,
+    "lat": 39.9,
+    "lon": 116.4,
+    "name": {
+      "ja": "洋務運動",
+      "en": "Self-Strengthening Movement"
+    },
+    "desc": {
+      "ja": "曽国藩・李鴻章ら漢人官僚が「中体西用」を掲げ、軍需工業や海軍の建設など西洋技術の導入を進めた改革。政治体制の変革には及ばず、日清戦争の敗北で限界が露呈した。",
+      "en": "Reforms led by Han officials such as Zeng Guofan and Li Hongzhang to adopt Western arms, arsenals and a navy while keeping Chinese institutions. Its limits were exposed by defeat in the Sino-Japanese War."
+    },
+    "importance": 2,
+    "persons": [
+      "li-hongzhang",
+      "zeng-guofan",
+      "cixi"
+    ],
+    "wiki": {
+      "ja": "洋務運動",
+      "en": "Self-Strengthening Movement"
+    }
+  },
+  {
+    "id": "bismarck-prime-minister",
+    "type": "politics",
+    "year": 1862,
+    "year_end": null,
+    "lat": 52.52,
+    "lon": 13.4,
+    "name": {
+      "ja": "ビスマルクの首相就任",
+      "en": "Bismarck becomes Prussian Minister-President"
+    },
+    "desc": {
+      "ja": "軍制改革をめぐる議会との対立を打開するため、ヴィルヘルム1世がビスマルクを首相に任命した。彼は「鉄血演説」で武力による統一方針を示し、議会を無視して軍備を拡張した。",
+      "en": "William I appointed Bismarck to break the deadlock with parliament over army reform. In his 'blood and iron' speech he declared that unification would come by force, and expanded the army without parliamentary consent."
+    },
+    "importance": 3,
+    "persons": [
+      "bismarck",
+      "wilhelm-i"
+    ],
+    "wiki": {
+      "ja": "オットー・フォン・ビスマルク",
+      "en": "Otto von Bismarck"
+    }
+  },
+  {
+    "id": "homestead-act",
+    "type": "politics",
+    "year": 1862,
+    "year_end": null,
+    "lat": 38.9,
+    "lon": -77.04,
+    "name": {
+      "ja": "ホームステッド法",
+      "en": "Homestead Act"
+    },
+    "desc": {
+      "ja": "西部の公有地に5年間定住して開墾した者に160エーカーの土地を無償で与える法律。西部開拓を促すとともに、西部農民の北部支持を固めた。",
+      "en": "Granted 160 acres of public land in the West to anyone who settled and farmed it for five years. It spurred westward settlement and secured western farmers' support for the Union."
+    },
+    "importance": 2,
+    "persons": [
+      "lincoln"
+    ],
+    "wiki": {
+      "ja": "ホームステッド法",
+      "en": "Homestead Acts"
+    }
+  },
+  {
+    "id": "emancipation-proclamation",
+    "type": "politics",
+    "year": 1863,
+    "year_end": null,
+    "lat": 38.9,
+    "lon": -77.04,
+    "name": {
+      "ja": "奴隷解放宣言",
+      "en": "Emancipation Proclamation"
+    },
+    "desc": {
+      "ja": "リンカンが反乱状態にある南部諸州の奴隷の解放を宣言した。戦争の目的を奴隷制廃止にまで広げ、国内外の世論を北部支持へと導いた。",
+      "en": "Lincoln declared the slaves in the rebellious Southern states free. It broadened the war's aims to include the abolition of slavery and won domestic and foreign opinion for the Union."
+    },
+    "importance": 3,
+    "persons": [
+      "lincoln"
+    ],
+    "wiki": {
+      "ja": "奴隷解放宣言",
+      "en": "Emancipation Proclamation"
+    }
+  },
+  {
+    "id": "battle-of-gettysburg",
+    "type": "battle",
+    "year": 1863,
+    "year_end": null,
+    "lat": 39.81,
+    "lon": -77.23,
+    "name": {
+      "ja": "ゲティスバーグの戦い",
+      "en": "Battle of Gettysburg"
+    },
+    "desc": {
+      "ja": "北軍がリー将軍率いる南軍の北進を撃退した南北戦争の転換点。リンカンは戦没者墓地の献納式で「人民の、人民による、人民のための政治」を説く演説を行った。",
+      "en": "The Union army repulsed Lee's invasion of the North, the turning point of the war. At the cemetery dedication Lincoln delivered his address on 'government of the people, by the people, for the people'."
+    },
+    "importance": 2,
+    "persons": [
+      "lincoln"
+    ],
+    "wiki": {
+      "ja": "ゲティスバーグの戦い",
+      "en": "Battle of Gettysburg"
+    }
+  },
+  {
+    "id": "danish-war-1864",
+    "type": "battle",
+    "year": 1864,
+    "year_end": null,
+    "lat": 54.91,
+    "lon": 9.76,
+    "name": {
+      "ja": "デンマーク戦争",
+      "en": "Second Schleswig War"
+    },
+    "desc": {
+      "ja": "シュレスヴィヒ・ホルシュタイン両公国の帰属をめぐり、プロイセンとオーストリアが共同でデンマークと戦って勝利した。両国による共同管理が次の戦争の火種となった。",
+      "en": "Prussia and Austria jointly defeated Denmark over the duchies of Schleswig and Holstein. Their joint administration of the duchies became the pretext for the next war between them."
+    },
+    "importance": 2,
+    "persons": [
+      "bismarck"
+    ],
+    "wiki": {
+      "en": "Second Schleswig War"
+    }
+  },
+  {
+    "id": "red-cross-founded",
+    "type": "treaty",
+    "year": 1864,
+    "year_end": null,
+    "lat": 46.2,
+    "lon": 6.14,
+    "name": {
+      "ja": "国際赤十字社の設立",
+      "en": "Founding of the Red Cross"
+    },
+    "desc": {
+      "ja": "ソルフェリーノの惨状を見たスイス人デュナンの提唱で赤十字国際委員会が発足し、戦時の負傷者と医療要員の保護を定めるジュネーヴ条約が結ばれた。",
+      "en": "At the initiative of the Swiss Henry Dunant, who had witnessed Solferino, the International Committee of the Red Cross was formed and the Geneva Convention protecting the war-wounded was signed."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "赤十字国際委員会",
+      "en": "International Committee of the Red Cross"
+    }
+  },
+  {
+    "id": "lincoln-assassinated",
+    "type": "politics",
+    "year": 1865,
+    "year_end": null,
+    "lat": 38.9,
+    "lon": -77.04,
+    "name": {
+      "ja": "リンカンの暗殺",
+      "en": "Assassination of Abraham Lincoln"
+    },
+    "desc": {
+      "ja": "南北戦争終結の直後、リンカンはワシントンのフォード劇場で南部支持者ブースに射殺された。同年の憲法修正第13条で奴隷制は廃止されたが、南部の再建は難航した。",
+      "en": "Days after the war ended, Lincoln was shot at Ford's Theatre by the Southern sympathiser Booth. The 13th Amendment abolished slavery that year, but Reconstruction of the South proved troubled."
+    },
+    "importance": 1,
+    "persons": [
+      "lincoln"
+    ],
+    "wiki": {
+      "ja": "エイブラハム・リンカーン暗殺事件",
+      "en": "Assassination of Abraham Lincoln"
+    }
+  },
+  {
+    "id": "austro-prussian-war",
+    "type": "battle",
+    "year": 1866,
+    "year_end": null,
+    "lat": 50.21,
+    "lon": 15.83,
+    "name": {
+      "ja": "プロイセン＝オーストリア戦争",
+      "en": "Austro-Prussian War"
+    },
+    "desc": {
+      "ja": "両公国の処理をめぐって開戦。モルトケ率いるプロイセン軍がケーニヒグレッツ（サドヴァ）の戦いで圧勝し、ドイツ連邦は解体、オーストリアはドイツから排除された。",
+      "en": "War broke out over the Schleswig-Holstein question. Moltke's Prussian army won overwhelmingly at Königgrätz (Sadowa); the German Confederation was dissolved and Austria excluded from Germany."
+    },
+    "importance": 3,
+    "persons": [
+      "bismarck",
+      "wilhelm-i"
+    ],
+    "wiki": {
+      "ja": "普墺戦争",
+      "en": "Austro-Prussian War"
+    }
+  },
+  {
+    "id": "das-kapital",
+    "type": "culture",
+    "year": 1867,
+    "year_end": null,
+    "lat": 51.5,
+    "lon": -0.12,
+    "name": {
+      "ja": "資本論",
+      "en": "Das Kapital"
+    },
+    "desc": {
+      "ja": "マルクスが資本主義社会の経済法則を分析した主著の第1巻を刊行した。剰余価値説により資本主義の矛盾を説き、社会主義思想の理論的な基礎となった。",
+      "en": "Marx published the first volume of his analysis of the laws of capitalist economy. Its theory of surplus value exposed the contradictions of capitalism and became the theoretical foundation of socialism."
+    },
+    "importance": 2,
+    "persons": [
+      "marx",
+      "engels"
+    ],
+    "wiki": {
+      "ja": "資本論",
+      "en": "Das Kapital"
+    }
+  },
+  {
+    "id": "ausgleich-1867",
+    "type": "politics",
+    "year": 1867,
+    "year_end": null,
+    "lat": 48.21,
+    "lon": 16.37,
+    "name": {
+      "ja": "オーストリア＝ハンガリー帝国の成立",
+      "en": "Austro-Hungarian Compromise"
+    },
+    "desc": {
+      "ja": "普墺戦争に敗れたオーストリアはハンガリーに自治を認め、同君連合の二重帝国を形成した（アウスグライヒ）。チェコ人など他のスラヴ系諸民族の不満は残った。",
+      "en": "After defeat by Prussia, Austria granted Hungary autonomy, creating the Dual Monarchy under a common ruler (Ausgleich). The Czechs and other Slavic peoples remained discontented."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "アウスグライヒ",
+      "en": "Austro-Hungarian Compromise of 1867"
+    }
+  },
+  {
+    "id": "second-reform-act",
+    "type": "politics",
+    "year": 1867,
+    "year_end": null,
+    "lat": 51.5,
+    "lon": -0.12,
+    "name": {
+      "ja": "第2回選挙法改正",
+      "en": "Reform Act 1867"
+    },
+    "desc": {
+      "ja": "保守党のダービー内閣でディズレーリが実現し、都市の労働者に選挙権を広げた。1884年の第3回改正では農業・鉱山労働者にも拡大され、二大政党政治が展開した。",
+      "en": "Carried by Disraeli under Derby's Conservative ministry, it enfranchised urban workers. The Third Reform Act of 1884 extended the vote to rural and mining workers, as two-party politics took shape."
+    },
+    "importance": 1,
+    "persons": [
+      "disraeli",
+      "gladstone"
+    ],
+    "wiki": {
+      "ja": "1867年改革法",
+      "en": "Reform Act 1867"
+    }
+  },
+  {
+    "id": "meiji-restoration",
+    "type": "revolution",
+    "year": 1868,
+    "year_end": null,
+    "lat": 35.01,
+    "lon": 135.77,
+    "name": {
+      "ja": "明治維新",
+      "en": "Meiji Restoration"
+    },
+    "desc": {
+      "ja": "薩摩・長州を中心とする倒幕派が江戸幕府を倒し、天皇を中心とする新政府を樹立した。廃藩置県や徴兵制などの改革により、中央集権的な近代国家の建設を進めた。",
+      "en": "Forces led by Satsuma and Chōshū overthrew the Tokugawa shogunate and established a new government under the emperor. Abolition of the domains, conscription and other reforms built a centralised modern state."
+    },
+    "importance": 3,
+    "persons": [
+      "emperor-meiji"
+    ],
+    "wiki": {
+      "ja": "明治維新",
+      "en": "Meiji Restoration"
+    }
+  },
+  {
+    "id": "chakri-reforms",
+    "type": "politics",
+    "year": 1868,
+    "year_end": 1910,
+    "lat": 13.75,
+    "lon": 100.5,
+    "name": {
+      "ja": "チャクリ改革",
+      "en": "Chulalongkorn's reforms"
+    },
+    "desc": {
+      "ja": "ラーマ5世（チュラロンコン）が行政・軍制・教育の近代化と奴隷制の廃止を進めた改革。英仏勢力の緩衝地帯となったこともあり、タイは東南アジアで唯一独立を保った。",
+      "en": "King Chulalongkorn (Rama V) modernised administration, the army and education and abolished slavery. Helped by its position as a buffer between Britain and France, Siam alone in Southeast Asia kept its independence."
+    },
+    "importance": 1,
+    "persons": [
+      "chulalongkorn"
+    ],
+    "wiki": {
+      "ja": "ラーマ5世",
+      "en": "Chulalongkorn"
+    }
+  },
+  {
+    "id": "suez-canal-opened",
+    "type": "culture",
+    "year": 1869,
+    "year_end": null,
+    "lat": 30.59,
+    "lon": 32.27,
+    "name": {
+      "ja": "スエズ運河の開通",
+      "en": "Opening of the Suez Canal"
+    },
+    "desc": {
+      "ja": "フランス人レセップスがエジプト政府の協力を得て建設した。ヨーロッパとアジアの航路を大幅に短縮したが、建設費はエジプト財政を破綻させ、英仏の支配を招いた。",
+      "en": "Built by the Frenchman Lesseps with Egyptian government backing, the canal drastically shortened the route between Europe and Asia, but its cost bankrupted Egypt and opened the way to Anglo-French control."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "スエズ運河",
+      "en": "Suez Canal"
+    }
+  },
+  {
+    "id": "transcontinental-railroad",
+    "type": "culture",
+    "year": 1869,
+    "year_end": null,
+    "lat": 41.62,
+    "lon": -112.55,
+    "name": {
+      "ja": "大陸横断鉄道の開通",
+      "en": "First transcontinental railroad"
+    },
+    "desc": {
+      "ja": "ユタ州プロモントリーで東西からの線路が接続し、最初の大陸横断鉄道が完成した。中国人やアイルランド人の移民が建設を担い、西部開拓と国内市場の統合が進んだ。",
+      "en": "The eastern and western lines met at Promontory, Utah, completing the first transcontinental railroad. Built largely by Chinese and Irish immigrants, it accelerated western settlement and unified the national market."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "大陸横断鉄道",
+      "en": "First transcontinental railroad"
+    }
+  },
+  {
+    "id": "franco-prussian-war",
+    "type": "battle",
+    "year": 1870,
+    "year_end": 1871,
+    "lat": 49.7,
+    "lon": 4.94,
+    "name": {
+      "ja": "プロイセン＝フランス戦争",
+      "en": "Franco-Prussian War"
+    },
+    "desc": {
+      "ja": "スペイン王位継承問題（エムス電報事件）を機に開戦。プロイセン軍はセダンの戦いでナポレオン3世を捕虜とし、パリを包囲してフランスを降伏させた。",
+      "en": "Provoked by the Spanish succession crisis and the Ems telegram, the war saw Prussia capture Napoleon III at Sedan, besiege Paris and force France to surrender."
+    },
+    "importance": 3,
+    "persons": [
+      "bismarck",
+      "napoleon-iii",
+      "wilhelm-i"
+    ],
+    "wiki": {
+      "ja": "普仏戦争",
+      "en": "Franco-Prussian War"
+    }
+  },
+  {
+    "id": "third-french-republic",
+    "type": "founding",
+    "year": 1870,
+    "year_end": null,
+    "lat": 48.86,
+    "lon": 2.35,
+    "name": {
+      "ja": "第三共和政の成立",
+      "en": "French Third Republic"
+    },
+    "desc": {
+      "ja": "セダンでの皇帝捕虜の報を受けてパリで共和派が蜂起し、第二帝政は崩壊して臨時国防政府が成立した。1875年の憲法により共和政が確立した。",
+      "en": "News of the emperor's capture at Sedan brought a republican rising in Paris; the Second Empire fell and a Government of National Defence took over. The constitution of 1875 consolidated the republic."
+    },
+    "importance": 2,
+    "persons": [
+      "napoleon-iii"
+    ],
+    "wiki": {
+      "ja": "フランス第三共和政",
+      "en": "French Third Republic"
+    }
+  },
+  {
+    "id": "capture-of-rome",
+    "type": "politics",
+    "year": 1870,
+    "year_end": null,
+    "lat": 41.9,
+    "lon": 12.5,
+    "name": {
+      "ja": "ローマ教皇領の併合",
+      "en": "Capture of Rome"
+    },
+    "desc": {
+      "ja": "1866年の普墺戦争でヴェネツィアを得たイタリア王国は、普仏戦争でフランス軍が撤退するとローマを占領して教皇領を併合し、首都とした。教皇は「ヴァチカンの囚人」として対立した。",
+      "en": "Having gained Venetia in 1866, Italy occupied Rome when French troops withdrew during the Franco-Prussian War, annexed the Papal States and made Rome its capital. The pope declared himself a 'prisoner in the Vatican'."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "en": "Capture of Rome"
+    }
+  },
+  {
+    "id": "german-empire-founded",
+    "type": "founding",
+    "year": 1871,
+    "year_end": null,
+    "lat": 48.8,
+    "lon": 2.12,
+    "name": {
+      "ja": "ドイツ帝国の成立",
+      "en": "Proclamation of the German Empire"
+    },
+    "desc": {
+      "ja": "普仏戦争の勝利のさなか、ヴェルサイユ宮殿の鏡の間でプロイセン王ヴィルヘルム1世がドイツ皇帝に即位した。ビスマルクを宰相とする連邦制の帝国が誕生した。",
+      "en": "Amid victory over France, King William I of Prussia was proclaimed German Emperor in the Hall of Mirrors at Versailles, founding a federal empire with Bismarck as chancellor."
+    },
+    "importance": 3,
+    "persons": [
+      "wilhelm-i",
+      "bismarck"
+    ],
+    "wiki": {
+      "ja": "ドイツ帝国",
+      "en": "German Empire"
+    }
+  },
+  {
+    "id": "paris-commune",
+    "type": "revolution",
+    "year": 1871,
+    "year_end": null,
+    "lat": 48.86,
+    "lon": 2.35,
+    "name": {
+      "ja": "パリ＝コミューン",
+      "en": "Paris Commune"
+    },
+    "desc": {
+      "ja": "対独講和に反対するパリの民衆と労働者が樹立した史上初の革命的自治政府。ティエールの臨時政府軍により、「血の週間」の市街戦で鎮圧された。",
+      "en": "The first revolutionary self-government in history, set up by Parisian workers and citizens opposed to the peace with Germany. Thiers's government troops crushed it in the street fighting of 'Bloody Week'."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "パリ・コミューン",
+      "en": "Paris Commune"
+    }
+  },
+  {
+    "id": "kulturkampf",
+    "type": "politics",
+    "year": 1871,
+    "year_end": 1878,
+    "lat": 52.52,
+    "lon": 13.4,
+    "name": {
+      "ja": "文化闘争",
+      "en": "Kulturkampf"
+    },
+    "desc": {
+      "ja": "ビスマルクが、南ドイツやポーランドのカトリック教徒を基盤とする中央党を抑えるためにカトリック教会に加えた一連の弾圧。社会主義の台頭に直面して妥協に転じた。",
+      "en": "Bismarck's campaign against the Catholic Church, aimed at the Centre Party backed by Catholics in southern Germany and Poland. He abandoned it as socialism emerged as the greater threat."
+    },
+    "importance": 2,
+    "persons": [
+      "bismarck"
+    ],
+    "wiki": {
+      "ja": "文化闘争",
+      "en": "Kulturkampf"
+    }
+  },
+  {
+    "id": "aceh-war",
+    "type": "battle",
+    "year": 1873,
+    "year_end": 1912,
+    "lat": 5.55,
+    "lon": 95.32,
+    "name": {
+      "ja": "アチェ戦争",
+      "en": "Aceh War"
+    },
+    "desc": {
+      "ja": "スマトラ島北端のアチェ王国がオランダの侵攻に対して長期にわたり抵抗した戦争。オランダはこれを制圧してオランダ領東インドの支配をほぼ完成させた。",
+      "en": "The sultanate of Aceh at the northern tip of Sumatra resisted Dutch invasion for decades. Its eventual subjugation virtually completed Dutch control over the East Indies."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "アチェ戦争",
+      "en": "Aceh War"
+    }
+  },
+  {
+    "id": "suez-canal-shares",
+    "type": "politics",
+    "year": 1875,
+    "year_end": null,
+    "lat": 51.5,
+    "lon": -0.12,
+    "name": {
+      "ja": "スエズ運河会社株の買収",
+      "en": "Purchase of Suez Canal shares"
+    },
+    "desc": {
+      "ja": "ディズレーリ内閣が財政難のエジプト政府の保有するスエズ運河会社株を買収し、インド航路の支配権を確保した。イギリスのエジプト進出の足がかりとなった。",
+      "en": "Disraeli's government bought the bankrupt Egyptian government's shares in the Suez Canal Company, securing control of the route to India and a foothold for British intervention in Egypt."
+    },
+    "importance": 1,
+    "persons": [
+      "disraeli"
+    ],
+    "wiki": {
+      "en": "Suez Canal Company"
+    }
+  },
+  {
+    "id": "treaty-of-ganghwa",
+    "type": "treaty",
+    "year": 1876,
+    "year_end": null,
+    "lat": 37.75,
+    "lon": 126.49,
+    "name": {
+      "ja": "日朝修好条規",
+      "en": "Japan–Korea Treaty of 1876"
+    },
+    "desc": {
+      "ja": "前年の江華島事件を機に日本が朝鮮に押しつけた不平等条約。釜山など3港の開港と領事裁判権を認めさせ、朝鮮を開国させた。清の宗主権をめぐる日清の対立が始まった。",
+      "en": "An unequal treaty imposed on Korea by Japan after the Ganghwa Island incident of 1875. Korea opened Busan and two other ports and granted extraterritoriality, and Sino-Japanese rivalry over Korea began."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "日朝修好条規",
+      "en": "Japan–Korea Treaty of 1876"
+    }
+  },
+  {
+    "id": "midhat-constitution",
+    "type": "politics",
+    "year": 1876,
+    "year_end": null,
+    "lat": 41.01,
+    "lon": 28.98,
+    "name": {
+      "ja": "ミドハト憲法",
+      "en": "Ottoman Constitution of 1876"
+    },
+    "desc": {
+      "ja": "宰相ミドハト＝パシャが起草したオスマン帝国初の憲法。議会の開設を定めたが、アブデュルハミト2世はロシア＝トルコ戦争を口実に1878年に憲法を停止し、専制を復活させた。",
+      "en": "The Ottoman Empire's first constitution, drafted by Grand Vizier Midhat Pasha, provided for a parliament. Abdülhamid II suspended it in 1878, citing the war with Russia, and restored autocratic rule."
+    },
+    "importance": 2,
+    "persons": [
+      "midhat-pasha",
+      "abdulhamid-ii"
+    ],
+    "wiki": {
+      "en": "Ottoman constitution of 1876"
+    }
+  },
+  {
+    "id": "empress-of-india",
+    "type": "founding",
+    "year": 1877,
+    "year_end": null,
+    "lat": 28.61,
+    "lon": 77.21,
+    "name": {
+      "ja": "インド帝国の成立",
+      "en": "Victoria proclaimed Empress of India"
+    },
+    "desc": {
+      "ja": "ディズレーリの主導でヴィクトリア女王がインド皇帝に即位し、イギリス領インド帝国が成立した。藩王国を含むインド全体がイギリス支配のもとに置かれた。",
+      "en": "At Disraeli's initiative Queen Victoria was proclaimed Empress of India, formally creating the Indian Empire. All of India, including the princely states, now stood under British rule."
+    },
+    "importance": 2,
+    "persons": [
+      "victoria",
+      "disraeli"
+    ],
+    "wiki": {
+      "ja": "イギリス領インド帝国",
+      "en": "British Raj"
+    }
+  },
+  {
+    "id": "russo-turkish-war",
+    "type": "battle",
+    "year": 1877,
+    "year_end": 1878,
+    "lat": 40.96,
+    "lon": 28.82,
+    "name": {
+      "ja": "ロシア＝トルコ戦争",
+      "en": "Russo-Turkish War"
+    },
+    "desc": {
+      "ja": "バルカンのスラヴ系住民の反乱を機に、ロシアがパン＝スラヴ主義を掲げてオスマン帝国に開戦し勝利。サン＝ステファノ条約でブルガリアを保護下に置き、南下政策を達成しかけた。",
+      "en": "Invoking Pan-Slavism after Balkan Slav revolts, Russia defeated the Ottomans. The Treaty of San Stefano placed a large Bulgaria under Russian protection, nearly achieving Russia's drive south."
+    },
+    "importance": 2,
+    "persons": [
+      "alexander-ii",
+      "abdulhamid-ii"
+    ],
+    "wiki": {
+      "ja": "露土戦争 (1877年-1878年)",
+      "en": "Russo-Turkish War (1877–1878)"
+    }
+  },
+  {
+    "id": "congress-of-berlin",
+    "type": "treaty",
+    "year": 1878,
+    "year_end": null,
+    "lat": 52.52,
+    "lon": 13.4,
+    "name": {
+      "ja": "ベルリン会議",
+      "en": "Congress of Berlin"
+    },
+    "desc": {
+      "ja": "ビスマルクが「誠実な仲介人」として主宰。ルーマニア・セルビア・モンテネグロの独立を承認する一方、ブルガリアを縮小してロシアの南下を阻んだ。イギリスはキプロスを得た。",
+      "en": "Chaired by Bismarck as 'honest broker', it recognised the independence of Romania, Serbia and Montenegro but shrank Bulgaria, blocking Russia's advance. Britain gained Cyprus."
+    },
+    "importance": 3,
+    "persons": [
+      "bismarck",
+      "disraeli",
+      "abdulhamid-ii"
+    ],
+    "wiki": {
+      "ja": "ベルリン会議 (1878年)",
+      "en": "Congress of Berlin"
+    }
+  },
+  {
+    "id": "anti-socialist-law",
+    "type": "politics",
+    "year": 1878,
+    "year_end": null,
+    "lat": 52.52,
+    "lon": 13.4,
+    "name": {
+      "ja": "社会主義者鎮圧法",
+      "en": "Anti-Socialist Laws"
+    },
+    "desc": {
+      "ja": "皇帝狙撃事件を口実にビスマルクが制定し、社会主義政党の活動を禁止した。一方で災害・疾病・養老保険などの社会保険制度を整え、「アメとムチ」の政策をとった。",
+      "en": "Enacted by Bismarck after attempts on the emperor's life, it banned socialist political activity. At the same time he introduced accident, sickness and old-age insurance in a policy of 'carrot and stick'."
+    },
+    "importance": 2,
+    "persons": [
+      "bismarck"
+    ],
+    "wiki": {
+      "ja": "社会主義者鎮圧法",
+      "en": "Anti-Socialist Laws"
+    }
+  },
+  {
+    "id": "edison-light-bulb",
+    "type": "culture",
+    "year": 1879,
+    "year_end": null,
+    "lat": 40.56,
+    "lon": -74.34,
+    "name": {
+      "ja": "エジソンの白熱電球",
+      "en": "Edison's incandescent lamp"
+    },
+    "desc": {
+      "ja": "エジソンが実用的な炭素フィラメントの白熱電球を完成させ、発電所の建設により電灯事業を始めた。ベルの電話（1876年）とともに第2次産業革命の技術革新を象徴する。",
+      "en": "Edison perfected a practical carbon-filament lamp and launched electric lighting with central power stations. With Bell's telephone of 1876 it symbolised the Second Industrial Revolution."
+    },
+    "importance": 1,
+    "persons": [
+      "edison"
+    ],
+    "wiki": {
+      "ja": "トーマス・エジソン",
+      "en": "Thomas Edison"
+    }
+  },
+  {
+    "id": "anglo-zulu-war",
+    "type": "battle",
+    "year": 1879,
+    "year_end": null,
+    "lat": -28.36,
+    "lon": 30.65,
+    "name": {
+      "ja": "ズールー戦争",
+      "en": "Anglo-Zulu War"
+    },
+    "desc": {
+      "ja": "南アフリカのズールー王国にイギリスが侵攻した戦争。イサンドルワナで大敗を喫したが、ウルンディの戦いで王国を滅ぼし、ズールーランドを支配下に置いた。",
+      "en": "Britain invaded the Zulu kingdom in southern Africa. Despite a crushing defeat at Isandlwana, it destroyed the kingdom at Ulundi and brought Zululand under British control."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "ズールー戦争",
+      "en": "Anglo-Zulu War"
+    }
+  },
+  {
+    "id": "alexander-ii-assassinated",
+    "type": "politics",
+    "year": 1881,
+    "year_end": null,
+    "lat": 59.94,
+    "lon": 30.31,
+    "name": {
+      "ja": "アレクサンドル2世の暗殺",
+      "en": "Assassination of Alexander II"
+    },
+    "desc": {
+      "ja": "ナロードニキの流れをくむ「人民の意志」派の爆弾テロで皇帝が殺害された。次のアレクサンドル3世は反動政治を強め、専制の維持とロシア化政策を徹底した。",
+      "en": "The tsar was killed by a bomb thrown by the People's Will, heirs of the Narodnik movement. His successor Alexander III turned to reaction, enforcing autocracy and Russification."
+    },
+    "importance": 2,
+    "persons": [
+      "alexander-ii"
+    ],
+    "wiki": {
+      "ja": "アレクサンドル2世",
+      "en": "Alexander II of Russia"
+    }
+  },
+  {
+    "id": "urabi-revolt",
+    "type": "revolution",
+    "year": 1881,
+    "year_end": 1882,
+    "lat": 30.04,
+    "lon": 31.24,
+    "name": {
+      "ja": "ウラービー運動",
+      "en": "Urabi revolt"
+    },
+    "desc": {
+      "ja": "「エジプト人のためのエジプト」を掲げる軍人ウラービーが、英仏の財政支配に反対して蜂起した。イギリス軍に鎮圧され、エジプトは事実上イギリスの保護下に入った。",
+      "en": "The officer Urabi rose under the slogan 'Egypt for the Egyptians' against Anglo-French financial control. British troops crushed the movement and Egypt became in effect a British protectorate."
+    },
+    "importance": 2,
+    "persons": [
+      "urabi"
+    ],
+    "wiki": {
+      "ja": "ウラービー革命",
+      "en": "ʻUrabi revolt"
+    }
+  },
+  {
+    "id": "mahdist-uprising",
+    "type": "revolution",
+    "year": 1881,
+    "year_end": 1898,
+    "lat": 15.65,
+    "lon": 32.48,
+    "name": {
+      "ja": "マフディー運動",
+      "en": "Mahdist War"
+    },
+    "desc": {
+      "ja": "スーダンでムハンマド＝アフマドがマフディー（救世主）を称して蜂起し、ゴードン率いるハルツーム守備隊を全滅させた。1898年にイギリス軍によって鎮圧された。",
+      "en": "In the Sudan Muhammad Ahmad proclaimed himself the Mahdi and rose against Egyptian-British rule, annihilating Gordon's garrison at Khartoum. The Mahdist state was crushed by British forces in 1898."
+    },
+    "importance": 2,
+    "persons": [
+      "muhammad-ahmad"
+    ],
+    "wiki": {
+      "ja": "マフディー戦争",
+      "en": "Mahdist War"
+    }
+  },
+  {
+    "id": "triple-alliance-1882",
+    "type": "treaty",
+    "year": 1882,
+    "year_end": null,
+    "lat": 48.21,
+    "lon": 16.37,
+    "name": {
+      "ja": "三国同盟",
+      "en": "Triple Alliance"
+    },
+    "desc": {
+      "ja": "チュニジアをめぐってフランスと対立したイタリアが、1879年の独墺同盟に加わって成立した。フランスの孤立をめざすビスマルク外交の柱となった。",
+      "en": "Italy, at odds with France over Tunisia, joined the Austro-German Dual Alliance of 1879. The alliance became a pillar of Bismarck's diplomacy of isolating France."
+    },
+    "importance": 3,
+    "persons": [
+      "bismarck"
+    ],
+    "wiki": {
+      "ja": "三国同盟 (1882年)",
+      "en": "Triple Alliance (1882)"
+    }
+  },
+  {
+    "id": "gapsin-coup",
+    "type": "revolution",
+    "year": 1884,
+    "year_end": null,
+    "lat": 37.57,
+    "lon": 126.98,
+    "name": {
+      "ja": "甲申政変",
+      "en": "Gapsin Coup"
+    },
+    "desc": {
+      "ja": "金玉均ら開化派が日本の支援を得て漢城でクーデタをおこしたが、清軍の介入により3日で失敗した。翌年の天津条約で日清両国は朝鮮からの撤兵を約束した。",
+      "en": "Pro-reform officials led by Kim Ok-gyun seized power in Seoul with Japanese backing, but Chinese troops crushed the coup within three days. By the Tianjin Convention of 1885 Japan and China agreed to withdraw from Korea."
+    },
+    "importance": 1,
+    "persons": [
+      "li-hongzhang",
+      "ito-hirobumi"
+    ],
+    "wiki": {
+      "ja": "甲申政変",
+      "en": "Gapsin Coup"
+    }
+  },
+  {
+    "id": "sino-french-war",
+    "type": "battle",
+    "year": 1884,
+    "year_end": 1885,
+    "lat": 26.07,
+    "lon": 119.3,
+    "name": {
+      "ja": "清仏戦争",
+      "en": "Sino-French War"
+    },
+    "desc": {
+      "ja": "ベトナムの宗主権をめぐって清とフランスが戦い、フランス艦隊が福州の清軍艦隊を撃破した。天津条約で清はベトナムに対するフランスの保護権を認めた。",
+      "en": "China and France fought over suzerainty in Vietnam; the French fleet destroyed the Chinese squadron at Fuzhou. By the Treaty of Tianjin the Qing recognised the French protectorate over Vietnam."
+    },
+    "importance": 1,
+    "persons": [
+      "li-hongzhang"
+    ],
+    "wiki": {
+      "ja": "清仏戦争",
+      "en": "Sino-French War"
+    }
+  },
+  {
+    "id": "berlin-conference",
+    "type": "treaty",
+    "year": 1884,
+    "year_end": 1885,
+    "lat": 52.52,
+    "lon": 13.4,
+    "name": {
+      "ja": "ベルリン会議（アフリカ分割）",
+      "en": "Berlin Conference"
+    },
+    "desc": {
+      "ja": "ビスマルクが主宰し、コンゴ地域をめぐる列強の対立を調整した。ベルギー王のコンゴ自由国を承認し、先占権の原則を定めてアフリカ分割を加速させた。",
+      "en": "Chaired by Bismarck to settle rival claims to the Congo. It recognised the Belgian king's Congo Free State and laid down the principle of effective occupation, accelerating the Scramble for Africa."
+    },
+    "importance": 3,
+    "persons": [
+      "bismarck",
+      "leopold-ii"
+    ],
+    "wiki": {
+      "ja": "ベルリン会議 (アフリカ分割)",
+      "en": "Berlin Conference"
+    }
+  },
+  {
+    "id": "congo-free-state",
+    "type": "founding",
+    "year": 1885,
+    "year_end": null,
+    "lat": -4.32,
+    "lon": 15.31,
+    "name": {
+      "ja": "コンゴ自由国の成立",
+      "en": "Congo Free State"
+    },
+    "desc": {
+      "ja": "ベルギー王レオポルド2世の私有地として成立した。ゴムや象牙の採取のため住民に過酷な強制労働を課し、国際的な非難を浴びて1908年にベルギー領コンゴとなった。",
+      "en": "Established as the personal possession of King Leopold II of Belgium. Brutal forced labour for rubber and ivory drew international condemnation, and in 1908 it became the Belgian Congo."
+    },
+    "importance": 2,
+    "persons": [
+      "leopold-ii"
+    ],
+    "wiki": {
+      "ja": "コンゴ自由国",
+      "en": "Congo Free State"
+    }
+  },
+  {
+    "id": "indian-national-congress",
+    "type": "politics",
+    "year": 1885,
+    "year_end": null,
+    "lat": 18.94,
+    "lon": 72.84,
+    "name": {
+      "ja": "インド国民会議の成立",
+      "en": "Indian National Congress founded"
+    },
+    "desc": {
+      "ja": "イギリスの主導で、知識人や地主層の意見を聞く場としてボンベイで発足した。当初は穏健な親英的団体だったが、しだいに民族運動の中心となっていった。",
+      "en": "Founded at Bombay with British encouragement as a forum for educated Indians and landowners. Moderate and loyal at first, it gradually became the centre of the nationalist movement."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "インド国民会議",
+      "en": "Indian National Congress"
+    }
+  },
+  {
+    "id": "reinsurance-treaty",
+    "type": "treaty",
+    "year": 1887,
+    "year_end": null,
+    "lat": 52.52,
+    "lon": 13.4,
+    "name": {
+      "ja": "再保障条約",
+      "en": "Reinsurance Treaty"
+    },
+    "desc": {
+      "ja": "三帝同盟の崩壊後、ビスマルクがロシアと結んだ秘密条約。相互の中立を約束してフランスとロシアの接近を防いだが、1890年に更新されず、露仏同盟を招いた。",
+      "en": "A secret treaty Bismarck concluded with Russia after the League of the Three Emperors collapsed, pledging mutual neutrality to keep Russia from France. Not renewed in 1890, its lapse led to the Franco-Russian alliance."
+    },
+    "importance": 2,
+    "persons": [
+      "bismarck"
+    ],
+    "wiki": {
+      "ja": "独露再保障条約",
+      "en": "Reinsurance Treaty"
+    }
+  },
+  {
+    "id": "french-indochina",
+    "type": "founding",
+    "year": 1887,
+    "year_end": null,
+    "lat": 21.03,
+    "lon": 105.85,
+    "name": {
+      "ja": "フランス領インドシナ連邦の成立",
+      "en": "French Indochina established"
+    },
+    "desc": {
+      "ja": "清仏戦争で保護国化したベトナムとカンボジアをあわせてフランスが成立させた植民地。1899年にラオスも編入し、総督府をハノイに置いて支配した。",
+      "en": "France combined its protectorates of Vietnam and Cambodia into a single colonial union, adding Laos in 1899. It was ruled by a governor-general at Hanoi."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "フランス領インドシナ",
+      "en": "French Indochina"
+    }
+  },
+  {
+    "id": "second-international",
+    "type": "politics",
+    "year": 1889,
+    "year_end": null,
+    "lat": 48.86,
+    "lon": 2.35,
+    "name": {
+      "ja": "第2インターナショナル",
+      "en": "Second International"
+    },
+    "desc": {
+      "ja": "フランス革命100周年のパリで各国の社会主義政党が結成した国際組織。ドイツ社会民主党を中心に反戦を唱えたが、第一次世界大戦の勃発で崩壊した。",
+      "en": "An international organisation of socialist parties founded in Paris on the centenary of the French Revolution. Led by the German Social Democrats, it opposed war but collapsed when the First World War broke out."
+    },
+    "importance": 2,
+    "persons": [
+      "engels"
+    ],
+    "wiki": {
+      "ja": "第二インターナショナル",
+      "en": "Second International"
+    }
+  },
+  {
+    "id": "meiji-constitution",
+    "type": "politics",
+    "year": 1889,
+    "year_end": null,
+    "lat": 35.68,
+    "lon": 139.69,
+    "name": {
+      "ja": "大日本帝国憲法の発布",
+      "en": "Meiji Constitution"
+    },
+    "desc": {
+      "ja": "伊藤博文らがプロイセン憲法を参考に起草し、天皇が制定する欽定憲法として発布された。アジア最初の近代的憲法で、翌年には帝国議会が開かれた。",
+      "en": "Drafted by Itō Hirobumi and others on the Prussian model and promulgated as a gift from the emperor. It was Asia's first modern constitution, and the Imperial Diet met the following year."
+    },
+    "importance": 2,
+    "persons": [
+      "ito-hirobumi",
+      "emperor-meiji"
+    ],
+    "wiki": {
+      "ja": "大日本帝国憲法",
+      "en": "Meiji Constitution"
+    }
+  },
+  {
+    "id": "bismarck-dismissed",
+    "type": "politics",
+    "year": 1890,
+    "year_end": null,
+    "lat": 52.52,
+    "lon": 13.4,
+    "name": {
+      "ja": "ビスマルクの辞職",
+      "en": "Dismissal of Bismarck"
+    },
+    "desc": {
+      "ja": "1888年に即位した若い皇帝ヴィルヘルム2世と社会政策や外交方針をめぐって対立し、ビスマルクは辞任した。皇帝は「世界政策」に転じ、再保障条約も更新されなかった。",
+      "en": "Bismarck resigned after clashing with the young Wilhelm II, emperor since 1888, over social and foreign policy. The emperor turned to an assertive 'world policy' and let the Reinsurance Treaty lapse."
+    },
+    "importance": 3,
+    "persons": [
+      "bismarck",
+      "wilhelm-ii"
+    ],
+    "wiki": {
+      "en": "Otto von Bismarck"
+    }
+  },
+  {
+    "id": "wounded-knee",
+    "type": "battle",
+    "year": 1890,
+    "year_end": null,
+    "lat": 43.14,
+    "lon": -102.36,
+    "name": {
+      "ja": "ウーンデッドニーの虐殺",
+      "en": "Wounded Knee Massacre"
+    },
+    "desc": {
+      "ja": "サウスダコタで合衆国軍がスー族の集団を殺害した事件。先住民の組織的な抵抗はこれで終わり、同年の国勢調査で「フロンティアの消滅」が宣言された。",
+      "en": "US troops killed a band of Lakota Sioux in South Dakota, ending organised Native American resistance. The same year the census bureau declared the frontier closed."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "en": "Wounded Knee Massacre"
+    }
+  },
+  {
+    "id": "franco-russian-alliance",
+    "type": "treaty",
+    "year": 1891,
+    "year_end": 1894,
+    "lat": 59.94,
+    "lon": 30.31,
+    "name": {
+      "ja": "露仏同盟",
+      "en": "Franco-Russian Alliance"
+    },
+    "desc": {
+      "ja": "再保障条約の失効後、孤立したフランスとロシアが接近して結んだ軍事同盟。フランス資本がロシアに流入し、ドイツは東西から挟まれる形となった。",
+      "en": "A military alliance between isolated France and Russia after the Reinsurance Treaty lapsed. French capital poured into Russia, and Germany found itself flanked on two fronts."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "露仏同盟",
+      "en": "Franco-Russian Alliance"
+    }
+  },
+  {
+    "id": "trans-siberian-railway",
+    "type": "culture",
+    "year": 1891,
+    "year_end": 1904,
+    "lat": 43.12,
+    "lon": 131.89,
+    "name": {
+      "ja": "シベリア鉄道の建設",
+      "en": "Trans-Siberian Railway"
+    },
+    "desc": {
+      "ja": "蔵相ウィッテの主導でフランス資本を導入して建設された。ロシアの極東進出を支え、東清鉄道を通じて満州に勢力を広げたが、日本との対立を招いた。",
+      "en": "Built under finance minister Witte with French capital, it underpinned Russia's expansion into the Far East and, via the Chinese Eastern Railway, into Manchuria, bringing conflict with Japan."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "シベリア鉄道",
+      "en": "Trans-Siberian Railway"
+    }
+  },
+  {
+    "id": "tobacco-protest",
+    "type": "revolution",
+    "year": 1891,
+    "year_end": 1892,
+    "lat": 35.69,
+    "lon": 51.39,
+    "name": {
+      "ja": "タバコ＝ボイコット運動",
+      "en": "Tobacco Protest"
+    },
+    "desc": {
+      "ja": "ガージャール朝がイギリス人にタバコの独占利権を与えたことに対し、アフガーニーの影響を受けたウラマーと商人が全国的な不買運動を展開し、利権を撤回させた。",
+      "en": "When the Qajar shah granted a British subject a tobacco monopoly, clerics and merchants influenced by al-Afghani organised a nationwide boycott and forced the concession's cancellation."
+    },
+    "importance": 1,
+    "persons": [
+      "al-afghani"
+    ],
+    "wiki": {
+      "ja": "タバコ・ボイコット運動",
+      "en": "Tobacco Protest"
+    }
+  },
+  {
+    "id": "dreyfus-affair",
+    "type": "politics",
+    "year": 1894,
+    "year_end": 1906,
+    "lat": 48.86,
+    "lon": 2.35,
+    "name": {
+      "ja": "ドレフュス事件",
+      "en": "Dreyfus affair"
+    },
+    "desc": {
+      "ja": "ユダヤ系将校ドレフュスがスパイ容疑で冤罪により有罪とされた事件。ゾラら知識人が再審を求め、世論を二分する争いの末に無罪が確定し、共和派が優位を固めた。",
+      "en": "The Jewish officer Dreyfus was wrongly convicted of espionage. Zola and other intellectuals demanded a retrial, and after a struggle that split France he was exonerated, strengthening the republicans."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "ドレフュス事件",
+      "en": "Dreyfus affair"
+    }
+  },
+  {
+    "id": "donghak-rebellion",
+    "type": "revolution",
+    "year": 1894,
+    "year_end": null,
+    "lat": 35.82,
+    "lon": 127.15,
+    "name": {
+      "ja": "甲午農民戦争",
+      "en": "Donghak Peasant Revolution"
+    },
+    "desc": {
+      "ja": "東学の信徒を中心に全琫準が率いた朝鮮の農民反乱。朝鮮政府の要請で清が出兵し、日本も対抗して出兵したことから日清戦争の引き金となった。",
+      "en": "A peasant rising in Korea led by Jeon Bong-jun and rooted in the Donghak religion. The Korean court called in Chinese troops, Japan sent its own, and the Sino-Japanese War followed."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "甲午農民戦争",
+      "en": "Donghak Peasant Revolution"
+    }
+  },
+  {
+    "id": "first-sino-japanese-war",
+    "type": "battle",
+    "year": 1894,
+    "year_end": 1895,
+    "lat": 39.2,
+    "lon": 123.5,
+    "name": {
+      "ja": "日清戦争",
+      "en": "First Sino-Japanese War"
+    },
+    "desc": {
+      "ja": "朝鮮の甲午農民戦争を機に日清両国が出兵して開戦した。日本は黄海海戦などで勝利して清の北洋艦隊を壊滅させ、清の弱体が明らかになって列強の中国分割を招いた。",
+      "en": "Japan and China went to war after both sent troops to Korea during the Donghak rising. Japan destroyed the Beiyang fleet in the Yellow Sea and on land; Qing weakness was exposed, inviting the scramble for concessions."
+    },
+    "importance": 3,
+    "persons": [
+      "li-hongzhang",
+      "emperor-meiji",
+      "ito-hirobumi"
+    ],
+    "wiki": {
+      "ja": "日清戦争",
+      "en": "First Sino-Japanese War"
+    }
+  },
+  {
+    "id": "treaty-of-shimonoseki",
+    "type": "treaty",
+    "year": 1895,
+    "year_end": null,
+    "lat": 33.95,
+    "lon": 130.94,
+    "name": {
+      "ja": "下関条約",
+      "en": "Treaty of Shimonoseki"
+    },
+    "desc": {
+      "ja": "日清戦争の講和条約。伊藤博文と李鴻章が調印し、清は朝鮮の独立を認め、遼東半島・台湾・澎湖諸島を割譲し、賠償金2億両を支払うことになった。",
+      "en": "The peace ending the Sino-Japanese War, signed by Itō Hirobumi and Li Hongzhang. China recognised Korean independence, ceded the Liaodong Peninsula, Taiwan and the Pescadores, and paid 200 million taels."
+    },
+    "importance": 3,
+    "persons": [
+      "ito-hirobumi",
+      "li-hongzhang"
+    ],
+    "wiki": {
+      "ja": "下関条約",
+      "en": "Treaty of Shimonoseki"
+    }
+  },
+  {
+    "id": "triple-intervention",
+    "type": "politics",
+    "year": 1895,
+    "year_end": null,
+    "lat": 35.68,
+    "lon": 139.69,
+    "name": {
+      "ja": "三国干渉",
+      "en": "Triple Intervention"
+    },
+    "desc": {
+      "ja": "ロシアがドイツ・フランスを誘って、日本に遼東半島の清への返還を勧告した。日本はやむなく応じ、ロシアへの反感を強めて軍備拡張に向かった。",
+      "en": "Russia, joined by Germany and France, pressed Japan to return the Liaodong Peninsula to China. Japan complied under protest, and resentment of Russia fuelled its rearmament."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "三国干渉",
+      "en": "Triple Intervention"
+    }
+  },
+  {
+    "id": "first-modern-olympics",
+    "type": "culture",
+    "year": 1896,
+    "year_end": null,
+    "lat": 37.98,
+    "lon": 23.73,
+    "name": {
+      "ja": "第1回近代オリンピック",
+      "en": "First modern Olympic Games"
+    },
+    "desc": {
+      "ja": "フランスのクーベルタンの提唱により、古代オリンピックの故地ギリシアのアテネで開催された。14か国が参加し、スポーツによる国際交流の場となった。",
+      "en": "Held in Athens at the initiative of the Frenchman Coubertin, reviving the ancient games. Fourteen nations took part, opening an era of international exchange through sport."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "1896年アテネオリンピック",
+      "en": "1896 Summer Olympics"
+    }
+  },
+  {
+    "id": "battle-of-adwa",
+    "type": "battle",
+    "year": 1896,
+    "year_end": null,
+    "lat": 14.17,
+    "lon": 38.9,
+    "name": {
+      "ja": "アドワの戦い",
+      "en": "Battle of Adwa"
+    },
+    "desc": {
+      "ja": "エチオピア皇帝メネリク2世がイタリアの侵略軍を大破し、独立を守った。アフリカの国家が列強の軍隊を撃退した例外的な勝利であった。",
+      "en": "Emperor Menelik II of Ethiopia routed the invading Italian army and preserved his country's independence, a rare victory of an African state over a European power."
+    },
+    "importance": 2,
+    "persons": [
+      "menelik-ii"
+    ],
+    "wiki": {
+      "ja": "アドワの戦い",
+      "en": "Battle of Adwa"
+    }
+  },
+  {
+    "id": "philippine-revolution",
+    "type": "revolution",
+    "year": 1896,
+    "year_end": 1898,
+    "lat": 14.6,
+    "lon": 120.98,
+    "name": {
+      "ja": "フィリピン革命",
+      "en": "Philippine Revolution"
+    },
+    "desc": {
+      "ja": "ホセ＝リサールの啓蒙運動を受け、秘密結社カティプナンがスペイン支配に対して武装蜂起した。アギナルドは1899年に共和国を宣言したが、アメリカとの戦争に敗れた。",
+      "en": "Following José Rizal's reform movement, the secret society Katipunan rose in arms against Spanish rule. Aguinaldo proclaimed a republic in 1899, but it was defeated by the United States."
+    },
+    "importance": 2,
+    "persons": [
+      "jose-rizal"
+    ],
+    "wiki": {
+      "ja": "フィリピン革命",
+      "en": "Philippine Revolution"
+    }
+  },
+  {
+    "id": "spanish-american-war",
+    "type": "battle",
+    "year": 1898,
+    "year_end": null,
+    "lat": 23.13,
+    "lon": -82.38,
+    "name": {
+      "ja": "アメリカ＝スペイン戦争",
+      "en": "Spanish–American War"
+    },
+    "desc": {
+      "ja": "キューバ独立運動に乗じてアメリカがスペインに開戦し圧勝した。パリ条約でフィリピン・グアム・プエルトリコを獲得し、キューバを保護国化して帝国主義政策に転じた。",
+      "en": "The United States intervened in Cuba's independence struggle and swiftly defeated Spain. By the Treaty of Paris it took the Philippines, Guam and Puerto Rico, made Cuba a protectorate and turned to imperialism."
+    },
+    "importance": 2,
+    "persons": [
+      "theodore-roosevelt"
+    ],
+    "wiki": {
+      "ja": "米西戦争",
+      "en": "Spanish–American War"
+    }
+  },
+  {
+    "id": "scramble-for-concessions",
+    "type": "politics",
+    "year": 1898,
+    "year_end": null,
+    "lat": 36.07,
+    "lon": 120.38,
+    "name": {
+      "ja": "列強の中国分割",
+      "en": "Scramble for concessions in China"
+    },
+    "desc": {
+      "ja": "日清戦争後、ドイツが膠州湾、ロシアが旅順・大連、イギリスが威海衛と九竜半島、フランスが広州湾を租借し、鉄道敷設権などを得て勢力範囲を設定した。",
+      "en": "After the Sino-Japanese War Germany leased Jiaozhou Bay, Russia Port Arthur and Dalian, Britain Weihaiwei and Kowloon, and France Guangzhouwan, carving China into spheres of influence with railway rights."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "en": "Scramble for China"
+    }
+  },
+  {
+    "id": "hundred-days-reform",
+    "type": "politics",
+    "year": 1898,
+    "year_end": null,
+    "lat": 39.9,
+    "lon": 116.4,
+    "name": {
+      "ja": "戊戌の変法",
+      "en": "Hundred Days' Reform"
+    },
+    "desc": {
+      "ja": "康有為・梁啓超らが光緒帝を動かし、立憲君主政をめざす制度改革を進めたが、西太后ら保守派のクーデタ（戊戌の政変）により約100日で挫折した。",
+      "en": "Kang Youwei and Liang Qichao persuaded the Guangxu Emperor to launch sweeping reforms toward constitutional monarchy, but a coup by the Empress Dowager Cixi's conservatives ended them after about a hundred days."
+    },
+    "importance": 3,
+    "persons": [
+      "kang-youwei",
+      "cixi",
+      "guangxu"
+    ],
+    "wiki": {
+      "ja": "戊戌の変法",
+      "en": "Hundred Days' Reform"
+    }
+  },
+  {
+    "id": "fashoda-incident",
+    "type": "politics",
+    "year": 1898,
+    "year_end": null,
+    "lat": 9.88,
+    "lon": 32.11,
+    "name": {
+      "ja": "ファショダ事件",
+      "en": "Fashoda Incident"
+    },
+    "desc": {
+      "ja": "アフリカ縦断政策をとるイギリス軍と横断政策のフランス軍がスーダンのファショダで遭遇して対立したが、フランスが譲歩して戦争は回避された。英仏接近の契機となった。",
+      "en": "British forces pursuing a Cape-to-Cairo axis met French forces on an east-west axis at Fashoda in the Sudan. France backed down, war was avoided, and the way opened to Anglo-French rapprochement."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "ファショダ事件",
+      "en": "Fashoda Incident"
+    }
+  },
+  {
+    "id": "open-door-policy",
+    "type": "politics",
+    "year": 1899,
+    "year_end": null,
+    "lat": 38.9,
+    "lon": -77.04,
+    "name": {
+      "ja": "門戸開放宣言",
+      "en": "Open Door Notes"
+    },
+    "desc": {
+      "ja": "国務長官ジョン＝ヘイが列強に対して中国の門戸開放と機会均等を、翌年には領土保全を提唱した。中国分割に出遅れたアメリカの進出をねらったものであった。",
+      "en": "Secretary of State John Hay called on the powers to keep China open to trade on equal terms, adding territorial integrity in 1900. It sought a share for the latecomer United States in China."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "門戸開放政策",
+      "en": "Open Door Policy"
+    }
+  },
+  {
+    "id": "hague-peace-conference",
+    "type": "treaty",
+    "year": 1899,
+    "year_end": null,
+    "lat": 52.08,
+    "lon": 4.31,
+    "name": {
+      "ja": "ハーグ万国平和会議",
+      "en": "Hague Peace Conference"
+    },
+    "desc": {
+      "ja": "ロシア皇帝ニコライ2世の提唱で開催された。軍縮は実現しなかったが、戦争法規の制定と常設仲裁裁判所の設置を決めた。1907年に第2回会議が開かれた。",
+      "en": "Convened at the initiative of Nicholas II of Russia. Disarmament failed, but the conference codified laws of war and created the Permanent Court of Arbitration; a second conference met in 1907."
+    },
+    "importance": 1,
+    "persons": [
+      "nicholas-ii"
+    ],
+    "wiki": {
+      "ja": "万国平和会議",
+      "en": "Hague Conventions of 1899 and 1907"
+    }
+  },
+  {
+    "id": "boer-war",
+    "type": "battle",
+    "year": 1899,
+    "year_end": 1902,
+    "lat": -25.75,
+    "lon": 28.19,
+    "name": {
+      "ja": "南アフリカ戦争",
+      "en": "Second Boer War"
+    },
+    "desc": {
+      "ja": "金とダイヤモンドを産するトランスヴァール共和国とオレンジ自由国をイギリスが攻めた戦争。ブール人のゲリラ戦に苦しんだが勝利し、両国を併合して1910年に南アフリカ連邦を成立させた。",
+      "en": "Britain attacked the gold- and diamond-rich Transvaal and Orange Free State. Despite costly Boer guerrilla resistance it prevailed, annexed both republics and formed the Union of South Africa in 1910."
+    },
+    "importance": 2,
+    "persons": [
+      "cecil-rhodes"
+    ],
+    "wiki": {
+      "ja": "第二次ボーア戦争",
+      "en": "Second Boer War"
+    }
+  },
+  {
+    "id": "boxer-rebellion",
+    "type": "revolution",
+    "year": 1900,
+    "year_end": 1901,
+    "lat": 39.9,
+    "lon": 116.4,
+    "name": {
+      "ja": "義和団事件",
+      "en": "Boxer Rebellion"
+    },
+    "desc": {
+      "ja": "「扶清滅洋」を唱える義和団が北京の外国公使館を包囲した。清朝は列強に宣戦したが、日本やロシアを主力とする8か国連合軍に鎮圧された。",
+      "en": "The Boxers, crying 'Support the Qing, destroy the foreigners', besieged the legations in Beijing. The Qing court declared war on the powers, but an eight-nation force led by Japan and Russia crushed the rising."
+    },
+    "importance": 3,
+    "persons": [
+      "cixi"
+    ],
+    "wiki": {
+      "ja": "義和団の乱",
+      "en": "Boxer Rebellion"
+    }
+  },
+  {
+    "id": "nobel-prize-founded",
+    "type": "culture",
+    "year": 1901,
+    "year_end": null,
+    "lat": 59.33,
+    "lon": 18.07,
+    "name": {
+      "ja": "ノーベル賞の創設",
+      "en": "First Nobel Prizes"
+    },
+    "desc": {
+      "ja": "ダイナマイトを発明したノーベルの遺言にもとづき、物理学・化学・医学・文学・平和の各分野で第1回ノーベル賞が授与された。以後、科学と平和への貢献を顕彰する国際的な賞となった。",
+      "en": "Under the will of Alfred Nobel, inventor of dynamite, the first Nobel Prizes were awarded in physics, chemistry, medicine, literature and peace."
+    },
+    "importance": 1,
+    "persons": [
+      "nobel"
+    ],
+    "wiki": {
+      "ja": "ノーベル賞",
+      "en": "Nobel Prize"
+    }
+  },
+  {
+    "id": "boxer-protocol",
+    "type": "treaty",
+    "year": 1901,
+    "year_end": null,
+    "lat": 39.9,
+    "lon": 116.4,
+    "name": {
+      "ja": "北京議定書",
+      "en": "Boxer Protocol"
+    },
+    "desc": {
+      "ja": "義和団事件の処理のために清と列強が結んだ議定書。清は巨額の賠償金の支払いと北京への外国軍の駐留を認め、半植民地化が決定的となった。",
+      "en": "The settlement imposed on the Qing by the powers after the Boxer Rebellion. China accepted a huge indemnity and the stationing of foreign troops in Beijing, sealing its semi-colonial status."
+    },
+    "importance": 1,
+    "persons": [
+      "li-hongzhang"
+    ],
+    "wiki": {
+      "ja": "北京議定書",
+      "en": "Boxer Protocol"
+    }
+  },
+  {
+    "id": "anglo-japanese-alliance",
+    "type": "treaty",
+    "year": 1902,
+    "year_end": null,
+    "lat": 51.5,
+    "lon": -0.12,
+    "name": {
+      "ja": "日英同盟",
+      "en": "Anglo-Japanese Alliance"
+    },
+    "desc": {
+      "ja": "ロシアの東アジア進出に対抗するため、イギリスが「光栄ある孤立」を捨てて日本と結んだ同盟。日本の日露戦争遂行を支え、1921年まで続いた。",
+      "en": "Britain abandoned 'splendid isolation' and allied with Japan to check Russian expansion in East Asia. The alliance supported Japan in the Russo-Japanese War and lasted until 1921."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "日英同盟",
+      "en": "Anglo-Japanese Alliance"
+    }
+  },
+  {
+    "id": "wright-brothers-flight",
+    "type": "culture",
+    "year": 1903,
+    "year_end": null,
+    "lat": 36.02,
+    "lon": -75.67,
+    "name": {
+      "ja": "ライト兄弟の初飛行",
+      "en": "Wright brothers' first flight"
+    },
+    "desc": {
+      "ja": "ライト兄弟がノースカロライナ州キティホークで動力飛行機による人類初の飛行に成功した。自動車とともに20世紀の交通を変える航空時代の幕開けとなった。",
+      "en": "The Wright brothers made the first powered aeroplane flight at Kitty Hawk, North Carolina, opening the age of aviation that, with the motor car, would transform twentieth-century transport."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "ライト兄弟",
+      "en": "Wright brothers"
+    }
+  },
+  {
+    "id": "panama-canal",
+    "type": "culture",
+    "year": 1904,
+    "year_end": 1914,
+    "lat": 9.08,
+    "lon": -79.68,
+    "name": {
+      "ja": "パナマ運河の建設",
+      "en": "Panama Canal"
+    },
+    "desc": {
+      "ja": "1903年にセオドア＝ローズヴェルトがコロンビアからパナマを独立させて運河地帯を租借し、建設を開始した。1914年に開通し、アメリカのカリブ海政策の要となった。",
+      "en": "After Theodore Roosevelt engineered Panama's independence from Colombia in 1903 and leased the Canal Zone, construction began. Opened in 1914, the canal became the keystone of US Caribbean policy."
+    },
+    "importance": 2,
+    "persons": [
+      "theodore-roosevelt"
+    ],
+    "wiki": {
+      "ja": "パナマ運河",
+      "en": "Panama Canal"
+    }
+  },
+  {
+    "id": "entente-cordiale",
+    "type": "treaty",
+    "year": 1904,
+    "year_end": null,
+    "lat": 51.5,
+    "lon": -0.12,
+    "name": {
+      "ja": "英仏協商",
+      "en": "Entente Cordiale"
+    },
+    "desc": {
+      "ja": "ドイツの台頭に対抗して、イギリスのエジプト、フランスのモロッコにおける優越権を相互に承認し、両国が接近した。三国協商への第一歩となった。",
+      "en": "To counter the rise of Germany, Britain and France recognised each other's primacy in Egypt and Morocco respectively. It was the first step toward the Triple Entente."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "英仏協商",
+      "en": "Entente Cordiale"
+    }
+  },
+  {
+    "id": "russo-japanese-war",
+    "type": "battle",
+    "year": 1904,
+    "year_end": 1905,
+    "lat": 38.82,
+    "lon": 121.26,
+    "name": {
+      "ja": "日露戦争",
+      "en": "Russo-Japanese War"
+    },
+    "desc": {
+      "ja": "満州と韓国の支配をめぐり日本とロシアが開戦。日本は旅順を攻略し、奉天会戦と日本海海戦で勝利したが国力は限界に達し、アメリカの仲介で講和した。",
+      "en": "Japan and Russia fought for control of Manchuria and Korea. Japan took Port Arthur and won at Mukden and Tsushima, but was exhausted and accepted American mediation for peace."
+    },
+    "importance": 3,
+    "persons": [
+      "nicholas-ii",
+      "emperor-meiji"
+    ],
+    "wiki": {
+      "ja": "日露戦争",
+      "en": "Russo-Japanese War"
+    }
+  },
+  {
+    "id": "bloody-sunday-1905",
+    "type": "revolution",
+    "year": 1905,
+    "year_end": null,
+    "lat": 59.94,
+    "lon": 30.31,
+    "name": {
+      "ja": "1905年革命（血の日曜日事件）",
+      "en": "Russian Revolution of 1905"
+    },
+    "desc": {
+      "ja": "司祭ガポンに率いられた請願デモに軍が発砲した事件を機に、全国でストライキと反乱が広がった。ニコライ2世は十月宣言で国会（ドゥーマ）の開設を約束した。",
+      "en": "Troops fired on a petitioning crowd led by Father Gapon, triggering strikes and revolts across Russia. Nicholas II's October Manifesto promised a parliament, the Duma."
+    },
+    "importance": 3,
+    "persons": [
+      "nicholas-ii"
+    ],
+    "wiki": {
+      "ja": "ロシア第一革命",
+      "en": "1905 Russian Revolution"
+    }
+  },
+  {
+    "id": "treaty-of-portsmouth",
+    "type": "treaty",
+    "year": 1905,
+    "year_end": null,
+    "lat": 43.07,
+    "lon": -70.76,
+    "name": {
+      "ja": "ポーツマス条約",
+      "en": "Treaty of Portsmouth"
+    },
+    "desc": {
+      "ja": "セオドア＝ローズヴェルトの仲介で結ばれた日露戦争の講和条約。ロシアは韓国に対する日本の指導権を認め、旅順・大連の租借権と南樺太を日本に譲った。",
+      "en": "The peace ending the Russo-Japanese War, mediated by Theodore Roosevelt. Russia recognised Japan's paramount interest in Korea and ceded the Port Arthur lease and southern Sakhalin."
+    },
+    "importance": 2,
+    "persons": [
+      "theodore-roosevelt"
+    ],
+    "wiki": {
+      "ja": "ポーツマス条約",
+      "en": "Treaty of Portsmouth"
+    }
+  },
+  {
+    "id": "partition-of-bengal",
+    "type": "politics",
+    "year": 1905,
+    "year_end": null,
+    "lat": 22.57,
+    "lon": 88.36,
+    "name": {
+      "ja": "ベンガル分割令",
+      "en": "Partition of Bengal"
+    },
+    "desc": {
+      "ja": "総督カーゾンが民族運動の分断をねらい、ベンガル州をヒンドゥー教徒とムスリムの多い地域に分割した。反英運動が高揚し、国民会議は翌年カルカッタ大会で4綱領を採択した。",
+      "en": "Viceroy Curzon divided Bengal into Hindu- and Muslim-majority provinces to split the nationalist movement. Protest surged, and at Calcutta in 1906 Congress adopted its four resolutions including swaraj and swadeshi."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "ベンガル分割令",
+      "en": "Partition of Bengal (1905)"
+    }
+  },
+  {
+    "id": "first-moroccan-crisis",
+    "type": "politics",
+    "year": 1905,
+    "year_end": null,
+    "lat": 35.77,
+    "lon": -5.8,
+    "name": {
+      "ja": "第1次モロッコ事件",
+      "en": "First Moroccan Crisis"
+    },
+    "desc": {
+      "ja": "英仏協商によるフランスのモロッコ進出に対し、ヴィルヘルム2世がタンジールを訪問して抗議した。翌年のアルヘシラス会議でドイツは孤立し、フランスの優位が確認された。",
+      "en": "Wilhelm II landed at Tangier to challenge French penetration of Morocco sanctioned by the Entente Cordiale. At the Algeciras Conference of 1906 Germany found itself isolated and French primacy was confirmed."
+    },
+    "importance": 2,
+    "persons": [
+      "wilhelm-ii"
+    ],
+    "wiki": {
+      "ja": "第一次モロッコ事件",
+      "en": "First Moroccan Crisis"
+    }
+  },
+  {
+    "id": "iranian-constitutional-revolution",
+    "type": "revolution",
+    "year": 1906,
+    "year_end": 1911,
+    "lat": 35.69,
+    "lon": 51.39,
+    "name": {
+      "ja": "イラン立憲革命",
+      "en": "Persian Constitutional Revolution"
+    },
+    "desc": {
+      "ja": "日露戦争での日本の勝利に刺激され、ウラマー・商人・知識人が立憲政治を要求した。国民議会が開かれ憲法が制定されたが、英露の干渉により1911年に挫折した。",
+      "en": "Inspired by Japan's victory over Russia, clerics, merchants and intellectuals demanded constitutional government. A national assembly met and a constitution was granted, but British and Russian intervention ended it in 1911."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "イラン立憲革命",
+      "en": "Persian Constitutional Revolution"
+    }
+  },
+  {
+    "id": "anglo-russian-entente",
+    "type": "treaty",
+    "year": 1907,
+    "year_end": null,
+    "lat": 59.94,
+    "lon": 30.31,
+    "name": {
+      "ja": "英露協商",
+      "en": "Anglo-Russian Entente"
+    },
+    "desc": {
+      "ja": "イラン・アフガニスタン・チベットをめぐる英露の勢力範囲を定めた協定。露仏同盟・英仏協商とあわせて三国協商が成立し、三国同盟と対立する陣営が形成された。",
+      "en": "Settled British and Russian spheres in Iran, Afghanistan and Tibet. With the Franco-Russian alliance and the Entente Cordiale it completed the Triple Entente, facing the Triple Alliance."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "ja": "英露協商",
+      "en": "Anglo-Russian Convention"
+    }
+  },
+  {
+    "id": "bosnian-crisis",
+    "type": "politics",
+    "year": 1908,
+    "year_end": null,
+    "lat": 43.86,
+    "lon": 18.41,
+    "name": {
+      "ja": "ボスニア危機",
+      "en": "Bosnian Crisis"
+    },
+    "desc": {
+      "ja": "青年トルコ革命の混乱に乗じ、オーストリアがボスニア・ヘルツェゴヴィナを併合した。セルビアとロシアが強く反発し、バルカンの緊張が高まった。",
+      "en": "Exploiting the turmoil of the Young Turk Revolution, Austria-Hungary annexed Bosnia and Herzegovina. Serbia and Russia protested bitterly and tension in the Balkans rose."
+    },
+    "importance": 2,
+    "persons": [],
+    "wiki": {
+      "en": "Bosnian Crisis"
+    }
+  },
+  {
+    "id": "young-turk-revolution",
+    "type": "revolution",
+    "year": 1908,
+    "year_end": null,
+    "lat": 40.64,
+    "lon": 22.94,
+    "name": {
+      "ja": "青年トルコ革命",
+      "en": "Young Turk Revolution"
+    },
+    "desc": {
+      "ja": "「統一と進歩委員会」の青年将校がサロニカで蜂起し、アブデュルハミト2世にミドハト憲法の復活を認めさせた。翌年スルタンは廃位され、青年トルコが実権を握った。",
+      "en": "Young officers of the Committee of Union and Progress rose at Salonica and forced Abdülhamid II to restore the 1876 constitution. The sultan was deposed the next year and the Young Turks took power."
+    },
+    "importance": 3,
+    "persons": [
+      "abdulhamid-ii"
+    ],
+    "wiki": {
+      "ja": "青年トルコ人革命",
+      "en": "Young Turk Revolution"
+    }
+  },
+  {
+    "id": "japan-korea-annexation",
+    "type": "politics",
+    "year": 1910,
+    "year_end": null,
+    "lat": 37.57,
+    "lon": 126.98,
+    "name": {
+      "ja": "韓国併合",
+      "en": "Japanese annexation of Korea"
+    },
+    "desc": {
+      "ja": "日露戦争後、日本は3次にわたる日韓協約で大韓帝国の外交権と内政権を奪い、伊藤博文の暗殺を経て1910年に併合した。朝鮮総督府を置いて植民地支配を行った。",
+      "en": "After the Russo-Japanese War Japan stripped the Korean Empire of its diplomatic and domestic powers through three conventions and, following the assassination of Itō Hirobumi, annexed it in 1910 under a Government-General."
+    },
+    "importance": 3,
+    "persons": [
+      "ito-hirobumi"
+    ],
+    "wiki": {
+      "ja": "韓国併合",
+      "en": "Japan–Korea Treaty of 1910"
+    }
+  },
+  {
+    "id": "second-moroccan-crisis",
+    "type": "politics",
+    "year": 1911,
+    "year_end": null,
+    "lat": 30.43,
+    "lon": -9.6,
+    "name": {
+      "ja": "第2次モロッコ事件",
+      "en": "Agadir Crisis"
+    },
+    "desc": {
+      "ja": "モロッコの反乱に出兵したフランスに対し、ドイツが軍艦をアガディールに派遣して威嚇した。ドイツはコンゴの一部を得て妥協し、翌年フランスはモロッコを保護国化した。",
+      "en": "When France sent troops to suppress a revolt in Morocco, Germany dispatched a gunboat to Agadir. Germany settled for part of the French Congo, and France made Morocco a protectorate in 1912."
+    },
+    "importance": 1,
+    "persons": [
+      "wilhelm-ii"
+    ],
+    "wiki": {
+      "ja": "第二次モロッコ事件",
+      "en": "Agadir Crisis"
+    }
+  },
+  {
+    "id": "italo-turkish-war",
+    "type": "battle",
+    "year": 1911,
+    "year_end": 1912,
+    "lat": 32.9,
+    "lon": 13.18,
+    "name": {
+      "ja": "イタリア＝トルコ戦争",
+      "en": "Italo-Turkish War"
+    },
+    "desc": {
+      "ja": "イタリアがオスマン帝国領のトリポリ・キレナイカ（リビア）に出兵して獲得した戦争。オスマン帝国の弱体化を露呈させ、バルカン戦争を誘発した。",
+      "en": "Italy seized the Ottoman provinces of Tripolitania and Cyrenaica (Libya). The war exposed Ottoman weakness and encouraged the Balkan states to attack the following year."
+    },
+    "importance": 1,
+    "persons": [],
+    "wiki": {
+      "ja": "伊土戦争",
+      "en": "Italo-Turkish War"
+    }
+  },
+  {
+    "id": "xinhai-revolution",
+    "type": "revolution",
+    "year": 1911,
+    "year_end": null,
+    "lat": 30.55,
+    "lon": 114.3,
+    "name": {
+      "ja": "辛亥革命",
+      "en": "Xinhai Revolution"
+    },
+    "desc": {
+      "ja": "幹線鉄道国有化に反対する四川の暴動を機に武昌の新軍が蜂起し、各省が次々に清からの独立を宣言した。清朝は崩壊に向かい、翌年中華民国が成立した。",
+      "en": "Riots in Sichuan against railway nationalisation sparked a mutiny of the New Army at Wuchang, and province after province declared independence from the Qing. The dynasty collapsed and the Republic of China followed in 1912."
+    },
+    "importance": 3,
+    "persons": [
+      "sun-yat-sen",
+      "yuan-shikai"
+    ],
+    "wiki": {
+      "ja": "辛亥革命",
+      "en": "1911 Revolution"
+    }
+  },
+  {
+    "id": "balkan-wars",
+    "type": "battle",
+    "year": 1912,
+    "year_end": 1913,
+    "lat": 41.68,
+    "lon": 26.56,
+    "name": {
+      "ja": "バルカン戦争",
+      "en": "Balkan Wars"
+    },
+    "desc": {
+      "ja": "ロシアの後援で結成されたバルカン同盟がオスマン帝国を破り（第1次）、次いで領土配分をめぐってブルガリアと他の諸国が戦った（第2次）。「ヨーロッパの火薬庫」の対立が深まった。",
+      "en": "The Russian-backed Balkan League defeated the Ottomans in the First War; Bulgaria then fought its former allies over the spoils in the Second. Rivalries in the 'powder keg of Europe' deepened."
+    },
+    "importance": 3,
+    "persons": [],
+    "wiki": {
+      "ja": "バルカン戦争",
+      "en": "Balkan Wars"
+    }
+  },
+  {
+    "id": "republic-of-china-founded",
+    "type": "founding",
+    "year": 1912,
+    "year_end": null,
+    "lat": 32.06,
+    "lon": 118.8,
+    "name": {
+      "ja": "中華民国の成立",
+      "en": "Republic of China established"
+    },
+    "desc": {
+      "ja": "孫文を臨時大総統として南京に成立したアジア最初の共和国。宣統帝（溥儀）の退位と引き換えに袁世凱が大総統となり、清朝は滅亡した。",
+      "en": "Asia's first republic was proclaimed at Nanjing with Sun Yat-sen as provisional president. Yuan Shikai became president in exchange for the abdication of the last emperor, Puyi, and the Qing dynasty ended."
+    },
+    "importance": 3,
+    "persons": [
+      "sun-yat-sen",
+      "yuan-shikai"
+    ],
+    "wiki": {
+      "ja": "中華民国",
+      "en": "Republic of China (1912–1949)"
+    }
+  }
+]

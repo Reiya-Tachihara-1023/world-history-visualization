@@ -1,0 +1,1397 @@
+[
+  {
+    "id": "chinggis-khan",
+    "name": {
+      "ja": "チンギス＝ハン",
+      "en": "Chinggis Khan"
+    },
+    "born": 1162,
+    "died": 1227,
+    "active": [
+      1206,
+      1227
+    ],
+    "role": {
+      "ja": "モンゴル帝国の建国者",
+      "en": "Founder of the Mongol Empire"
+    },
+    "lat": 47.2,
+    "lon": 102.85,
+    "desc": {
+      "ja": "モンゴル高原を統一して1206年にハンに即位し、千戸制で軍を組織してホラズム＝シャー朝や西夏を征服、ユーラシアにまたがる大帝国の基礎を築いた。",
+      "en": "Unified the Mongolian plateau and was proclaimed khan in 1206; organized his army on the decimal system and conquered Khwarazm and Western Xia, laying the basis of a Eurasian empire."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "チンギス・カン",
+      "en": "Genghis Khan"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "batu",
+    "name": {
+      "ja": "バトゥ",
+      "en": "Batu Khan"
+    },
+    "born": 1207,
+    "died": 1255,
+    "active": [
+      1236,
+      1255
+    ],
+    "role": {
+      "ja": "キプチャク＝ハン国の建国者",
+      "en": "Founder of the Golden Horde"
+    },
+    "lat": 48,
+    "lon": 46.5,
+    "desc": {
+      "ja": "チンギス＝ハンの孫。西征軍を率いてロシア諸公国を征服し、ワールシュタットでドイツ・ポーランド軍を破った。帰還後サライを都にキプチャク＝ハン国を建てた。",
+      "en": "Grandson of Chinggis Khan who led the western campaign, conquered the Rus' principalities and defeated the German-Polish army at Legnica; he then founded the Golden Horde at Sarai."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "バトゥ",
+      "en": "Batu Khan"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "hulagu",
+    "name": {
+      "ja": "フラグ",
+      "en": "Hülegü"
+    },
+    "born": 1218,
+    "died": 1265,
+    "active": [
+      1253,
+      1265
+    ],
+    "role": {
+      "ja": "イル＝ハン国の建国者",
+      "en": "Founder of the Ilkhanate"
+    },
+    "lat": 38.08,
+    "lon": 46.29,
+    "desc": {
+      "ja": "チンギス＝ハンの孫でフビライの弟。西アジア遠征で1258年にバグダードを攻略してアッバース朝を滅ぼし、イランを中心にイル＝ハン国を建てた。",
+      "en": "Grandson of Chinggis Khan and brother of Kublai; his West Asian campaign sacked Baghdad in 1258, ending the Abbasid Caliphate, and he founded the Ilkhanate in Iran."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "フレグ",
+      "en": "Hulagu Khan"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "kublai-khan",
+    "name": {
+      "ja": "フビライ＝ハン",
+      "en": "Kublai Khan"
+    },
+    "born": 1215,
+    "died": 1294,
+    "active": [
+      1260,
+      1294
+    ],
+    "role": {
+      "ja": "元の初代皇帝",
+      "en": "Founder of the Yuan dynasty"
+    },
+    "lat": 39.9,
+    "lon": 116.4,
+    "desc": {
+      "ja": "モンゴル帝国第5代ハン。大都に都を置き国号を元と定めて南宋を滅ぼし、中国全土を支配した。日本・ベトナム・ジャワにも遠征軍を送った。",
+      "en": "Fifth Great Khan of the Mongols; made Dadu his capital, named his state Yuan and conquered the Southern Song to rule all China, also sending expeditions to Japan, Vietnam and Java."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "クビライ",
+      "en": "Kublai Khan"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "marco-polo",
+    "name": {
+      "ja": "マルコ＝ポーロ",
+      "en": "Marco Polo"
+    },
+    "born": 1254,
+    "died": 1324,
+    "active": [
+      1271,
+      1295
+    ],
+    "role": {
+      "ja": "ヴェネツィアの商人・旅行家",
+      "en": "Venetian merchant and traveler"
+    },
+    "lat": 45.44,
+    "lon": 12.33,
+    "desc": {
+      "ja": "ヴェネツィアの商人。陸路で元の大都に至りフビライに仕え、海路で帰国した。口述した『世界の記述(東方見聞録)』はヨーロッパの東方への関心をかき立てた。",
+      "en": "Venetian merchant who traveled overland to Kublai's court at Dadu and returned by sea; his dictated Travels stirred European interest in the East."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "マルコ・ポーロ",
+      "en": "Marco Polo"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "innocent-iii",
+    "name": {
+      "ja": "インノケンティウス3世",
+      "en": "Innocent III"
+    },
+    "born": 1160,
+    "died": 1216,
+    "active": [
+      1198,
+      1216
+    ],
+    "role": {
+      "ja": "ローマ教皇",
+      "en": "Pope"
+    },
+    "lat": 41.9,
+    "lon": 12.45,
+    "desc": {
+      "ja": "教皇権の絶頂期を築いた教皇。「教皇は太陽、皇帝は月」と唱え、イギリス王ジョンを破門し、第4回十字軍やアルビジョワ十字軍を提唱、第4ラテラノ公会議を主宰した。",
+      "en": "Pope at the zenith of papal power; declared the pope the sun and the emperor the moon, excommunicated King John, launched the Fourth and Albigensian Crusades and presided over the Fourth Lateran Council."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "インノケンティウス3世 (ローマ教皇)",
+      "en": "Pope Innocent III"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "king-john",
+    "name": {
+      "ja": "ジョン",
+      "en": "John of England"
+    },
+    "born": 1166,
+    "died": 1216,
+    "active": [
+      1199,
+      1216
+    ],
+    "role": {
+      "ja": "イギリス王",
+      "en": "King of England"
+    },
+    "lat": 51.5,
+    "lon": -0.12,
+    "desc": {
+      "ja": "フランス王フィリップ2世との戦いで大陸領の大半を失い「欠地王」と呼ばれ、教皇に破門された。1215年に貴族に迫られマグナ＝カルタを承認した。",
+      "en": "Lost most of the Angevin lands to Philip II of France, earning the nickname 'Lackland', and was excommunicated; in 1215 the barons forced him to accept Magna Carta."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ジョン (イングランド王)",
+      "en": "John, King of England"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "louis-ix",
+    "name": {
+      "ja": "ルイ9世",
+      "en": "Louis IX"
+    },
+    "born": 1214,
+    "died": 1270,
+    "active": [
+      1226,
+      1270
+    ],
+    "role": {
+      "ja": "フランス王",
+      "en": "King of France"
+    },
+    "lat": 48.85,
+    "lon": 2.35,
+    "desc": {
+      "ja": "カペー朝の王。南フランスの異端を討ち、2度の十字軍を率いてチュニスで病死した。敬虔な信仰と公正な統治で知られ、聖王と呼ばれた。",
+      "en": "Capetian king who suppressed heresy in the south and led two crusades, dying at Tunis; famed for piety and justice, he was canonized as Saint Louis."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ルイ9世 (フランス王)",
+      "en": "Louis IX of France"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "philip-iv",
+    "name": {
+      "ja": "フィリップ4世",
+      "en": "Philip IV of France"
+    },
+    "born": 1268,
+    "died": 1314,
+    "active": [
+      1285,
+      1314
+    ],
+    "role": {
+      "ja": "フランス王",
+      "en": "King of France"
+    },
+    "lat": 48.85,
+    "lon": 2.35,
+    "desc": {
+      "ja": "聖職者課税をめぐり教皇ボニファティウス8世と対立し、三部会を招集してアナーニ事件を起こした。教皇庁をアヴィニョンに移し、テンプル騎士団を解散させた。",
+      "en": "Clashed with Pope Boniface VIII over clerical taxation, summoned the first Estates-General and had the pope seized at Anagni; he moved the papacy to Avignon and dissolved the Templars."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "フィリップ4世 (フランス王)",
+      "en": "Philip IV of France"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "edward-i",
+    "name": {
+      "ja": "エドワード1世",
+      "en": "Edward I"
+    },
+    "born": 1239,
+    "died": 1307,
+    "active": [
+      1272,
+      1307
+    ],
+    "role": {
+      "ja": "イギリス王",
+      "en": "King of England"
+    },
+    "lat": 51.5,
+    "lon": -0.12,
+    "desc": {
+      "ja": "ウェールズを征服しスコットランドに遠征した。戦費調達のため1295年に模範議会を招集し、イギリス身分制議会の基礎を築いた。",
+      "en": "Conquered Wales and campaigned in Scotland; to raise war funds he summoned the Model Parliament of 1295, laying the foundation of England's estates-based parliament."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "エドワード1世 (イングランド王)",
+      "en": "Edward I of England"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "osman-i",
+    "name": {
+      "ja": "オスマン1世",
+      "en": "Osman I"
+    },
+    "born": 1258,
+    "died": 1326,
+    "active": [
+      1299,
+      1326
+    ],
+    "role": {
+      "ja": "オスマン帝国の建国者",
+      "en": "Founder of the Ottoman dynasty"
+    },
+    "lat": 40.14,
+    "lon": 29.98,
+    "desc": {
+      "ja": "アナトリア西北部の辺境でトルコ系戦士集団を率い、ビザンツ領を侵食して自立した。彼の名がオスマン帝国の由来となった。",
+      "en": "Led a band of Turkish frontier warriors in northwestern Anatolia, encroached on Byzantine lands and asserted independence; the Ottoman state takes its name from him."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "オスマン1世",
+      "en": "Osman I"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "dante",
+    "name": {
+      "ja": "ダンテ",
+      "en": "Dante Alighieri"
+    },
+    "born": 1265,
+    "died": 1321,
+    "active": [
+      1295,
+      1321
+    ],
+    "role": {
+      "ja": "フィレンツェの詩人",
+      "en": "Florentine poet"
+    },
+    "lat": 43.77,
+    "lon": 11.26,
+    "desc": {
+      "ja": "フィレンツェの詩人。政争で追放され、トスカナ語で『神曲』を著した。ルネサンス文学の先駆者であり、イタリア語の父と呼ばれる。",
+      "en": "Florentine poet exiled in political strife who wrote the Divine Comedy in the Tuscan vernacular; a forerunner of Renaissance literature and 'father of the Italian language'."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ダンテ・アリギエーリ",
+      "en": "Dante Alighieri"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "mansa-musa",
+    "name": {
+      "ja": "マンサ＝ムーサ",
+      "en": "Mansa Musa"
+    },
+    "born": 1280,
+    "died": 1337,
+    "active": [
+      1312,
+      1337
+    ],
+    "role": {
+      "ja": "マリ王国の王",
+      "en": "Mansa of the Mali Empire"
+    },
+    "lat": 16.77,
+    "lon": -3,
+    "desc": {
+      "ja": "マリ王国最盛期の王。1324年に大量の金を携えてメッカ巡礼を行い、カイロの金相場を下落させた。トンブクトゥにモスクを建て学問を奨励した。",
+      "en": "Ruler of Mali at its height; his 1324 pilgrimage to Mecca with vast gold depressed Cairo's gold price, and he built mosques and promoted learning at Timbuktu."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "マンサ・ムーサ",
+      "en": "Mansa Musa"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "ibn-battuta",
+    "name": {
+      "ja": "イブン＝バットゥータ",
+      "en": "Ibn Battuta"
+    },
+    "born": 1304,
+    "died": 1368,
+    "active": [
+      1325,
+      1354
+    ],
+    "role": {
+      "ja": "モロッコの旅行家",
+      "en": "Moroccan traveler"
+    },
+    "lat": 35.78,
+    "lon": -5.81,
+    "desc": {
+      "ja": "タンジール生まれの法学者。メッカ巡礼を機に約30年にわたり西アジア・インド・中国・マリなど三大陸を旅し、『旅行記(三大陸周遊記)』を口述した。",
+      "en": "Jurist from Tangier who, beginning with the hajj, traveled for nearly thirty years through West Asia, India, China and Mali, dictating the Rihla."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "イブン・バットゥータ",
+      "en": "Ibn Battuta"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "joan-of-arc",
+    "name": {
+      "ja": "ジャンヌ＝ダルク",
+      "en": "Joan of Arc"
+    },
+    "born": 1412,
+    "died": 1431,
+    "active": [
+      1429,
+      1431
+    ],
+    "role": {
+      "ja": "百年戦争のフランス側の英雄",
+      "en": "French heroine of the Hundred Years' War"
+    },
+    "lat": 47.9,
+    "lon": 1.9,
+    "desc": {
+      "ja": "農民の娘。神の啓示を受けたとしてシャルル7世のもとに赴き、オルレアンの包囲を解いて百年戦争の形勢を逆転させた。イギリス側に捕らえられ火刑にされた。",
+      "en": "Peasant girl who, claiming divine voices, went to Charles VII and lifted the siege of Orléans, turning the Hundred Years' War; captured, she was burned at the stake by the English."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ジャンヌ・ダルク",
+      "en": "Joan of Arc"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "timur",
+    "name": {
+      "ja": "ティムール",
+      "en": "Timur"
+    },
+    "born": 1336,
+    "died": 1405,
+    "active": [
+      1370,
+      1405
+    ],
+    "role": {
+      "ja": "ティムール朝の建国者",
+      "en": "Founder of the Timurid Empire"
+    },
+    "lat": 39.65,
+    "lon": 66.97,
+    "desc": {
+      "ja": "チャガタイ＝ハン国出身の武将。サマルカンドを都に自立し、イラン・イラク・北インドを席巻、アンカラの戦いでオスマン軍を破った。明遠征の途上で病死した。",
+      "en": "Warrior from the Chagatai Khanate who made Samarkand his capital, overran Iran, Iraq and northern India and crushed the Ottomans at Ankara; he died setting out against Ming China."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ティムール",
+      "en": "Timur"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "hongwu-emperor",
+    "name": {
+      "ja": "洪武帝",
+      "en": "Hongwu Emperor"
+    },
+    "born": 1328,
+    "died": 1398,
+    "active": [
+      1368,
+      1398
+    ],
+    "role": {
+      "ja": "明の初代皇帝",
+      "en": "Founder of the Ming dynasty"
+    },
+    "lat": 32.06,
+    "lon": 118.78,
+    "desc": {
+      "ja": "朱元璋。貧農出身で紅巾の乱から台頭し、南京で明を建てた。中書省を廃して皇帝独裁を確立し、里甲制・衛所制・六諭などで民衆統治を整えた。",
+      "en": "Zhu Yuanzhang, a peasant who rose through the Red Turban rebellion to found the Ming at Nanjing; abolished the Secretariat to rule autocratically and organized society through the lijia and weisuo systems."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "洪武帝",
+      "en": "Hongwu Emperor"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "yongle-emperor",
+    "name": {
+      "ja": "永楽帝",
+      "en": "Yongle Emperor"
+    },
+    "born": 1360,
+    "died": 1424,
+    "active": [
+      1402,
+      1424
+    ],
+    "role": {
+      "ja": "明の第3代皇帝",
+      "en": "Third emperor of the Ming dynasty"
+    },
+    "lat": 39.9,
+    "lon": 116.4,
+    "desc": {
+      "ja": "洪武帝の子。靖難の役で甥から帝位を奪い、北京に遷都した。モンゴル親征や鄭和の南海遠征など積極的な対外政策をとり、『永楽大典』を編纂させた。",
+      "en": "Son of Hongwu who seized the throne in the Jingnan campaign and moved the capital to Beijing; pursued an expansive foreign policy with Mongol campaigns and Zheng He's voyages, and compiled the Yongle Encyclopedia."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "永楽帝",
+      "en": "Yongle Emperor"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "zheng-he",
+    "name": {
+      "ja": "鄭和",
+      "en": "Zheng He"
+    },
+    "born": 1371,
+    "died": 1434,
+    "active": [
+      1405,
+      1433
+    ],
+    "role": {
+      "ja": "明の宦官・航海者",
+      "en": "Ming eunuch admiral"
+    },
+    "lat": 32.06,
+    "lon": 118.78,
+    "desc": {
+      "ja": "雲南出身のイスラーム教徒の宦官。永楽帝の命で7回にわたり大艦隊を率いて東南アジア・インド洋に遠征し、アフリカ東岸まで達して諸国の朝貢を促した。",
+      "en": "Muslim eunuch from Yunnan who led seven great fleets across Southeast Asia and the Indian Ocean on the Yongle Emperor's orders, reaching East Africa and encouraging tribute missions."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "鄭和",
+      "en": "Zheng He"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "sejong",
+    "name": {
+      "ja": "世宗",
+      "en": "Sejong the Great"
+    },
+    "born": 1397,
+    "died": 1450,
+    "active": [
+      1418,
+      1450
+    ],
+    "role": {
+      "ja": "朝鮮王朝第4代国王",
+      "en": "Fourth king of Joseon"
+    },
+    "lat": 37.57,
+    "lon": 126.98,
+    "desc": {
+      "ja": "朝鮮王朝の名君。訓民正音(ハングル)を制定し、金属活字の改良や天文・農業の書の編纂など学問文化を振興した。",
+      "en": "Celebrated king of Joseon who promulgated Hangul and promoted scholarship, improving metal movable type and sponsoring works on astronomy and agriculture."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "世宗 (朝鮮王)",
+      "en": "Sejong the Great"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "mehmed-ii",
+    "name": {
+      "ja": "メフメト2世",
+      "en": "Mehmed II"
+    },
+    "born": 1432,
+    "died": 1481,
+    "active": [
+      1451,
+      1481
+    ],
+    "role": {
+      "ja": "オスマン帝国のスルタン",
+      "en": "Ottoman Sultan"
+    },
+    "lat": 41.01,
+    "lon": 28.98,
+    "desc": {
+      "ja": "1453年にコンスタンティノープルを攻略してビザンツ帝国を滅ぼし、イスタンブルを首都とした。バルカン・黒海沿岸に領土を広げ「征服王」と呼ばれた。",
+      "en": "Captured Constantinople in 1453, ending the Byzantine Empire, and made Istanbul his capital; expanded into the Balkans and Black Sea coast, earning the title 'the Conqueror'."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "メフメト2世",
+      "en": "Mehmed II"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "gutenberg",
+    "name": {
+      "ja": "グーテンベルク",
+      "en": "Johannes Gutenberg"
+    },
+    "born": 1400,
+    "died": 1468,
+    "active": [
+      1440,
+      1468
+    ],
+    "role": {
+      "ja": "活版印刷術の発明者",
+      "en": "Inventor of the printing press"
+    },
+    "lat": 49.99,
+    "lon": 8.27,
+    "desc": {
+      "ja": "マインツの金属加工師。金属活字と印刷機を組み合わせた活版印刷術を実用化し、『四十二行聖書』を印刷した。書物の大量生産が宗教改革の展開を支えた。",
+      "en": "Metalworker of Mainz who perfected printing with metal movable type and a press, producing the 42-line Bible; mass-produced books underpinned the spread of the Reformation."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ヨハネス・グーテンベルク",
+      "en": "Johannes Gutenberg"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "ivan-iii",
+    "name": {
+      "ja": "イヴァン3世",
+      "en": "Ivan III"
+    },
+    "born": 1440,
+    "died": 1505,
+    "active": [
+      1462,
+      1505
+    ],
+    "role": {
+      "ja": "モスクワ大公",
+      "en": "Grand Prince of Moscow"
+    },
+    "lat": 55.75,
+    "lon": 37.62,
+    "desc": {
+      "ja": "ノヴゴロドなどを併合してロシアを統一し、1480年にキプチャク＝ハン国の支配から自立した。ビザンツ最後の皇帝の姪と結婚し、ツァーリの称号を用いた。",
+      "en": "United Russia by annexing Novgorod and other lands, ended Golden Horde overlordship in 1480, married the niece of the last Byzantine emperor and adopted the title tsar."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "イヴァン3世",
+      "en": "Ivan III of Russia"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "columbus",
+    "name": {
+      "ja": "コロンブス",
+      "en": "Christopher Columbus"
+    },
+    "born": 1451,
+    "died": 1506,
+    "active": [
+      1492,
+      1504
+    ],
+    "role": {
+      "ja": "ジェノヴァ出身の航海者",
+      "en": "Genoese navigator"
+    },
+    "lat": 37.39,
+    "lon": -5.99,
+    "desc": {
+      "ja": "ジェノヴァ出身。トスカネリの地球球体説を信じ、スペイン女王イサベルの支援で1492年に大西洋を横断してサンサルバドル島に到達した。以後4回の航海を行った。",
+      "en": "Genoese navigator who, believing Toscanelli's theory of a spherical earth, crossed the Atlantic in 1492 with Queen Isabella's backing and reached San Salvador; he made four voyages in all."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "クリストファー・コロンブス",
+      "en": "Christopher Columbus"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "vasco-da-gama",
+    "name": {
+      "ja": "ヴァスコ＝ダ＝ガマ",
+      "en": "Vasco da Gama"
+    },
+    "born": 1469,
+    "died": 1524,
+    "active": [
+      1497,
+      1524
+    ],
+    "role": {
+      "ja": "ポルトガルの航海者",
+      "en": "Portuguese navigator"
+    },
+    "lat": 38.72,
+    "lon": -9.14,
+    "desc": {
+      "ja": "ポルトガル王の命で喜望峰を回り、1498年にインドのカリカットに到達してインド航路を開いた。ポルトガルのアジア貿易独占への道を開いた。",
+      "en": "Sailed around the Cape of Good Hope on the Portuguese king's orders and reached Calicut in 1498, opening the sea route to India and Portugal's Asian trade."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ヴァスコ・ダ・ガマ",
+      "en": "Vasco da Gama"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "leonardo-da-vinci",
+    "name": {
+      "ja": "レオナルド＝ダ＝ヴィンチ",
+      "en": "Leonardo da Vinci"
+    },
+    "born": 1452,
+    "died": 1519,
+    "active": [
+      1480,
+      1519
+    ],
+    "role": {
+      "ja": "ルネサンスの芸術家・科学者",
+      "en": "Renaissance artist and scientist"
+    },
+    "lat": 43.77,
+    "lon": 11.26,
+    "desc": {
+      "ja": "フィレンツェ近郊出身。『最後の晩餐』『モナ＝リザ』を描き、解剖学・工学など諸分野でも業績を残した「万能人」。ルネサンスを代表する巨匠。",
+      "en": "Painter of The Last Supper and the Mona Lisa who also excelled in anatomy and engineering; the archetypal 'universal man' of the Renaissance."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "レオナルド・ダ・ヴィンチ",
+      "en": "Leonardo da Vinci"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "michelangelo",
+    "name": {
+      "ja": "ミケランジェロ",
+      "en": "Michelangelo"
+    },
+    "born": 1475,
+    "died": 1564,
+    "active": [
+      1496,
+      1564
+    ],
+    "role": {
+      "ja": "ルネサンスの彫刻家・画家",
+      "en": "Renaissance sculptor and painter"
+    },
+    "lat": 41.9,
+    "lon": 12.45,
+    "desc": {
+      "ja": "フィレンツェで『ダヴィデ像』を制作し、ローマでシスティナ礼拝堂の天井画『天地創造』と『最後の審判』を描いた。サン＝ピエトロ大聖堂の建築にも携わった。",
+      "en": "Sculpted the David in Florence and painted the Sistine Chapel ceiling and the Last Judgment in Rome; also served as architect of St. Peter's Basilica."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ミケランジェロ・ブオナローティ",
+      "en": "Michelangelo"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "machiavelli",
+    "name": {
+      "ja": "マキァヴェリ",
+      "en": "Niccolò Machiavelli"
+    },
+    "born": 1469,
+    "died": 1527,
+    "active": [
+      1498,
+      1527
+    ],
+    "role": {
+      "ja": "フィレンツェの政治思想家",
+      "en": "Florentine political thinker"
+    },
+    "lat": 43.77,
+    "lon": 11.26,
+    "desc": {
+      "ja": "フィレンツェ共和国の外交官。失脚後に『君主論』を著し、政治を宗教や道徳から切り離して権力の現実を論じ、近代政治学の先駆となった。",
+      "en": "Diplomat of the Florentine republic who, after his fall from office, wrote The Prince, analyzing power apart from religion and morality and pioneering modern political thought."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ニッコロ・マキャヴェッリ",
+      "en": "Niccolò Machiavelli"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "copernicus",
+    "name": {
+      "ja": "コペルニクス",
+      "en": "Nicolaus Copernicus"
+    },
+    "born": 1473,
+    "died": 1543,
+    "active": [
+      1510,
+      1543
+    ],
+    "role": {
+      "ja": "ポーランドの天文学者",
+      "en": "Polish astronomer"
+    },
+    "lat": 54.36,
+    "lon": 19.68,
+    "desc": {
+      "ja": "ポーランドの聖職者・天文学者。天動説を批判して地動説を唱え、死の直前に『天球回転論』を刊行した。近代科学の出発点とされる。",
+      "en": "Polish cleric and astronomer who challenged the geocentric system with his heliocentric theory, published in On the Revolutions just before his death; a starting point of modern science."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ニコラウス・コペルニクス",
+      "en": "Nicolaus Copernicus"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "martin-luther",
+    "name": {
+      "ja": "ルター",
+      "en": "Martin Luther"
+    },
+    "born": 1483,
+    "died": 1546,
+    "active": [
+      1517,
+      1546
+    ],
+    "role": {
+      "ja": "宗教改革者",
+      "en": "Reformer"
+    },
+    "lat": 51.87,
+    "lon": 12.65,
+    "desc": {
+      "ja": "ヴィッテンベルク大学の神学教授。1517年に九十五カ条の論題で贖宥状を批判し、信仰義認説と聖書中心主義を唱えた。ヴォルムス帝国議会で撤回を拒み、聖書をドイツ語に訳した。",
+      "en": "Theology professor at Wittenberg who attacked indulgences in the Ninety-five Theses of 1517, taught justification by faith and the primacy of Scripture, refused to recant at Worms and translated the Bible into German."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "マルティン・ルター",
+      "en": "Martin Luther"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "charles-v",
+    "name": {
+      "ja": "カール5世",
+      "en": "Charles V"
+    },
+    "born": 1500,
+    "died": 1558,
+    "active": [
+      1519,
+      1556
+    ],
+    "role": {
+      "ja": "神聖ローマ皇帝・スペイン王",
+      "en": "Holy Roman Emperor and King of Spain"
+    },
+    "lat": 48.21,
+    "lon": 16.37,
+    "desc": {
+      "ja": "ハプスブルク家の皇帝でスペイン王カルロス1世を兼ねた。フランスのフランソワ1世とイタリア戦争を戦い、オスマン帝国と対峙し、ルター派と争った末アウクスブルクの和議を結んだ。",
+      "en": "Habsburg emperor who was also Charles I of Spain; fought Francis I of France in the Italian Wars, faced the Ottomans and struggled with the Lutherans before accepting the Peace of Augsburg."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "カール5世 (神聖ローマ皇帝)",
+      "en": "Charles V, Holy Roman Emperor"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "suleiman-i",
+    "name": {
+      "ja": "スレイマン1世",
+      "en": "Suleiman I"
+    },
+    "born": 1494,
+    "died": 1566,
+    "active": [
+      1520,
+      1566
+    ],
+    "role": {
+      "ja": "オスマン帝国のスルタン",
+      "en": "Ottoman Sultan"
+    },
+    "lat": 41.01,
+    "lon": 28.98,
+    "desc": {
+      "ja": "オスマン帝国最盛期のスルタン。ハンガリーを征服してウィーンを包囲し、プレヴェザの海戦で地中海の制海権を握った。法を整備し「立法者」と呼ばれた。",
+      "en": "Sultan at the Ottoman zenith who conquered Hungary, besieged Vienna and won naval supremacy in the Mediterranean at Preveza; known as 'the Lawgiver' for his legal codes."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "スレイマン1世",
+      "en": "Suleiman the Magnificent"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "ismail-i",
+    "name": {
+      "ja": "イスマーイール1世",
+      "en": "Ismail I"
+    },
+    "born": 1487,
+    "died": 1524,
+    "active": [
+      1501,
+      1524
+    ],
+    "role": {
+      "ja": "サファヴィー朝の建国者",
+      "en": "Founder of the Safavid dynasty"
+    },
+    "lat": 38.08,
+    "lon": 46.29,
+    "desc": {
+      "ja": "神秘主義教団サファヴィー教団の長。トルコ系遊牧民キジルバシュを率いてタブリーズでサファヴィー朝を建て、シーア派を国教としシャーを称した。",
+      "en": "Head of the Safavid Sufi order who, backed by the Turkoman Qizilbash, founded the Safavid dynasty at Tabriz, made Shi'ism the state religion and took the title shah."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "イスマーイール1世",
+      "en": "Ismail I"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "babur",
+    "name": {
+      "ja": "バーブル",
+      "en": "Babur"
+    },
+    "born": 1483,
+    "died": 1530,
+    "active": [
+      1504,
+      1530
+    ],
+    "role": {
+      "ja": "ムガル帝国の建国者",
+      "en": "Founder of the Mughal Empire"
+    },
+    "lat": 28.65,
+    "lon": 77.23,
+    "desc": {
+      "ja": "ティムールの子孫。中央アジアを追われてカーブルを拠点とし、1526年パーニーパットの戦いでロディー朝を破ってムガル帝国を建てた。回想録『バーブル＝ナーマ』を残した。",
+      "en": "Descendant of Timur who, driven from Central Asia, ruled from Kabul and in 1526 defeated the Lodi dynasty at Panipat to found the Mughal Empire; author of the Baburnama."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "バーブル",
+      "en": "Babur"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "akbar",
+    "name": {
+      "ja": "アクバル",
+      "en": "Akbar"
+    },
+    "born": 1542,
+    "died": 1605,
+    "active": [
+      1556,
+      1605
+    ],
+    "role": {
+      "ja": "ムガル帝国第3代皇帝",
+      "en": "Third Mughal emperor"
+    },
+    "lat": 27.18,
+    "lon": 78.02,
+    "desc": {
+      "ja": "ムガル帝国の実質的な建設者。北インドを統一してアグラに都を置き、マンサブダール制で官僚を組織した。ヒンドゥー教徒への人頭税(ジズヤ)を廃止し宗教融和をはかった。",
+      "en": "Real builder of the Mughal Empire who unified northern India from Agra, organized officials under the mansabdari system and abolished the jizya on Hindus to promote religious harmony."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "アクバル",
+      "en": "Akbar"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "magellan",
+    "name": {
+      "ja": "マゼラン",
+      "en": "Ferdinand Magellan"
+    },
+    "born": 1480,
+    "died": 1521,
+    "active": [
+      1519,
+      1521
+    ],
+    "role": {
+      "ja": "ポルトガル出身の航海者",
+      "en": "Portuguese navigator"
+    },
+    "lat": 37.39,
+    "lon": -5.99,
+    "desc": {
+      "ja": "ポルトガル出身でスペイン王に仕えた。1519年に出航して南米南端の海峡を発見し太平洋を横断したが、フィリピンで戦死した。部下が1522年に世界周航を完成した。",
+      "en": "Portuguese navigator in Spanish service who sailed in 1519, found the strait at South America's tip and crossed the Pacific, dying in the Philippines; his crew completed the circumnavigation in 1522."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "フェルディナンド・マゼラン",
+      "en": "Ferdinand Magellan"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "cortes",
+    "name": {
+      "ja": "コルテス",
+      "en": "Hernán Cortés"
+    },
+    "born": 1485,
+    "died": 1547,
+    "active": [
+      1519,
+      1540
+    ],
+    "role": {
+      "ja": "スペインの征服者",
+      "en": "Spanish conquistador"
+    },
+    "lat": 19.43,
+    "lon": -99.13,
+    "desc": {
+      "ja": "スペインのコンキスタドール。少数の兵でメキシコに上陸し、先住民の協力を得て1521年にテノチティトランを攻略、アステカ王国を滅ぼした。",
+      "en": "Spanish conquistador who landed in Mexico with a small force and, with native allies, captured Tenochtitlan in 1521, destroying the Aztec Empire."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "エルナン・コルテス",
+      "en": "Hernán Cortés"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "pizarro",
+    "name": {
+      "ja": "ピサロ",
+      "en": "Francisco Pizarro"
+    },
+    "born": 1478,
+    "died": 1541,
+    "active": [
+      1524,
+      1541
+    ],
+    "role": {
+      "ja": "スペインの征服者",
+      "en": "Spanish conquistador"
+    },
+    "lat": -12.05,
+    "lon": -77.04,
+    "desc": {
+      "ja": "スペインのコンキスタドール。ペルーに侵入し、皇帝アタワルパを捕らえて処刑し1533年にインカ帝国を滅ぼした。リマを建設した。",
+      "en": "Spanish conquistador who invaded Peru, captured and executed the emperor Atahualpa and destroyed the Inca Empire in 1533; founder of Lima."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "フランシスコ・ピサロ",
+      "en": "Francisco Pizarro"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "henry-viii",
+    "name": {
+      "ja": "ヘンリ8世",
+      "en": "Henry VIII"
+    },
+    "born": 1491,
+    "died": 1547,
+    "active": [
+      1509,
+      1547
+    ],
+    "role": {
+      "ja": "イギリス王",
+      "en": "King of England"
+    },
+    "lat": 51.5,
+    "lon": -0.12,
+    "desc": {
+      "ja": "テューダー朝第2代の王。離婚問題で教皇と対立し、1534年の首長法でイギリス国教会を成立させて自らその首長となった。修道院を解散し財産を没収した。",
+      "en": "Second Tudor king who broke with the pope over his divorce and by the 1534 Act of Supremacy made himself head of the Church of England, dissolving the monasteries."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ヘンリー8世 (イングランド王)",
+      "en": "Henry VIII"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "john-calvin",
+    "name": {
+      "ja": "カルヴァン",
+      "en": "John Calvin"
+    },
+    "born": 1509,
+    "died": 1564,
+    "active": [
+      1536,
+      1564
+    ],
+    "role": {
+      "ja": "宗教改革者",
+      "en": "Reformer"
+    },
+    "lat": 46.2,
+    "lon": 6.15,
+    "desc": {
+      "ja": "フランス出身の宗教改革者。『キリスト教綱要』を著し、予定説を唱えてジュネーヴで神権政治を行った。その教えは商工業者に受け入れられ西欧各地に広まった。",
+      "en": "French-born reformer who wrote the Institutes of the Christian Religion, taught predestination and ruled Geneva as a theocracy; his teaching spread widely among merchants and artisans."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "ジャン・カルヴァン",
+      "en": "John Calvin"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "elizabeth-i",
+    "name": {
+      "ja": "エリザベス1世",
+      "en": "Elizabeth I"
+    },
+    "born": 1533,
+    "died": 1603,
+    "active": [
+      1558,
+      1603
+    ],
+    "role": {
+      "ja": "イギリス女王",
+      "en": "Queen of England"
+    },
+    "lat": 51.5,
+    "lon": -0.12,
+    "desc": {
+      "ja": "テューダー朝最後の君主。統一法でイギリス国教会を確立し、1588年にスペインの無敵艦隊を破った。東インド会社を設立し、絶対王政の最盛期を築いた。",
+      "en": "Last Tudor monarch who settled the Church of England by the Act of Uniformity, defeated the Spanish Armada in 1588 and chartered the East India Company, bringing English absolutism to its height."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "エリザベス1世 (イングランド女王)",
+      "en": "Elizabeth I"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "philip-ii-of-spain",
+    "name": {
+      "ja": "フェリペ2世",
+      "en": "Philip II of Spain"
+    },
+    "born": 1527,
+    "died": 1598,
+    "active": [
+      1556,
+      1598
+    ],
+    "role": {
+      "ja": "スペイン王",
+      "en": "King of Spain"
+    },
+    "lat": 40.42,
+    "lon": -3.7,
+    "desc": {
+      "ja": "カール5世の子。レパントの海戦でオスマン艦隊を破り、1580年にポルトガルを併合して「太陽の沈まぬ国」を築いた。オランダ独立戦争と無敵艦隊の敗北で衰退が始まった。",
+      "en": "Son of Charles V who defeated the Ottomans at Lepanto and annexed Portugal in 1580, ruling 'the empire on which the sun never sets'; the Dutch Revolt and the Armada's defeat began Spain's decline."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "フェリペ2世 (スペイン王)",
+      "en": "Philip II of Spain"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "ivan-iv",
+    "name": {
+      "ja": "イヴァン4世",
+      "en": "Ivan IV"
+    },
+    "born": 1530,
+    "died": 1584,
+    "active": [
+      1547,
+      1584
+    ],
+    "role": {
+      "ja": "ロシアのツァーリ",
+      "en": "Tsar of Russia"
+    },
+    "lat": 55.75,
+    "lon": 37.62,
+    "desc": {
+      "ja": "1547年に正式にツァーリとして戴冠。貴族を弾圧して専制を強め「雷帝」と呼ばれた。カザン・アストラハンを征服し、コサックのイェルマークにシベリア進出を行わせた。",
+      "en": "Crowned tsar in 1547; crushed the boyars and strengthened autocracy, earning the name 'the Terrible'; conquered Kazan and Astrakhan and sent the Cossack Yermak into Siberia."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "イヴァン4世",
+      "en": "Ivan the Terrible"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "abbas-i",
+    "name": {
+      "ja": "アッバース1世",
+      "en": "Abbas I"
+    },
+    "born": 1571,
+    "died": 1629,
+    "active": [
+      1587,
+      1629
+    ],
+    "role": {
+      "ja": "サファヴィー朝のシャー",
+      "en": "Shah of Safavid Iran"
+    },
+    "lat": 32.65,
+    "lon": 51.68,
+    "desc": {
+      "ja": "サファヴィー朝最盛期の王。軍制を改革してオスマン帝国から領土を奪回し、ポルトガルからホルムズを奪った。イスファハーンに遷都し壮麗な都を築いた。",
+      "en": "Shah at the Safavid zenith who reformed the army, recovered territory from the Ottomans, took Hormuz from the Portuguese and built a magnificent new capital at Isfahan."
+    },
+    "importance": 3,
+    "wiki": {
+      "ja": "アッバース1世",
+      "en": "Abbas the Great"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "toyotomi-hideyoshi",
+    "name": {
+      "ja": "豊臣秀吉",
+      "en": "Toyotomi Hideyoshi"
+    },
+    "born": 1537,
+    "died": 1598,
+    "active": [
+      1582,
+      1598
+    ],
+    "role": {
+      "ja": "日本の天下人",
+      "en": "Unifier of Japan"
+    },
+    "lat": 34.69,
+    "lon": 135.5,
+    "desc": {
+      "ja": "織田信長の後を継いで日本を統一した。1592年と1597年に朝鮮に大軍を送ったが(壬辰・丁酉倭乱)、明の援軍と朝鮮水軍の抵抗を受け、彼の死で撤兵した。",
+      "en": "Completed the unification of Japan after Oda Nobunaga; invaded Korea in 1592 and 1597 but met Ming reinforcements and Korean naval resistance, and the armies withdrew on his death."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "豊臣秀吉",
+      "en": "Toyotomi Hideyoshi"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  }
+]

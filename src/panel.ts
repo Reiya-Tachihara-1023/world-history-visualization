@@ -1,5 +1,5 @@
 import type { Dataset } from './data';
-import { nameOf, eventsInside, personsInside } from './data';
+import { nameOf, eventsInside, personsInside, visiblePersons } from './data';
 import { state, type Selection } from './state';
 import { formatRange, formatYear, lt, lt2, ui, getLangMode } from './i18n';
 import { portraitFor } from './portrait';
@@ -25,7 +25,7 @@ function bi(t: { ja: string; en: string } | undefined): string {
 
 function eventList(events: HistEvent[], title: string): string {
   if (!events.length) return '';
-  const items = events.slice(0, 30).map((e) => `<li data-event="${e.id}"><span class="y">${esc(formatYear(e.year))}</span>${esc(lt(e.name))}</li>`).join('');
+  const items = events.slice(0, 60).map((e) => `<li data-event="${e.id}"><span class="y">${esc(formatYear(e.year))}</span>${esc(lt(e.name))}</li>`).join('');
   return `<h4>${title}</h4><ul class="list">${items}</ul>`;
 }
 function personList(ds: Dataset, ids: string[] | undefined, title: string): string {
@@ -110,6 +110,12 @@ export function initPanel(ds: Dataset, onJump: (lon: number, lat: number) => voi
       });
     } else if (s.kind === 'polity') {
       body.innerHTML = renderPolity(s.polity, year);
+    } else if (s.kind === 'overview') {
+      const span = year < -1000 ? 500 : year < 500 ? 100 : year < 1500 ? 50 : year < 1800 ? 25 : year < 1900 ? 10 : 5;
+      const evs = ds.events.filter((e) => e.year >= year - span && e.year <= year + span && e.importance >= (span <= 10 ? 2 : 3));
+      const people = visiblePersons(ds.persons, year).filter((p) => p.importance >= 3).slice(0, 15);
+      body.innerHTML = `<h2>${esc(formatYear(year))}</h2><div class="sub">${esc(formatRange(year - span, year + span))}</div>`
+        + eventList(evs, ui('panel.worldEvents')) + personList(ds, people.map((p) => p.id), ui('panel.activePersons'));
     }
     panel.scrollTop = 0;
   };
@@ -117,7 +123,7 @@ export function initPanel(ds: Dataset, onJump: (lon: number, lat: number) => voi
   state.on('lang', render);
   // polity panels depend on the year (period / current ruler)
   let lastYearRender = 0;
-  state.on('year', () => { if (state.selection && (state.selection.kind === 'territory' || state.selection.kind === 'polity') && Date.now() - lastYearRender > 250) { lastYearRender = Date.now(); render(); } });
+  state.on('year', () => { if (state.selection && (state.selection.kind === 'territory' || state.selection.kind === 'polity' || state.selection.kind === 'overview') && Date.now() - lastYearRender > 250) { lastYearRender = Date.now(); render(); } });
 }
 
 /** Focus-mode ticker: events appearing in the current view as time advances. */

@@ -3,6 +3,7 @@ import { HistoryMap } from './map';
 import { state, readHash, writeHash } from './state';
 import { initTimeline } from './timeline';
 import { initPanel, initTicker } from './panel';
+import { initSearch } from './search';
 import { applyStaticTexts, setLangMode, ui, formatYear } from './i18n';
 import type { LangMode } from './types';
 import type { Layers } from './state';
@@ -21,6 +22,7 @@ async function main() {
   initTimeline(ds.index);
   initPanel(ds, (lon, lat) => hmap.flyTo(lon, lat), (n, sub) => hmap.territoryGeometries(n, sub));
   const ticker = initTicker(() => hmap.eventsInView());
+  initSearch(ds, (lon, lat, zoom) => hmap.flyTo(lon, lat, zoom));
 
   // ---- language
   const langSeg = document.getElementById('lang-seg')!;
@@ -69,6 +71,11 @@ async function main() {
     const ev = ds.eventById.get((e as CustomEvent<string>).detail);
     if (ev) state.select({ kind: 'event', event: ev });
   });
+
+  // ---- overview
+  const ovBtn = document.getElementById('btn-overview')!;
+  ovBtn.addEventListener('click', () => state.select(state.selection?.kind === 'overview' ? null : { kind: 'overview' }));
+  state.on('selection', () => ovBtn.classList.toggle('on', state.selection?.kind === 'overview'));
 
   // ---- help
   const help = document.getElementById('help')!;
