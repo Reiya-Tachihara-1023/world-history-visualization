@@ -83,6 +83,14 @@ async function main() {
     if (ev) state.select({ kind: 'event', event: ev });
   });
 
+  // ---- globe / flat
+  const globeBtn = document.getElementById('btn-globe')!;
+  let globe = true;
+  try { globe = localStorage.getItem('whg.globe') !== '0'; } catch { /* ignore */ }
+  const applyGlobe = () => { globeBtn.classList.toggle('on', globe); hmap.setGlobe(globe); try { localStorage.setItem('whg.globe', globe ? '1' : '0'); } catch { /* ignore */ } };
+  globeBtn.addEventListener('click', () => { globe = !globe; applyGlobe(); });
+  hmap.map.on('load', applyGlobe);
+
   // ---- overview
   const ovBtn = document.getElementById('btn-overview')!;
   ovBtn.addEventListener('click', () => state.select(state.selection?.kind === 'overview' ? null : { kind: 'overview' }));

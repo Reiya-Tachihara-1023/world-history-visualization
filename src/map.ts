@@ -223,6 +223,13 @@ export class HistoryMap {
     this.updatePersons(state.year);
   }
 
+  /** Globe or flat (lighter) rendering. Flat mode also drops the blurred border halos. */
+  setGlobe(on: boolean) {
+    if (!this.ready) return;
+    this.map.setProjection({ type: on ? 'globe' : 'mercator' });
+    for (const s of SLOTS) this.map.setLayoutProperty(`terr-fuzzy-${s}`, 'visibility', on ? 'visible' : 'none');
+  }
+
   setInteractive(on: boolean) {
     const h = [this.map.dragPan, this.map.scrollZoom, this.map.boxZoom, this.map.keyboard, this.map.doubleClickZoom, this.map.touchZoomRotate];
     for (const x of h) (on ? x.enable() : x.disable());

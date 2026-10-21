@@ -11,6 +11,7 @@ const UI: Record<string, LText> = {
   search: { ja: '検索  (/)', en: 'Search  (/)' },
   'search.polity': { ja: '政体', en: 'Polity' },
   overview: { ja: 'この年の世界', en: 'World now' },
+  globe: { ja: '地球儀', en: 'Globe' },
   'panel.worldEvents': { ja: '主な出来事', en: 'Major events' },
   'panel.activePersons': { ja: '活動中の人物', en: 'Active people' },
   ticker: { ja: 'この範囲の出来事', en: 'Events in view' },

@@ -1,0 +1,1087 @@
+[
+  {
+    "id": "selim-i",
+    "name": {
+      "ja": "セリム1世",
+      "en": "Selim I"
+    },
+    "born": 1470,
+    "died": 1520,
+    "active": [
+      1512,
+      1520
+    ],
+    "role": {
+      "ja": "オスマン帝国スルタン",
+      "en": "Ottoman Sultan"
+    },
+    "lat": 41.01,
+    "lon": 28.98,
+    "desc": {
+      "ja": "オスマン帝国第9代スルタン。1514年チャルディラーンの戦いでサファヴィー朝を破り、1517年にマムルーク朝を滅ぼしてシリア・エジプトを併合、メッカ・メディナの保護権を得た。",
+      "en": "The ninth Ottoman sultan. He defeated the Safavids at Chaldiran in 1514 and destroyed the Mamluk Sultanate in 1517, annexing Syria and Egypt and becoming protector of Mecca and Medina."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "セリム1世",
+      "en": "Selim I"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "ignatius-loyola",
+    "name": {
+      "ja": "イグナティウス＝ロヨラ",
+      "en": "Ignatius of Loyola"
+    },
+    "born": 1491,
+    "died": 1556,
+    "active": [
+      1534,
+      1556
+    ],
+    "role": {
+      "ja": "イエズス会の創設者・初代総長",
+      "en": "Founder and first Superior General of the Society of Jesus"
+    },
+    "lat": 41.9,
+    "lon": 12.48,
+    "desc": {
+      "ja": "スペインのバスク出身の軍人。負傷後に回心し、1534年パリでザビエルらとイエズス会を結成して初代総長となった。対抗宗教改革の中心として教育と海外布教を推進した。",
+      "en": "A Basque soldier who turned to religion after being wounded. In 1534 he founded the Society of Jesus in Paris with Francis Xavier and others, becoming its first Superior General and a driving force of the Counter-Reformation."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "イグナチオ・デ・ロヨラ",
+      "en": "Ignatius of Loyola"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "francis-xavier",
+    "name": {
+      "ja": "フランシスコ＝ザビエル",
+      "en": "Francis Xavier"
+    },
+    "born": 1506,
+    "died": 1552,
+    "active": [
+      1534,
+      1552
+    ],
+    "role": {
+      "ja": "イエズス会宣教師",
+      "en": "Jesuit missionary"
+    },
+    "lat": 15.5,
+    "lon": 73.83,
+    "desc": {
+      "ja": "イエズス会の創設メンバーの一人。インドのゴアを拠点にアジア布教を行い、1549年に日本へ渡ってキリスト教を伝えた。中国布教をめざす途上、広州沖の上川島で病没した。",
+      "en": "A co-founder of the Society of Jesus. Based in Goa, he preached across Asia and brought Christianity to Japan in 1549; he died on Shangchuan Island off Guangzhou while trying to enter China."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "フランシスコ・ザビエル",
+      "en": "Francis Xavier"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "altan-khan",
+    "name": {
+      "ja": "アルタン＝ハン",
+      "en": "Altan Khan"
+    },
+    "born": 1507,
+    "died": 1582,
+    "active": [
+      1542,
+      1582
+    ],
+    "role": {
+      "ja": "タタール（モンゴル）の首長",
+      "en": "Khan of the Tümed Mongols"
+    },
+    "lat": 40.84,
+    "lon": 111.75,
+    "desc": {
+      "ja": "タタール（モンゴル）の有力首長。たびたび明に侵入し、1550年には北京を包囲した（庚戌の変）。1571年に明と和議を結んで交易を認められ、チベット仏教に帰依してダライ＝ラマの称号を贈った。",
+      "en": "A powerful Mongol (Tatar) chieftain who repeatedly raided Ming China and besieged Beijing in 1550. He made peace with the Ming in 1571, embraced Tibetan Buddhism and conferred the title Dalai Lama."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "アルタン・ハーン",
+      "en": "Altan Khan"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "henry-iv-of-france",
+    "name": {
+      "ja": "アンリ4世",
+      "en": "Henry IV of France"
+    },
+    "born": 1553,
+    "died": 1610,
+    "active": [
+      1562,
+      1610
+    ],
+    "role": {
+      "ja": "フランス王（ブルボン朝初代）",
+      "en": "King of France, founder of the Bourbon dynasty"
+    },
+    "lat": 48.86,
+    "lon": 2.35,
+    "desc": {
+      "ja": "ユグノーの指導者であったが、1589年に即位してブルボン朝を開いた。カトリックに改宗して国内を安定させ、1598年ナントの王令でユグノーに信仰の自由を認めてユグノー戦争を終結させた。1610年に暗殺された。",
+      "en": "A Huguenot leader who became king in 1589 and founded the Bourbon dynasty. He converted to Catholicism and ended the Wars of Religion with the Edict of Nantes (1598), which granted toleration to Huguenots. He was assassinated in 1610."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "アンリ4世 (フランス王)",
+      "en": "Henry IV of France"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "william-of-orange",
+    "name": {
+      "ja": "オラニエ公ウィレム",
+      "en": "William the Silent, Prince of Orange"
+    },
+    "born": 1533,
+    "died": 1584,
+    "active": [
+      1568,
+      1584
+    ],
+    "role": {
+      "ja": "オランダ独立戦争の指導者",
+      "en": "Leader of the Dutch Revolt"
+    },
+    "lat": 52.01,
+    "lon": 4.36,
+    "desc": {
+      "ja": "ネーデルラントの貴族。スペイン王フェリペ2世の圧政に対して1568年から独立戦争を指導し、ユトレヒト同盟の結成とネーデルラント連邦共和国の成立を導いた。1584年に暗殺された。",
+      "en": "A Netherlandish nobleman who led the revolt against Philip II of Spain from 1568, paving the way for the Union of Utrecht and the Dutch Republic. He was assassinated at Delft in 1584."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ウィレム1世 (オラニエ公)",
+      "en": "William the Silent"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "yi-sun-sin",
+    "name": {
+      "ja": "李舜臣",
+      "en": "Yi Sun-sin"
+    },
+    "born": 1545,
+    "died": 1598,
+    "active": [
+      1591,
+      1598
+    ],
+    "role": {
+      "ja": "朝鮮の水軍将軍",
+      "en": "Korean admiral"
+    },
+    "lat": 34.76,
+    "lon": 127.66,
+    "desc": {
+      "ja": "朝鮮王朝の武将。豊臣秀吉の朝鮮侵略（壬辰・丁酉倭乱）に際し、亀甲船を用いた水軍を率いて日本軍の補給路を断ち、海戦で連勝した。1598年、露梁海戦で戦死した。",
+      "en": "A Joseon naval commander who, during Hideyoshi's invasions of Korea, used turtle ships to cut Japanese supply lines and won a string of naval victories. He was killed at the Battle of Noryang in 1598."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "李舜臣",
+      "en": "Yi Sun-sin"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "mikhail-romanov",
+    "name": {
+      "ja": "ミハイル＝ロマノフ",
+      "en": "Michael I of Russia"
+    },
+    "born": 1596,
+    "died": 1645,
+    "active": [
+      1613,
+      1645
+    ],
+    "role": {
+      "ja": "ロシア皇帝（ロマノフ朝初代）",
+      "en": "Tsar of Russia, founder of the Romanov dynasty"
+    },
+    "lat": 55.75,
+    "lon": 37.62,
+    "desc": {
+      "ja": "動乱時代ののち、1613年に全国会議（ゼムスキー＝ソボル）で選ばれてツァーリとなり、ロマノフ朝を開いた。以後約300年続く王朝の基礎を築き、国内の秩序回復に努めた。",
+      "en": "Elected tsar by the Zemsky Sobor in 1613 after the Time of Troubles, he founded the Romanov dynasty that ruled Russia for three centuries and worked to restore order in the realm."
+    },
+    "importance": 1,
+    "wiki": {
+      "ja": "ミハイル・ロマノフ",
+      "en": "Michael of Russia"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "wallenstein",
+    "name": {
+      "ja": "ヴァレンシュタイン",
+      "en": "Albrecht von Wallenstein"
+    },
+    "born": 1583,
+    "died": 1634,
+    "active": [
+      1618,
+      1634
+    ],
+    "role": {
+      "ja": "神聖ローマ皇帝軍の傭兵隊長",
+      "en": "Imperial generalissimo in the Thirty Years' War"
+    },
+    "lat": 50.08,
+    "lon": 14.44,
+    "desc": {
+      "ja": "ボヘミアの貴族。三十年戦争で皇帝フェルディナント2世に仕え、傭兵軍を率いて新教徒側を圧倒した。1632年リュッツェンの戦いでグスタフ＝アドルフと戦い、のち皇帝に疑われて1634年に暗殺された。",
+      "en": "A Bohemian nobleman who raised mercenary armies for Emperor Ferdinand II and dominated the Protestant forces in the Thirty Years' War. He fought Gustavus Adolphus at Lützen in 1632 and was assassinated in 1634 after falling under imperial suspicion."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "アルブレヒト・フォン・ヴァレンシュタイン",
+      "en": "Albrecht von Wallenstein"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "li-zicheng",
+    "name": {
+      "ja": "李自成",
+      "en": "Li Zicheng"
+    },
+    "born": 1606,
+    "died": 1645,
+    "active": [
+      1630,
+      1645
+    ],
+    "role": {
+      "ja": "明末の農民反乱指導者",
+      "en": "Leader of the peasant rebellion that toppled the Ming"
+    },
+    "lat": 34.26,
+    "lon": 108.94,
+    "desc": {
+      "ja": "明末の農民反乱の指導者。陝西から勢力を広げ、1644年に北京を占領して崇禎帝を自殺に追い込み、明を滅ぼした。しかし呉三桂と清軍に敗れて逃走し、翌年没した。",
+      "en": "Leader of the late-Ming peasant rebellion. Expanding from Shaanxi, he captured Beijing in 1644, driving the Chongzhen Emperor to suicide and ending the Ming, but was soon defeated by Wu Sangui and the Qing and died in 1645."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "李自成",
+      "en": "Li Zicheng"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "wu-sangui",
+    "name": {
+      "ja": "呉三桂",
+      "en": "Wu Sangui"
+    },
+    "born": 1612,
+    "died": 1678,
+    "active": [
+      1644,
+      1678
+    ],
+    "role": {
+      "ja": "明の武将・清の藩王（平西王）",
+      "en": "Ming general and Qing feudatory prince"
+    },
+    "lat": 25.04,
+    "lon": 102.71,
+    "desc": {
+      "ja": "明の武将。山海関を守っていたが、李自成の北京占領後に清軍を引き入れて北京入城を助けた。その功で雲南の平西王となったが、1673年に康熙帝の藩廃止に反発して三藩の乱を起こし、途中で病没した。",
+      "en": "A Ming general guarding Shanhai Pass who let the Qing army through after Li Zicheng took Beijing. Rewarded as Prince of Pingxi in Yunnan, he rose against the Kangxi Emperor's abolition of the feudatories in 1673 (Revolt of the Three Feudatories) and died during the war."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "呉三桂",
+      "en": "Wu Sangui"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "dorgon",
+    "name": {
+      "ja": "ドルゴン",
+      "en": "Dorgon"
+    },
+    "born": 1612,
+    "died": 1650,
+    "active": [
+      1643,
+      1650
+    ],
+    "role": {
+      "ja": "清の摂政王",
+      "en": "Prince-Regent of the Qing"
+    },
+    "lat": 39.91,
+    "lon": 116.4,
+    "desc": {
+      "ja": "ヌルハチの子で、幼い順治帝の摂政。1644年に呉三桂の要請を受けて山海関から入関し、李自成を破って北京に遷都、清の中国支配を確立した。辮髪令を出したことでも知られる。",
+      "en": "A son of Nurhaci and regent for the young Shunzhi Emperor. In 1644 he led the Qing army through Shanhai Pass at Wu Sangui's invitation, defeated Li Zicheng and moved the capital to Beijing, establishing Qing rule over China."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ドルゴン",
+      "en": "Dorgon"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "hobbes",
+    "name": {
+      "ja": "ホッブズ",
+      "en": "Thomas Hobbes"
+    },
+    "born": 1588,
+    "died": 1679,
+    "active": [
+      1640,
+      1679
+    ],
+    "role": {
+      "ja": "イギリスの政治思想家",
+      "en": "English political philosopher"
+    },
+    "lat": 51.51,
+    "lon": -0.12,
+    "desc": {
+      "ja": "イギリスの哲学者。1651年の『リヴァイアサン』で、自然状態を「万人の万人に対する闘い」とし、人々が契約によって主権者に権力を委ねると説いた。社会契約説の先駆者で、結果的に絶対王政を擁護した。",
+      "en": "An English philosopher whose Leviathan (1651) described the state of nature as a 'war of all against all' and argued that people surrender power to a sovereign by contract, a pioneering social-contract theory that justified absolute rule."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "トマス・ホッブズ",
+      "en": "Thomas Hobbes"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "james-ii",
+    "name": {
+      "ja": "ジェームズ2世",
+      "en": "James II of England"
+    },
+    "born": 1633,
+    "died": 1701,
+    "active": [
+      1685,
+      1690
+    ],
+    "role": {
+      "ja": "イングランド王",
+      "en": "King of England, Scotland and Ireland"
+    },
+    "lat": 51.5,
+    "lon": -0.12,
+    "desc": {
+      "ja": "チャールズ2世の弟でステュアート朝の王。カトリックの復活と専制政治をめざしたため、1688年に議会がオラニエ公ウィレム（ウィリアム3世）を招き、ジェームズはフランスへ亡命した（名誉革命）。",
+      "en": "Brother of Charles II and a Stuart king. His Catholicism and absolutist policies led Parliament to invite William of Orange in 1688, and James fled to France in the Glorious Revolution."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ジェームズ2世 (イングランド王)",
+      "en": "James II of England"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "frederick-i-prussia",
+    "name": {
+      "ja": "フリードリヒ1世",
+      "en": "Frederick I of Prussia"
+    },
+    "born": 1657,
+    "died": 1713,
+    "active": [
+      1688,
+      1713
+    ],
+    "role": {
+      "ja": "プロイセン王（初代）",
+      "en": "First King in Prussia"
+    },
+    "lat": 52.52,
+    "lon": 13.4,
+    "desc": {
+      "ja": "ブランデンブルク選帝侯フリードリヒ3世。スペイン継承戦争で神聖ローマ皇帝を支援する見返りに、1701年に「プロイセンの王」の称号を認められ、ケーニヒスベルクで戴冠してプロイセン王国を成立させた。",
+      "en": "As Elector Frederick III of Brandenburg he backed the Emperor in the War of the Spanish Succession and in return was allowed the title 'King in Prussia'; he crowned himself at Königsberg in 1701, founding the Kingdom of Prussia."
+    },
+    "importance": 1,
+    "wiki": {
+      "ja": "フリードリヒ1世 (プロイセン王)",
+      "en": "Frederick I of Prussia"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "ibn-abd-al-wahhab",
+    "name": {
+      "ja": "イブン＝アブドゥル＝ワッハーブ",
+      "en": "Muhammad ibn Abd al-Wahhab"
+    },
+    "born": 1703,
+    "died": 1792,
+    "active": [
+      1740,
+      1792
+    ],
+    "role": {
+      "ja": "ワッハーブ派の創始者",
+      "en": "Founder of the Wahhabi movement"
+    },
+    "lat": 24.74,
+    "lon": 46.57,
+    "desc": {
+      "ja": "アラビア半島のイスラーム改革者。聖者崇拝などを否定し、『コーラン』と預言者の教えへの回帰を説いた。1744年に豪族サウード家と結んでワッハーブ王国を建て、のちのサウジアラビアの基礎をつくった。",
+      "en": "An Arabian religious reformer who rejected saint veneration and called for a return to the Quran and the Prophet's teachings. His 1744 alliance with the House of Saud created the first Wahhabi state, the forerunner of Saudi Arabia."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ムハンマド・イブン＝アブドゥルワッハーブ",
+      "en": "Muhammad ibn Abd al-Wahhab"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "diderot",
+    "name": {
+      "ja": "ディドロ",
+      "en": "Denis Diderot"
+    },
+    "born": 1713,
+    "died": 1784,
+    "active": [
+      1746,
+      1784
+    ],
+    "role": {
+      "ja": "フランスの啓蒙思想家",
+      "en": "French Enlightenment philosopher"
+    },
+    "lat": 48.86,
+    "lon": 2.35,
+    "desc": {
+      "ja": "フランスの啓蒙思想家・文学者。ダランベールとともに『百科全書』（1751〜72年）を編集し、当時の学問・技術を集大成して啓蒙思想を広めた。唯物論に傾き、エカチェリーナ2世とも交流した。",
+      "en": "A French philosopher and man of letters who, with d'Alembert, edited the Encyclopédie (1751–72), a vast summary of contemporary knowledge that spread Enlightenment ideas. He leaned toward materialism and corresponded with Catherine the Great."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ドゥニ・ディドロ",
+      "en": "Denis Diderot"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "alaungpaya",
+    "name": {
+      "ja": "アラウンパヤー",
+      "en": "Alaungpaya"
+    },
+    "born": 1714,
+    "died": 1760,
+    "active": [
+      1752,
+      1760
+    ],
+    "role": {
+      "ja": "コンバウン朝の創始者",
+      "en": "Founder of the Konbaung dynasty of Burma"
+    },
+    "lat": 22.57,
+    "lon": 95.7,
+    "desc": {
+      "ja": "ビルマ（ミャンマー）の王。モン人に滅ぼされたタウングー朝のあと、1752年にシュエボーで挙兵してコンバウン朝を建て、ビルマを再統一した。1760年、シャム（タイ）遠征の途上で没した。",
+      "en": "A Burmese king who rose at Shwebo in 1752 after the Mon destroyed the Toungoo dynasty, founded the Konbaung dynasty and reunified Burma. He died in 1760 during a campaign against Siam."
+    },
+    "importance": 1,
+    "wiki": {
+      "ja": "アラウンパヤー",
+      "en": "Alaungpaya"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "tipu-sultan",
+    "name": {
+      "ja": "ティプー＝スルタン",
+      "en": "Tipu Sultan"
+    },
+    "born": 1751,
+    "died": 1799,
+    "active": [
+      1767,
+      1799
+    ],
+    "role": {
+      "ja": "マイソール王国の君主",
+      "en": "Sultan of Mysore"
+    },
+    "lat": 12.42,
+    "lon": 76.7,
+    "desc": {
+      "ja": "南インドのマイソール王国の君主。父ハイダル＝アリーとともにイギリス東インド会社とマイソール戦争を戦い、フランスと結んで抵抗した。1799年、第4次戦争で首都セリンガパタムが陥落し戦死した。",
+      "en": "Ruler of Mysore in southern India who, with his father Haidar Ali, fought the British East India Company in the Anglo-Mysore Wars and sought French support. He was killed when Seringapatam fell in 1799."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ティプー・スルターン",
+      "en": "Tipu Sultan"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "pugachev",
+    "name": {
+      "ja": "プガチョフ",
+      "en": "Yemelyan Pugachev"
+    },
+    "born": 1742,
+    "died": 1775,
+    "active": [
+      1773,
+      1775
+    ],
+    "role": {
+      "ja": "コサックの反乱指導者",
+      "en": "Cossack leader of a peasant rebellion"
+    },
+    "lat": 51.77,
+    "lon": 55.1,
+    "desc": {
+      "ja": "ドン＝コサック出身。ピョートル3世を名乗り、1773年にウラル地方で農民・コサック・諸民族を率いて大反乱を起こした。エカチェリーナ2世により鎮圧され処刑されたが、反乱後に農奴制はかえって強化された。",
+      "en": "A Don Cossack who, claiming to be Peter III, led peasants, Cossacks and non-Russian peoples in a massive revolt in the Urals from 1773. Catherine II crushed the rising and had him executed, and serfdom was tightened afterward."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "エメリヤン・プガチョフ",
+      "en": "Yemelyan Pugachev"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "lafayette",
+    "name": {
+      "ja": "ラ＝ファイエット",
+      "en": "Marquis de Lafayette"
+    },
+    "born": 1757,
+    "died": 1834,
+    "active": [
+      1777,
+      1834
+    ],
+    "role": {
+      "ja": "フランスの自由主義貴族・軍人",
+      "en": "French general and liberal statesman"
+    },
+    "lat": 48.86,
+    "lon": 2.35,
+    "desc": {
+      "ja": "フランスの貴族。アメリカ独立戦争に義勇兵として参加した。フランス革命では人権宣言の起草に関わり、国民衛兵総司令官を務めた。立憲君主政を支持し、1830年の七月革命でも活躍した。",
+      "en": "A French nobleman who fought as a volunteer in the American Revolution. In the French Revolution he helped draft the Declaration of the Rights of Man and commanded the National Guard, favouring constitutional monarchy; he was active again in the July Revolution of 1830."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ラファイエット",
+      "en": "Gilbert du Motier, Marquis de Lafayette"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "sieyes",
+    "name": {
+      "ja": "シェイエス",
+      "en": "Emmanuel Joseph Sieyès"
+    },
+    "born": 1748,
+    "died": 1836,
+    "active": [
+      1789,
+      1799
+    ],
+    "role": {
+      "ja": "フランス革命期の政治家",
+      "en": "French revolutionary politician"
+    },
+    "lat": 48.86,
+    "lon": 2.35,
+    "desc": {
+      "ja": "聖職者出身の政治家。1789年の『第三身分とは何か』で第三身分こそ国民であると説き、国民議会の成立を導いた。1799年には総裁となり、ナポレオンと結んでブリュメール18日のクーデタを起こした。",
+      "en": "A clergyman-turned-politician whose 1789 pamphlet 'What Is the Third Estate?' argued that the Third Estate was the nation, helping create the National Assembly. As a Director in 1799 he joined Napoleon in the coup of 18 Brumaire."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "エマニュエル＝ジョゼフ・シエイエス",
+      "en": "Emmanuel Joseph Sieyès"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "macartney",
+    "name": {
+      "ja": "マカートニー",
+      "en": "George Macartney"
+    },
+    "born": 1737,
+    "died": 1806,
+    "active": [
+      1792,
+      1794
+    ],
+    "role": {
+      "ja": "イギリスの外交官",
+      "en": "British diplomat, envoy to China"
+    },
+    "lat": 51.51,
+    "lon": -0.12,
+    "desc": {
+      "ja": "イギリスの外交官。1793年、ジョージ3世の使節として清を訪れ、熱河で乾隆帝に謁見して自由貿易と常駐使節の設置を求めたが、三跪九叩頭の礼を拒否し、要求も退けられた。",
+      "en": "A British diplomat sent by George III to China in 1793. Received by the Qianlong Emperor at Rehe, he requested free trade and a resident envoy but refused the kowtow, and his requests were rejected."
+    },
+    "importance": 1,
+    "wiki": {
+      "ja": "ジョージ・マカートニー (初代マカートニー伯爵)",
+      "en": "George Macartney, 1st Earl Macartney"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "danton",
+    "name": {
+      "ja": "ダントン",
+      "en": "Georges Danton"
+    },
+    "born": 1759,
+    "died": 1794,
+    "active": [
+      1789,
+      1794
+    ],
+    "role": {
+      "ja": "ジャコバン派の政治家",
+      "en": "Jacobin revolutionary leader"
+    },
+    "lat": 48.86,
+    "lon": 2.34,
+    "desc": {
+      "ja": "フランス革命の指導者の一人。雄弁で知られ、1792年の8月10日事件後に法相となり、初期の公安委員会を主導した。恐怖政治の緩和を主張してロベスピエールと対立し、1794年に処刑された。",
+      "en": "A leading figure of the French Revolution known for his oratory. Minister of Justice after the rising of 10 August 1792, he dominated the early Committee of Public Safety but, urging an end to the Terror, clashed with Robespierre and was guillotined in 1794."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ジョルジュ・ダントン",
+      "en": "Georges Danton"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "nelson",
+    "name": {
+      "ja": "ネルソン",
+      "en": "Horatio Nelson"
+    },
+    "born": 1758,
+    "died": 1805,
+    "active": [
+      1798,
+      1805
+    ],
+    "role": {
+      "ja": "イギリスの海軍提督",
+      "en": "British admiral"
+    },
+    "lat": 50.8,
+    "lon": -1.09,
+    "desc": {
+      "ja": "イギリスの海軍提督。1798年アブキール湾の戦いでナポレオンのエジプト遠征艦隊を破り、1805年トラファルガーの海戦でフランス・スペイン連合艦隊を撃破してイギリスの制海権を確立したが、戦闘中に戦死した。",
+      "en": "A British admiral who destroyed Napoleon's fleet at Aboukir Bay in 1798 and crushed the Franco-Spanish fleet at Trafalgar in 1805, securing British naval supremacy, though he was killed in the battle."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ホレーショ・ネルソン",
+      "en": "Horatio Nelson"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "talleyrand",
+    "name": {
+      "ja": "タレーラン",
+      "en": "Charles-Maurice de Talleyrand"
+    },
+    "born": 1754,
+    "died": 1838,
+    "active": [
+      1789,
+      1834
+    ],
+    "role": {
+      "ja": "フランスの外交官・外相",
+      "en": "French foreign minister and diplomat"
+    },
+    "lat": 48.86,
+    "lon": 2.35,
+    "desc": {
+      "ja": "フランスの政治家。革命・ナポレオン・復古王政と政権が変わるたびに外相を務めた。ウィーン会議ではフランス代表として「正統主義」を唱え、敗戦国フランスの立場を巧みに守った。",
+      "en": "A French statesman who served as foreign minister under the Revolution, Napoleon and the restored Bourbons. At the Congress of Vienna he championed the principle of legitimacy and skilfully protected defeated France's position."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "シャルル＝モーリス・ド・タレーラン＝ペリゴール",
+      "en": "Charles-Maurice de Talleyrand-Périgord"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "wellington",
+    "name": {
+      "ja": "ウェリントン",
+      "en": "Arthur Wellesley, Duke of Wellington"
+    },
+    "born": 1769,
+    "died": 1852,
+    "active": [
+      1808,
+      1852
+    ],
+    "role": {
+      "ja": "イギリスの軍人・首相",
+      "en": "British general and prime minister"
+    },
+    "lat": 51.5,
+    "lon": -0.12,
+    "desc": {
+      "ja": "イギリスの軍人。スペインでナポレオン軍を苦しめ、1815年ワーテルローの戦いでプロイセン軍と協力してナポレオンに決定的勝利を収めた。のちトーリ党の首相となり、カトリック教徒解放法を成立させた。",
+      "en": "A British general who harried Napoleon's armies in Spain and, with Prussian help, won the decisive victory at Waterloo in 1815. As Tory prime minister he later carried Catholic Emancipation."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "アーサー・ウェルズリー (初代ウェリントン公爵)",
+      "en": "Arthur Wellesley, 1st Duke of Wellington"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "ebert",
+    "name": {
+      "ja": "エーベルト",
+      "en": "Friedrich Ebert"
+    },
+    "born": 1871,
+    "died": 1925,
+    "active": [
+      1913,
+      1925
+    ],
+    "role": {
+      "ja": "ヴァイマル共和国初代大統領",
+      "en": "First President of the Weimar Republic"
+    },
+    "lat": 52.52,
+    "lon": 13.38,
+    "desc": {
+      "ja": "ドイツ社会民主党の指導者。1918年のドイツ革命で臨時政府の首班となり、軍部と結んでスパルタクス団の蜂起を鎮圧した。1919年、ヴァイマル共和国の初代大統領に就任し、共和国の安定に努めた。",
+      "en": "Leader of the German Social Democrats who headed the provisional government in the 1918 revolution and, allied with the army, crushed the Spartacist Uprising. In 1919 he became the first president of the Weimar Republic."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "フリードリヒ・エーベルト",
+      "en": "Friedrich Ebert"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "puyi",
+    "name": {
+      "ja": "溥儀",
+      "en": "Puyi"
+    },
+    "born": 1906,
+    "died": 1967,
+    "active": [
+      1908,
+      1945
+    ],
+    "role": {
+      "ja": "清朝最後の皇帝・満州国皇帝",
+      "en": "Last Emperor of China, Emperor of Manchukuo"
+    },
+    "lat": 43.88,
+    "lon": 125.32,
+    "desc": {
+      "ja": "清朝最後の皇帝（宣統帝）。辛亥革命で退位したのち、1932年に日本の関東軍に擁立されて満州国の執政、1934年に皇帝となった。日本の敗戦後ソ連に抑留され、帰国後は戦犯として収容されたのち一般市民となった。",
+      "en": "The last Qing emperor (Xuantong), who abdicated after the 1911 Revolution. Installed by Japan's Kwantung Army as chief executive of Manchukuo in 1932 and emperor in 1934, he was held by the Soviets after 1945 and later lived as an ordinary citizen in the PRC."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "愛新覚羅溥儀",
+      "en": "Puyi"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "leon-blum",
+    "name": {
+      "ja": "ブルム",
+      "en": "Léon Blum"
+    },
+    "born": 1872,
+    "died": 1950,
+    "active": [
+      1936,
+      1938
+    ],
+    "role": {
+      "ja": "フランス首相（人民戦線内閣）",
+      "en": "Prime Minister of France, head of the Popular Front"
+    },
+    "lat": 48.86,
+    "lon": 2.34,
+    "desc": {
+      "ja": "フランス社会党の指導者。ファシズムに対抗して共産党・急進社会党と人民戦線を結成し、1936年に首相となった。週40時間労働や有給休暇など社会改革を行ったが、財界の反発と財政難で翌年退陣した。",
+      "en": "Leader of the French Socialists who formed the anti-fascist Popular Front with the Communists and Radicals and became premier in 1936. His government introduced the 40-hour week and paid holidays but fell in 1937 amid business opposition and financial crisis."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "レオン・ブルム",
+      "en": "Léon Blum"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "macarthur",
+    "name": {
+      "ja": "マッカーサー",
+      "en": "Douglas MacArthur"
+    },
+    "born": 1880,
+    "died": 1964,
+    "active": [
+      1941,
+      1951
+    ],
+    "role": {
+      "ja": "アメリカの軍人・連合国軍最高司令官",
+      "en": "U.S. general, Supreme Commander for the Allied Powers"
+    },
+    "lat": 35.68,
+    "lon": 139.75,
+    "desc": {
+      "ja": "アメリカの軍人。太平洋戦争で南西太平洋方面軍を指揮し、戦後は連合国軍最高司令官として日本占領と民主化を指導した。朝鮮戦争では国連軍総司令官を務めたが、戦争拡大を主張してトルーマンに解任された。",
+      "en": "An American general who commanded Allied forces in the Southwest Pacific and then directed the occupation and democratisation of Japan as Supreme Commander. He led UN forces in the Korean War until Truman dismissed him in 1951 for urging escalation against China."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ダグラス・マッカーサー",
+      "en": "Douglas MacArthur"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "allende",
+    "name": {
+      "ja": "アジェンデ",
+      "en": "Salvador Allende"
+    },
+    "born": 1908,
+    "died": 1973,
+    "active": [
+      1970,
+      1973
+    ],
+    "role": {
+      "ja": "チリ大統領",
+      "en": "President of Chile"
+    },
+    "lat": -33.45,
+    "lon": -70.67,
+    "desc": {
+      "ja": "チリの政治家。1970年の選挙で勝利して社会主義政権を樹立し、銅産業の国有化などを進めた。1973年9月11日、アメリカの支援を受けたピノチェト将軍の軍事クーデタに際し、大統領官邸で死亡した。",
+      "en": "A Chilean socialist elected president in 1970 who nationalised the copper industry and pursued a socialist programme. He died in the presidential palace on 11 September 1973 during the U.S.-backed military coup led by General Pinochet."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "サルバドール・アジェンデ",
+      "en": "Salvador Allende"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "pinochet",
+    "name": {
+      "ja": "ピノチェト",
+      "en": "Augusto Pinochet"
+    },
+    "born": 1915,
+    "died": 2006,
+    "active": [
+      1973,
+      1990
+    ],
+    "role": {
+      "ja": "チリの軍人・独裁者",
+      "en": "Chilean general and dictator"
+    },
+    "lat": -33.45,
+    "lon": -70.67,
+    "desc": {
+      "ja": "チリの軍人。1973年の軍事クーデタでアジェンデ政権を倒し、軍事独裁体制を敷いた。反対派を厳しく弾圧する一方、新自由主義的な経済政策を導入した。1990年に民政移管したが、のちに人権侵害で訴追された。",
+      "en": "A Chilean general who overthrew Allende in the 1973 coup and ruled as military dictator, brutally suppressing opponents while introducing neoliberal economic policies. He handed over to civilian rule in 1990 and was later prosecuted for human-rights abuses."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "アウグスト・ピノチェト",
+      "en": "Augusto Pinochet"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "begin",
+    "name": {
+      "ja": "ベギン",
+      "en": "Menachem Begin"
+    },
+    "born": 1913,
+    "died": 1992,
+    "active": [
+      1977,
+      1983
+    ],
+    "role": {
+      "ja": "イスラエル首相",
+      "en": "Prime Minister of Israel"
+    },
+    "lat": 31.78,
+    "lon": 35.22,
+    "desc": {
+      "ja": "イスラエルの政治家。右派リクードを率いて1977年に首相となった。エジプトのサダト大統領との和解を進め、1978年にカーター米大統領の仲介でキャンプ＝デーヴィッド合意を結び、翌年エジプト＝イスラエル平和条約を締結した。",
+      "en": "An Israeli politician who led the right-wing Likud to power in 1977. He pursued peace with Egypt's Sadat, signing the Camp David Accords brokered by President Carter in 1978 and the Egypt–Israel peace treaty in 1979."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "メナヘム・ベギン",
+      "en": "Menachem Begin"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  },
+  {
+    "id": "clinton",
+    "name": {
+      "ja": "クリントン",
+      "en": "Bill Clinton"
+    },
+    "born": 1946,
+    "died": null,
+    "active": [
+      1993,
+      2001
+    ],
+    "role": {
+      "ja": "アメリカ大統領",
+      "en": "President of the United States"
+    },
+    "lat": 38.9,
+    "lon": -77.04,
+    "desc": {
+      "ja": "アメリカ第42代大統領（民主党）。1993年、パレスチナ暫定自治協定（オスロ合意）の調印を仲介した。翌年に北米自由貿易協定（NAFTA）を発効させ、情報技術産業の成長による好況と財政黒字を実現した。",
+      "en": "The 42nd U.S. president, a Democrat. In 1993 he hosted the signing of the Oslo Accords on Palestinian self-rule, and in 1994 NAFTA came into force; his presidency saw an IT-driven boom and budget surpluses."
+    },
+    "importance": 2,
+    "wiki": {
+      "ja": "ビル・クリントン",
+      "en": "Bill Clinton"
+    },
+    "portrait": {
+      "provider": "wikipedia"
+    }
+  }
+]
